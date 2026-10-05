@@ -19,3 +19,7 @@ Estas maquetas son independientes de la aplicación Vamo’a. Los formularios co
 Para revisar localmente: `python3 -m http.server 8000` y abrir http://localhost:8000. Requiere JavaScript.
 
 GitHub Pages publica la raíz de `main`, sin Jekyll. Las rutas y los recursos incrustados funcionan desde un subdirectorio.
+
+La apertura reutiliza el gesto de marca de vamoa.cl: caída del pin, onda y aparición del nombre, con los colores del rediseño. Se muestra al entrar o recargar; un gesto la termina y movimiento reducido la omite. La navegación interna no la repite.
+
+La lista de espera de la portada vuelve a la primera sección y las preguntas empiezan cerradas. El portal ilustrativo de octubre usa $40.000.000 iniciales, $24.800.000 consumidos y $15.200.000 disponibles, con 62% utilizado.
