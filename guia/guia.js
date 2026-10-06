@@ -21,6 +21,7 @@
  async function navigateHash(hash,{smooth=false}={}){
   let id;try{id=decodeURIComponent(hash.slice(1));}catch{return;}
   const el=document.getElementById(id);if(!el)return;
+  document.querySelectorAll("[data-app-format]").forEach(a=>{a.href="app-lienzo.html"+(hash.startsWith("#pantalla-")?hash:"");});
   const request=++navigation;await layoutReady;if(request!==navigation)return;
   revealTarget(el);fit();measureHeader();await new Promise(requestAnimationFrame);if(request!==navigation)return;
   el.scrollIntoView({block:'start',behavior:smooth&&!matchMedia('(prefers-reduced-motion: reduce)').matches?'smooth':'instant'});
