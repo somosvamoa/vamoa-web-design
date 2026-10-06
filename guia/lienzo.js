@@ -1,7 +1,7 @@
 (()=>{
  'use strict';
  const data=JSON.parse(document.getElementById('canvas-data').textContent);
- const groups=[['acceso','Empezar','Bienvenida, cuenta y primeros pasos.'],['lugares','Elegir dónde comer','Lugares, mapa, ficha, carta y fotos.'],['pago','Pagar la cuenta','Precuenta, detalle, propina, créditos y comprobante.'],['creditos','Volver a salir','Historial y créditos para la próxima.'],['comunidad','Compartir lo que te gustó','Platos, fotos, opiniones, amigos e invitaciones.'],['cuenta','Tu cuenta','Perfil, tarjetas, preferencias, seguridad y ayuda.']];
+ const groups=[['acceso','Empezar','Bienvenida, cuenta y primeros pasos.'],['lugares','Elegir dónde comer','Lugares, mapa, ficha, carta y fotos.'],['pago','Pagar la cuenta','Cuenta, detalle, propina, créditos y comprobante.'],['creditos','Volver a salir','Historial y créditos para la próxima.'],['comunidad','Compartir lo que te gustó','Platos, fotos, opiniones, amigos e invitaciones.'],['cuenta','Tu cuenta','Perfil, tarjetas, preferencias, seguridad y ayuda.']];
  const $=id=>document.getElementById(id),viewport=$('canvas-viewport'),world=$('canvas-world');
  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const norm=s=>s.toLocaleLowerCase('es').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
