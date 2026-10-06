@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "0.1",
+    "title": "Portada",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.2",
+    "title": "Crea tu cuenta",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.3",
+    "title": "Revisa tu correo",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.4",
+    "title": "Tu cuenta está lista",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.5",
+    "title": "Recuperar tu clave",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.6",
+    "title": "Carga",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "0.7",
+    "title": "Ubicación",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "1.1",
+    "title": "Lugares",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "1.2",
+    "title": "Búsqueda",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "1.3",
+    "title": "Platos más populares",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "1.4",
+    "title": "Mapa",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "1.5",
+    "title": "Mapa · acercado",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.1",
+    "title": "Detalle · arriba",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.2",
+    "title": "Detalle · comunidad",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.3",
+    "title": "Galería de fotos",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.4",
+    "title": "Foto de un plato",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.5",
+    "title": "Lo que dice la gente",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "2.6",
+    "title": "La carta",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.1",
+    "title": "¿Dónde estás comiendo?",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.2",
+    "title": "Número de la precuenta",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.3",
+    "title": "Cuenta no encontrada",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.4",
+    "title": "Tu cuenta, desde la caja",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.5",
+    "title": "Propina y pago",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.6",
+    "title": "Pagando",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.7",
+    "title": "Listo · ¿Qué volverías a pedir?",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.8",
+    "title": "Reseña de un plato",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.9",
+    "title": "Pago rechazado",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "3.10",
+    "title": "Comprobante",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Comprobante de otra cuenta: $16.000 de consumo y $1.600 de propina. El ejemplo principal del pago es la cuenta 3816.",
+    "primary": true
+  },
+  {
+    "id": "4.1",
+    "title": "Historial",
+    "state": "Vista principal",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "4.2",
+    "title": "Tus créditos",
+    "state": "Vista principal",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.1",
+    "title": "Cuenta",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.2",
+    "title": "Quiero probar",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.3",
+    "title": "Mis notas",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.4",
+    "title": "Novedades",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.5",
+    "title": "Buscar amigos",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.6",
+    "title": "Perfil de un amigo",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.7",
+    "title": "Quién salió más",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.8",
+    "title": "Trae a un amigo",
+    "state": "Vista principal",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.9",
+    "title": "Métodos de pago",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": true
+  },
+  {
+    "id": "5.10",
+    "title": "Notificaciones",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.11",
+    "title": "Ajustes",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.12",
+    "title": "Ayuda",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "5.13",
+    "title": "Reportar un problema",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "7.1",
+    "title": "Cómo se paga · 1 de 4",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "7.2",
+    "title": "Cómo se paga · 2 de 4",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "7.3",
+    "title": "Cómo se paga · 3 de 4",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "7.4",
+    "title": "Cómo se paga · 4 de 4",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true
+  },
+  {
+    "id": "acceso.ingresar",
+    "title": "Ingresa",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.error",
+    "title": "Revisa tus datos",
+    "state": "Credenciales inválidas",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.invitacion-registro",
+    "title": "Tu código de invitación",
+    "state": "Registro con referido",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.registro-error",
+    "title": "Algo falta",
+    "state": "Validación de registro",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.explorar",
+    "title": "Puedes mirar primero",
+    "state": "Exploración sin sesión",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.sesion-requerida",
+    "title": "Hazlo con tu cuenta",
+    "state": "Acción privada sin sesión",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.codigo-correo",
+    "title": "Revisa tu correo",
+    "state": "Confirmación de correo",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.codigo-invalido",
+    "title": "Revisa el código",
+    "state": "Código inválido/vencido",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.cambiar-correo",
+    "title": "¿Cambiar tu correo?",
+    "state": "Confirmación cambiar correo",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.recuperar-codigo",
+    "title": "Ingresa el código",
+    "state": "Recuperación de contraseña",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.clave-nueva",
+    "title": "Crea tu clave nueva",
+    "state": "Nueva contraseña",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.clave-lista",
+    "title": "Tu clave está lista",
+    "state": "Contraseña restablecida",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.invitar",
+    "title": "Una invitación a salir",
+    "state": "Enlace de referido",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "acceso.invitacion-invalida",
+    "title": "Puedes sumarte igual",
+    "state": "Invitación inválida",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "bienvenida.bono",
+    "title": "Tus $10.000",
+    "state": "Vista principal",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "bienvenida.sin-bono",
+    "title": "Tu cuenta está lista",
+    "state": "Bienvenida sin bono/bono no otorgado",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "seguridad.sesion-perdida",
+    "title": "Vuelve a ingresar",
+    "state": "Sesión vencida/revocada",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.perfil",
+    "title": "Tu perfil",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.arroba-ocupada",
+    "title": "Busca otra arroba",
+    "state": "Validación de arroba",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.avatar",
+    "title": "Tu foto de perfil",
+    "state": "Selección de foto/avatar",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.seguridad",
+    "title": "Correo y contraseña",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.sesiones",
+    "title": "Tus dispositivos",
+    "state": "Lista y revocación de sesiones",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.borrar",
+    "title": "Borrar mi cuenta",
+    "state": "Vista principal",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.borrada",
+    "title": "Tu cuenta quedó borrada",
+    "state": "Cuenta eliminada",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.sin-tarjetas",
+    "title": "Con qué pagarás",
+    "state": "Sin tarjetas guardadas · ejemplo de prueba",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.predeterminada",
+    "title": "Tus tarjetas",
+    "state": "Tarjeta preferida y uso automático de créditos",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.eliminar",
+    "title": "¿Eliminar esta tarjeta?",
+    "state": "Confirmación para eliminar una tarjeta",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.preparando",
+    "title": "Preparando tu tarjeta",
+    "state": "Preparación del alta de una tarjeta de prueba",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.procesador",
+    "title": "Página del procesador",
+    "state": "Alta de tarjeta en la página del proveedor de pagos",
+    "category": "cuenta",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.guardando",
+    "title": "Guardando tu tarjeta",
+    "state": "Confirmación del alta de la tarjeta",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.cancelada",
+    "title": "No se guardó una tarjeta",
+    "state": "Inscripción cancelada",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "tarjetas.incierta",
+    "title": "Revisa tus métodos de pago",
+    "state": "Alta de tarjeta todavía por confirmar",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
+    "primary": false
+  },
+  {
+    "id": "cuenta.turno",
+    "title": "Tu cuenta y tu turno",
+    "state": "Cuenta personal con acceso al turno del local",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.ubicacion",
+    "title": "Permiso de ubicación",
+    "state": "Ubicación denegada",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.medicion",
+    "title": "Ayúdanos a mejorar",
+    "state": "Preferencia de medición agregada",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "soporte.enviado",
+    "title": "Recibimos tu mensaje",
+    "state": "Reporte enviado",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "soporte.error",
+    "title": "Tu mensaje sigue aquí",
+    "state": "Error de envío",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugares.filtros",
+    "title": "¿Qué tienes en mente?",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugares.busqueda",
+    "title": "Busca por antojo",
+    "state": "Resultados mixtos · recientes",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugares.sin-resultados",
+    "title": "Prueba otra búsqueda",
+    "state": "Sin resultados",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugares.catalogo-vacio",
+    "title": "Estamos preparando la mesa",
+    "state": "Sin locales disponibles",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "mapa.zona",
+    "title": "Busca una zona",
+    "state": "Selección de ubicación",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugar.sucursales",
+    "title": "Elige tu local",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugar.direcciones",
+    "title": "Cómo llegar",
+    "state": "Dirección, horario y mapas del sistema",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "lugar.no-disponible",
+    "title": "Hoy no está disponible",
+    "state": "Local no disponible para pagar",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "platos.local",
+    "title": "Lo que se repite acá",
+    "state": "Platos por lugar y fotos filtradas",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "platos.sin-marcas",
+    "title": "Sé de los primeros",
+    "state": "Sin recomendaciones suficientes todavía",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "carta.plato",
+    "title": "Un plato, de cerca",
+    "state": "Categorías · plato a sus fotos",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "reservas.elegir",
+    "title": "Una mesa para ustedes",
+    "state": "Vista principal",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "reservas.confirmada",
+    "title": "Tienen mesa",
+    "state": "Reserva activa confirmada",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "reservas.sin-cupo",
+    "title": "No quedó cupo a esa hora",
+    "state": "Cupo agotado · conflicto",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "reservas.cancelar",
+    "title": "¿Cancelar la reserva?",
+    "state": "Confirmación cancelar",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "reservas.cancelada",
+    "title": "Reserva cancelada",
+    "state": "Cancelada",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "reservas.desactivada",
+    "title": "Este local no recibe reservas",
+    "state": "Reservas desactivadas en este local",
+    "category": "lugares",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
+    "primary": false
+  },
+  {
+    "id": "pago.selector",
+    "title": "¿Dónde estás comiendo?",
+    "state": "Vista principal",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.pos-caido",
+    "title": "No pudimos leer tu cuenta",
+    "state": "Caja del restaurante temporalmente no disponible",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.cuenta-cambio",
+    "title": "La cuenta cambió",
+    "state": "Detalle de la cuenta actualizado antes de pagar",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.otra-tarjeta",
+    "title": "¿Con qué tarjeta?",
+    "state": "Selector de tarjeta",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.sin-tarjeta",
+    "title": "Agrega con qué pagar",
+    "state": "Sin tarjeta para saldo a cobrar",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.propina-libre",
+    "title": "Tu propina",
+    "state": "Propina personalizada",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.propina-mesa",
+    "title": "La propina se deja en el local",
+    "state": "Propina digital desactivada",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.sin-creditos",
+    "title": "Guarda tus créditos para otra",
+    "state": "Uso de créditos apagado",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.todo-credito",
+    "title": "Esta cuenta va con créditos",
+    "state": "Cuenta cubierta por créditos y sin propina",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.bono-no-aplica",
+    "title": "Tu bono queda esperando",
+    "state": "La cuenta no alcanza el mínimo de la bienvenida",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.limite",
+    "title": "Esta cuenta no se puede pagar aquí",
+    "state": "Cuenta fuera de las condiciones del local",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.resultado-incierto",
+    "title": "Estamos confirmando tu pago",
+    "state": "Resultado del pago todavía por confirmar",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.salir",
+    "title": "¿Salir mientras se confirma?",
+    "state": "Salida durante pago",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "comprobante.principal",
+    "title": "Tu cuenta",
+    "state": "Pago confirmado · cierre de caja pendiente",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Pago confirmado y cierre de caja pendiente. Con Crisp el local registra y cierra la cuenta manualmente.",
+    "primary": false
+  },
+  {
+    "id": "comprobante.procesando",
+    "title": "Pago en curso",
+    "state": "Esperando la confirmación del pago",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "comprobante.devuelta",
+    "title": "Devolución registrada",
+    "state": "Pago con devolución o contracargo",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "comprobante.historico-codigo",
+    "title": "Esperando validación del local",
+    "state": "Cuenta anterior con código",
+    "category": "pago",
+    "status": "archivo",
+    "availability": "Referencia histórica",
+    "context": "Referencia de cuentas anteriores con código. El pago actual usa el número de la precuenta.",
+    "primary": false
+  },
+  {
+    "id": "comprobante.compartir",
+    "title": "Llévate el comprobante",
+    "state": "PDF · envío al correo",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "comprobante.correo",
+    "title": "Te enviamos tu comprobante",
+    "state": "Comprobante enviado por correo",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "historial.filtros",
+    "title": "Tus cuentas",
+    "state": "Búsqueda · filtro · paginación",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "historial.vacio",
+    "title": "Tu próxima salida empieza aquí",
+    "state": "Sin cuentas",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "creditos.movimientos",
+    "title": "Cada crédito tiene su historia",
+    "state": "Detalle, movimientos y vencimiento de créditos",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "creditos.vacio",
+    "title": "Tus créditos empiezan al pagar",
+    "state": "Sin saldo ni movimientos",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "postpago.atribucion",
+    "title": "¿Habrías venido igual?",
+    "state": "Encuesta de atribución · selección",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "postpago.ya-guardado",
+    "title": "Tus notas quedaron guardadas",
+    "state": "Respuesta guardada · visita no elegible",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "resena.lugar",
+    "title": "Qué le dirías a un amigo",
+    "state": "Opinión después de una cuenta pagada",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "resena.editar",
+    "title": "Tu nota, como tú quieras",
+    "state": "Editar · borrar reseña propia",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "resena.sin-visita",
+    "title": "Primero, una cuenta",
+    "state": "Sin una cuenta reciente que permita opinar",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "foto.comentarios",
+    "title": "La conversa del plato",
+    "state": "Fuego · añadir y borrar comentario propio",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "foto.editar",
+    "title": "Tu foto y tu texto",
+    "state": "Editar · eliminar publicación propia",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "foto.denunciar",
+    "title": "¿Qué pasa con esta publicación?",
+    "state": "Denunciar foto · comentario · opinión",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "foto.reporte-enviado",
+    "title": "Gracias por avisarnos",
+    "state": "Reporte confirmado",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "foto.oculta",
+    "title": "Esta publicación no está disponible",
+    "state": "Eliminada · moderada · no encontrada",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "fotos.mas",
+    "title": "Más momentos de este lugar",
+    "state": "Paginación · final de galería",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "amigos.listas",
+    "title": "Los que salen contigo",
+    "state": "Seguir · dejar de seguir · seguidores",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "amigos.privado",
+    "title": "Este perfil es privado",
+    "state": "Notas privadas · sólo amigos",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "amigos.no-encontrado",
+    "title": "No encontramos este perfil",
+    "state": "Perfil inexistente",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "ranking.filtros",
+    "title": "Quién salió más",
+    "state": "Tabla de visitas · filtros y lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "guardados.quitar",
+    "title": "Tus próximos lugares",
+    "state": "Guardar · quitar favorito",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "guardados.vacio",
+    "title": "Un lugar para tu próxima salida",
+    "state": "Sin favoritos",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "notas.filtros",
+    "title": "Lo que te gustó",
+    "state": "Filtros · agrupar por visita · edición",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "novedades.leer",
+    "title": "En tu círculo",
+    "state": "Actividad · navegación · paginación",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "preferencias.todos",
+    "title": "Qué quieres saber",
+    "state": "Preferencias de avisos y novedades",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Las dos preferencias de novedades guardan tu elección; el envío de esos avisos todavía está pendiente.",
+    "primary": false
+  },
+  {
+    "id": "preferencias.permiso",
+    "title": "Activa los avisos en Ajustes",
+    "state": "Avisos bloqueados o cambios que no se guardaron",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "preferencias.notas",
+    "title": "Quién ve tus notas",
+    "state": "Propuesta de editor de privacidad",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "estado.catalogo.carga",
+    "title": "Lugares",
+    "state": "Estado de carga",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.catalogo.error",
+    "title": "Lugares",
+    "state": "Error de carga con opción de reintentar",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.catalogo.guardando",
+    "title": "Lugares",
+    "state": "Cambios en proceso de guardado",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.comunidad.carga",
+    "title": "Tu comunidad",
+    "state": "Estado de carga",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.comunidad.error",
+    "title": "Tu comunidad",
+    "state": "Error de carga con opción de reintentar",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.comunidad.guardando",
+    "title": "Tu comunidad",
+    "state": "Cambios en proceso de guardado",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.cuenta.carga",
+    "title": "Tu cuenta",
+    "state": "Estado de carga",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.cuenta.error",
+    "title": "Tu cuenta",
+    "state": "Error de carga con opción de reintentar",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "estado.cuenta.guardando",
+    "title": "Tu cuenta",
+    "state": "Cambios en proceso de guardado",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "pago.mas-digitos",
+    "title": "Tu precuenta tiene más dígitos",
+    "state": "Ayuda para una precuenta con más dígitos",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.clave-cambiada",
+    "title": "Ingresa con tu nueva clave",
+    "state": "Contraseña cambiada · volver a ingresar",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "cuenta.correo-pendiente",
+    "title": "Confirma tu correo",
+    "state": "Correo no verificado · reenvío",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "amigos.notas-amigos",
+    "title": "Estas notas son para sus amigos",
+    "state": "Notas visibles para amigos que se siguen mutuamente",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "vacio.fotos",
+    "title": "Fotos del lugar",
+    "state": "Lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "vacio.opiniones",
+    "title": "Opiniones del lugar",
+    "state": "Lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "vacio.notas",
+    "title": "Mis notas",
+    "state": "Lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "vacio.amigos",
+    "title": "Tus amigos",
+    "state": "Lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "vacio.novedades",
+    "title": "Novedades",
+    "state": "Lista vacía",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "invitacion.invitados",
+    "title": "Tus invitados",
+    "state": "Invitaciones registradas · sin premios nuevos",
+    "category": "comunidad",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "invitacion.premio",
+    "title": "Ganan los dos",
+    "state": "Ejemplo del premio por invitar · actualmente suspendido",
+    "category": "comunidad",
+    "status": "condicional",
+    "availability": "Premio por invitar · suspendido",
+    "context": "Los premios nuevos por invitar están suspendidos. Hoy se comparte el enlace sin ofrecer una recompensa.",
+    "primary": false
+  },
+  {
+    "id": "comprobante.sello",
+    "title": "Tu pago está confirmado",
+    "state": "Sello vivo · primeras seis horas",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "El sello aparece durante las primeras seis horas. El local verifica el pago en su propia vista de Vamo’a.",
+    "primary": false
+  },
+  {
+    "id": "comprobante.sin-sello",
+    "title": "Un comprobante para guardar",
+    "state": "Comprobante guardado · después de seis horas",
+    "category": "pago",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "El comprobante se conserva. Después de seis horas deja de mostrar el sello vivo.",
+    "primary": false
+  },
+  {
+    "id": "bienvenida.revision",
+    "title": "Revisemos tu bienvenida",
+    "state": "Solicitud de revisión de la bienvenida",
+    "category": "acceso",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "soporte.principal",
+    "title": "Cuéntanos qué pasó",
+    "state": "Reporte de una cuenta · mínimo diez caracteres",
+    "category": "cuenta",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "mapa.no-disponible",
+    "title": "Encuentra el local por su dirección",
+    "state": "Mapa no disponible · direcciones como alternativa",
+    "category": "lugares",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas",
+    "title": "Quién ve tus notas",
+    "state": "Editor de privacidad propuesto",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas-privadas",
+    "title": "Sólo tú",
+    "state": "Selección de notas privadas",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas-guardando",
+    "title": "Guardando tu elección",
+    "state": "Guardando la privacidad elegida",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas-error",
+    "title": "Tu elección sigue aquí",
+    "state": "Error al guardar · conserva la elección",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas-listas",
+    "title": "Tu privacidad, al día",
+    "state": "Privacidad guardada",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.notas-salir",
+    "title": "¿Salir sin guardar?",
+    "state": "Confirmación para salir sin guardar",
+    "category": "cuenta",
+    "status": "propuesta",
+    "availability": "Propuesta · no disponible",
+    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet",
+    "title": "Cómo quieres pagar",
+    "state": "Selección de Apple Pay en iPhone",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-android",
+    "title": "Paga desde Android",
+    "state": "Selección de Google Pay en Android",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-hoja",
+    "title": "Confirma en tu teléfono",
+    "state": "Confirmación de pago en la hoja del teléfono",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-cancelado",
+    "title": "Puedes elegir otra forma",
+    "state": "Pago cancelado en la hoja del teléfono",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-error",
+    "title": "No pudimos iniciar el pago",
+    "state": "Error antes de iniciar el cobro",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-incierto",
+    "title": "Estamos revisando tu pago",
+    "state": "Resultado del pago todavía por confirmar",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  },
+  {
+    "id": "propuesta.wallet-no-disponible",
+    "title": "Elige una tarjeta guardada",
+    "state": "Alternativa con una tarjeta guardada",
+    "category": "pago",
+    "status": "propuesta",
+    "availability": "Apple Pay / Google Pay · pendiente",
+    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
+    "primary": false
+  }
+]

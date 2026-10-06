@@ -1,25 +1,6 @@
-# Vamo’a — diseños web y app
+# Vamo’a · Diseño de app y sitio web
 
-Exportaciones estáticas de Claude Design: cuatro páginas web y una lámina con el rediseño de la app.
-
-- Inicio: `index.html`.
-- Para ti: `parati.html`.
-- Restaurantes: `restaurantes.html`.
-- Contacto: `contacto.html`.
-- UI de la app: [app.html](https://somosvamoa.github.io/vamoa-web-design/app.html).
-
-La portada no incluye el control de pausar/reproducir ni los logos superpuestos sobre el carrusel y la imagen de «¿Tienes un restaurante?». «Hecho en Chile con ❤️» queda centrado en el footer de las cuatro páginas; se retiró la nota de fotos generadas con IA.
-
-La página de restaurantes reutiliza la foto de mesa con hamburguesa y limonadas del carrusel de la portada. Los beneficios comparten estilo; «Caja hoy» aparece primero y «Conectado a tu caja» tercero.
-
-El rediseño de la app incluye fotos y logo reales de De Calle, bienvenida con rotación automática de fotos y marcadores por sucursal. Es una lámina de pantallas de ejemplo.
-
-Estas maquetas son independientes de la aplicación Vamo’a. Los formularios conservan su comportamiento demostrativo y no están conectados a un backend.
-
-Para revisar localmente: `python3 -m http.server 8000` y abrir http://localhost:8000. Requiere JavaScript.
-
-GitHub Pages publica la raíz de `main`, sin Jekyll. Las rutas y los recursos incrustados funcionan desde un subdirectorio.
-
-La apertura reutiliza el gesto de marca de vamoa.cl: caída del pin, onda y aparición del nombre, con los colores del rediseño. Se muestra al entrar o recargar; un gesto la termina y movimiento reducido la omite. La navegación interna no la repite.
-
-La lista de espera de la portada vuelve a la primera sección y las preguntas empiezan cerradas. El portal ilustrativo de octubre usa $40.000.000 iniciales, $24.800.000 consumidos y $15.200.000 disponibles, con 62% utilizado.
+`guia/` reúne marca, producto y las láminas del comensal.
+`portales.html` reúne los paneles de operación con datos de ejemplo.
+Las pantallas y cifras son referencias de diseño en prelanzamiento.
+Este repositorio no contiene APIs, credenciales ni documentación operativa privada.
