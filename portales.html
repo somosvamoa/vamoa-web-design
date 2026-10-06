@@ -25,7 +25,10 @@
 
 /* Shared layout: clear spacing, wrapping labels and explicit table scrolling. */
 #content>section+section{margin-top:24px}.card+.card{margin-top:24px}.grid>.card+.card{margin-top:0}.card>.actions{margin-top:20px}.card .design-form{margin-top:18px}.card>h2{margin-bottom:8px}.card>p+.design-form{margin-top:20px}.design-field{gap:9px}.design-field span{line-height:1.5}.design-field select{white-space:normal}.btn{white-space:normal;line-height:1.4;text-align:center;max-width:100%}.actions{gap:12px;row-gap:14px}.data-table th,.data-table td{max-width:340px;white-space:normal;overflow-wrap:anywhere;line-height:1.6}.data-table td:has(input),.data-table td:has(select){min-width:125px}.banner>div{min-width:0}.banner strong,.banner p{overflow-wrap:anywhere}.design-tabs{row-gap:12px}.design-toolbar{margin-bottom:28px}.design-hero+ .grid{margin-top:24px}.head h1{overflow-wrap:anywhere}.card code{overflow-wrap:anywhere}.grid .card{height:auto}.card .table-wrap{margin-top:18px;padding-bottom:6px}@media(max-width:700px){.banner{align-items:flex-start;flex-wrap:wrap}.design-fields{gap:20px}.card{padding:22px}.data-table td{min-width:120px}.design-hero>div{padding:24px}.design-auth .card{padding:24px}}
-.chart-guide[hidden],.chart-pinned-point[hidden]{display:none}.chart-guide,.chart-pinned-point,.chart-purchase-marker{pointer-events:none}.chart-guide-shade{fill:#18332c;fill-opacity:.09}.chart-guide-line{stroke:#18332c;stroke-width:1;stroke-dasharray:3 3;vector-effect:non-scaling-stroke}.chart-guide-point{fill:#ef684e;stroke:#faf7ef;stroke-width:2;vector-effect:non-scaling-stroke}.chart-pinned-point{fill:none;stroke:#ef684e;stroke-width:2;vector-effect:non-scaling-stroke}.chart-hover-label{position:absolute;pointer-events:none;z-index:2;background:#faf7ef;border:1px solid #bdc6b2;border-radius:10px;padding:8px 10px;box-shadow:0 5px 18px #10241b12;font-size:11px;line-height:1.45;max-width:calc(100% - 10px)}.chart-hover-label[hidden]{display:none}.chart-hover-label strong,.chart-hover-label span{display:block}.chart-hover-label span{font-size:10px}.chart-explore{margin-top:12px;display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;color:var(--muted);font-size:10px}.chart-explore button{background:var(--wash);border:1px solid var(--line);border-radius:20px;padding:5px 10px;font:600 10px var(--body);color:var(--ink)}.chart-explore button[hidden]{display:none}.chart-explore [data-chart-selection]{color:var(--ink);font-weight:600}.chart-purchases{display:flex;flex-wrap:wrap;gap:8px;margin-top:15px}.chart-purchases span{font-size:10px;padding:7px 10px;border:1px solid var(--line);border-radius:12px;background:var(--paper)}.chart-purchases b{margin-left:5px;color:var(--ink)}.chart-purchase-text{color:#9a3b28}.legend .purchase-dot{background:var(--coral);border-radius:50%}.chart svg{touch-action:pan-y}.chart:focus-visible{outline:2px solid var(--coral);outline-offset:5px;border-radius:10px}
+.chart-guide[hidden],.chart-pinned-point[hidden]{display:none}.chart-guide,.chart-pinned-point{pointer-events:none}.chart-guide-shade{fill:var(--chart-color,#18332c);fill-opacity:.07}.chart-guide-line{stroke:var(--chart-color,#18332c);stroke-opacity:.6;stroke-width:1;stroke-dasharray:3 3;vector-effect:non-scaling-stroke}.chart-guide-point{fill:var(--chart-color,#18332c);stroke:#faf7ef;stroke-width:2;vector-effect:non-scaling-stroke}.chart-pinned-point{fill:none;stroke:var(--chart-color,#18332c);stroke-width:2;vector-effect:non-scaling-stroke}.chart-hover-label{position:absolute;pointer-events:none;z-index:2;background:#faf7ef;border:1px solid #bdc6b2;border-radius:10px;padding:8px 10px;box-shadow:0 5px 18px #10241b12;font-size:11px;line-height:1.45;max-width:calc(100% - 10px)}.chart-hover-label[hidden]{display:none}.chart-hover-label strong,.chart-hover-label span{display:block}.chart-hover-label span{font-size:10px}.chart-explore{margin-top:12px;display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;color:var(--muted);font-size:10px}.chart-explore button{background:var(--wash);border:1px solid var(--line);border-radius:20px;padding:5px 10px;font:600 10px var(--body);color:var(--ink)}.chart-explore button[hidden]{display:none}.chart-explore [data-chart-selection]{color:var(--ink);font-weight:600}.chart-purchases{display:flex;flex-wrap:wrap;gap:8px;margin-top:15px}.chart-purchases span{font-size:10px;padding:7px 10px;border:1px solid var(--line);border-radius:12px;background:var(--paper)}.chart-purchases b{margin-left:5px;color:var(--ink)}.chart-purchase-text{color:#9a3b28}.chart svg{touch-action:pan-y}.chart:focus-visible{outline:2px solid var(--coral);outline-offset:5px;border-radius:10px}
+
+/* Pointer coordinates follow the SVG path without CSS easing or discrete column hits. */
+.chart svg{cursor:crosshair;user-select:none}.chart-hover-label{width:240px;max-width:calc(100% - 8px);padding:12px 14px;border-radius:13px;box-shadow:0 7px 24px #10241b14;line-height:1.5}.chart-hover-label>strong{font-size:11px;font-weight:650;margin-bottom:8px}.chart-hover-label>small{display:block;font-size:9px;color:var(--muted);margin:-3px 0 9px}.chart-hover-label .chart-hover-series{display:grid;grid-template-columns:6px minmax(0,1fr) auto;gap:8px;align-items:center;margin-top:7px;color:var(--muted);font-size:10px}.chart-hover-series i{width:6px;height:6px;border-radius:50%}.chart-hover-series b{font-variant-numeric:tabular-nums;font-size:10px;font-weight:600;white-space:nowrap}.chart-hover-series.active{color:var(--ink)}.chart-hover-label .chart-purchase-text{margin:10px 0 0;padding-top:8px;border-top:1px solid var(--line);color:#9a3b28}.chart-purchases{gap:8px 18px}.chart-purchases span{background:transparent;border:0;border-radius:0;border-left:2px solid #ef684e66;padding:3px 0 3px 9px}
 </style>
 <!-- END design-extension-css --></head>
 <body><a class="skip" href="#content">Saltar al contenido</a><div class="shell"><aside class="sidebar" id="sidebar" aria-label="Navegación principal"></aside><div class="main"><header class="topbar"><button class="icon-btn mobile-menu" data-action="menu" aria-label="Abrir navegación"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 6h18 M3 12h18 M3 18h18"/></svg></button><div class="modes" role="group" aria-label="Cambiar de portal"><button class="mode" data-mode="dueno">Dueño del restaurante</button><button class="mode" data-mode="admin">Administración</button></div><div class="top-right"><span class="demo">Datos de ejemplo</span><button class="icon-btn" data-action="help" aria-label="Información del prototipo"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M12 17h.01 M9 8a3 3 0 0 1 6 0c0 2-3 2-3 3 5 M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0"/></svg></button><div class="avatar" id="top-avatar">SG</div></div></header><main class="content" id="content" tabindex="-1"></main></div></div><button class="overlay" id="overlay" data-action="menu" aria-label="Cerrar navegación"></button><dialog class="dialog" id="dialog"><div id="dialog-content"></div></dialog><div class="toast" id="toast" role="status" aria-live="polite"></div>
@@ -227,7 +230,7 @@ case'new-passkey':passkeys.push({id:'pk'+Date.now(),name:data.name,date:'5 oct 2
 document.getElementById('dialog').addEventListener('click',e=>{if(e.target.id==='dialog'){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dismiss();}});
 /* Public test hook contains only sample data. No keys, network clients or production endpoints. */
 window.vamoaDemo={transactions,merchants,history,getState:()=>({...state}),ledgerGroups};
-let resizeTimer;window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{if(!document.getElementById('dialog').open)render();},180);});
+let resizeTimer,portalViewportWidth=window.innerWidth;function refreshPortalWidth(){if(chartDrag){resizeTimer=setTimeout(refreshPortalWidth,100);return;}if(!document.getElementById('dialog').open)render();}window.addEventListener('resize',()=>{if(window.innerWidth===portalViewportWidth)return;portalViewportWidth=window.innerWidth;clearTimeout(resizeTimer);resizeTimer=setTimeout(refreshPortalWidth,180);});
 
 navigate();
 </script><script>const DESIGN_APP={views:[]},DESIGN_WEB={routes:[]},DESIGN_LEGAL={};
@@ -276,7 +279,7 @@ periodData=function(){
 chartPoints=function(){
  const n=state.range==='1s'?7:state.range==='1m'?30:state.range==='3m'?91:365;
  const current=history.slice(-n),previous=history.slice(-n*2,-n);
- if(n<=30)return current.map((d,i)=>({...d,previous:previous[i]?.owner||0,long:formatDate(d.day)+' 2026'}));
+ if(n<=30||state.chart==='credito')return current.map((d,i)=>({...d,previous:previous[i]?.owner||0,long:formatDate(d.day)+' '+new Date(d.day).getUTCFullYear()}));
  function groups(days){
   if(n===91)return Array.from({length:13},(_,i)=>days.slice(i*7,i*7+7));
   const result=[];
@@ -295,14 +298,14 @@ chartText=function(id,i){
 
 trendChart=function(id,points,sourceSeries,options={}){
  const series=sourceSeries.map(s=>({...s,count:s.count||options.count}));
- const W=window.innerWidth<570?340:660,H=210,L=49,R=12,T=15,B=35;
+ const W=window.innerWidth<570?340:660,H=id==='credit'?260:210,L=49,R=12,T=15,B=35;
  const width=W-L-R,height=H-T-B,band=width/Math.max(1,points.length),stacked=series.filter(s=>s.type==='stack');
  const max=Math.max(1,...points.flatMap(p=>series.map(s=>p[s.key]||0)),...points.map(p=>stacked.reduce((n,s)=>n+(p[s.key]||0),0)),options.max||0)*1.08;
  const x=i=>L+band*(i+.5),y=v=>T+height-v/max*height;
  const value=(i,s)=>s.type==='stack'?stacked.slice(0,stacked.indexOf(s)+1).reduce((n,t)=>n+(points[i][t.key]||0),0):(points[i][s.key]||0);
  const barWidth=band*.62/Math.max(1,series.filter(s=>s.type==='bar').length);
  const pointX=(i,s)=>s.type==='bar'?x(i)-series.length*barWidth/2+(series.indexOf(s)+.5)*barWidth:x(i);
- charts[id]={points,series,index:points.length-1,pinned:null,key:series[0].key,geometry:{W,H,L,R,T,B,width,height,band,max,x,y,value,pointX}};
+ charts[id]={points,series,index:points.length-1,position:points.length-1,pinned:null,key:series[0].key,geometry:{W,H,L,R,T,B,width,height,band,max,x,y,value,pointX}};
  let svg='';
  for(let i=0;i<=4;i++){
   const v=max*i/4;
@@ -317,71 +320,144 @@ trendChart=function(id,points,sourceSeries,options={}){
   }else if(s.type==='bar'){
    points.forEach((p,i)=>svg+=`<rect x="${pointX(i,s)-barWidth/2}" y="${y(p[s.key]||0)}" width="${barWidth}" height="${H-B-y(p[s.key]||0)}" rx="2" fill="${s.color}"/>`);
   }else{
-   const d=stacked.length?points.map((p,i)=>`${i?'L':'M'}${L+i*band},${y(p[s.key]||0)} H${L+(i+1)*band}`).join(' '):points.map((p,i)=>`${i?'L':'M'}${x(i)},${y(p[s.key]||0)}`).join(' ');
-   if(s.fill)svg+=`<path d="${d} L${x(points.length-1)},${H-B} L${x(0)},${H-B}Z" fill="${s.color}" opacity=".14"/>`;
-   svg+=`<path d="${d}" fill="none" stroke="${s.color}" stroke-width="${s.width||2.5}" ${s.dash?'stroke-dasharray="5 5"':''} stroke-linecap="round" stroke-linejoin="round"/>`;
+   let d=`M${L},${y(value(0,s))} L${x(0)},${y(value(0,s))}`;
+   points.slice(1).forEach((p,j)=>{const i=j+1,v=value(i,s),purchase=(p.purchases||[]).reduce((n,p)=>n+p.amount,0);
+    if(s.curve==='step')d+=` H${x(i)} V${y(v)}`;
+    else if(s.curve==='balance'&&purchase)d+=` L${x(i)},${y(v-purchase)} V${y(v)}`;
+    else d+=` L${x(i)},${y(v)}`;
+   });
+   d+=` L${W-R},${y(value(points.length-1,s))}`;
+   if(s.fill)svg+=`<path d="${d} L${W-R},${H-B} L${L},${H-B}Z" fill="${s.color}" opacity=".14"/>`;
+   svg+=`<path d="${d}" fill="none" stroke="${s.color}" data-chart-series="${s.key}" stroke-width="${s.width||2}" vector-effect="non-scaling-stroke" ${s.dash?'stroke-dasharray="5 5"':''} stroke-linecap="round" stroke-linejoin="round"/>`;
   }
  }
  points.forEach((p,i)=>{
   if(i===0||i===points.length-1||i%Math.ceil(points.length/5)===0)svg+=`<text x="${x(i)}" y="${H-9}" text-anchor="middle">${esc(p.label)}</text>`;
-  if(id==='credit'&&p.purchases?.length)svg+=`<circle class="chart-purchase-marker" cx="${x(i)}" cy="${T+2}" r="3.5" fill="#ef684e"><title>${esc(p.purchases.map(p=>(p.initial?'Compra inicial':'Recarga')+' '+formatDate(p.day)+' · '+clp(p.amount)).join('; '))}</title></circle>`;
-  svg+=`<rect class="chart-hit" data-chart-point="${id}:${i}" x="${L+i*band}" y="${T}" width="${band}" height="${height}" fill="transparent"/>`;
  });
- svg+=`<g class="chart-guide" data-chart-guide hidden aria-hidden="true"><rect class="chart-guide-shade"/><line class="chart-guide-line" data-guide-vertical/><line class="chart-guide-line" data-guide-horizontal/><circle class="chart-guide-point" r="4"/></g><circle class="chart-pinned-point" data-chart-pin r="6" hidden aria-hidden="true"/>`;
+ svg+=`<rect class="chart-hit" data-chart-surface="${id}" x="${L}" y="${T}" width="${width}" height="${height}" fill="transparent"/><g class="chart-guide" data-chart-guide hidden aria-hidden="true"><rect class="chart-guide-shade"/><line class="chart-guide-line" data-guide-vertical/><line class="chart-guide-line" data-guide-horizontal/><circle class="chart-guide-point" r="4"/></g><circle class="chart-pinned-point" data-chart-pin r="6" hidden aria-hidden="true"/>`;
  const marks=id==='credit'&&points.some(p=>p.purchases?.length);
- return`<div class="chart" data-chart="${id}" tabindex="0" role="group" aria-label="${esc(options.label||'Gráfico')}. Flechas para explorar, Enter para fijar un punto y Escape para soltarlo."><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(options.label||'Gráfico')}">${svg}</svg><div class="chart-hover-label" hidden aria-hidden="true"></div><div class="legend">${series.map(s=>`<span><i style="background:${s.color}"></i>${s.label}</span>`).join('')}${marks?'<span><i class="purchase-dot"></i>Compra / recarga</span>':''}</div><div class="chart-explore"><span>Mueve el cursor o usa las flechas. Haz clic para fijar un punto.</span><button type="button" data-chart-clear="${id}" hidden>Quitar selección</button><span data-chart-selection aria-live="polite"></span></div><div class="chart-tip" id="tip-${id}" aria-live="polite">${chartText(id,points.length-1)}</div><details class="chart-data"><summary>Ver datos del gráfico</summary>${table(['Fecha',...series.map(s=>s.label),...(marks?['Compras / recargas']:[])],points.map(p=>[p.long||p.label,...series.map(s=>s.count?num(p[s.key]||0):clp(p[s.key]||0)),...(marks?[(p.purchases||[]).map(p=>(p.initial?'Compra inicial':'Recarga')+' '+formatDate(p.day)+' · '+clp(p.amount)).join('<br>')||'—']:[])]))}</details></div>`;
+ return`<div class="chart" data-chart="${id}" tabindex="0" role="group" aria-label="${esc(options.label||'Gráfico')}. Flechas para explorar, Enter para fijar un punto y Escape para soltarlo."><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(options.label||'Gráfico')}">${svg}</svg><div class="chart-hover-label" hidden aria-hidden="true"></div><div class="legend">${series.map(s=>`<span><i style="background:${s.color}"></i>${s.label}</span>`).join('')}</div><div class="chart-explore"><span>Desliza sobre el gráfico o usa las flechas. Haz clic para fijar un punto.</span><button type="button" data-chart-clear="${id}" hidden>Quitar selección</button><span data-chart-selection aria-live="polite"></span></div><div class="chart-tip" id="tip-${id}" aria-live="polite">${chartText(id,points.length-1)}</div><details class="chart-data"><summary>Ver datos del gráfico</summary>${table(['Fecha',...series.map(s=>s.label),...(marks?['Compras / recargas']:[])],points.map(p=>[p.long||p.label,...series.map(s=>s.count?num(p[s.key]||0):clp(p[s.key]||0)),...(marks?[(p.purchases||[]).map(p=>(p.initial?'Compra inicial':'Recarga')+' '+formatDate(p.day)+' · '+clp(p.amount)).join('<br>')||'—']:[])]))}</details></div>`;
 };
 
 function chartNode(id){return document.querySelector(`[data-chart="${id}"]`);}
-function chartPosition(c,i,key){const s=c.series.find(s=>s.key===key)||c.series[0];return{x:c.geometry.pointX(i,s),y:c.geometry.y(c.geometry.value(i,s)),series:s};}
-function drawChartPoint(id,i,key){
- const c=charts[id],node=chartNode(id);if(!c||!node||!c.points[i])return;
- c.index=i;c.key=key||c.key;
- const {x,y,series}=chartPosition(c,i,c.key),g=c.geometry,guide=node.querySelector('[data-chart-guide]');
- guide.removeAttribute('hidden');
- const set=(el,attrs)=>Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,String(v)));
- set(guide.querySelector('rect'),{x,y,width:g.W-g.R-x,height:g.H-g.B-y});
- set(guide.querySelector('[data-guide-vertical]'),{x1:x,x2:x,y1:y,y2:g.H-g.B});
- set(guide.querySelector('[data-guide-horizontal]'),{x1:x,x2:g.W-g.R,y1:y,y2:y});
- set(guide.querySelector('circle'),{cx:x,cy:y});
- const tip=node.querySelector('.chart-hover-label');tip.hidden=false;
- tip.innerHTML=`<strong>${esc(c.points[i].long||c.points[i].label)}</strong><span>${esc(series.label)} · ${series.count?num(c.points[i][series.key]||0):clp(c.points[i][series.key]||0)}</span>`;
- const box=node.querySelector('svg').getBoundingClientRect();
- tip.style.left=Math.max(0,Math.min(box.width-tip.offsetWidth,x/g.W*box.width+12))+'px';
- tip.style.top=Math.max(0,y/g.H*box.height-tip.offsetHeight-10)+'px';
- document.getElementById('tip-'+id).innerHTML=chartText(id,i);
+function chartValue(c,position,series){
+ const left=Math.floor(position),right=Math.min(c.points.length-1,left+1),t=position-left;
+ const a=c.geometry.value(left,series),b=c.geometry.value(right,series);
+ if(series.type==='bar'||series.type==='stack')return c.geometry.value(Math.round(position),series);
+ if(series.curve==='step')return a;
+ const purchase=series.curve==='balance'?(c.points[right].purchases||[]).reduce((n,p)=>n+p.amount,0):0;
+ return a+(b-purchase-a)*t;
+}
+function chartPosition(c,position,key,pointX){
+ const series=c.series.find(s=>s.key===key)||c.series[0],index=Math.round(position);
+ const x=series.type==='bar'||series.type==='stack'?c.geometry.pointX(index,series):pointX??c.geometry.L+c.geometry.band*(position+.5);
+ return{x,y:c.geometry.y(chartValue(c,position,series)),series};
+}
+function chartReading(c,position){
+ const a=Math.floor(position),b=Math.ceil(position),between=b!==a&&c.series.every(s=>s.type!=='bar'&&s.type!=='stack');
+ return{between,label:between?formatDate(c.points[a].day)+(c.points[a].day.slice(0,4)!==c.points[b].day.slice(0,4)?' '+c.points[a].day.slice(0,4):'')+' – '+formatDate(c.points[b].day)+' '+c.points[b].day.slice(0,4):c.points[Math.round(position)].long||c.points[Math.round(position)].label};
+}
+function chartSet(el,attrs){Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,String(v)));}
+function drawChartPoint(id,position,key,pointX){
+ const c=charts[id],node=chartNode(id);if(!c||!node)return;
+ position=Math.max(0,Math.min(c.points.length-1,position));
+ c.position=position;c.index=Math.round(position);c.key=key||c.key;
+ const {x,y,series}=chartPosition(c,position,c.key,pointX),g=c.geometry,guide=node.querySelector('[data-chart-guide]');c.pointX=x;
+ guide.removeAttribute('hidden');guide.style.setProperty('--chart-color',series.color);
+ chartSet(guide.querySelector('rect'),{x:g.L,y,width:Math.max(0,x-g.L),height:Math.max(0,g.H-g.B-y)});
+ chartSet(guide.querySelector('[data-guide-vertical]'),{x1:x,x2:x,y1:y,y2:g.H-g.B});
+ chartSet(guide.querySelector('[data-guide-horizontal]'),{x1:g.L,x2:x,y1:y,y2:y});
+ chartSet(guide.querySelector('circle'),{cx:x,cy:y,fill:series.color});
+ const tip=node.querySelector('.chart-hover-label'),reading=chartReading(c,position);tip.hidden=false;
+ const rounded=Object.fromEntries(c.series.map(s=>[s.key,Math.round(chartValue(c,position,s))]));
+ if(id==='credit'&&'available' in rounded&&'used' in rounded&&'contracted' in rounded)rounded.used=rounded.contracted-rounded.available;
+ const rows=c.series.map(s=>`<span class="chart-hover-series ${s.key===series.key?'active':''}" data-hover-series="${esc(s.key)}"><i style="background:${s.color}"></i><span>${esc(s.label)}</span><b>${s.count?num(rounded[s.key]):clp(rounded[s.key])}</b></span>`).join('');
+ const purchases=reading.between?[]:c.points[c.index].purchases||[];
+ tip.innerHTML=`<strong>${esc(reading.label)}</strong>${reading.between?'<small>Entre cierres diarios · valor aproximado</small>':''}${rows}${purchases.map(p=>`<small class="chart-purchase-text">${p.initial?'Compra inicial':'Recarga'} +${clp(p.amount)}</small>`).join('')}`;
+ const svg=node.querySelector('svg'),box=svg.getBoundingClientRect(),matrix=svg.getScreenCTM(),anchor=new DOMPoint(x,y).matrixTransform(matrix),origin=node.getBoundingClientRect();
+ const left=anchor.x-box.left+16,flip=left+tip.offsetWidth>box.width;
+ const tipX=Math.max(0,Math.min(box.width-tip.offsetWidth,(flip?anchor.x-box.left-tip.offsetWidth-16:left))),anchorX=anchor.x-box.left,anchorY=anchor.y-origin.top;
+ tip.style.left=tipX+'px';
+ const overlapsPoint=tipX<anchorX+7&&tipX+tip.offsetWidth>anchorX-7;
+ const tipY=overlapsPoint?(anchorY>=tip.offsetHeight+14?anchorY-tip.offsetHeight-14:anchorY+14):Math.max(0,Math.min(box.height-tip.offsetHeight,anchorY-tip.offsetHeight/2));
+ tip.style.top=tipY+'px';
+ const readout=document.getElementById('tip-'+id),readoutKey=c.index+':'+reading.between;
+ if(c.readoutKey!==readoutKey){readout.innerHTML=(reading.between?'<span class="muted">Cierre más cercano:</span>':'')+chartText(id,c.index);c.readoutKey=readoutKey;}
  const pin=node.querySelector('[data-chart-pin]'),clear=node.querySelector('[data-chart-clear]'),selection=node.querySelector('[data-chart-selection]');
- if(c.pinned){const p=chartPosition(c,c.pinned.index,c.pinned.key);set(pin,{cx:p.x,cy:p.y});pin.removeAttribute('hidden');clear.hidden=false;selection.textContent='Punto fijado · '+(c.points[c.pinned.index].long||c.points[c.pinned.index].label);}
+ if(c.pinned){const p=chartPosition(c,c.pinned.position,c.pinned.key,c.pinned.x);chartSet(pin,{cx:p.x,cy:p.y});pin.style.setProperty('--chart-color',p.series.color);pin.removeAttribute('hidden');clear.hidden=false;selection.textContent='Punto fijado · '+chartReading(c,c.pinned.position).label;}
  else{pin.setAttribute('hidden','');clear.hidden=true;selection.textContent='';}
 }
 showChartPoint=function(point){const [id,index]=point.split(':');if(charts[id])drawChartPoint(id,Number(index));};
-function exploreChart(event){
- const hit=event.target.closest('[data-chart-point]');if(!hit)return;
- const [id,index]=hit.dataset.chartPoint.split(':'),c=charts[id];if(!c)return;
- const box=hit.closest('svg').getBoundingClientRect(),py=(event.clientY-box.top)/box.height*c.geometry.H;
- const candidates=c.series.filter(s=>s.type!=='stack'||s===c.series[0]);
- const closest=candidates.reduce((best,s)=>Math.abs(chartPosition(c,Number(index),s.key).y-py)<Math.abs(chartPosition(c,Number(index),best.key).y-py)?s:best,candidates[0]);
- drawChartPoint(id,Number(index),closest.key);
+function exploreChart(event,id){
+ const node=chartNode(id),c=charts[id];if(!node||!c)return;
+ const svg=node.querySelector('svg'),point=new DOMPoint(event.clientX,event.clientY).matrixTransform(svg.getScreenCTM().inverse()),g=c.geometry;
+ const px=Math.max(g.L,Math.min(g.W-g.R,point.x)),position=Math.max(0,Math.min(c.points.length-1,(px-g.L)/g.band-.5));
+ const candidates=c.series.filter(s=>s.type!=='stack'||s===c.series[0]),distance=s=>Math.abs(chartPosition(c,position,s.key,px).y-point.y);
+ const closest=candidates.reduce((a,b)=>distance(b)<distance(a)?b:a),current=candidates.find(s=>s.key===c.key);
+ const locked=chartDrag?.chart===c?c.series.find(s=>s.key===chartDrag.key):null;
+ const series=locked||(current&&distance(current)<=distance(closest)+5?current:closest);
+ drawChartPoint(id,series.type==='bar'||series.type==='stack'?Math.round(position):position,series.key,px);
 }
-function pinChartPoint(id){const c=charts[id];if(!c)return;c.pinned=c.pinned?.index===c.index&&c.pinned?.key===c.key?null:{index:c.index,key:c.key};drawChartPoint(id,c.index,c.key);}
-document.addEventListener('pointermove',exploreChart);
+function chartSurface(event){return event.target.closest('.chart svg')?.closest('[data-chart]');}
+const chartPending=new Map();let chartFrame=0;
+function queueChart(event,id){
+ chartPending.set(id,{clientX:event.clientX,clientY:event.clientY,chart:charts[id]});
+ if(chartFrame)return;chartFrame=requestAnimationFrame(()=>{chartFrame=0;const entries=[...chartPending];chartPending.clear();for(const [id,event] of entries)if(charts[id]===event.chart)exploreChart(event,id);});
+}
+function chartFlush(event,id){chartPending.delete(id);exploreChart(event,id);}
+function chartRestore(id){
+ chartPending.delete(id);const c=charts[id],node=chartNode(id);if(!c||!node)return;
+ if(c.pinned)drawChartPoint(id,c.pinned.position,c.pinned.key,c.pinned.x);
+ else{node.querySelector('[data-chart-guide]').setAttribute('hidden','');node.querySelector('.chart-hover-label').hidden=true;document.getElementById('tip-'+id).innerHTML=chartText(id,c.points.length-1);c.readoutKey=null;}
+}
+function pinChartPoint(id,force=false){
+ const c=charts[id];if(!c)return;
+ if(c.pointX===undefined)c.pointX=chartPosition(c,c.position,c.key).x;
+ const same=c.pinned&&c.pinned.key===c.key&&Math.abs(c.pinned.x-c.pointX)<2;
+ c.pinned=!force&&same?null:{index:c.index,position:c.position,key:c.key,x:c.pointX};drawChartPoint(id,c.position,c.key,c.pointX);
+}
+let chartDrag=null,chartSuppressClick=null,chartLastPointer=null;
+document.addEventListener('pointerdown',event=>{
+ const node=chartSurface(event);if(!node||event.button!==0)return;
+ const id=node.dataset.chart,svg=node.querySelector('svg');chartSuppressClick=null;chartLastPointer=null;chartFlush(event,id);
+ chartDrag={id,chart:charts[id],key:charts[id].key,pointerId:event.pointerId,x:event.clientX,y:event.clientY,moved:false,touch:event.pointerType==='touch'};
+ svg.setPointerCapture(event.pointerId);if(!chartDrag.touch)event.preventDefault();
+});
+document.addEventListener('pointermove',event=>{
+ const node=chartSurface(event),drag=chartDrag?.pointerId===event.pointerId?chartDrag:null,id=drag?.id||node?.dataset.chart;
+ if(!id)return;
+ if(drag){if(charts[id]!==drag.chart){chartDrag=null;return;}const dx=Math.abs(event.clientX-drag.x),dy=Math.abs(event.clientY-drag.y);if(dx>4||dy>4)drag.moved=true;if(drag.touch&&!drag.moved)return;}
+ queueChart(event,id);
+});
+document.addEventListener('pointerup',event=>{
+ const drag=chartDrag;if(!drag||drag.pointerId!==event.pointerId)return;
+ if(charts[drag.id]!==drag.chart){chartDrag=null;return;}
+ chartFlush(event,drag.id);chartDrag=null;
+ const c=charts[drag.id];chartLastPointer={id:drag.id,position:c.position,key:c.key,x:c.pointX,clientX:event.clientX,clientY:event.clientY,until:performance.now()+500};
+ if(drag.moved){pinChartPoint(drag.id,true);chartSuppressClick={id:drag.id,until:performance.now()+500};}
+ const svg=chartNode(drag.id)?.querySelector('svg');if(svg?.hasPointerCapture(event.pointerId))svg.releasePointerCapture(event.pointerId);
+});
+document.addEventListener('pointercancel',event=>{if(chartDrag?.pointerId===event.pointerId){const id=chartDrag.id;chartDrag=null;chartRestore(id);}});
 document.addEventListener('pointerout',event=>{
- const svg=event.target.closest('.chart svg');if(!svg||svg.contains(event.relatedTarget))return;
- const node=svg.closest('[data-chart]'),id=node.dataset.chart,c=charts[id];if(!c)return;
- if(c.pinned)drawChartPoint(id,c.pinned.index,c.pinned.key);
- else{node.querySelector('[data-chart-guide]').setAttribute('hidden','');node.querySelector('.chart-hover-label').hidden=true;document.getElementById('tip-'+id).innerHTML=chartText(id,c.points.length-1);}
+ const svg=event.target.closest('.chart svg');if(!svg||svg.contains(event.relatedTarget)||chartDrag)return;chartRestore(svg.closest('[data-chart]').dataset.chart);
 });
 document.addEventListener('click',event=>{
  const clear=event.target.closest('[data-chart-clear]');
- if(clear){event.stopImmediatePropagation();const id=clear.dataset.chartClear;charts[id].pinned=null;drawChartPoint(id,charts[id].index);chartNode(id).focus({preventScroll:true});return;}
- const hit=event.target.closest('[data-chart-point]');if(!hit)return;
- event.stopImmediatePropagation();exploreChart(event);pinChartPoint(hit.dataset.chartPoint.split(':')[0]);hit.closest('[data-chart]').focus({preventScroll:true});
+ if(clear){event.stopImmediatePropagation();const id=clear.dataset.chartClear,c=charts[id];c.pinned=null;drawChartPoint(id,c.position,c.key,c.pointX);chartNode(id).focus({preventScroll:true});return;}
+ const node=chartSurface(event);if(!node)return;
+ event.stopImmediatePropagation();const id=node.dataset.chart;
+ if(chartSuppressClick?.id===id&&performance.now()<chartSuppressClick.until){chartSuppressClick=null;return;}
+ // Compatibility clicks round coordinates; retain the precise pointer-up position.
+ if(chartLastPointer?.id===id&&performance.now()<chartLastPointer.until&&Math.hypot(event.clientX-chartLastPointer.clientX,event.clientY-chartLastPointer.clientY)<2)drawChartPoint(id,chartLastPointer.position,chartLastPointer.key,chartLastPointer.x);
+ else chartFlush(event,id);
+ chartLastPointer=null;pinChartPoint(id);node.focus({preventScroll:true});
 },true);
 document.addEventListener('keydown',event=>{
  const node=event.target.closest('[data-chart]');if(!node||event.target.closest('button,summary,a'))return;
- const id=node.dataset.chart,c=charts[id];
+ const id=node.dataset.chart,c=charts[id];if(!c)return;
+ if(['ArrowLeft','ArrowRight','Home','End'].includes(event.key)){event.preventDefault();event.stopImmediatePropagation();const i=event.key==='Home'?0:event.key==='End'?c.points.length-1:Math.max(0,Math.min(c.points.length-1,c.index+(event.key==='ArrowLeft'?-1:1)));chartPending.delete(id);drawChartPoint(id,i);}
  if(event.key==='Enter'||event.key===' '){event.preventDefault();event.stopImmediatePropagation();pinChartPoint(id);}
- if(event.key==='Escape'&&c?.pinned){event.preventDefault();event.stopImmediatePropagation();c.pinned=null;drawChartPoint(id,c.index);}
+ if(event.key==='Escape'&&c.pinned){event.preventDefault();event.stopImmediatePropagation();c.pinned=null;drawChartPoint(id,c.position,c.key,c.pointX);}
 },true);
 
 creditChart=function(){
@@ -389,7 +465,7 @@ creditChart=function(){
  const controls=`<div class="actions"><div class="segmented" role="group" aria-label="Vista del gráfico">${['credito','consumo'].map(v=>`<button data-chart-view="${v}" class="${state.chart===v?'selected':''}" aria-pressed="${state.chart===v}">${v==='credito'?'Crédito':'Consumo'}</button>`).join('')}</div><label class="sr-only" for="chart-range">Rango del gráfico</label><select class="select" id="chart-range" data-control="chart-range">${[['1s','1 semana'],['1m','1 mes'],['3m','3 meses'],['12m','12 meses']].map(([v,l])=>`<option value="${v}" ${state.range===v?'selected':''}>${l}</option>`).join('')}</select></div>`;
  const purchases=points.flatMap(p=>p.purchases||[]);
  const events=purchases.length?`<div class="chart-purchases">${purchases.map(p=>`<span>${p.initial?'Compra inicial':'Recarga'} · ${formatDate(p.day)} <b>+${clp(p.amount)}</b></span>`).join('')}</div>`:'';
- return card(consumption?'Tu consumo en el tiempo':'Tu crédito en el tiempo',consumption?'Consumo por tramo comparado con el período anterior':'Saldo al cierre de cada tramo · las recargas aumentan lo comprado',trendChart('credit',points,consumption?[{key:'owner',label:'Consumo del período',color:'#18332c',type:'bar'},{key:'previous',label:'Período anterior',color:'#c4caba',type:'bar'}]:[{key:'used',label:'Consumido',color:'#18332c',type:'stack'},{key:'available',label:'Disponible',color:'#d4df60',type:'stack'},{key:'contracted',label:'Comprado',color:'#88937d',dash:true}],{label:consumption?'Consumo y período anterior':'Evolución del crédito comprado, consumido y disponible'})+events+'<p class="small muted block">Historia de ejemplo desde abril de 2026 · Reservado: $0 · Vencido: $0. Las compras de lotes y recargas son datos ilustrativos.</p>',controls);
+ return card(consumption?'Tu consumo en el tiempo':'Tu crédito en el tiempo',consumption?'Consumo por tramo comparado con el período anterior':'Saldos diarios · las recargas aumentan lo comprado y lo disponible',trendChart('credit',points,consumption?[{key:'owner',label:'Consumo del período',color:'#18332c',type:'bar'},{key:'previous',label:'Período anterior',color:'#c4caba',type:'bar'}]:[{key:'available',label:'Disponible',color:'#18332c',curve:'balance'},{key:'used',label:'Consumido',color:'#ef684e'},{key:'contracted',label:'Comprado',color:'#88937d',curve:'step',dash:true}],{label:consumption?'Consumo y período anterior':'Evolución del crédito comprado, consumido y disponible'})+events+'<p class="small muted block">Historia de ejemplo desde abril de 2026 · Reservado: $0 · Vencido: $0. Las compras de lotes y recargas son datos ilustrativos.</p>',controls);
 };
 const chartCreditViewBase=creditView;
 creditView=function(){

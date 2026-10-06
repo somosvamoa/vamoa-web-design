@@ -191,7 +191,7 @@
   },
   {
     "id": "3.2",
-    "title": "Número de la precuenta",
+    "title": "Número de la cuenta",
     "state": "Vista principal",
     "category": "pago",
     "status": "actual",
@@ -1176,7 +1176,7 @@
     "category": "pago",
     "status": "archivo",
     "availability": "Referencia histórica",
-    "context": "Referencia de cuentas anteriores con código. El pago actual usa el número de la precuenta.",
+    "context": "Referencia de cuentas anteriores con código. El pago actual usa el número de la cuenta.",
     "primary": false
   },
   {
@@ -1551,8 +1551,8 @@
   },
   {
     "id": "pago.mas-digitos",
-    "title": "Tu precuenta tiene más dígitos",
-    "state": "Ayuda para una precuenta con más dígitos",
+    "title": "Tu cuenta tiene más dígitos",
+    "state": "Ayuda para una cuenta con más dígitos",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
