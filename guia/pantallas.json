@@ -7,7 +7,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.2",
@@ -17,7 +33,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.3",
@@ -27,7 +59,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.4",
@@ -37,7 +85,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.5",
@@ -47,7 +111,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.5",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.6",
@@ -57,7 +137,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.6",
+        "role": null
+      }
+    ]
   },
   {
     "id": "0.7",
@@ -67,7 +163,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "0.7",
+        "role": null
+      }
+    ]
   },
   {
     "id": "1.1",
@@ -77,7 +189,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "1.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "1.2",
@@ -87,7 +215,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "1.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "1.3",
@@ -97,7 +241,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "1.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "1.4",
@@ -107,7 +267,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "1.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "1.5",
@@ -117,7 +293,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "1.5",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.1",
@@ -127,7 +319,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.2",
@@ -137,7 +345,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.3",
@@ -147,7 +371,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.4",
@@ -157,7 +397,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.5",
@@ -167,7 +423,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.5",
+        "role": null
+      }
+    ]
   },
   {
     "id": "2.6",
@@ -177,7 +449,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "2.6",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.1",
@@ -186,8 +474,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Selección previa de restaurante y local, cuando todavía no están elegidos. No se repite al entrar desde una sucursal o QR.",
+    "primary": false,
+    "presentation": "Antes de pagar · elegir local si hace falta",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.2",
@@ -196,8 +500,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Paso 1 de 3: ingresa el número de cuenta. Si llega en un QR, la búsqueda se inicia automáticamente.",
+    "primary": true,
+    "presentation": "Paso 1 de 3 · ingresar cuenta",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.3",
@@ -207,7 +527,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": false,
+    "presentation": "Alternativa · revisar número de cuenta",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.4",
@@ -216,8 +552,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Paso 2 de 3: revisa los ítems y el consumo completo que llega de la caja.",
+    "primary": true,
+    "presentation": "Paso 2 de 3 · revisar detalle",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.5",
@@ -226,8 +578,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Paso 3 de 3: propina, créditos y tarjeta en una sola vista. Se sugiere 10% del consumo completo, antes de aplicar créditos; puedes cambiarlo o dejar cero.",
+    "primary": true,
+    "presentation": "Paso 3 de 3 · confirmar total",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.5",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.6",
@@ -236,8 +604,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Animación durante el cobro, sobre la confirmación. No es otra pantalla que completar ni requiere un segundo pago.",
+    "primary": true,
+    "presentation": "Durante el cobro · animación sin interacción",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.6",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.7",
@@ -246,18 +630,50 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Resultado después de pagar: muestra lo recuperado y ofrece contar qué repetirías. La opinión es opcional.",
+    "primary": true,
+    "presentation": "Resultado · opinión opcional",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.7",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.8",
     "title": "Reseña de un plato",
     "state": "Vista principal",
-    "category": "pago",
+    "category": "comunidad",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": false,
+    "presentation": "Después de pagar · reseña opcional",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.8",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.9",
@@ -267,7 +683,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": false,
+    "presentation": "Alternativa · pago rechazado",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.9",
+        "role": null
+      }
+    ]
   },
   {
     "id": "3.10",
@@ -276,8 +708,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "Comprobante de otra cuenta: $16.000 de consumo y $1.600 de propina. El ejemplo principal del pago es la cuenta 3816.",
-    "primary": true
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Comprobante · documento para guardar",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "3.10",
+        "role": null
+      }
+    ]
   },
   {
     "id": "4.1",
@@ -287,7 +735,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "4.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "4.2",
@@ -297,7 +761,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "4.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.1",
@@ -307,7 +787,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.2",
@@ -317,7 +813,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.3",
@@ -327,7 +839,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.4",
@@ -337,7 +865,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.5",
@@ -347,7 +891,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.5",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.6",
@@ -357,7 +917,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.6",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.7",
@@ -367,7 +943,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.7",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.8",
@@ -377,7 +969,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.8",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.9",
@@ -387,7 +995,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.9",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.10",
@@ -396,8 +1020,24 @@
     "category": "cuenta",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": true
+    "context": "Las dos preferencias de novedades guardan tu elección; el envío de esos avisos todavía está pendiente.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.10",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.11",
@@ -407,7 +1047,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.11",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.12",
@@ -417,7 +1073,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.12",
+        "role": null
+      }
+    ]
   },
   {
     "id": "5.13",
@@ -427,7 +1099,79 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "5.13",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "6.1",
+    "title": "Segundo factor",
+    "state": "Vista principal",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "6.1",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "title": "Inicio · resumen",
+    "state": "Vista principal",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "6.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "7.1",
@@ -437,7 +1181,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "7.1",
+        "role": null
+      }
+    ]
   },
   {
     "id": "7.2",
@@ -447,7 +1207,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "7.2",
+        "role": null
+      }
+    ]
   },
   {
     "id": "7.3",
@@ -457,7 +1233,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "7.3",
+        "role": null
+      }
+    ]
   },
   {
     "id": "7.4",
@@ -467,7 +1259,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": true
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "7.4",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.ingresar",
@@ -477,7 +1285,31 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.ingresar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.error",
@@ -487,7 +1319,31 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.invitacion-registro",
@@ -497,7 +1353,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.invitacion-registro",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.registro-error",
@@ -507,7 +1379,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.registro-error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.explorar",
@@ -517,7 +1405,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.explorar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.sesion-requerida",
@@ -527,7 +1431,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.sesion-requerida",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.codigo-correo",
@@ -537,7 +1457,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.codigo-correo",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.codigo-invalido",
@@ -547,7 +1483,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.codigo-invalido",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.cambiar-correo",
@@ -557,7 +1509,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.cambiar-correo",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.recuperar-codigo",
@@ -567,7 +1535,31 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.recuperar-codigo",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.clave-nueva",
@@ -577,7 +1569,31 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.clave-nueva",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.clave-lista",
@@ -587,7 +1603,31 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.clave-lista",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.invitar",
@@ -597,7 +1637,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.invitar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "acceso.invitacion-invalida",
@@ -607,7 +1663,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "acceso.invitacion-invalida",
+        "role": null
+      }
+    ]
   },
   {
     "id": "bienvenida.bono",
@@ -617,7 +1689,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "bienvenida.bono",
+        "role": null
+      }
+    ]
   },
   {
     "id": "bienvenida.sin-bono",
@@ -627,7 +1715,255 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "bienvenida.sin-bono",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.mfa-alta",
+    "title": "Protege tu cuenta",
+    "state": "Enrolamiento MFA",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.mfa-alta",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.recuperadores",
+    "title": "Guárdalos antes de entrar",
+    "state": "Ocho recuperadores",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.recuperadores",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.mfa-recuperacion",
+    "title": "Usa un recuperador",
+    "state": "MFA con recuperador",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.mfa-recuperacion",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.mfa-error",
+    "title": "No pudimos verificar",
+    "state": "MFA inválido",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.mfa-error",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.desbloqueo",
+    "title": "Tu restaurante",
+    "state": "Bloqueo al abrir/regresar",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.desbloqueo",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.desbloqueo-error",
+    "title": "Intenta desbloquear otra vez",
+    "state": "Desbloqueo cancelado/error",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.desbloqueo-error",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.reverificar",
+    "title": "Confirma que eres tú",
+    "state": "Acción sensible requiere MFA reciente",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.reverificar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.stepup-recuperador",
+    "title": "Confirma con un recuperador",
+    "state": "Reverificación con recuperador",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.stepup-recuperador",
+        "role": null
+      }
+    ]
   },
   {
     "id": "seguridad.sesion-perdida",
@@ -637,7 +1973,117 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal",
+      "dueño",
+      "encargado",
+      "cajero",
+      "admin"
+    ],
+    "roleLabels": [
+      "Comensal",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.sesion-perdida",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.admin-web",
+    "title": "Tu panel está en la web",
+    "state": "Cuenta admin en app",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "La app indica continuar en la web. Administración no tiene un panel nativo; sus vistas están en el documento de portales.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "admin"
+    ],
+    "roleLabels": [
+      "Administración · web"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.admin-web",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.sin-restaurante",
+    "title": "Todavía sin restaurante",
+    "state": "Sin membresía",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.sin-restaurante",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "seguridad.selector",
+    "title": "¿Qué restaurante abres?",
+    "state": "Varias membresías",
+    "category": "seguridad-equipo",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "seguridad.selector",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.perfil",
@@ -647,7 +2093,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.perfil",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.arroba-ocupada",
@@ -657,7 +2119,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.arroba-ocupada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.avatar",
@@ -667,7 +2145,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.avatar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.seguridad",
@@ -677,7 +2171,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.seguridad",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.sesiones",
@@ -687,7 +2197,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.sesiones",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.borrar",
@@ -697,7 +2223,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.borrar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.borrada",
@@ -707,7 +2249,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.borrada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.sin-tarjetas",
@@ -717,7 +2275,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.sin-tarjetas",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.predeterminada",
@@ -727,7 +2301,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.predeterminada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.eliminar",
@@ -737,7 +2327,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.eliminar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.preparando",
@@ -747,7 +2353,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.preparando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.procesador",
@@ -757,7 +2379,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.procesador",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.guardando",
@@ -767,7 +2405,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.guardando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.cancelada",
@@ -777,7 +2431,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.cancelada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "tarjetas.incierta",
@@ -787,17 +2457,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Alta y gestión de tarjetas implementadas en pruebas. Agregar una tarjeta bancaria real requiere afiliación y habilitación del proveedor de pagos.",
-    "primary": false
-  },
-  {
-    "id": "cuenta.turno",
-    "title": "Tu cuenta y tu turno",
-    "state": "Cuenta personal con acceso al turno del local",
-    "category": "cuenta",
-    "status": "actual",
-    "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "tarjetas.incierta",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.ubicacion",
@@ -807,7 +2483,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.ubicacion",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.medicion",
@@ -817,7 +2509,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.medicion",
+        "role": null
+      }
+    ]
   },
   {
     "id": "soporte.enviado",
@@ -827,7 +2535,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "soporte.enviado",
+        "role": null
+      }
+    ]
   },
   {
     "id": "soporte.error",
@@ -837,7 +2561,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "soporte.error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugares.filtros",
@@ -847,7 +2587,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugares.filtros",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugares.busqueda",
@@ -857,7 +2613,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugares.busqueda",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugares.sin-resultados",
@@ -867,7 +2639,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugares.sin-resultados",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugares.catalogo-vacio",
@@ -877,7 +2665,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugares.catalogo-vacio",
+        "role": null
+      }
+    ]
   },
   {
     "id": "mapa.zona",
@@ -887,7 +2691,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "mapa.zona",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugar.sucursales",
@@ -897,7 +2717,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugar.sucursales",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugar.direcciones",
@@ -907,7 +2743,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugar.direcciones",
+        "role": null
+      }
+    ]
   },
   {
     "id": "lugar.no-disponible",
@@ -917,7 +2769,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "lugar.no-disponible",
+        "role": null
+      }
+    ]
   },
   {
     "id": "platos.local",
@@ -927,7 +2795,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "platos.local",
+        "role": null
+      }
+    ]
   },
   {
     "id": "platos.sin-marcas",
@@ -937,7 +2821,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "platos.sin-marcas",
+        "role": null
+      }
+    ]
   },
   {
     "id": "carta.plato",
@@ -947,7 +2847,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "carta.plato",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.elegir",
@@ -957,7 +2873,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.elegir",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.confirmada",
@@ -967,7 +2899,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.confirmada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.sin-cupo",
@@ -977,7 +2925,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.sin-cupo",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.cancelar",
@@ -987,7 +2951,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.cancelar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.cancelada",
@@ -997,7 +2977,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.cancelada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "reservas.desactivada",
@@ -1007,7 +3003,23 @@
     "status": "condicional",
     "availability": "Sujeto a habilitación",
     "context": "Requiere habilitación y cupos del local. Las reservas de esta muestra no están disponibles en De Calle.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "reservas.desactivada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.selector",
@@ -1016,8 +3028,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
+    "context": "Selección previa de restaurante y local, cuando todavía no están elegidos. No se repite al entrar desde una sucursal o QR.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.selector",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.pos-caido",
@@ -1027,7 +3055,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.pos-caido",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.cuenta-cambio",
@@ -1037,7 +3081,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.cuenta-cambio",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.otra-tarjeta",
@@ -1047,7 +3107,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.otra-tarjeta",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.sin-tarjeta",
@@ -1057,7 +3133,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.sin-tarjeta",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.propina-libre",
@@ -1067,7 +3159,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.propina-libre",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.propina-mesa",
@@ -1077,7 +3185,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.propina-mesa",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.sin-creditos",
@@ -1087,7 +3211,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.sin-creditos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.todo-credito",
@@ -1097,7 +3237,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.todo-credito",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.bono-no-aplica",
@@ -1107,7 +3263,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.bono-no-aplica",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.limite",
@@ -1117,7 +3289,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.limite",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.resultado-incierto",
@@ -1126,8 +3314,24 @@
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
+    "context": "Alternativa si falta la respuesta definitiva. Se consulta la misma operación; todavía no se acredita el pago ni se inicia un segundo cargo.",
+    "primary": false,
+    "presentation": "Alternativa · falta confirmar el resultado",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.resultado-incierto",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.salir",
@@ -1137,57 +3341,127 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.salir",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.principal",
     "title": "Tu cuenta",
-    "state": "Pago confirmado · cierre de caja pendiente",
+    "state": "Pago confirmado",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "Pago confirmado y cierre de caja pendiente. Con Crisp el local registra y cierra la cuenta manualmente.",
-    "primary": false
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.principal",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.procesando",
-    "title": "Pago en curso",
+    "title": "Esperando confirmación",
     "state": "Esperando la confirmación del pago",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
+    "context": "Alternativa si falta la respuesta definitiva. Se consulta la misma operación; todavía no se acredita el pago ni se inicia un segundo cargo.",
+    "primary": false,
+    "presentation": "Alternativa · consultando el mismo pago",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.procesando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.devuelta",
     "title": "Devolución registrada",
-    "state": "Pago con devolución o contracargo",
+    "state": "Pago devuelto · sin QR ni sello vivo",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
-  },
-  {
-    "id": "comprobante.historico-codigo",
-    "title": "Esperando validación del local",
-    "state": "Cuenta anterior con código",
-    "category": "pago",
-    "status": "archivo",
-    "availability": "Referencia histórica",
-    "context": "Referencia de cuentas anteriores con código. El pago actual usa el número de la cuenta.",
-    "primary": false
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.devuelta",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.compartir",
     "title": "Llévate el comprobante",
-    "state": "PDF · envío al correo",
+    "state": "Opciones del comprobante",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
-    "primary": false
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.compartir",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.correo",
@@ -1197,7 +3471,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.correo",
+        "role": null
+      }
+    ]
   },
   {
     "id": "historial.filtros",
@@ -1207,7 +3497,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "historial.filtros",
+        "role": null
+      }
+    ]
   },
   {
     "id": "historial.vacio",
@@ -1217,7 +3523,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "historial.vacio",
+        "role": null
+      }
+    ]
   },
   {
     "id": "creditos.movimientos",
@@ -1227,7 +3549,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "creditos.movimientos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "creditos.vacio",
@@ -1237,7 +3575,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "creditos.vacio",
+        "role": null
+      }
+    ]
   },
   {
     "id": "postpago.atribucion",
@@ -1247,7 +3601,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "postpago.atribucion",
+        "role": null
+      }
+    ]
   },
   {
     "id": "postpago.ya-guardado",
@@ -1257,7 +3627,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "postpago.ya-guardado",
+        "role": null
+      }
+    ]
   },
   {
     "id": "resena.lugar",
@@ -1267,7 +3653,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "resena.lugar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "resena.editar",
@@ -1277,7 +3679,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "resena.editar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "resena.sin-visita",
@@ -1287,7 +3705,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "resena.sin-visita",
+        "role": null
+      }
+    ]
   },
   {
     "id": "foto.comentarios",
@@ -1297,7 +3731,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "foto.comentarios",
+        "role": null
+      }
+    ]
   },
   {
     "id": "foto.editar",
@@ -1307,7 +3757,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "foto.editar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "foto.denunciar",
@@ -1317,7 +3783,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "foto.denunciar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "foto.reporte-enviado",
@@ -1327,7 +3809,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "foto.reporte-enviado",
+        "role": null
+      }
+    ]
   },
   {
     "id": "foto.oculta",
@@ -1337,7 +3835,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "foto.oculta",
+        "role": null
+      }
+    ]
   },
   {
     "id": "fotos.mas",
@@ -1347,7 +3861,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "fotos.mas",
+        "role": null
+      }
+    ]
   },
   {
     "id": "amigos.listas",
@@ -1357,7 +3887,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "amigos.listas",
+        "role": null
+      }
+    ]
   },
   {
     "id": "amigos.privado",
@@ -1367,7 +3913,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "amigos.privado",
+        "role": null
+      }
+    ]
   },
   {
     "id": "amigos.no-encontrado",
@@ -1377,7 +3939,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "amigos.no-encontrado",
+        "role": null
+      }
+    ]
   },
   {
     "id": "ranking.filtros",
@@ -1387,7 +3965,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "ranking.filtros",
+        "role": null
+      }
+    ]
   },
   {
     "id": "guardados.quitar",
@@ -1397,7 +3991,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "guardados.quitar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "guardados.vacio",
@@ -1407,7 +4017,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "guardados.vacio",
+        "role": null
+      }
+    ]
   },
   {
     "id": "notas.filtros",
@@ -1417,7 +4043,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "notas.filtros",
+        "role": null
+      }
+    ]
   },
   {
     "id": "novedades.leer",
@@ -1427,7 +4069,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "novedades.leer",
+        "role": null
+      }
+    ]
   },
   {
     "id": "preferencias.todos",
@@ -1437,7 +4095,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "Las dos preferencias de novedades guardan tu elección; el envío de esos avisos todavía está pendiente.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "preferencias.todos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "preferencias.permiso",
@@ -1447,17 +4121,641 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "preferencias.permiso",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "preferencias.notas",
-    "title": "Quién ve tus notas",
-    "state": "Propuesta de editor de privacidad",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dueño.hoy",
+    "title": "Hoy en tus mesas",
+    "state": "Vista principal",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [
+      "6.3"
+    ],
+    "captures": [
+      {
+        "file": "dueño.hoy",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dueño.mas",
+    "title": "Más",
+    "state": "Menú por permisos",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [
+      "6.7"
+    ],
+    "captures": [
+      {
+        "file": "dueño.mas",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "encargado.hoy",
+    "title": "Hoy en tus mesas",
+    "state": "Vista principal",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "encargado"
+    ],
+    "roleLabels": [
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "encargado.hoy",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "encargado.mas",
+    "title": "Más",
+    "state": "Menú por permisos",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "encargado"
+    ],
+    "roleLabels": [
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "encargado.mas",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "cajero.hoy",
+    "title": "Hoy en tus mesas",
+    "state": "Vista principal",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "cajero"
+    ],
+    "roleLabels": [
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cajero.hoy",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "cajero.mas",
+    "title": "Más",
+    "state": "Menú por permisos",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "cajero"
+    ],
+    "roleLabels": [
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cajero.mas",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.cuenta",
+    "title": "Cuenta 3816",
+    "state": "Operación simplificada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.cuenta",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.cobro",
+    "title": "Detalle del cobro",
+    "state": "Detalle histórico · enlace incidencia",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.cobro",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.cobros-filtros",
+    "title": "Encuentra un cobro",
+    "state": "Filtros · búsqueda · exportar",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [
+      "6.4"
+    ],
+    "captures": [
+      {
+        "file": "restaurante.cobros-filtros",
+        "role": null
+      },
+      {
+        "file": "restaurante.cobros-filtros-encargado",
+        "role": "encargado"
+      }
+    ]
+  },
+  {
+    "id": "restaurante.exportar",
+    "title": "Tu planilla al correo",
+    "state": "Exportación con MFA reciente",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.exportar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.credito",
+    "title": "Consumo disponible",
+    "state": "Por sociedad · lotes · disponible",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [
+      "6.6"
+    ],
+    "captures": [
+      {
+        "file": "restaurante.credito",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.pedir-credito",
+    "title": "Conversemos el próximo tramo",
+    "state": "Vista principal",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.pedir-credito",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.credito-enviado",
+    "title": "Solicitud recibida",
+    "state": "Solicitud enviada · duplicada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.credito-enviado",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.verificar",
+    "title": "Verificar un pago.",
+    "state": "Operación simplificada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.verificar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.resenas",
+    "title": "Qué repetirían tus clientes",
+    "state": "Lugar · plato · paginación",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.resenas",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.incidencia",
+    "title": "Cuéntanos qué pasó",
+    "state": "Nuevo reporte · vínculo transacción",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.incidencia",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.incidencias-lista",
+    "title": "Tus incidencias",
+    "state": "Lista · respuesta · confirmación enviada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.incidencias-lista",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.equipo",
+    "title": "Verificar sin instalar nada.",
+    "state": "Operación simplificada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño"
+    ],
+    "roleLabels": [
+      "Dueño"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.equipo",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.avisos",
+    "title": "Avisos del restaurante",
+    "state": "Inbox · lectura · enlace a destino",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.avisos",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.ajustes-avisos",
+    "title": "Que suene lo que importa",
+    "state": "Preferencias · permisos · rollback",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.ajustes-avisos",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.seguridad",
+    "title": "Tu acceso al restaurante",
+    "state": "Reutiliza correo/contraseña y sesiones",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.seguridad",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.practicar",
+    "title": "Así se verifica un pago.",
+    "state": "Operación simplificada",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.practicar",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.catalogo.carga",
@@ -1467,7 +4765,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.catalogo.carga",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.catalogo.error",
@@ -1477,7 +4791,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.catalogo.error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.catalogo.guardando",
@@ -1487,7 +4817,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.catalogo.guardando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.comunidad.carga",
@@ -1497,7 +4843,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.comunidad.carga",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.comunidad.error",
@@ -1507,7 +4869,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.comunidad.error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.comunidad.guardando",
@@ -1517,7 +4895,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.comunidad.guardando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.cuenta.carga",
@@ -1527,7 +4921,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.cuenta.carga",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.cuenta.error",
@@ -1537,7 +4947,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.cuenta.error",
+        "role": null
+      }
+    ]
   },
   {
     "id": "estado.cuenta.guardando",
@@ -1547,7 +4973,113 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.cuenta.guardando",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "estado.restaurante.carga",
+    "title": "Tu restaurante",
+    "state": "Estado de carga",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.restaurante.carga",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "estado.restaurante.error",
+    "title": "Tu restaurante",
+    "state": "Error de carga con opción de reintentar",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.restaurante.error",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "estado.restaurante.guardando",
+    "title": "Tu restaurante",
+    "state": "Cambios en proceso de guardado",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "estado.restaurante.guardando",
+        "role": null
+      }
+    ]
   },
   {
     "id": "pago.mas-digitos",
@@ -1557,7 +5089,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "pago.mas-digitos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.clave-cambiada",
@@ -1567,7 +5115,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.clave-cambiada",
+        "role": null
+      }
+    ]
   },
   {
     "id": "cuenta.correo-pendiente",
@@ -1577,7 +5141,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "cuenta.correo-pendiente",
+        "role": null
+      }
+    ]
   },
   {
     "id": "amigos.notas-amigos",
@@ -1587,7 +5167,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "amigos.notas-amigos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "vacio.fotos",
@@ -1597,7 +5193,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "vacio.fotos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "vacio.opiniones",
@@ -1607,7 +5219,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "vacio.opiniones",
+        "role": null
+      }
+    ]
   },
   {
     "id": "vacio.notas",
@@ -1617,7 +5245,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "vacio.notas",
+        "role": null
+      }
+    ]
   },
   {
     "id": "vacio.amigos",
@@ -1627,7 +5271,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "vacio.amigos",
+        "role": null
+      }
+    ]
   },
   {
     "id": "vacio.novedades",
@@ -1637,7 +5297,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "vacio.novedades",
+        "role": null
+      }
+    ]
   },
   {
     "id": "invitacion.invitados",
@@ -1647,37 +5323,75 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
-  },
-  {
-    "id": "invitacion.premio",
-    "title": "Ganan los dos",
-    "state": "Ejemplo del premio por invitar · actualmente suspendido",
-    "category": "comunidad",
-    "status": "condicional",
-    "availability": "Premio por invitar · suspendido",
-    "context": "Los premios nuevos por invitar están suspendidos. Hoy se comparte el enlace sin ofrecer una recompensa.",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "invitacion.invitados",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.sello",
-    "title": "Tu pago está confirmado",
+    "title": "Tu comprobante.",
     "state": "Sello vivo · primeras seis horas",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "El sello aparece durante las primeras seis horas. El local verifica el pago en su propia vista de Vamo’a.",
-    "primary": false
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.sello",
+        "role": null
+      }
+    ]
   },
   {
     "id": "comprobante.sin-sello",
     "title": "Un comprobante para guardar",
-    "state": "Comprobante guardado · después de seis horas",
+    "state": "Comprobante guardado después de seis horas",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "El comprobante se conserva. Después de seis horas deja de mostrar el sello vivo.",
-    "primary": false
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.sin-sello",
+        "role": null
+      }
+    ]
   },
   {
     "id": "bienvenida.revision",
@@ -1687,7 +5401,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "bienvenida.revision",
+        "role": null
+      }
+    ]
   },
   {
     "id": "soporte.principal",
@@ -1697,7 +5427,23 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "soporte.principal",
+        "role": null
+      }
+    ]
   },
   {
     "id": "mapa.no-disponible",
@@ -1707,136 +5453,1038 @@
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
-    "primary": false
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "mapa.no-disponible",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas",
-    "title": "Quién ve tus notas",
-    "state": "Editor de privacidad propuesto",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.inicio",
+    "title": "Tu cuenta.",
+    "state": "Entrada desde detalle",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · entrada desde detalle",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.inicio",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas-privadas",
-    "title": "Sólo tú",
-    "state": "Selección de notas privadas",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.configurar",
+    "title": "Entre todos.",
+    "state": "Reparto igual · tres personas",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · reparto igual · tres personas",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.configurar",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas-guardando",
-    "title": "Guardando tu elección",
-    "state": "Guardando la privacidad elegida",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.dos",
+    "title": "Entre todos.",
+    "state": "Variante · dos personas",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · variante · dos personas",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.dos",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas-error",
-    "title": "Tu elección sigue aquí",
-    "state": "Error al guardar · conserva la elección",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.montos",
+    "title": "Cada uno, su parte.",
+    "state": "Variante · importes acordados",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · variante · importes acordados",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.montos",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas-listas",
-    "title": "Tu privacidad, al día",
-    "state": "Privacidad guardada",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.invitar",
+    "title": "La cuenta, entre todos.",
+    "state": "Grupo · compartir invitación",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · grupo · compartir invitación",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.invitar",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.notas-salir",
-    "title": "¿Salir sin guardar?",
-    "state": "Confirmación para salir sin guardar",
-    "category": "cuenta",
-    "status": "propuesta",
-    "availability": "Propuesta · no disponible",
-    "context": "Propuesta para completar el editor de privacidad. Este control aún no está disponible en la app.",
-    "primary": false
+    "id": "dividir.unirse",
+    "title": "Tu parte te espera.",
+    "state": "Invitado · reclamar parte libre",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · invitado · reclamar parte libre",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.unirse",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet",
-    "title": "Cómo quieres pagar",
-    "state": "Selección de Apple Pay en iPhone",
+    "id": "dividir.grupo",
+    "title": "La cuenta, entre todos.",
+    "state": "Grupo creado · sin pagos",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · grupo creado · sin pagos",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.grupo",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.confirmar",
+    "title": "La propina",
+    "state": "Confirmación individual",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · confirmación individual",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.confirmar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.esperando",
+    "title": "Verificando tu parte.",
+    "state": "Alternativa · resultado incierto",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alternativa · resultado incierto",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.esperando",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.mi-parte",
+    "title": "Ya casi están.",
+    "state": "Grupo · mi parte confirmada",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · grupo · mi parte confirmada",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.mi-parte",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.pendiente",
+    "title": "Ya casi están.",
+    "state": "Grupo · falta una parte",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · grupo · falta una parte",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.pendiente",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.cubrir",
+    "title": "¿Cubres esta parte?",
+    "state": "Alerta nativa · asumir otra parte",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alerta nativa · asumir otra parte",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.cubrir",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.completa",
+    "title": "La mesa está pagada.",
+    "state": "Resultado del grupo · QR disponible",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · resultado del grupo · QR disponible",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.completa",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.cubierta",
+    "title": "La mesa está pagada.",
+    "state": "Alternativa · saldo cubierto por otra persona",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alternativa · saldo cubierto por otra persona",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.cubierta",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.comprobante",
+    "title": "Tu comprobante.",
+    "state": "Documento individual · consumo asignado",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · documento individual · consumo asignado",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.comprobante",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.rechazo",
+    "title": "Prueba con otra tarjeta.",
+    "state": "Alternativa · rechazo definitivo",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alternativa · rechazo definitivo",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.rechazo",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.cuenta-cambio",
+    "title": "Revisemos la cuenta.",
+    "state": "Alternativa · cambio en Crisp",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alternativa · cambio en Crisp",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.cuenta-cambio",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.cancelar",
+    "title": "¿Cancelar la división?",
+    "state": "Alerta nativa · cancelar antes del primer cobro",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alerta nativa · cancelar antes del primer cobro",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.cancelar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "dividir.invitacion-vencida",
+    "title": "Pide otra invitación.",
+    "state": "Alternativa · invitación inválida",
+    "category": "dividir",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "Flujo implementado, sujeto a habilitación por servidor y certificación del PSP. Cada persona paga su parte con su tarjeta y créditos; la propina sugerida es 10% de su consumo antes de créditos. El QR muestra si toda la mesa está cubierta; el restaurante gestiona su caja sin confirmar cierre en Vamo’a. Las variantes no son pasos adicionales.",
+    "primary": false,
+    "presentation": "División de cuenta · alternativa · invitación inválida",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "dividir.invitacion-vencida",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.pagada",
+    "title": "Mesa pagada.",
+    "state": "Cuenta completa",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.pagada",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.parcial",
+    "title": "La mesa sigue pagando.",
+    "state": "Grupo incompleto",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.parcial",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.completa",
+    "title": "Mesa pagada.",
+    "state": "Grupo completo",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.completa",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.procesando",
+    "title": "Pago en curso.",
+    "state": "Resultado incierto",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.procesando",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.devuelta",
+    "title": "Pago con devolución.",
+    "state": "Reversa vigente",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.devuelta",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.sin-conexion",
+    "title": "No pudimos verificar.",
+    "state": "Error de consulta",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.sin-conexion",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.enlace-invalido",
+    "title": "Pide el comprobante vigente.",
+    "state": "Enlace inválido",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.enlace-invalido",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.cuenta-cambio",
+    "title": "La cuenta cambió.",
+    "state": "POS modificado",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.cuenta-cambio",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "verificacion.cargando",
+    "title": "Consultando el pago…",
+    "state": "Carga",
+    "category": "verificacion",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Verificación implementada. Cámara → navegador → estado vigente de nuestra API, sin usuario, turno ni cierre. No expone tarjetas, créditos o datos personales.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "mesero",
+      "dueño",
+      "encargado",
+      "cajero",
+      "caja"
+    ],
+    "roleLabels": [
+      "Garzón",
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta",
+      "Caja · web"
+    ],
+    "platform": "web",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "verificacion.cargando",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "comprobante.qr",
+    "title": "Muéstralo y listo.",
+    "state": "Mostrar QR vigente",
     "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.qr",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-android",
-    "title": "Paga desde Android",
-    "state": "Selección de Google Pay en Android",
+    "id": "comprobante.ticket",
+    "title": "Tu comprobante, en papel.",
+    "state": "Ticket térmico de 58 u 80 mm",
     "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.ticket",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-hoja",
-    "title": "Confirma en tu teléfono",
-    "state": "Confirmación de pago en la hoja del teléfono",
+    "id": "comprobante.imprimir",
+    "title": "Imprimir ticket",
+    "state": "Hoja del sistema · elegir ancho",
     "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.imprimir",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-cancelado",
-    "title": "Puedes elegir otra forma",
-    "state": "Pago cancelado en la hoja del teléfono",
+    "id": "comprobante.qr-cargando",
+    "title": "Tu comprobante.",
+    "state": "QR en carga",
     "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.qr-cargando",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-error",
-    "title": "No pudimos iniciar el pago",
-    "state": "Error antes de iniciar el cobro",
+    "id": "comprobante.qr-no-vigente",
+    "title": "Tu comprobante.",
+    "state": "Enlace vencido o revocado · sin tarjeta QR",
     "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "Flujo implementado: comprobante con QR, verificación sin registro del garzón y caja a cargo del restaurante. El sello animado no sustituye la consulta al servidor.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "comprobante.qr-no-vigente",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-incierto",
-    "title": "Estamos revisando tu pago",
-    "state": "Resultado del pago todavía por confirmar",
-    "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "id": "restaurante.reservas",
+    "title": "Reservas",
+    "state": "Reservas de hoy en adelante por día",
+    "category": "restaurante",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "",
+    "primary": true,
+    "presentation": "Vista principal",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.reservas",
+        "role": null
+      }
+    ]
   },
   {
-    "id": "propuesta.wallet-no-disponible",
-    "title": "Elige una tarjeta guardada",
-    "state": "Alternativa con una tarjeta guardada",
-    "category": "pago",
-    "status": "propuesta",
-    "availability": "Apple Pay / Google Pay · pendiente",
-    "context": "Apple Pay y Google Pay aún requieren integración. Las tarjetas guardadas sí forman parte del producto.",
-    "primary": false
+    "id": "restaurante.reserva-cancelar",
+    "title": "Cancelar reserva",
+    "state": "Cancelación de reserva · nota opcional",
+    "category": "restaurante",
+    "status": "condicional",
+    "availability": "Sujeto a habilitación",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.reserva-cancelar",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "restaurante.practicar-parcial",
+    "title": "Así se verifica un pago.",
+    "state": "Ejemplo de una mesa con pago parcial",
+    "category": "restaurante",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "dueño",
+      "encargado",
+      "cajero"
+    ],
+    "roleLabels": [
+      "Dueño",
+      "Encargado",
+      "Cajero con cuenta"
+    ],
+    "platform": "app",
+    "consumer": false,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "restaurante.practicar-parcial",
+        "role": null
+      }
+    ]
   }
 ]

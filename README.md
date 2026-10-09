@@ -1,6 +1,6 @@
 # Vamo’a · Diseño de app y sitio web
 
-`guia/` reúne marca, producto y las láminas del comensal.
+`guia/` reúne marca, producto y la guía del comensal y el lienzo de todos los roles.
 
 - [App en formato guía](guia/app.html)
 - [App en formato lienzo](guia/app-lienzo.html)

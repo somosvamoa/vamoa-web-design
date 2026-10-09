@@ -6,3 +6,8 @@
 @media(max-width:760px){.canvas-toolbar .canvas-search{min-width:140px;flex:1 1 calc(100% - 90px)}}
 .canvas-context p{top:auto;bottom:24px}
 @media(max-width:760px){.canvas-toolbar{position:relative}.canvas-help{position:static}.canvas-help>div{top:calc(100% + 8px);left:12px;right:12px;width:auto;max-width:none;max-height:calc(100dvh - 250px);overflow:auto}}
+/* Role filters remain legible without reducing the viewport to a long toolbar. */
+.canvas-toolbar{flex-wrap:wrap}.canvas-toolbar select{width:175px}.canvas-search{min-width:160px}.canvas-role-note{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:9px 22px;background:#18332c;border-bottom:1px solid #496047;font-size:11px;line-height:1.5;flex-shrink:0;color:#bcc8b4}.canvas-role-note a{color:#d4df60;white-space:nowrap}.canvas-caption .canvas-role-caption{color:#d4df60}.canvas-help>div{max-height:min(620px,calc(100dvh - 190px));overflow:auto}
+@media(max-width:1100px){.canvas-toolbar{gap:8px}.canvas-toolbar select{width:155px}.canvas-search{flex-basis:200px}.canvas-role-note{padding:8px 16px}}
+@media(max-width:760px){.canvas-toolbar label:has(select){flex:1 1 calc(50% - 8px)}.canvas-toolbar select{width:100%}.canvas-role-note{padding:8px 12px;gap:5px;align-items:start;flex-direction:column;font-size:10px}.canvas-role-note a{font-size:10px}.canvas-caption{min-height:145px}}
+.canvas-index-item[data-status="adoptado"] .index-dot{background:#d4df60}.canvas-frame[data-status="adoptado"]{border-color:#a5b65b}
