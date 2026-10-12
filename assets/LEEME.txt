@@ -1,0 +1,10 @@
+Vamo’a · Recursos para diseño
+Logotipo: usar SVG original; no redibujar ni cambiar Space Grotesk.
+Títulos: Bricolage Grotesque. Texto: Schibsted Grotesk.
+Pantallas: referencias de la interfaz actual con datos de ejemplo.
+Dividir cuenta: implementada detrás de una bandera; no anunciar pagos reales sin habilitación.
+Verificación QR: implementada; el ticket requiere impresora compatible. El sello animado no reemplaza la verificación en servidor.
+Fotos De Calle: referencia real de producto; confirmar autorización para campañas antes de publicarlas.
+CTA actual: lista de espera.
+Recuperado: 20% del consumo pagado, excluye créditos usados y propina.
+Invitaciones: la composición 5.8 conserva una propuesta visual con premios; los premios nuevos siguen desactivados en el producto.

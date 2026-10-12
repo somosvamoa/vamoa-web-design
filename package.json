@@ -1,0 +1,20 @@
+{
+  "name": "vamoa-design",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static Vamo’a design references and optional validation tools",
+  "scripts": {
+    "check": "python3 scripts/verificar-referencias.py",
+    "check:browser": "node scripts/verificar-navegador.mjs",
+    "check:layout": "node scripts/verificar-layout.mjs",
+    "capture:app": "node scripts/capturar-pantallas.mjs",
+    "catalog": "python3 scripts/actualizar-recursos.py",
+    "pack": "python3 scripts/actualizar-paquete.py"
+  },
+  "devDependencies": {
+    "puppeteer-core": "25.11.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

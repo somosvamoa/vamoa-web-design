@@ -1,0 +1,4950 @@
+[
+  {
+    "file": "assets/app/capturas/0.1.png",
+    "name": "0.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 881346,
+    "sha256": "a7d4078bdaffd02720bb1ed55afaa7986e3894a6e3adc148b0c99e826107353a",
+    "views": [
+      {
+        "label": "0.1 · Portada",
+        "href": "guia/pantalla.html?id=0.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.2.png",
+    "name": "0.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 90728,
+    "sha256": "f2834b3d6d089c0d754d319eb35b25900ed759584f37bafc2e7caec46c9c1ed2",
+    "views": [
+      {
+        "label": "0.2 · Crea tu cuenta",
+        "href": "guia/pantalla.html?id=0.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.3.png",
+    "name": "0.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 87933,
+    "sha256": "521dabf2e621efc29ee785588662cc19eb6f3183172dc50915864459131fe9c9",
+    "views": [
+      {
+        "label": "0.3 · Revisa tu correo",
+        "href": "guia/pantalla.html?id=0.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.4.png",
+    "name": "0.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 119860,
+    "sha256": "baaa9e83f11a31e806db3372b1c2c72dd03d62006880e63a3436acb930c3ad05",
+    "views": [
+      {
+        "label": "0.4 · Tu cuenta está lista",
+        "href": "guia/pantalla.html?id=0.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.5.png",
+    "name": "0.5.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 80767,
+    "sha256": "f2f58943f81106e3c3925b0d740406455b0fdaff17a18800e93ae3157e3bb30c",
+    "views": [
+      {
+        "label": "0.5 · Recuperar tu clave",
+        "href": "guia/pantalla.html?id=0.5"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.6.png",
+    "name": "0.6.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 20024,
+    "sha256": "0e59e25f5b17a5fc813b09872c00f00ecec5b6cc6ca447d27a77b57330a5dd1e",
+    "views": [
+      {
+        "label": "0.6 · Carga",
+        "href": "guia/pantalla.html?id=0.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/0.7.png",
+    "name": "0.7.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 98229,
+    "sha256": "a641b905d4e49f3459fd78b3aa87caeaff526db59bf988744989e6c0bac85822",
+    "views": [
+      {
+        "label": "0.7 · Ubicación",
+        "href": "guia/pantalla.html?id=0.7"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/1.1.png",
+    "name": "1.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 653629,
+    "sha256": "c4269db54b3b6c51e8b17fb8493e78137f74ae68c88a031087ad8436af0fa924",
+    "views": [
+      {
+        "label": "1.1 · Lugares",
+        "href": "guia/pantalla.html?id=1.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/1.2.png",
+    "name": "1.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 181772,
+    "sha256": "8028c3c2e567a026c2fbba5ef63528479b4811fb96501a2d3f72a77202f9e371",
+    "views": [
+      {
+        "label": "1.2 · Búsqueda",
+        "href": "guia/pantalla.html?id=1.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/1.3.png",
+    "name": "1.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 912378,
+    "sha256": "8d6daf4c13aa9222820cfed0fcef29a3d3bf72025398dc95111574a3427bbdf8",
+    "views": [
+      {
+        "label": "1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/1.4.png",
+    "name": "1.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 252109,
+    "sha256": "737dbdbdab20e9968701c368e9ff3553f925cfa545632f1d17f37f061978b955",
+    "views": [
+      {
+        "label": "1.4 · Mapa",
+        "href": "guia/pantalla.html?id=1.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/1.5.png",
+    "name": "1.5.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 257915,
+    "sha256": "e0e6bd04c1d314772853482e627c8e0797473482f32ac7a48ba07ecbb528e8fb",
+    "views": [
+      {
+        "label": "1.5 · Mapa · acercado",
+        "href": "guia/pantalla.html?id=1.5"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.1.png",
+    "name": "2.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 817670,
+    "sha256": "7883cddf9c68af3b42ebe612c2708ba84e786873ed199d12dc99d55a9a2e4bb1",
+    "views": [
+      {
+        "label": "2.1 · Detalle · arriba",
+        "href": "guia/pantalla.html?id=2.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.2.png",
+    "name": "2.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 704905,
+    "sha256": "057cafcdce0da1895723476373ed5887a18523ac97ff461ecd44bb5c7c347afa",
+    "views": [
+      {
+        "label": "2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.3.png",
+    "name": "2.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 1114612,
+    "sha256": "8be013b2f9895e066774a9f04feb82d396aa788cb8684cc709af5c694d5d352f",
+    "views": [
+      {
+        "label": "2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.4.png",
+    "name": "2.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 1159424,
+    "sha256": "2c319efe42ef358b0aa6f84e33fb881c8b2573be9e6c49e0584afd3044b76774",
+    "views": [
+      {
+        "label": "2.4 · Foto de un plato",
+        "href": "guia/pantalla.html?id=2.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.5.png",
+    "name": "2.5.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 208294,
+    "sha256": "a0fc8fda52f1fa1734d666e5cedf82ebe242fbdf2e9ba6d12513e399eedefdd4",
+    "views": [
+      {
+        "label": "2.5 · Lo que dice la gente",
+        "href": "guia/pantalla.html?id=2.5"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/2.6.png",
+    "name": "2.6.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 342495,
+    "sha256": "b077958cd438def2a6cbc8ceb58ca54478535f319c43937f445dd98fe15b2bc8",
+    "views": [
+      {
+        "label": "2.6 · La carta",
+        "href": "guia/pantalla.html?id=2.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.1.png",
+    "name": "3.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 134821,
+    "sha256": "4a67df8a69d9e8d89ce8c4fe803641c50961c9f39928c014813ef98e1c440051",
+    "views": [
+      {
+        "label": "3.1 · ¿Dónde estás comiendo?",
+        "href": "guia/pantalla.html?id=3.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.10.png",
+    "name": "3.10.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 98298,
+    "sha256": "6670d08da47becd9f8d7d9664a711c2a4a9e41b47e8ad2172718502a746b8b77",
+    "views": [
+      {
+        "label": "3.10 · Comprobante",
+        "href": "guia/pantalla.html?id=3.10"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.2.png",
+    "name": "3.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 88424,
+    "sha256": "026662ce26d41093b70dcbc7b21efbcdfd0a4724096443dce5f0d5a85e273ac8",
+    "views": [
+      {
+        "label": "3.2 · Número de la cuenta",
+        "href": "guia/pantalla.html?id=3.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.3.png",
+    "name": "3.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 85198,
+    "sha256": "c6f1e49b75ac9e4414780ea80ea6b3f15b10207af41b7ef8f2d09aaa624a6767",
+    "views": [
+      {
+        "label": "3.3 · Cuenta no encontrada",
+        "href": "guia/pantalla.html?id=3.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.4.png",
+    "name": "3.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 145414,
+    "sha256": "bf8dfcfb57dcb55947f0000955f52b918673560d31aebf69cd3b1f34e4a7fab2",
+    "views": [
+      {
+        "label": "3.4 · Tu cuenta, desde la caja",
+        "href": "guia/pantalla.html?id=3.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.5.png",
+    "name": "3.5.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 119657,
+    "sha256": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36",
+    "views": [
+      {
+        "label": "3.5 · Propina y pago",
+        "href": "guia/pantalla.html?id=3.5"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.6.png",
+    "name": "3.6.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 68874,
+    "sha256": "3067f1a95a92cc1af82fd5386196b8d4e195a8798c943ef3bdc6cfe83f4c2714",
+    "views": [
+      {
+        "label": "3.6 · Pagando",
+        "href": "guia/pantalla.html?id=3.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.7.png",
+    "name": "3.7.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 138752,
+    "sha256": "0a71890bc945afcd967d3e007a7af604d1ae9c0ec31756849bb9b3b3d4ec8ea0",
+    "views": [
+      {
+        "label": "3.7 · Listo · ¿Qué volverías a pedir?",
+        "href": "guia/pantalla.html?id=3.7"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.8.png",
+    "name": "3.8.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 561841,
+    "sha256": "7afdd7109acad1fc0fb682fa5bfbd8948df4090ae8b411cedbab36a732bb3ab2",
+    "views": [
+      {
+        "label": "3.8 · Reseña de un plato",
+        "href": "guia/pantalla.html?id=3.8"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/3.9.png",
+    "name": "3.9.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 68537,
+    "sha256": "144507b711737b5e0c43c22627ee067c83b1111bb58cabba46adb769bd0a695a",
+    "views": [
+      {
+        "label": "3.9 · Pago rechazado",
+        "href": "guia/pantalla.html?id=3.9"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/4.1.png",
+    "name": "4.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 136472,
+    "sha256": "c4d18c95b071651137cb713a8e428ad7da596595e26426763bce5dea5b8e7885",
+    "views": [
+      {
+        "label": "4.1 · Historial",
+        "href": "guia/pantalla.html?id=4.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/4.2.png",
+    "name": "4.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 139063,
+    "sha256": "cb0d920dd258b56434b0c2dbc22575e3054335745bd5dba51929f7acba0ea665",
+    "views": [
+      {
+        "label": "4.2 · Tus créditos",
+        "href": "guia/pantalla.html?id=4.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.1.png",
+    "name": "5.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 104097,
+    "sha256": "7a16bc5f5f2ab2e3daa17a8ed0ffec8c967e48343e85d8f600bb3de8cbb9f839",
+    "views": [
+      {
+        "label": "5.1 · Cuenta",
+        "href": "guia/pantalla.html?id=5.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.10.png",
+    "name": "5.10.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 94694,
+    "sha256": "0b2b009abb1ce39136f7054cc94214f466bdb52500171bee1bef6f7075679778",
+    "views": [
+      {
+        "label": "5.10 · Notificaciones",
+        "href": "guia/pantalla.html?id=5.10"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.11.png",
+    "name": "5.11.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 89494,
+    "sha256": "7f944c2d91a8cf38dd569a5c19d4a199024a287ebf9d59a9d2e884fc0b43af77",
+    "views": [
+      {
+        "label": "5.11 · Ajustes",
+        "href": "guia/pantalla.html?id=5.11"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.12.png",
+    "name": "5.12.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 119806,
+    "sha256": "2af1676a54a4791fc5b0ab88294257dd3b14e1e913f0f341347fb92b87adc744",
+    "views": [
+      {
+        "label": "5.12 · Ayuda",
+        "href": "guia/pantalla.html?id=5.12"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.13.png",
+    "name": "5.13.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 74607,
+    "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971",
+    "views": [
+      {
+        "label": "5.13 · Reportar un problema",
+        "href": "guia/pantalla.html?id=5.13"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.2.png",
+    "name": "5.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 453869,
+    "sha256": "05ca9b5fb1460d4d1311d581ab94410499c9bd5e39d09f72cd65ea05aa1daea4",
+    "views": [
+      {
+        "label": "5.2 · Quiero probar",
+        "href": "guia/pantalla.html?id=5.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.3.png",
+    "name": "5.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 171102,
+    "sha256": "bf82eb9e3d4d273fb75baca0cf7bb5be5491a46196cfb599fe0853c0bb65e4cb",
+    "views": [
+      {
+        "label": "5.3 · Mis notas",
+        "href": "guia/pantalla.html?id=5.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.4.png",
+    "name": "5.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 105466,
+    "sha256": "fb720682c410d994fcdf3b6cfd43fee2d42b03bbee3ee7a1924fc41c5f9c0467",
+    "views": [
+      {
+        "label": "5.4 · Novedades",
+        "href": "guia/pantalla.html?id=5.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.5.png",
+    "name": "5.5.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 119575,
+    "sha256": "80cfea9223a5fdba7e8e2af0e3ce7e3710d61786c87d3933e2d9ac08046a8416",
+    "views": [
+      {
+        "label": "5.5 · Buscar amigos",
+        "href": "guia/pantalla.html?id=5.5"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.6.png",
+    "name": "5.6.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 635414,
+    "sha256": "b08b3dae07d7c22d6e10e56188b494ce7a7f53a92e1981cd2a2ec143644c0a74",
+    "views": [
+      {
+        "label": "5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.7.png",
+    "name": "5.7.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 92106,
+    "sha256": "d1576fbf4918f0f6c0481391ab81bc7dc2e7185c2a3192a49258a68e4ebed384",
+    "views": [
+      {
+        "label": "5.7 · Quién salió más",
+        "href": "guia/pantalla.html?id=5.7"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.8.png",
+    "name": "5.8.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 88523,
+    "sha256": "b348f2c6fd9394df59e02d1e5350b803d1d3d527039961d3e01b7ed6084dd8ea",
+    "views": [
+      {
+        "label": "5.8 · Trae a un amigo",
+        "href": "guia/pantalla.html?id=5.8"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/5.9.png",
+    "name": "5.9.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 79242,
+    "sha256": "53a15407a16e54860704dbd5f115178710bdccf2a2309d6b069cf7ab8dbc347c",
+    "views": [
+      {
+        "label": "5.9 · Métodos de pago",
+        "href": "guia/pantalla.html?id=5.9"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/6.1.png",
+    "name": "6.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58760,
+    "sha256": "3f46fe48f376763780dcd440c75033364252eea1b1f2348ed96d850a51a528a8",
+    "views": [
+      {
+        "label": "6.1 · Segundo factor",
+        "href": "guia/pantalla.html?id=6.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/6.2.png",
+    "name": "6.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 109799,
+    "sha256": "1dba2d7d2b46b7a91809c98f0ada3d1fd2dfd203afc3ba3285af35cbecf47f3e",
+    "views": [
+      {
+        "label": "6.2 · Inicio · resumen",
+        "href": "guia/pantalla.html?id=6.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/7.1.png",
+    "name": "7.1.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 1171100,
+    "sha256": "61f97ff31289432aa03b05f8cf33cfcd93f967a7fa3e394e25029104e06060c0",
+    "views": [
+      {
+        "label": "7.1 · Cómo se paga · 1 de 4",
+        "href": "guia/pantalla.html?id=7.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/7.2.png",
+    "name": "7.2.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 129284,
+    "sha256": "f447dd00d176a53b42c260d23c584a748a98e92f394bf7ffe4dd1d87fdcf6523",
+    "views": [
+      {
+        "label": "7.2 · Cómo se paga · 2 de 4",
+        "href": "guia/pantalla.html?id=7.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/7.3.png",
+    "name": "7.3.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 108640,
+    "sha256": "77c838d5681f81ea28e1ef463749be96df32b6c34fe786d92e939b66a03a3e99",
+    "views": [
+      {
+        "label": "7.3 · Cómo se paga · 3 de 4",
+        "href": "guia/pantalla.html?id=7.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/7.4.png",
+    "name": "7.4.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 116743,
+    "sha256": "f85d38c098b4fd5fce5152dab866c08c2438cf2ba0e728e37d825d1dd11b5174",
+    "views": [
+      {
+        "label": "7.4 · Cómo se paga · 4 de 4",
+        "href": "guia/pantalla.html?id=7.4"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.cambiar-correo.png",
+    "name": "acceso.cambiar-correo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 59440,
+    "sha256": "317c1475537d7d0221e180cf3f0b061d210d64557366295e41e74b271bb939be",
+    "views": [
+      {
+        "label": "acceso.cambiar-correo · ¿Cambiar tu correo?",
+        "href": "guia/pantalla.html?id=acceso.cambiar-correo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.clave-lista.png",
+    "name": "acceso.clave-lista.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 44302,
+    "sha256": "edb681b7d920612eb83e6cf52a5966aa0d84a4f75fc0f02f596af886bc3b4077",
+    "views": [
+      {
+        "label": "acceso.clave-lista · Tu clave está lista",
+        "href": "guia/pantalla.html?id=acceso.clave-lista"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.clave-nueva.png",
+    "name": "acceso.clave-nueva.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 60841,
+    "sha256": "6585f28cb8d14cc56ffbbe092cdca221083ce4eb99e33217f8d1866ae6a7c4d3",
+    "views": [
+      {
+        "label": "acceso.clave-nueva · Crea tu clave nueva",
+        "href": "guia/pantalla.html?id=acceso.clave-nueva"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.codigo-correo.png",
+    "name": "acceso.codigo-correo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 60093,
+    "sha256": "12023d092895eeaadf71070d8fc7ce93570910eb7c0831eed15d7dfd9d618167",
+    "views": [
+      {
+        "label": "acceso.codigo-correo · Revisa tu correo",
+        "href": "guia/pantalla.html?id=acceso.codigo-correo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.codigo-invalido.png",
+    "name": "acceso.codigo-invalido.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 55675,
+    "sha256": "769dd2ae6f208e6da359074eba78c74f6c7e423f7d6364b54c95698fc4bb65d1",
+    "views": [
+      {
+        "label": "acceso.codigo-invalido · Revisa el código",
+        "href": "guia/pantalla.html?id=acceso.codigo-invalido"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.error.png",
+    "name": "acceso.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58851,
+    "sha256": "49a11250bc0a5fbf481bec8c860eb8d4392aef20631ae3199caf860c4743aaf7",
+    "views": [
+      {
+        "label": "acceso.error · Revisa tus datos",
+        "href": "guia/pantalla.html?id=acceso.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.explorar.png",
+    "name": "acceso.explorar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 535939,
+    "sha256": "bf60f4650f87986ee6e94c18ba9d2d977e6e560084c71a783e3888a607e4da73",
+    "views": [
+      {
+        "label": "acceso.explorar · Puedes mirar primero",
+        "href": "guia/pantalla.html?id=acceso.explorar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.ingresar.png",
+    "name": "acceso.ingresar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 51354,
+    "sha256": "2ba551bdd22d0a96c3980561842c3d5300604460fffc94155abc325ad51a26e4",
+    "views": [
+      {
+        "label": "acceso.ingresar · Ingresa",
+        "href": "guia/pantalla.html?id=acceso.ingresar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.invitacion-invalida.png",
+    "name": "acceso.invitacion-invalida.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 57007,
+    "sha256": "8b8ee5fef9289b7e903d23563713470b92335dbd101975ea8f3827040b4c2c4f",
+    "views": [
+      {
+        "label": "acceso.invitacion-invalida · Puedes sumarte igual",
+        "href": "guia/pantalla.html?id=acceso.invitacion-invalida"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.invitacion-registro.png",
+    "name": "acceso.invitacion-registro.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 80686,
+    "sha256": "71987261766ac2ba3b3802eeb3749386f1c02ea3291ca5ab9c02e94902b835c7",
+    "views": [
+      {
+        "label": "acceso.invitacion-registro · Tu código de invitación",
+        "href": "guia/pantalla.html?id=acceso.invitacion-registro"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.invitar.png",
+    "name": "acceso.invitar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 545713,
+    "sha256": "1900ed3e0d0b24782dec2895b5821bf1da3a9a8cad57cfd960bf19dd1a5dd9b4",
+    "views": [
+      {
+        "label": "acceso.invitar · Una invitación a salir",
+        "href": "guia/pantalla.html?id=acceso.invitar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.recuperar-codigo.png",
+    "name": "acceso.recuperar-codigo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 55201,
+    "sha256": "50b3865977889215918f898fe48e99a68a92d7b6d731a0ba3d57e2dcbcfd5631",
+    "views": [
+      {
+        "label": "acceso.recuperar-codigo · Ingresa el código",
+        "href": "guia/pantalla.html?id=acceso.recuperar-codigo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.registro-error.png",
+    "name": "acceso.registro-error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 53978,
+    "sha256": "c46cf29053e280172e460a49e7699c81b8697f5bdb49e89355754e4bdab33d3a",
+    "views": [
+      {
+        "label": "acceso.registro-error · Algo falta",
+        "href": "guia/pantalla.html?id=acceso.registro-error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/acceso.sesion-requerida.png",
+    "name": "acceso.sesion-requerida.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 61376,
+    "sha256": "53b06d9e0deeac54bf5f527ca9b724ed63ba85cd606fd1dfa50c665574bb566a",
+    "views": [
+      {
+        "label": "acceso.sesion-requerida · Hazlo con tu cuenta",
+        "href": "guia/pantalla.html?id=acceso.sesion-requerida"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/amigos.listas.png",
+    "name": "amigos.listas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 83477,
+    "sha256": "568e68600d51378e7dd93b3d00f8ed7c1057403a44d59a0a869315fe13e799d6",
+    "views": [
+      {
+        "label": "amigos.listas · Los que salen contigo",
+        "href": "guia/pantalla.html?id=amigos.listas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/amigos.no-encontrado.png",
+    "name": "amigos.no-encontrado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 47070,
+    "sha256": "ec0f50bc5ce60c9a6d29dcacabbcfb08ec82a6cefbbeda058953feb6031b948c",
+    "views": [
+      {
+        "label": "amigos.no-encontrado · No encontramos este perfil",
+        "href": "guia/pantalla.html?id=amigos.no-encontrado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/amigos.notas-amigos.png",
+    "name": "amigos.notas-amigos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 64205,
+    "sha256": "2e5500496ed04979b9952cbfaee03ad228dafb788b30e8c5484986ea9700380b",
+    "views": [
+      {
+        "label": "amigos.notas-amigos · Estas notas son para sus amigos",
+        "href": "guia/pantalla.html?id=amigos.notas-amigos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/amigos.privado.png",
+    "name": "amigos.privado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 50184,
+    "sha256": "f0a191c8aa584012dfd4fd1f3ee0821094214f377b5fc1a9a2af09519c32199b",
+    "views": [
+      {
+        "label": "amigos.privado · Este perfil es privado",
+        "href": "guia/pantalla.html?id=amigos.privado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/bienvenida.bono.png",
+    "name": "bienvenida.bono.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 83509,
+    "sha256": "c057ea5bdff53ff17676e21e68ac55bac6c74a8bc80f5ccb2d96d18016c7ead4",
+    "views": [
+      {
+        "label": "bienvenida.bono · Tus $10.000",
+        "href": "guia/pantalla.html?id=bienvenida.bono"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/bienvenida.revision.png",
+    "name": "bienvenida.revision.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 65221,
+    "sha256": "78940174f1328d75a3e5205fa7226ee783f8c11e3977921adf3e2e5b1ffacebf",
+    "views": [
+      {
+        "label": "bienvenida.revision · Revisemos tu bienvenida",
+        "href": "guia/pantalla.html?id=bienvenida.revision"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/bienvenida.sin-bono.png",
+    "name": "bienvenida.sin-bono.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 74543,
+    "sha256": "66e4e6e67534c76fd7eb76efa8d326ce2e3884fd120c818bc261d29c94cb1ac2",
+    "views": [
+      {
+        "label": "bienvenida.sin-bono · Tu cuenta está lista",
+        "href": "guia/pantalla.html?id=bienvenida.sin-bono"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cajero.hoy.png",
+    "name": "cajero.hoy.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 104134,
+    "sha256": "97e8fe5052cc9930ebe91e50aaa0a2395cb8583172afc89f9898ce24dc3df94e",
+    "views": [
+      {
+        "label": "cajero.hoy · Hoy en tus mesas",
+        "href": "guia/pantalla.html?id=cajero.hoy"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cajero.mas.png",
+    "name": "cajero.mas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 53706,
+    "sha256": "303466703c40213cd68145e8e1408ff524fa76ec97faffb181fafcccb82a1f0b",
+    "views": [
+      {
+        "label": "cajero.mas · Más",
+        "href": "guia/pantalla.html?id=cajero.mas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/carta.plato.png",
+    "name": "carta.plato.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 525783,
+    "sha256": "86f76945a5bd18f8bb81fd9ed944d409d4d27995ff0cae15442ca4dbeaf1f176",
+    "views": [
+      {
+        "label": "carta.plato · Un plato, de cerca",
+        "href": "guia/pantalla.html?id=carta.plato"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.compartir.png",
+    "name": "comprobante.compartir.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 81595,
+    "sha256": "94808bc8737456dea07ef7996b3a51dba1cb219fabd70a5b4784b9fb076b9e7f",
+    "views": [
+      {
+        "label": "comprobante.compartir · Llévate el comprobante",
+        "href": "guia/pantalla.html?id=comprobante.compartir"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.correo.png",
+    "name": "comprobante.correo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 55665,
+    "sha256": "f33b582fa097fa2b5a5f416a49e543a27a7ef70f29bd88753ffff85fde89d5a4",
+    "views": [
+      {
+        "label": "comprobante.correo · Te enviamos tu comprobante",
+        "href": "guia/pantalla.html?id=comprobante.correo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.devuelta.png",
+    "name": "comprobante.devuelta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 91229,
+    "sha256": "33b25363c27b6eadf784a1896f3d97b4260d7625b96311319a425e06a4bcc72e",
+    "views": [
+      {
+        "label": "comprobante.devuelta · Devolución registrada",
+        "href": "guia/pantalla.html?id=comprobante.devuelta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.imprimir.png",
+    "name": "comprobante.imprimir.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 49263,
+    "sha256": "a5c06003d36bc1486f2faef9c9b077746d8c807c642ccf97a45cb736386a48c6",
+    "views": [
+      {
+        "label": "comprobante.imprimir · Imprimir ticket",
+        "href": "guia/pantalla.html?id=comprobante.imprimir"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.principal.png",
+    "name": "comprobante.principal.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 93517,
+    "sha256": "1b5b464260b5714f8d74d3440df52563d27e5a012aa01dd2956c823478b959cf",
+    "views": [
+      {
+        "label": "comprobante.principal · Tu cuenta",
+        "href": "guia/pantalla.html?id=comprobante.principal"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.procesando.png",
+    "name": "comprobante.procesando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 86229,
+    "sha256": "7fc01d9cfa1ed7fbfa3b681ae3ba2ef2afdcb13edc4f53ab70fc289325085b5b",
+    "views": [
+      {
+        "label": "comprobante.procesando · Esperando confirmación",
+        "href": "guia/pantalla.html?id=comprobante.procesando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.qr-cargando.png",
+    "name": "comprobante.qr-cargando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 96569,
+    "sha256": "10ceed7dc86fb5a594b1c9da114c9c9bb69bfc455bcefa377fbd499a410da3c7",
+    "views": [
+      {
+        "label": "comprobante.qr-cargando · Tu comprobante.",
+        "href": "guia/pantalla.html?id=comprobante.qr-cargando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.qr-no-vigente.png",
+    "name": "comprobante.qr-no-vigente.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 95154,
+    "sha256": "968bfa13107e67ecdbb6562307131769acc4dadd0c8dff804bf52e09107ef38a",
+    "views": [
+      {
+        "label": "comprobante.qr-no-vigente · Tu comprobante.",
+        "href": "guia/pantalla.html?id=comprobante.qr-no-vigente"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.qr.png",
+    "name": "comprobante.qr.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 97309,
+    "sha256": "70677c50570de1c5173e505e42694bedee94bc381f9b7d30c30aed2404b4e55b",
+    "views": [
+      {
+        "label": "comprobante.qr · Muéstralo y listo.",
+        "href": "guia/pantalla.html?id=comprobante.qr"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.sello.png",
+    "name": "comprobante.sello.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 96994,
+    "sha256": "b28060ee5907aad67e9cc063ca6f4640cf4ed2422f797b257f42160de3efed97",
+    "views": [
+      {
+        "label": "comprobante.sello · Tu comprobante.",
+        "href": "guia/pantalla.html?id=comprobante.sello"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.sin-sello.png",
+    "name": "comprobante.sin-sello.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 97711,
+    "sha256": "f8412968c83e1437cb5ab248313acdbe0a97e30fd0084730faee00820d286069",
+    "views": [
+      {
+        "label": "comprobante.sin-sello · Un comprobante para guardar",
+        "href": "guia/pantalla.html?id=comprobante.sin-sello"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/comprobante.ticket.png",
+    "name": "comprobante.ticket.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 89921,
+    "sha256": "2f271787826e3c499f4f7f1d732f70c35cb32ef010ab3f7f36643ca678f9473b",
+    "views": [
+      {
+        "label": "comprobante.ticket · Tu comprobante, en papel.",
+        "href": "guia/pantalla.html?id=comprobante.ticket"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/creditos.movimientos.png",
+    "name": "creditos.movimientos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 115283,
+    "sha256": "c895812d4709c2a23a99fb774064de90b26ca2b324118523f58614fec6d06f8e",
+    "views": [
+      {
+        "label": "creditos.movimientos · Cada crédito tiene su historia",
+        "href": "guia/pantalla.html?id=creditos.movimientos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/creditos.vacio.png",
+    "name": "creditos.vacio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 65138,
+    "sha256": "836fcf08e01e3e533209d9092efe95a4cefe84b588e1c554113a1c86e5257c8e",
+    "views": [
+      {
+        "label": "creditos.vacio · Tus créditos empiezan al pagar",
+        "href": "guia/pantalla.html?id=creditos.vacio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.arroba-ocupada.png",
+    "name": "cuenta.arroba-ocupada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 48363,
+    "sha256": "f7f0b802567dbc83511781250f7aa12a57f970f0ffd8a59c888be1e8b06c4b6b",
+    "views": [
+      {
+        "label": "cuenta.arroba-ocupada · Busca otra arroba",
+        "href": "guia/pantalla.html?id=cuenta.arroba-ocupada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.avatar.png",
+    "name": "cuenta.avatar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 51127,
+    "sha256": "d105cb124a5b49d16ef704ea906ef07aa7d401fe6cdce199f854dc79e40d111f",
+    "views": [
+      {
+        "label": "cuenta.avatar · Tu foto de perfil",
+        "href": "guia/pantalla.html?id=cuenta.avatar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.borrada.png",
+    "name": "cuenta.borrada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 70385,
+    "sha256": "b8083a25f247c3e830bb64f7e3a4b0faaa1191a5a4e31702a35c60fea130c67d",
+    "views": [
+      {
+        "label": "cuenta.borrada · Tu cuenta quedó borrada",
+        "href": "guia/pantalla.html?id=cuenta.borrada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.borrar.png",
+    "name": "cuenta.borrar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 81649,
+    "sha256": "992f03e24ec26b38b6cb2a18011bbf9add286589c95e0c8267fa770cc31fb16e",
+    "views": [
+      {
+        "label": "cuenta.borrar · Borrar mi cuenta",
+        "href": "guia/pantalla.html?id=cuenta.borrar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.clave-cambiada.png",
+    "name": "cuenta.clave-cambiada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58148,
+    "sha256": "60e0247e002f185e408550eac25c2cd6465825454109ef25788a0a71c11550b7",
+    "views": [
+      {
+        "label": "cuenta.clave-cambiada · Ingresa con tu nueva clave",
+        "href": "guia/pantalla.html?id=cuenta.clave-cambiada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.correo-pendiente.png",
+    "name": "cuenta.correo-pendiente.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 60185,
+    "sha256": "4fcf34ba61a43e9186af588347dc0d5e07f6dabfefe8f67eaee5c3a7f44b8853",
+    "views": [
+      {
+        "label": "cuenta.correo-pendiente · Confirma tu correo",
+        "href": "guia/pantalla.html?id=cuenta.correo-pendiente"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.medicion.png",
+    "name": "cuenta.medicion.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 52352,
+    "sha256": "0d68dcd99d167d48e5cd1d21b5f69f66948cfbd56fa1097a0d3c4be73cab8d69",
+    "views": [
+      {
+        "label": "cuenta.medicion · Ayúdanos a mejorar",
+        "href": "guia/pantalla.html?id=cuenta.medicion"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.perfil.png",
+    "name": "cuenta.perfil.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 60070,
+    "sha256": "7e49e5c96925353d1699199bf91350e17a73ff6ceec75fd01eaeae853b3c56da",
+    "views": [
+      {
+        "label": "cuenta.perfil · Tu perfil",
+        "href": "guia/pantalla.html?id=cuenta.perfil"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.seguridad.png",
+    "name": "cuenta.seguridad.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 75122,
+    "sha256": "30382af90260d2a66a912bc0e05edbfd888d971c1557677e6fe902c96bed4017",
+    "views": [
+      {
+        "label": "cuenta.seguridad · Correo y contraseña",
+        "href": "guia/pantalla.html?id=cuenta.seguridad"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.sesiones.png",
+    "name": "cuenta.sesiones.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 72327,
+    "sha256": "c848f150dbafdbc22f9075e19a7bea6a2fdc2a209b86d1328cfb900b18fbe83e",
+    "views": [
+      {
+        "label": "cuenta.sesiones · Tus dispositivos",
+        "href": "guia/pantalla.html?id=cuenta.sesiones"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/cuenta.ubicacion.png",
+    "name": "cuenta.ubicacion.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 69529,
+    "sha256": "2114a1963d6d4ec0e2cbdced77c7bc0acfaa487aff726cec36e3195db3452dce",
+    "views": [
+      {
+        "label": "cuenta.ubicacion · Permiso de ubicación",
+        "href": "guia/pantalla.html?id=cuenta.ubicacion"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.cancelar.png",
+    "name": "dividir.cancelar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 69877,
+    "sha256": "1c629c6b7f56cc63e700bf520b9ebd4aa36b67d31f79b917c7826958f6cafa09",
+    "views": [
+      {
+        "label": "dividir.cancelar · ¿Cancelar la división?",
+        "href": "guia/pantalla.html?id=dividir.cancelar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.completa.png",
+    "name": "dividir.completa.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 103202,
+    "sha256": "ebdf181b6941491365f751e993185cec3042ace80c31704779212da73ee81c4c",
+    "views": [
+      {
+        "label": "dividir.completa · La mesa está pagada.",
+        "href": "guia/pantalla.html?id=dividir.completa"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.comprobante.png",
+    "name": "dividir.comprobante.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 114566,
+    "sha256": "7e7f129074f090151b3a39a67627e68aa1089b1aca715c8997b87592f67988bd",
+    "views": [
+      {
+        "label": "dividir.comprobante · Tu comprobante.",
+        "href": "guia/pantalla.html?id=dividir.comprobante"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.configurar.png",
+    "name": "dividir.configurar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 114734,
+    "sha256": "3f8bf4054a845d1d1341a91589194ca8f99232d63655b6057a86cdce9e55882d",
+    "views": [
+      {
+        "label": "dividir.configurar · Entre todos.",
+        "href": "guia/pantalla.html?id=dividir.configurar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.confirmar.png",
+    "name": "dividir.confirmar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 113608,
+    "sha256": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4",
+    "views": [
+      {
+        "label": "dividir.confirmar · La propina",
+        "href": "guia/pantalla.html?id=dividir.confirmar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.cubierta.png",
+    "name": "dividir.cubierta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 104071,
+    "sha256": "3c4dafbda45ea70264014de27bfec5744c06bd6fbc39482afa2e4cdeb2badc58",
+    "views": [
+      {
+        "label": "dividir.cubierta · La mesa está pagada.",
+        "href": "guia/pantalla.html?id=dividir.cubierta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.cubrir.png",
+    "name": "dividir.cubrir.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 68692,
+    "sha256": "a0e9a7dc606316a3a2d6be8644b8ecfa8ad1566481f9870b7e483d15d405ff56",
+    "views": [
+      {
+        "label": "dividir.cubrir · ¿Cubres esta parte?",
+        "href": "guia/pantalla.html?id=dividir.cubrir"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.cuenta-cambio.png",
+    "name": "dividir.cuenta-cambio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 105856,
+    "sha256": "6d81fac6d873c73c54a238cad14a4b3daf31ad4fb3ca234d14da200b5b0fdb67",
+    "views": [
+      {
+        "label": "dividir.cuenta-cambio · Revisemos la cuenta.",
+        "href": "guia/pantalla.html?id=dividir.cuenta-cambio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.dos.png",
+    "name": "dividir.dos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 109140,
+    "sha256": "e23b3549fc4dde4d95ef811b6d01fd4d8a415a315f29f78fc38b2ad5d6e29d51",
+    "views": [
+      {
+        "label": "dividir.dos · Entre todos.",
+        "href": "guia/pantalla.html?id=dividir.dos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.esperando.png",
+    "name": "dividir.esperando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 87731,
+    "sha256": "73b11a207b41087b561d64f9eb56df9979f24424fbd86848fe0d1be29c65921e",
+    "views": [
+      {
+        "label": "dividir.esperando · Verificando tu parte.",
+        "href": "guia/pantalla.html?id=dividir.esperando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.grupo.png",
+    "name": "dividir.grupo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 106475,
+    "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38",
+    "views": [
+      {
+        "label": "dividir.grupo · La cuenta, entre todos.",
+        "href": "guia/pantalla.html?id=dividir.grupo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.inicio.png",
+    "name": "dividir.inicio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 65728,
+    "sha256": "72a3f9e39575586d701f0cc06b29651abd31946336abda5b99753077678228c1",
+    "views": [
+      {
+        "label": "dividir.inicio · Tu cuenta.",
+        "href": "guia/pantalla.html?id=dividir.inicio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.invitacion-vencida.png",
+    "name": "dividir.invitacion-vencida.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 62766,
+    "sha256": "b8ec6cef4839620fc8569670e76fade6f3438aab2ce7b770a4d49554e908fb5e",
+    "views": [
+      {
+        "label": "dividir.invitacion-vencida · Pide otra invitación.",
+        "href": "guia/pantalla.html?id=dividir.invitacion-vencida"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.invitar.png",
+    "name": "dividir.invitar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 106475,
+    "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38",
+    "views": [
+      {
+        "label": "dividir.invitar · La cuenta, entre todos.",
+        "href": "guia/pantalla.html?id=dividir.invitar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.mi-parte.png",
+    "name": "dividir.mi-parte.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 113245,
+    "sha256": "8e5dcb78fddfcd980eee6e793fb7db4e41a03fe83cd60abcf477ba2d11461d05",
+    "views": [
+      {
+        "label": "dividir.mi-parte · Ya casi están.",
+        "href": "guia/pantalla.html?id=dividir.mi-parte"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.montos.png",
+    "name": "dividir.montos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 102273,
+    "sha256": "b2a5460ad5b4f618fd6658be4fa025495d6aaa01cdcd5c8b25495b3afe171be3",
+    "views": [
+      {
+        "label": "dividir.montos · Cada uno, su parte.",
+        "href": "guia/pantalla.html?id=dividir.montos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.pendiente.png",
+    "name": "dividir.pendiente.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 110876,
+    "sha256": "8b3f578e80958ec7dc3b5fccb65a651b9b629877c37e32b0f3fe06bb2c1d3543",
+    "views": [
+      {
+        "label": "dividir.pendiente · Ya casi están.",
+        "href": "guia/pantalla.html?id=dividir.pendiente"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.rechazo.png",
+    "name": "dividir.rechazo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 96611,
+    "sha256": "33d4b7251c793086634a3c37e3254783e6005fd41b5669002ca78b052a2767b3",
+    "views": [
+      {
+        "label": "dividir.rechazo · Prueba con otra tarjeta.",
+        "href": "guia/pantalla.html?id=dividir.rechazo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dividir.unirse.png",
+    "name": "dividir.unirse.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 101856,
+    "sha256": "2c34623a9b804279ce8727a324798493a8dab393b9fdd1b7822901606d32e141",
+    "views": [
+      {
+        "label": "dividir.unirse · Tu parte te espera.",
+        "href": "guia/pantalla.html?id=dividir.unirse"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dueño.hoy.png",
+    "name": "dueño.hoy.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 108583,
+    "sha256": "1db2939e805e2c488378b0e4025fe94cdf91452b685320482d7702f97d597ab4",
+    "views": [
+      {
+        "label": "dueño.hoy · Hoy en tus mesas",
+        "href": "guia/pantalla.html?id=due%C3%B1o.hoy"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/dueño.mas.png",
+    "name": "dueño.mas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 75809,
+    "sha256": "c765c86232070e195e8a8032c4ed6ead84e9e033b68d7e731246943da95d97a7",
+    "views": [
+      {
+        "label": "dueño.mas · Más",
+        "href": "guia/pantalla.html?id=due%C3%B1o.mas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/encargado.hoy.png",
+    "name": "encargado.hoy.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 106749,
+    "sha256": "d32d6ada45af09ae4f6370f99c67e27a0fe749ef1591789e5f86c3ba30beca72",
+    "views": [
+      {
+        "label": "encargado.hoy · Hoy en tus mesas",
+        "href": "guia/pantalla.html?id=encargado.hoy"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/encargado.mas.png",
+    "name": "encargado.mas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 65464,
+    "sha256": "1e45bed5b37df037e571357061a6d75ead4ba41fa875b22befe8224d2f5cad64",
+    "views": [
+      {
+        "label": "encargado.mas · Más",
+        "href": "guia/pantalla.html?id=encargado.mas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.catalogo.carga.png",
+    "name": "estado.catalogo.carga.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 32720,
+    "sha256": "fc5dc4d5d766e26d1a6d05a3b85bae24f79498eefcc37bb3def71cff1a6e2d93",
+    "views": [
+      {
+        "label": "estado.catalogo.carga · Lugares",
+        "href": "guia/pantalla.html?id=estado.catalogo.carga"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.catalogo.error.png",
+    "name": "estado.catalogo.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 44476,
+    "sha256": "42a1077a51a20ce6cb8e25be0aad8e9d0a4b76c1eea9fc607ce6edbcc1032473",
+    "views": [
+      {
+        "label": "estado.catalogo.error · Lugares",
+        "href": "guia/pantalla.html?id=estado.catalogo.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.catalogo.guardando.png",
+    "name": "estado.catalogo.guardando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 37104,
+    "sha256": "41c697ace94ebc6d423dd44777e2ad08a008358a76d07a9bba2448233e18fcf6",
+    "views": [
+      {
+        "label": "estado.catalogo.guardando · Lugares",
+        "href": "guia/pantalla.html?id=estado.catalogo.guardando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.comunidad.carga.png",
+    "name": "estado.comunidad.carga.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 33807,
+    "sha256": "b16dccf69cc576b4141d3c16c3dc6685f9127b417ab93eab5cfe48bfc84baeea",
+    "views": [
+      {
+        "label": "estado.comunidad.carga · Tu comunidad",
+        "href": "guia/pantalla.html?id=estado.comunidad.carga"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.comunidad.error.png",
+    "name": "estado.comunidad.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 45448,
+    "sha256": "5b271f46683ad62ca29e1a51b0a3c032b2b3eeb0e0030d0d2fb84283670dc152",
+    "views": [
+      {
+        "label": "estado.comunidad.error · Tu comunidad",
+        "href": "guia/pantalla.html?id=estado.comunidad.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.comunidad.guardando.png",
+    "name": "estado.comunidad.guardando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 38100,
+    "sha256": "3f0e6d159c3e3b560b83e55df091e4d219d6bb663a36255feaf890f57d06c3e2",
+    "views": [
+      {
+        "label": "estado.comunidad.guardando · Tu comunidad",
+        "href": "guia/pantalla.html?id=estado.comunidad.guardando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.cuenta.carga.png",
+    "name": "estado.cuenta.carga.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 32020,
+    "sha256": "91e1956ad415c5e751a4b3ba39666346c9560e1eec77201731567d2c209559a8",
+    "views": [
+      {
+        "label": "estado.cuenta.carga · Tu cuenta",
+        "href": "guia/pantalla.html?id=estado.cuenta.carga"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.cuenta.error.png",
+    "name": "estado.cuenta.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 43876,
+    "sha256": "b40f03045546e32eef4310b1ddd316045a47e3f1179a5f18c77e3efa059acb1d",
+    "views": [
+      {
+        "label": "estado.cuenta.error · Tu cuenta",
+        "href": "guia/pantalla.html?id=estado.cuenta.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.cuenta.guardando.png",
+    "name": "estado.cuenta.guardando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 36423,
+    "sha256": "9be76d66a68f6a85f5ae18edc82dc2cfe2027d7f8b7e6d3f6bb4d0557226f0e3",
+    "views": [
+      {
+        "label": "estado.cuenta.guardando · Tu cuenta",
+        "href": "guia/pantalla.html?id=estado.cuenta.guardando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.restaurante.carga.png",
+    "name": "estado.restaurante.carga.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 34055,
+    "sha256": "0c1087d4c17a4882537e1f54d411dbb8485d3a64b46512788295c298d119f5c5",
+    "views": [
+      {
+        "label": "estado.restaurante.carga · Tu restaurante",
+        "href": "guia/pantalla.html?id=estado.restaurante.carga"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.restaurante.error.png",
+    "name": "estado.restaurante.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 45674,
+    "sha256": "5273f8ca26607e4b1bfdba60be0eb1cd80e77c0fddf576ff08baac61e71b784e",
+    "views": [
+      {
+        "label": "estado.restaurante.error · Tu restaurante",
+        "href": "guia/pantalla.html?id=estado.restaurante.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/estado.restaurante.guardando.png",
+    "name": "estado.restaurante.guardando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 38334,
+    "sha256": "c8e0fc152675342558078a5132fc990a837ca3aace468a051869f6c090fe58d9",
+    "views": [
+      {
+        "label": "estado.restaurante.guardando · Tu restaurante",
+        "href": "guia/pantalla.html?id=estado.restaurante.guardando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/foto.comentarios.png",
+    "name": "foto.comentarios.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 543064,
+    "sha256": "61efb1646848cdeac0af601636bfd623324d8b04454ea5277d008e52bbe644e2",
+    "views": [
+      {
+        "label": "foto.comentarios · La conversa del plato",
+        "href": "guia/pantalla.html?id=foto.comentarios"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/foto.denunciar.png",
+    "name": "foto.denunciar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 63626,
+    "sha256": "e18507d21ca8516b0007e85c03aaa8dcf615edcca7d62fee96585cb7a21e413f",
+    "views": [
+      {
+        "label": "foto.denunciar · ¿Qué pasa con esta publicación?",
+        "href": "guia/pantalla.html?id=foto.denunciar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/foto.editar.png",
+    "name": "foto.editar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 519786,
+    "sha256": "31ff323a193776bcb9d71db8c0e3af57fac89078427bc25b5b1b971fa35f045c",
+    "views": [
+      {
+        "label": "foto.editar · Tu foto y tu texto",
+        "href": "guia/pantalla.html?id=foto.editar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/foto.oculta.png",
+    "name": "foto.oculta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 53735,
+    "sha256": "b289566d46b6855c08b3370952cb05aa4a42167c93f8ea348313e63c14d596cb",
+    "views": [
+      {
+        "label": "foto.oculta · Esta publicación no está disponible",
+        "href": "guia/pantalla.html?id=foto.oculta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/foto.reporte-enviado.png",
+    "name": "foto.reporte-enviado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 53263,
+    "sha256": "c4e940be990cd2abf3f612a84a808265770763a6d5f2072593cb01a131ccdabe",
+    "views": [
+      {
+        "label": "foto.reporte-enviado · Gracias por avisarnos",
+        "href": "guia/pantalla.html?id=foto.reporte-enviado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/fotos.mas.png",
+    "name": "fotos.mas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 931471,
+    "sha256": "11cf263bbc4885db67fd9fba6c7c06c08b1dbba8348cb0743c3772b105a704ba",
+    "views": [
+      {
+        "label": "fotos.mas · Más momentos de este lugar",
+        "href": "guia/pantalla.html?id=fotos.mas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/guardados.quitar.png",
+    "name": "guardados.quitar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 531639,
+    "sha256": "5f4b7e3a676350b565aa1646cd4e60684bcdd4270f338c2d40748ce9eecec37b",
+    "views": [
+      {
+        "label": "guardados.quitar · Tus próximos lugares",
+        "href": "guia/pantalla.html?id=guardados.quitar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/guardados.vacio.png",
+    "name": "guardados.vacio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 53343,
+    "sha256": "16fdf6224ca2654f6af2deb16efc086934f1234484faa7a9cabfe1ac0a4a1d67",
+    "views": [
+      {
+        "label": "guardados.vacio · Un lugar para tu próxima salida",
+        "href": "guia/pantalla.html?id=guardados.vacio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/historial.filtros.png",
+    "name": "historial.filtros.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 77118,
+    "sha256": "76f70be39fe778c7695a1ab128dce7780e12c1be332fc0e56ce98852fd7d2055",
+    "views": [
+      {
+        "label": "historial.filtros · Tus cuentas",
+        "href": "guia/pantalla.html?id=historial.filtros"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/historial.vacio.png",
+    "name": "historial.vacio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 56730,
+    "sha256": "2f8360e876cc13ee9c0f9e0309e457424f041170a78424ca5d029a1860130fba",
+    "views": [
+      {
+        "label": "historial.vacio · Tu próxima salida empieza aquí",
+        "href": "guia/pantalla.html?id=historial.vacio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/invitacion.invitados.png",
+    "name": "invitacion.invitados.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 59432,
+    "sha256": "060ae2a8d207cdd956369eddeb80c94c428a8fa9e288276dbdf90c0a55b33934",
+    "views": [
+      {
+        "label": "invitacion.invitados · Tus invitados",
+        "href": "guia/pantalla.html?id=invitacion.invitados"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugar.direcciones.png",
+    "name": "lugar.direcciones.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 533486,
+    "sha256": "ebbf3621462dc8654a231422df5de33533b530695823a9fd162aa4b0695259b6",
+    "views": [
+      {
+        "label": "lugar.direcciones · Cómo llegar",
+        "href": "guia/pantalla.html?id=lugar.direcciones"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugar.no-disponible.png",
+    "name": "lugar.no-disponible.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 534659,
+    "sha256": "a333550979ed49235a64964e63aa67f25df8cffb0d9e106f7b84416ef4acd3fb",
+    "views": [
+      {
+        "label": "lugar.no-disponible · Hoy no está disponible",
+        "href": "guia/pantalla.html?id=lugar.no-disponible"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugar.sucursales.png",
+    "name": "lugar.sucursales.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 530368,
+    "sha256": "9f78c650e5cd04187194c99cbcea1d390eeceb58a2c5f0dfbb25866f00fd3f76",
+    "views": [
+      {
+        "label": "lugar.sucursales · Elige tu local",
+        "href": "guia/pantalla.html?id=lugar.sucursales"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugares.busqueda.png",
+    "name": "lugares.busqueda.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 534271,
+    "sha256": "3d9633d9717619dd6632744d1d7056ddbc5b7be16f402bd046202e7cb75e1572",
+    "views": [
+      {
+        "label": "lugares.busqueda · Busca por antojo",
+        "href": "guia/pantalla.html?id=lugares.busqueda"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugares.catalogo-vacio.png",
+    "name": "lugares.catalogo-vacio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 66071,
+    "sha256": "b03fea8c6a0fb15fd9910974dfcc295c9ab3a9eed235f3b3aac362cc748a2ed5",
+    "views": [
+      {
+        "label": "lugares.catalogo-vacio · Estamos preparando la mesa",
+        "href": "guia/pantalla.html?id=lugares.catalogo-vacio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugares.filtros.png",
+    "name": "lugares.filtros.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 63924,
+    "sha256": "342925e0f4467732fae6af03636f4d6b2c7fd8e2cc294c35bf1e7797c9442844",
+    "views": [
+      {
+        "label": "lugares.filtros · ¿Qué tienes en mente?",
+        "href": "guia/pantalla.html?id=lugares.filtros"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/lugares.sin-resultados.png",
+    "name": "lugares.sin-resultados.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58568,
+    "sha256": "c1d495b9dcadf38a6aaf73c51176e6f5a051a452e1940f9463da7e8d5b3539e6",
+    "views": [
+      {
+        "label": "lugares.sin-resultados · Prueba otra búsqueda",
+        "href": "guia/pantalla.html?id=lugares.sin-resultados"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/mapa.no-disponible.png",
+    "name": "mapa.no-disponible.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 76925,
+    "sha256": "d78d1bb67ece3460250e83399a02ebfecf51e800a1e2b1e7e5adf1389e4e8add",
+    "views": [
+      {
+        "label": "mapa.no-disponible · Encuentra el local por su dirección",
+        "href": "guia/pantalla.html?id=mapa.no-disponible"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/mapa.zona.png",
+    "name": "mapa.zona.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58035,
+    "sha256": "9831b00ca4847ac29f6335452f983612a9ba59d0cfdaebff11e6bce50106210d",
+    "views": [
+      {
+        "label": "mapa.zona · Busca una zona",
+        "href": "guia/pantalla.html?id=mapa.zona"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/notas.filtros.png",
+    "name": "notas.filtros.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 522884,
+    "sha256": "d9b1ea5b4fae94febbd2519d37fbe844911aa27ff239009f9e7fb769fe3a8f2f",
+    "views": [
+      {
+        "label": "notas.filtros · Lo que te gustó",
+        "href": "guia/pantalla.html?id=notas.filtros"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/novedades.leer.png",
+    "name": "novedades.leer.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 61080,
+    "sha256": "74f09209d685c68a447392e6f626cc2d23aa2ca7202e60b8c01dac988087472d",
+    "views": [
+      {
+        "label": "novedades.leer · En tu círculo",
+        "href": "guia/pantalla.html?id=novedades.leer"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.bono-no-aplica.png",
+    "name": "pago.bono-no-aplica.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 74633,
+    "sha256": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56",
+    "views": [
+      {
+        "label": "pago.bono-no-aplica · Tu bono queda esperando",
+        "href": "guia/pantalla.html?id=pago.bono-no-aplica"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.cuenta-cambio.png",
+    "name": "pago.cuenta-cambio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 76032,
+    "sha256": "45880ba2b77d8423e80e49b045f828175771753cfa0ef0571451ed34a293ca9c",
+    "views": [
+      {
+        "label": "pago.cuenta-cambio · La cuenta cambió",
+        "href": "guia/pantalla.html?id=pago.cuenta-cambio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.limite.png",
+    "name": "pago.limite.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 61471,
+    "sha256": "60eb17c634dba7926ffcf269ff3c85d678056dcbca1212cc598ce0219def1012",
+    "views": [
+      {
+        "label": "pago.limite · Esta cuenta no se puede pagar aquí",
+        "href": "guia/pantalla.html?id=pago.limite"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.mas-digitos.png",
+    "name": "pago.mas-digitos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 67237,
+    "sha256": "85f014a3f081ceaffaf0f10d99d2f6ca79ecbf05c70cac93c1863bb5639c988d",
+    "views": [
+      {
+        "label": "pago.mas-digitos · Tu cuenta tiene más dígitos",
+        "href": "guia/pantalla.html?id=pago.mas-digitos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.otra-tarjeta.png",
+    "name": "pago.otra-tarjeta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58660,
+    "sha256": "272e7ef9f6d7f5a845b793108380b6ceabddfc018a71caf8cb31da15886d6a4a",
+    "views": [
+      {
+        "label": "pago.otra-tarjeta · ¿Con qué tarjeta?",
+        "href": "guia/pantalla.html?id=pago.otra-tarjeta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.pos-caido.png",
+    "name": "pago.pos-caido.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58268,
+    "sha256": "b6c392902d11e3acdd17f6ab041cad8c23c8b78429a801414264f2f0d02171b3",
+    "views": [
+      {
+        "label": "pago.pos-caido · No pudimos leer tu cuenta",
+        "href": "guia/pantalla.html?id=pago.pos-caido"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.propina-libre.png",
+    "name": "pago.propina-libre.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 90380,
+    "sha256": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f",
+    "views": [
+      {
+        "label": "pago.propina-libre · Tu propina",
+        "href": "guia/pantalla.html?id=pago.propina-libre"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.propina-mesa.png",
+    "name": "pago.propina-mesa.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 75012,
+    "sha256": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13",
+    "views": [
+      {
+        "label": "pago.propina-mesa · La propina se deja en el local",
+        "href": "guia/pantalla.html?id=pago.propina-mesa"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.resultado-incierto.png",
+    "name": "pago.resultado-incierto.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 68811,
+    "sha256": "ae683cbf87f54a2fa0f4d01c7646393205821713c3448d1a79e5bcc9f6160a6d",
+    "views": [
+      {
+        "label": "pago.resultado-incierto · Estamos confirmando tu pago",
+        "href": "guia/pantalla.html?id=pago.resultado-incierto"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.salir.png",
+    "name": "pago.salir.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 69844,
+    "sha256": "af10f1ec6fd737b9d643ab31c6856fb0dd64a41af1a42ba8fd3e599fa25973bf",
+    "views": [
+      {
+        "label": "pago.salir · ¿Salir mientras se confirma?",
+        "href": "guia/pantalla.html?id=pago.salir"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.selector.png",
+    "name": "pago.selector.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 539699,
+    "sha256": "e53948a8b0dfcae4d3934a292ae0b99db92989b06d4ce8d97cddbffad1e4c412",
+    "views": [
+      {
+        "label": "pago.selector · ¿Dónde estás comiendo?",
+        "href": "guia/pantalla.html?id=pago.selector"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.sin-creditos.png",
+    "name": "pago.sin-creditos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 82892,
+    "sha256": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1",
+    "views": [
+      {
+        "label": "pago.sin-creditos · Guarda tus créditos para otra",
+        "href": "guia/pantalla.html?id=pago.sin-creditos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.sin-tarjeta.png",
+    "name": "pago.sin-tarjeta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 81958,
+    "sha256": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421",
+    "views": [
+      {
+        "label": "pago.sin-tarjeta · Agrega con qué pagar",
+        "href": "guia/pantalla.html?id=pago.sin-tarjeta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.todo-credito.png",
+    "name": "pago.todo-credito.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 81094,
+    "sha256": "8971bed9cac4a6c82fd59733392cb01abc19753cef60f544380962ad2e300626",
+    "views": [
+      {
+        "label": "pago.todo-credito · Esta cuenta va con créditos",
+        "href": "guia/pantalla.html?id=pago.todo-credito"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/platos.local.png",
+    "name": "platos.local.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 975876,
+    "sha256": "01e60f55cc2dc159e8760626b45299c55314b4ef96f58586423a28c250e03ef8",
+    "views": [
+      {
+        "label": "platos.local · Lo que se repite acá",
+        "href": "guia/pantalla.html?id=platos.local"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/platos.sin-marcas.png",
+    "name": "platos.sin-marcas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 521327,
+    "sha256": "9cce4da85994d605fdafd4e0f8cdc9c952f929ee10d11e9eacb87ccddda97778",
+    "views": [
+      {
+        "label": "platos.sin-marcas · Sé de los primeros",
+        "href": "guia/pantalla.html?id=platos.sin-marcas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/postpago.atribucion.png",
+    "name": "postpago.atribucion.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 82838,
+    "sha256": "261690bb65726d9bca5ae53b46aa8e7a749c08ca22f91b13f504b16356e237e8",
+    "views": [
+      {
+        "label": "postpago.atribucion · ¿Habrías venido igual?",
+        "href": "guia/pantalla.html?id=postpago.atribucion"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/postpago.ya-guardado.png",
+    "name": "postpago.ya-guardado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 70806,
+    "sha256": "0ee6763e2392ff59df4bc54cc08d9e118da806ac115796db462e67645a03dce8",
+    "views": [
+      {
+        "label": "postpago.ya-guardado · Tus notas quedaron guardadas",
+        "href": "guia/pantalla.html?id=postpago.ya-guardado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/preferencias.permiso.png",
+    "name": "preferencias.permiso.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 63350,
+    "sha256": "c99673aacb77208c97cde83d42845e232b05cf467ca60651cddc9695a486dafa",
+    "views": [
+      {
+        "label": "preferencias.permiso · Activa los avisos en Ajustes",
+        "href": "guia/pantalla.html?id=preferencias.permiso"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/preferencias.todos.png",
+    "name": "preferencias.todos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 90090,
+    "sha256": "67f7acafab9d22f6ca204c6bfb6797b4bd491d00e366731b70a98872436c3700",
+    "views": [
+      {
+        "label": "preferencias.todos · Qué quieres saber",
+        "href": "guia/pantalla.html?id=preferencias.todos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/ranking.filtros.png",
+    "name": "ranking.filtros.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 70577,
+    "sha256": "589a7f2e5ef444f33b64fc4aba004dce8e20accf932167ccb454197cad09aafb",
+    "views": [
+      {
+        "label": "ranking.filtros · Quién salió más",
+        "href": "guia/pantalla.html?id=ranking.filtros"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/resena.editar.png",
+    "name": "resena.editar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 526845,
+    "sha256": "9e46dbdd6c630e16b67f56d123a159e6e9918b77e6582bbd44c937bbf56c3630",
+    "views": [
+      {
+        "label": "resena.editar · Tu nota, como tú quieras",
+        "href": "guia/pantalla.html?id=resena.editar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/resena.lugar.png",
+    "name": "resena.lugar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 64231,
+    "sha256": "119f6f53e0a8747a43e9e88f64368191699161502af819cea53e31d9b22b0ceb",
+    "views": [
+      {
+        "label": "resena.lugar · Qué le dirías a un amigo",
+        "href": "guia/pantalla.html?id=resena.lugar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/resena.sin-visita.png",
+    "name": "resena.sin-visita.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 526874,
+    "sha256": "758e90d5a9db0bc5e8de975dfe719d53fe5090f592a89b46af2b372455b94e82",
+    "views": [
+      {
+        "label": "resena.sin-visita · Primero, una cuenta",
+        "href": "guia/pantalla.html?id=resena.sin-visita"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.cancelada.png",
+    "name": "reservas.cancelada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 48590,
+    "sha256": "3465bd5569d0e1e1b1224bff7fe27e1e37e8b895e553f541d1dc546c2ea2dd7d",
+    "views": [
+      {
+        "label": "reservas.cancelada · Reserva cancelada",
+        "href": "guia/pantalla.html?id=reservas.cancelada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.cancelar.png",
+    "name": "reservas.cancelar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 55287,
+    "sha256": "48ef8f61a4903af68728c8d20d1cc0eeddf632c94f7cc2d3acec763f7913c5ad",
+    "views": [
+      {
+        "label": "reservas.cancelar · ¿Cancelar la reserva?",
+        "href": "guia/pantalla.html?id=reservas.cancelar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.confirmada.png",
+    "name": "reservas.confirmada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 61455,
+    "sha256": "20ece6868596b064d8ca12d3159575c237e6555a7a2ed855d878542a1d4aec49",
+    "views": [
+      {
+        "label": "reservas.confirmada · Tienen mesa",
+        "href": "guia/pantalla.html?id=reservas.confirmada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.desactivada.png",
+    "name": "reservas.desactivada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 50541,
+    "sha256": "70079237834e31426287006c2f6226b79838a7443dd24595faeeb62742621858",
+    "views": [
+      {
+        "label": "reservas.desactivada · Este local no recibe reservas",
+        "href": "guia/pantalla.html?id=reservas.desactivada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.elegir.png",
+    "name": "reservas.elegir.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 78664,
+    "sha256": "71445a43ae9169f39a92b2070600cac7edb55ed5433598fb475809fba6efc3a4",
+    "views": [
+      {
+        "label": "reservas.elegir · Una mesa para ustedes",
+        "href": "guia/pantalla.html?id=reservas.elegir"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/reservas.sin-cupo.png",
+    "name": "reservas.sin-cupo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 62226,
+    "sha256": "e11640c68820e65060e5afbcf372f06ddf5f92edcca2363f2c301b878cb4684b",
+    "views": [
+      {
+        "label": "reservas.sin-cupo · No quedó cupo a esa hora",
+        "href": "guia/pantalla.html?id=reservas.sin-cupo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.ajustes-avisos.png",
+    "name": "restaurante.ajustes-avisos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 82033,
+    "sha256": "118c56751e4c090e6fa3a926f0632b89da88009112b37e7d3e06410f23514dd5",
+    "views": [
+      {
+        "label": "restaurante.ajustes-avisos · Que suene lo que importa",
+        "href": "guia/pantalla.html?id=restaurante.ajustes-avisos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.avisos.png",
+    "name": "restaurante.avisos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 72759,
+    "sha256": "35c80cdd0e36798277c3cf599655fad68f6b4c1035e0b10a717a329e17585976",
+    "views": [
+      {
+        "label": "restaurante.avisos · Avisos del restaurante",
+        "href": "guia/pantalla.html?id=restaurante.avisos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.cobro.png",
+    "name": "restaurante.cobro.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 90975,
+    "sha256": "aa838807c9fc8fc4ab0bc9e9c6f8e31af55117f9b4b7ab796c8d29cea7d4f170",
+    "views": [
+      {
+        "label": "restaurante.cobro · Detalle del cobro",
+        "href": "guia/pantalla.html?id=restaurante.cobro"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.cobros-filtros-encargado.png",
+    "name": "restaurante.cobros-filtros-encargado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 83748,
+    "sha256": "5fffbef86c0f914419bcedfcdbcebceaea8ea03ad3b6649bdf0c3517db3bd8f4",
+    "views": [
+      {
+        "label": "restaurante.cobros-filtros · Encuentra un cobro",
+        "href": "guia/pantalla.html?id=restaurante.cobros-filtros&rol=encargado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.cobros-filtros.png",
+    "name": "restaurante.cobros-filtros.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 92852,
+    "sha256": "e2474ef69ef0b76936ff0f1d1bc662f1fb71a2688476677cf0f567c8e86d078a",
+    "views": [
+      {
+        "label": "restaurante.cobros-filtros · Encuentra un cobro",
+        "href": "guia/pantalla.html?id=restaurante.cobros-filtros"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.credito-enviado.png",
+    "name": "restaurante.credito-enviado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 52504,
+    "sha256": "ee1c138b656a57920365891bf9357d744536b88cca75ed1afdedac470d35d6d6",
+    "views": [
+      {
+        "label": "restaurante.credito-enviado · Solicitud recibida",
+        "href": "guia/pantalla.html?id=restaurante.credito-enviado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.credito.png",
+    "name": "restaurante.credito.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 111996,
+    "sha256": "a7080a9d20df4f21721831da12533f059665e7bf050dcefcb551db3405f63648",
+    "views": [
+      {
+        "label": "restaurante.credito · Consumo disponible",
+        "href": "guia/pantalla.html?id=restaurante.credito"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.cuenta.png",
+    "name": "restaurante.cuenta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 81025,
+    "sha256": "17b9e7165416bc3183b7316d241c336185a9450e2ccb3402dc2ec6ac213d0e31",
+    "views": [
+      {
+        "label": "restaurante.cuenta · Cuenta 3816",
+        "href": "guia/pantalla.html?id=restaurante.cuenta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.equipo.png",
+    "name": "restaurante.equipo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 82122,
+    "sha256": "c41e1686eb8feb1fc0514af042fad78cb0929425e6bdad3134155f6c790dbf9a",
+    "views": [
+      {
+        "label": "restaurante.equipo · Verificar sin instalar nada.",
+        "href": "guia/pantalla.html?id=restaurante.equipo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.exportar.png",
+    "name": "restaurante.exportar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 67895,
+    "sha256": "4efcfbaa5448c280636873ef86b3bb3ec494c563305e511abffb8497de8ab7d9",
+    "views": [
+      {
+        "label": "restaurante.exportar · Tu planilla al correo",
+        "href": "guia/pantalla.html?id=restaurante.exportar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.incidencia.png",
+    "name": "restaurante.incidencia.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 69204,
+    "sha256": "ddb345c46aced9e592f012014681ffdda8025838aee65c9123d6fc0c7f82aa8a",
+    "views": [
+      {
+        "label": "restaurante.incidencia · Cuéntanos qué pasó",
+        "href": "guia/pantalla.html?id=restaurante.incidencia"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.incidencias-lista.png",
+    "name": "restaurante.incidencias-lista.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 71464,
+    "sha256": "44c3db2c75f405d11026b84ed7830a5191a6529353ab8c68eb84acb1af461ce5",
+    "views": [
+      {
+        "label": "restaurante.incidencias-lista · Tus incidencias",
+        "href": "guia/pantalla.html?id=restaurante.incidencias-lista"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.pedir-credito.png",
+    "name": "restaurante.pedir-credito.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 74425,
+    "sha256": "1ef7c3ee878a09abf36fcb0333c483a3fe6132702c319566fb450ed12168abbb",
+    "views": [
+      {
+        "label": "restaurante.pedir-credito · Conversemos el próximo tramo",
+        "href": "guia/pantalla.html?id=restaurante.pedir-credito"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.practicar-parcial.png",
+    "name": "restaurante.practicar-parcial.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 87742,
+    "sha256": "4b8fc9c27e0f512a0438b5edab7d77911ca2db52a44855c9a28cdfabc943defd",
+    "views": [
+      {
+        "label": "restaurante.practicar-parcial · Así se verifica un pago.",
+        "href": "guia/pantalla.html?id=restaurante.practicar-parcial"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.practicar.png",
+    "name": "restaurante.practicar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 90313,
+    "sha256": "53a7369d827fd29171aa179937b43274b8cac19d211b13cd48a5227cf4ebf623",
+    "views": [
+      {
+        "label": "restaurante.practicar · Así se verifica un pago.",
+        "href": "guia/pantalla.html?id=restaurante.practicar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.resenas.png",
+    "name": "restaurante.resenas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 530384,
+    "sha256": "051cf30c44a5698182b7c8f1eac9da134d3cff3d7f97e3337d583ea66940911f",
+    "views": [
+      {
+        "label": "restaurante.resenas · Qué repetirían tus clientes",
+        "href": "guia/pantalla.html?id=restaurante.resenas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.reserva-cancelar.png",
+    "name": "restaurante.reserva-cancelar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 63876,
+    "sha256": "349bf86f894f90be753a26f570b7f1b8647489ce56d2071d0ff034f373891064",
+    "views": [
+      {
+        "label": "restaurante.reserva-cancelar · Cancelar reserva",
+        "href": "guia/pantalla.html?id=restaurante.reserva-cancelar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.reservas.png",
+    "name": "restaurante.reservas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 89660,
+    "sha256": "4466dee1a444e749b3763dc549254e3a05529355614b028f1aec7d769bc199b4",
+    "views": [
+      {
+        "label": "restaurante.reservas · Reservas",
+        "href": "guia/pantalla.html?id=restaurante.reservas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.seguridad.png",
+    "name": "restaurante.seguridad.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 73939,
+    "sha256": "eb15ced36047f7c1072a6bca508febe2588cd0eb66288a6449640c8607506368",
+    "views": [
+      {
+        "label": "restaurante.seguridad · Tu acceso al restaurante",
+        "href": "guia/pantalla.html?id=restaurante.seguridad"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/restaurante.verificar.png",
+    "name": "restaurante.verificar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 72681,
+    "sha256": "a33f11d2ff600adbe8bf74e730604dfb0f324f6eafe5e7962c80670571dbe13b",
+    "views": [
+      {
+        "label": "restaurante.verificar · Verificar un pago.",
+        "href": "guia/pantalla.html?id=restaurante.verificar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.admin-web.png",
+    "name": "seguridad.admin-web.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 57358,
+    "sha256": "6f9403f837e3f0036efaa5d1e8a8b6e799c1b9d4a5833007f70d31f50b304b56",
+    "views": [
+      {
+        "label": "seguridad.admin-web · Tu panel está en la web",
+        "href": "guia/pantalla.html?id=seguridad.admin-web"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.desbloqueo-error.png",
+    "name": "seguridad.desbloqueo-error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 52998,
+    "sha256": "be50c746851cff6ea65d956142dd78cdbdccfaf5e2bf02e18ea32710980c3d24",
+    "views": [
+      {
+        "label": "seguridad.desbloqueo-error · Intenta desbloquear otra vez",
+        "href": "guia/pantalla.html?id=seguridad.desbloqueo-error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.desbloqueo.png",
+    "name": "seguridad.desbloqueo.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 54220,
+    "sha256": "658eaf4976e2b259389009e25c410f147b0130b6ea731cc8d0ee54292b83cd50",
+    "views": [
+      {
+        "label": "seguridad.desbloqueo · Tu restaurante",
+        "href": "guia/pantalla.html?id=seguridad.desbloqueo"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.mfa-alta.png",
+    "name": "seguridad.mfa-alta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 82457,
+    "sha256": "8a7dd7e48253823e66d9907ec39c4fe85dea6f45fbf32a4c1b2ef2d7c19a8cfd",
+    "views": [
+      {
+        "label": "seguridad.mfa-alta · Protege tu cuenta",
+        "href": "guia/pantalla.html?id=seguridad.mfa-alta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.mfa-error.png",
+    "name": "seguridad.mfa-error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 59025,
+    "sha256": "bb533d081f2f673d5c75e89d9507abc57131b77f4db7734d9cf9e3d87c831447",
+    "views": [
+      {
+        "label": "seguridad.mfa-error · No pudimos verificar",
+        "href": "guia/pantalla.html?id=seguridad.mfa-error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.mfa-recuperacion.png",
+    "name": "seguridad.mfa-recuperacion.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 57167,
+    "sha256": "10738c28f35e5c8566c08564bef9ed31d62139e45b2ecf9d101f7f50fa93a491",
+    "views": [
+      {
+        "label": "seguridad.mfa-recuperacion · Usa un recuperador",
+        "href": "guia/pantalla.html?id=seguridad.mfa-recuperacion"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.recuperadores.png",
+    "name": "seguridad.recuperadores.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 116882,
+    "sha256": "e51335af75f63e59e531b741ce45206649e357c4755583603c1662151b0ecbc1",
+    "views": [
+      {
+        "label": "seguridad.recuperadores · Guárdalos antes de entrar",
+        "href": "guia/pantalla.html?id=seguridad.recuperadores"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.reverificar.png",
+    "name": "seguridad.reverificar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 65598,
+    "sha256": "f955125b877fbcb2bfd80647c88b0bb45cd4f4bbf96b9f66ca2732be3297bb00",
+    "views": [
+      {
+        "label": "seguridad.reverificar · Confirma que eres tú",
+        "href": "guia/pantalla.html?id=seguridad.reverificar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.selector.png",
+    "name": "seguridad.selector.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 54575,
+    "sha256": "b64890bd493eb3f5a4752c401be60f7d5049450715508c713af48773cdf481b9",
+    "views": [
+      {
+        "label": "seguridad.selector · ¿Qué restaurante abres?",
+        "href": "guia/pantalla.html?id=seguridad.selector"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.sesion-perdida.png",
+    "name": "seguridad.sesion-perdida.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 42555,
+    "sha256": "7345849e394c48dbcdcfc0ac0e22d526acb2d632e708f1c7935f528e2fd3aa08",
+    "views": [
+      {
+        "label": "seguridad.sesion-perdida · Vuelve a ingresar",
+        "href": "guia/pantalla.html?id=seguridad.sesion-perdida"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.sin-restaurante.png",
+    "name": "seguridad.sin-restaurante.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 55512,
+    "sha256": "630be9212b8ce36ab89cfa90c50eda65691d8937dd047d01f4fd6285c59c5547",
+    "views": [
+      {
+        "label": "seguridad.sin-restaurante · Todavía sin restaurante",
+        "href": "guia/pantalla.html?id=seguridad.sin-restaurante"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/seguridad.stepup-recuperador.png",
+    "name": "seguridad.stepup-recuperador.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 57607,
+    "sha256": "c0992764a4538a3ceaf8ab471c587ea79f43a2dc11692248274e7b576dbb3bfc",
+    "views": [
+      {
+        "label": "seguridad.stepup-recuperador · Confirma con un recuperador",
+        "href": "guia/pantalla.html?id=seguridad.stepup-recuperador"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/soporte.enviado.png",
+    "name": "soporte.enviado.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 50652,
+    "sha256": "683ffcdf83cd280e0037a974bf840f61d3a31015d898cd74b9e5fd8e0dd588c1",
+    "views": [
+      {
+        "label": "soporte.enviado · Recibimos tu mensaje",
+        "href": "guia/pantalla.html?id=soporte.enviado"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/soporte.error.png",
+    "name": "soporte.error.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 67701,
+    "sha256": "280564c86ad5a7329bd82bd5215078853f1e281dabfd8245ef91bda39dc346c3",
+    "views": [
+      {
+        "label": "soporte.error · Tu mensaje sigue aquí",
+        "href": "guia/pantalla.html?id=soporte.error"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/soporte.principal.png",
+    "name": "soporte.principal.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 74607,
+    "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971",
+    "views": [
+      {
+        "label": "soporte.principal · Cuéntanos qué pasó",
+        "href": "guia/pantalla.html?id=soporte.principal"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.cancelada.png",
+    "name": "tarjetas.cancelada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 45871,
+    "sha256": "2f578ac81f84b595a1d9955dbbac3c61d85561e85e930a019b95fcdf315926b4",
+    "views": [
+      {
+        "label": "tarjetas.cancelada · No se guardó una tarjeta",
+        "href": "guia/pantalla.html?id=tarjetas.cancelada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.eliminar.png",
+    "name": "tarjetas.eliminar.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 58607,
+    "sha256": "69cb0b2c1fa7fca25996f0a658140c1f33f56e0300f5300737f9e03f9f465149",
+    "views": [
+      {
+        "label": "tarjetas.eliminar · ¿Eliminar esta tarjeta?",
+        "href": "guia/pantalla.html?id=tarjetas.eliminar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.guardando.png",
+    "name": "tarjetas.guardando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 45194,
+    "sha256": "204f8fdec9886f65d51a233751fc056c8350ae69f2b95e5fae0460d2acb2f4df",
+    "views": [
+      {
+        "label": "tarjetas.guardando · Guardando tu tarjeta",
+        "href": "guia/pantalla.html?id=tarjetas.guardando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.incierta.png",
+    "name": "tarjetas.incierta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 59988,
+    "sha256": "7f6ef98f9fdedcc6686eb1aacddc0438c7e7c4c1bf4e9f0f0ae36108ea32c42a",
+    "views": [
+      {
+        "label": "tarjetas.incierta · Revisa tus métodos de pago",
+        "href": "guia/pantalla.html?id=tarjetas.incierta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.predeterminada.png",
+    "name": "tarjetas.predeterminada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 66220,
+    "sha256": "16c716cc6ddbeb1a1f452721186a7c3a3252694e382223baf073c9b846029e43",
+    "views": [
+      {
+        "label": "tarjetas.predeterminada · Tus tarjetas",
+        "href": "guia/pantalla.html?id=tarjetas.predeterminada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.preparando.png",
+    "name": "tarjetas.preparando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 43815,
+    "sha256": "b9884d060c6c2c08300f7fc8e5cd4a519649ccc37bf26bc88bf941cc3572fed6",
+    "views": [
+      {
+        "label": "tarjetas.preparando · Preparando tu tarjeta",
+        "href": "guia/pantalla.html?id=tarjetas.preparando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.procesador.png",
+    "name": "tarjetas.procesador.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 67102,
+    "sha256": "7f846540f18fcccbb090f08c601cb441facbba7c64fcfe009656e28f78f6bed9",
+    "views": [
+      {
+        "label": "tarjetas.procesador · Página del procesador",
+        "href": "guia/pantalla.html?id=tarjetas.procesador"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/tarjetas.sin-tarjetas.png",
+    "name": "tarjetas.sin-tarjetas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 54486,
+    "sha256": "1f3e8505ef4ac8d8c6c27dd87626b2fbc35ab7f24df2473759ba3d1316cdd663",
+    "views": [
+      {
+        "label": "tarjetas.sin-tarjetas · Con qué pagarás",
+        "href": "guia/pantalla.html?id=tarjetas.sin-tarjetas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/vacio.amigos.png",
+    "name": "vacio.amigos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 41471,
+    "sha256": "392983bdf9cb80e7e047b308e5476ae47d2623b5dcbb252b88f320c66027438f",
+    "views": [
+      {
+        "label": "vacio.amigos · Tus amigos",
+        "href": "guia/pantalla.html?id=vacio.amigos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/vacio.fotos.png",
+    "name": "vacio.fotos.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 43645,
+    "sha256": "9a37aed9ac777384e6897f3a78de54bdb612dda899ae87014cd1429d326085af",
+    "views": [
+      {
+        "label": "vacio.fotos · Fotos del lugar",
+        "href": "guia/pantalla.html?id=vacio.fotos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/vacio.notas.png",
+    "name": "vacio.notas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 41511,
+    "sha256": "ab505004c01d0cdd90f33d73cc76085da1b9eed52c7ed42d53effbb058f922e0",
+    "views": [
+      {
+        "label": "vacio.notas · Mis notas",
+        "href": "guia/pantalla.html?id=vacio.notas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/vacio.novedades.png",
+    "name": "vacio.novedades.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 41767,
+    "sha256": "554b93b45cdbbfda65d8a2237cb56a82f49b86496f22a6da67e4bd28fc9a61d7",
+    "views": [
+      {
+        "label": "vacio.novedades · Novedades",
+        "href": "guia/pantalla.html?id=vacio.novedades"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/vacio.opiniones.png",
+    "name": "vacio.opiniones.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 46057,
+    "sha256": "79703f8858509b15e33dcca031d6a22235c3df50b485435c001549daecab03d4",
+    "views": [
+      {
+        "label": "vacio.opiniones · Opiniones del lugar",
+        "href": "guia/pantalla.html?id=vacio.opiniones"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.cargando.png",
+    "name": "verificacion.cargando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 56874,
+    "sha256": "2c03be95af12d16c1fd9f360691c8cfe426d24c51726fe875ef03a9b3b2597d6",
+    "views": [
+      {
+        "label": "verificacion.cargando · Consultando el pago…",
+        "href": "guia/pantalla.html?id=verificacion.cargando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.completa.png",
+    "name": "verificacion.completa.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 96450,
+    "sha256": "f02ac1c4ecbaaf3ba02dda758b8d84a46075c2aa28d50aa94b8bc7f2f6697856",
+    "views": [
+      {
+        "label": "verificacion.completa · Mesa pagada.",
+        "href": "guia/pantalla.html?id=verificacion.completa"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.cuenta-cambio.png",
+    "name": "verificacion.cuenta-cambio.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 106942,
+    "sha256": "0381524292123513aabfc68ac69ad7d5f857ded7bb0683303665de54903c32f1",
+    "views": [
+      {
+        "label": "verificacion.cuenta-cambio · La cuenta cambió.",
+        "href": "guia/pantalla.html?id=verificacion.cuenta-cambio"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.devuelta.png",
+    "name": "verificacion.devuelta.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 112105,
+    "sha256": "4f17a5b380deba6c0bd980b3e5cf0a4d247addd1592d94a9a15c25ebb2724840",
+    "views": [
+      {
+        "label": "verificacion.devuelta · Pago con devolución.",
+        "href": "guia/pantalla.html?id=verificacion.devuelta"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.enlace-invalido.png",
+    "name": "verificacion.enlace-invalido.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 94686,
+    "sha256": "ca967190fb11705847603eac78b6bb5ad7d6731cc1fa39b2c5d0c970c2df81ca",
+    "views": [
+      {
+        "label": "verificacion.enlace-invalido · Pide el comprobante vigente.",
+        "href": "guia/pantalla.html?id=verificacion.enlace-invalido"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.pagada.png",
+    "name": "verificacion.pagada.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 94936,
+    "sha256": "9b188a43fd7a14f80c2645aafafca1ef872f4f158bb65b4e18523d3e0291b70c",
+    "views": [
+      {
+        "label": "verificacion.pagada · Mesa pagada.",
+        "href": "guia/pantalla.html?id=verificacion.pagada"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.parcial.png",
+    "name": "verificacion.parcial.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 104739,
+    "sha256": "fc2806c1292b45d433bfd04a8a0b03113385f0ff8f346618f0483da144a9a723",
+    "views": [
+      {
+        "label": "verificacion.parcial · La mesa sigue pagando.",
+        "href": "guia/pantalla.html?id=verificacion.parcial"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.procesando.png",
+    "name": "verificacion.procesando.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 100581,
+    "sha256": "437ab06d9bc4f700447f125c09d68a0c9e59cf10d34a4790c225cda2b4d77c0d",
+    "views": [
+      {
+        "label": "verificacion.procesando · Pago en curso.",
+        "href": "guia/pantalla.html?id=verificacion.procesando"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/verificacion.sin-conexion.png",
+    "name": "verificacion.sin-conexion.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 88891,
+    "sha256": "876f366c0c2f1ed0c9fe7dd73eb2c3caa596ab7bcaa9fabdcc7330b0eeb07c7c",
+    "views": [
+      {
+        "label": "verificacion.sin-conexion · No pudimos verificar.",
+        "href": "guia/pantalla.html?id=verificacion.sin-conexion"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/decalle-bar.jpg",
+    "name": "decalle-bar.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 122290,
+    "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a",
+    "views": [
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/decalle-okonomiyaki.jpg",
+    "name": "decalle-okonomiyaki.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 244211,
+    "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 3.7 · Listo · ¿Qué volverías a pedir?",
+        "href": "guia/pantalla.html?id=3.7"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/decalle-portada.jpg",
+    "name": "decalle-portada.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 326371,
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "views": [
+      {
+        "label": "Restaurantes",
+        "href": "restaurantes.html"
+      },
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-01-gyoza-palillos.jpg",
+    "name": "hf-01-gyoza-palillos.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 223078,
+    "sha256": "bd7595886261509e5bdaa0b009f24d42c293c16e91c775887a6b4d17987f5bc4",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 2.6 · La carta",
+        "href": "guia/pantalla.html?id=2.6"
+      },
+      {
+        "label": "App · 5.3 · Mis notas",
+        "href": "guia/pantalla.html?id=5.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-02-mesa-compartida.jpg",
+    "name": "hf-02-mesa-compartida.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 387386,
+    "sha256": "74a296b18d1149a9c336d6f6f7c562cddd15e07e9eb124902a6823134b4dfafd",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "App · 0.1 · Portada",
+        "href": "guia/pantalla.html?id=0.1"
+      },
+      {
+        "label": "App · 1.1 · Lugares",
+        "href": "guia/pantalla.html?id=1.1"
+      },
+      {
+        "label": "App · 1.2 · Búsqueda",
+        "href": "guia/pantalla.html?id=1.2"
+      },
+      {
+        "label": "App · 2.1 · Detalle · arriba",
+        "href": "guia/pantalla.html?id=2.1"
+      },
+      {
+        "label": "App · 3.1 · ¿Dónde estás comiendo?",
+        "href": "guia/pantalla.html?id=3.1"
+      },
+      {
+        "label": "App · 5.2 · Quiero probar",
+        "href": "guia/pantalla.html?id=5.2"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-04-dokbokki-mantel.jpg",
+    "name": "hf-04-dokbokki-mantel.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 429010,
+    "sha256": "587d4df3a1bab638eed3c8073c4a677673a3f2a5c1247e314dd92ca73ba919a2",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 1.2 · Búsqueda",
+        "href": "guia/pantalla.html?id=1.2"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 1.4 · Mapa",
+        "href": "guia/pantalla.html?id=1.4"
+      },
+      {
+        "label": "App · 1.5 · Mapa · acercado",
+        "href": "guia/pantalla.html?id=1.5"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      },
+      {
+        "label": "App · 2.5 · Lo que dice la gente",
+        "href": "guia/pantalla.html?id=2.5"
+      },
+      {
+        "label": "App · 2.6 · La carta",
+        "href": "guia/pantalla.html?id=2.6"
+      },
+      {
+        "label": "App · 3.7 · Listo · ¿Qué volverías a pedir?",
+        "href": "guia/pantalla.html?id=3.7"
+      },
+      {
+        "label": "App · 5.3 · Mis notas",
+        "href": "guia/pantalla.html?id=5.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      },
+      {
+        "label": "App · platos.local · Lo que se repite acá",
+        "href": "guia/pantalla.html?id=platos.local"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-05-burger-mordida.jpg",
+    "name": "hf-05-burger-mordida.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 234645,
+    "sha256": "319a98ca44d9ed5a1333455642ff452dd26766ece6ab1c0e61062d48a31cb59e",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 1.1 · Lugares",
+        "href": "guia/pantalla.html?id=1.1"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      },
+      {
+        "label": "App · 2.4 · Foto de un plato",
+        "href": "guia/pantalla.html?id=2.4"
+      },
+      {
+        "label": "App · 5.3 · Mis notas",
+        "href": "guia/pantalla.html?id=5.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-06-brindis-barra.jpg",
+    "name": "hf-06-brindis-barra.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 235719,
+    "sha256": "7e1118d57f55ade99dbe432f4d833da15759f19b89bccbf5083ae4120860271b",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "App · 0.1 · Portada",
+        "href": "guia/pantalla.html?id=0.1"
+      },
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-07-spread.jpg",
+    "name": "hf-07-spread.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 362880,
+    "sha256": "a6fe8996466c3c846bef9218ae5a175ea5e630792216ad2e336acc8c86d39d0b",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "App · acceso.explorar · Puedes mirar primero",
+        "href": "guia/pantalla.html?id=acceso.explorar"
+      },
+      {
+        "label": "App · acceso.invitar · Una invitación a salir",
+        "href": "guia/pantalla.html?id=acceso.invitar"
+      },
+      {
+        "label": "App · lugar.sucursales · Elige tu local",
+        "href": "guia/pantalla.html?id=lugar.sucursales"
+      },
+      {
+        "label": "App · lugar.direcciones · Cómo llegar",
+        "href": "guia/pantalla.html?id=lugar.direcciones"
+      },
+      {
+        "label": "App · lugar.no-disponible · Hoy no está disponible",
+        "href": "guia/pantalla.html?id=lugar.no-disponible"
+      },
+      {
+        "label": "App · pago.selector · ¿Dónde estás comiendo?",
+        "href": "guia/pantalla.html?id=pago.selector"
+      },
+      {
+        "label": "App · resena.sin-visita · Primero, una cuenta",
+        "href": "guia/pantalla.html?id=resena.sin-visita"
+      },
+      {
+        "label": "App · fotos.mas · Más momentos de este lugar",
+        "href": "guia/pantalla.html?id=fotos.mas"
+      },
+      {
+        "label": "App · guardados.quitar · Tus próximos lugares",
+        "href": "guia/pantalla.html?id=guardados.quitar"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-08-edamame-unas.jpg",
+    "name": "hf-08-edamame-unas.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 202779,
+    "sha256": "9f949b3708a309a70d34697c233a26d65284d61c745a4298f43e9b77a91a4484",
+    "views": [
+      {
+        "label": "App · 2.6 · La carta",
+        "href": "guia/pantalla.html?id=2.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/higgsfield/hf-09-costillas-hero.jpg",
+    "name": "hf-09-costillas-hero.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 224843,
+    "sha256": "014083505b5a11997d9dc5c0e3353c5518c4076d4c583814896245a0d25525c7",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 0.1 · Portada",
+        "href": "guia/pantalla.html?id=0.1"
+      },
+      {
+        "label": "App · 1.1 · Lugares",
+        "href": "guia/pantalla.html?id=1.1"
+      },
+      {
+        "label": "App · 1.2 · Búsqueda",
+        "href": "guia/pantalla.html?id=1.2"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      },
+      {
+        "label": "App · 2.5 · Lo que dice la gente",
+        "href": "guia/pantalla.html?id=2.5"
+      },
+      {
+        "label": "App · 2.6 · La carta",
+        "href": "guia/pantalla.html?id=2.6"
+      },
+      {
+        "label": "App · 3.1 · ¿Dónde estás comiendo?",
+        "href": "guia/pantalla.html?id=3.1"
+      },
+      {
+        "label": "App · 5.3 · Mis notas",
+        "href": "guia/pantalla.html?id=5.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-004286da-f8ee-465f-a4bc-044684e53aec.jpg",
+    "name": "image-004286da-f8ee-465f-a4bc-044684e53aec.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 122290,
+    "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a",
+    "views": [
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-2fc4245b-cd30-4b91-a7b2-3e040123ab9e.jpg",
+    "name": "image-2fc4245b-cd30-4b91-a7b2-3e040123ab9e.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 81091,
+    "sha256": "c6af7877d4f3ae015a0fa687537efb2a2e60b5f6376bd150d6a0775770ec367b",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-38227571-774c-44df-89a3-fcccf2418a91.jpg",
+    "name": "image-38227571-774c-44df-89a3-fcccf2418a91.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 80570,
+    "sha256": "fda45c1afdd39cd7175640d6254e354532a09d0edfb179cb3fc661ea6428ade6",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-3f0eb75e-40d0-49fb-9f7a-8974ecc83e13.jpg",
+    "name": "image-3f0eb75e-40d0-49fb-9f7a-8974ecc83e13.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 47468,
+    "sha256": "7f55612e1d96bcd5edaf2e291cce07f2e63620f02d239f63b6a863873c86fa4a",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-41502990-5d09-4723-86d8-3c8fc8f9539b.jpg",
+    "name": "image-41502990-5d09-4723-86d8-3c8fc8f9539b.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 88846,
+    "sha256": "d5cdcbae1ba76104ce903848eaa1fe9e07cfb346bab977adc7dcd4a754a3034d",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-4e56ca61-8b8d-49cf-9d6a-55206bb62aaf.jpg",
+    "name": "image-4e56ca61-8b8d-49cf-9d6a-55206bb62aaf.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 280617,
+    "sha256": "d19d1a17244a2dc120550823fd0b5c19ab4a7155f66b81361b4b4adfb6a6583b",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-608a1d01-b9c4-4af4-bad7-1dd50a7a0abf.jpg",
+    "name": "image-608a1d01-b9c4-4af4-bad7-1dd50a7a0abf.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 144867,
+    "sha256": "612efbce0a5ac6d32ef4278e510746a101ff3a12b7fc4a86b5b7cbdc8a833bbb",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-64c74fb1-2487-51d8-beab-a767413899cc.webp",
+    "name": "image-64c74fb1-2487-51d8-beab-a767413899cc.webp",
+    "kind": "originales",
+    "mime": "image/webp",
+    "bytes": 8004,
+    "sha256": "753bf75fd99b6452b8388e61d8aecfaddcfb8b07159c223c2da971b0849fe319",
+    "views": [
+      {
+        "label": "App · 1.4 · Mapa",
+        "href": "guia/pantalla.html?id=1.4"
+      },
+      {
+        "label": "App · 1.5 · Mapa · acercado",
+        "href": "guia/pantalla.html?id=1.5"
+      },
+      {
+        "label": "App · 3.2 · Número de la cuenta",
+        "href": "guia/pantalla.html?id=3.2"
+      },
+      {
+        "label": "App · 3.6 · Pagando",
+        "href": "guia/pantalla.html?id=3.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-6d543f4d-11d5-4f74-9494-a96a823d5445.jpg",
+    "name": "image-6d543f4d-11d5-4f74-9494-a96a823d5445.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 144934,
+    "sha256": "8c4866873c7052eeefcdd1a723565f1876d028faa29d05f72493a4d5e0d10623",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-718d6cca-a261-4889-92d8-fea576f09bc7.jpg",
+    "name": "image-718d6cca-a261-4889-92d8-fea576f09bc7.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 68002,
+    "sha256": "a951999866d8eb45d9becbe1f5328639f249ec953fbd93780573d544b5ba22fc",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-71fb9f73-31d8-47f0-b4f3-95e1fc80512b.jpg",
+    "name": "image-71fb9f73-31d8-47f0-b4f3-95e1fc80512b.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 326371,
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "views": [
+      {
+        "label": "App · 7.1 · Cómo se paga · 1 de 4",
+        "href": "guia/pantalla.html?id=7.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-82ee6a23-8f24-466b-a35b-eeb809010ec1.jpg",
+    "name": "image-82ee6a23-8f24-466b-a35b-eeb809010ec1.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 176825,
+    "sha256": "a4e389152fbe66f69a5a036fcd2da9d167ab307b94d6620a3dd79b74dc4eb0b5",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-867feb57-45cd-439b-a5a3-1196e34d3cd8.jpg",
+    "name": "image-867feb57-45cd-439b-a5a3-1196e34d3cd8.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 156200,
+    "sha256": "70575ab32e0c21eadd6020f33b884074b6548d42519d38a393916674ce4dd9ed",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 2.3 · Galería de fotos",
+        "href": "guia/pantalla.html?id=2.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-94e8cbf8-7b99-4217-8fb0-43755507a70c.jpg",
+    "name": "image-94e8cbf8-7b99-4217-8fb0-43755507a70c.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 234253,
+    "sha256": "ed1d80b25aaea8ab47bde0406808117627ace5d68ef7067468e39fabbeaabb01",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "App · 1.3 · Platos más populares",
+        "href": "guia/pantalla.html?id=1.3"
+      },
+      {
+        "label": "App · 5.6 · Perfil de un amigo",
+        "href": "guia/pantalla.html?id=5.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-97bdaa57-c266-4554-828c-30c45684ab83.jpg",
+    "name": "image-97bdaa57-c266-4554-828c-30c45684ab83.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 71145,
+    "sha256": "6cf39260d3614bda21f1cd85a8778ef18996e0d24e237f050afb700f0561fc18",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-97e582de-a0c2-4c27-a401-d7aff6271e87.jpg",
+    "name": "image-97e582de-a0c2-4c27-a401-d7aff6271e87.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 94296,
+    "sha256": "fc44d2a7c1cb51a9962d1ff305008169097400943c8473d40740ee068329f9c3",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-a2fe4783-0c28-426b-a37b-4c1bc56a214d.jpg",
+    "name": "image-a2fe4783-0c28-426b-a37b-4c1bc56a214d.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 326371,
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-afd3e9c6-c791-47f0-9438-f915d6338f9c.jpg",
+    "name": "image-afd3e9c6-c791-47f0-9438-f915d6338f9c.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 53478,
+    "sha256": "f0ea81560fe27aacce118cbe1b2884c6beb31ae34a49a0e8490dde29f74be9c7",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-b2dda89c-c425-4419-af01-4c46f02f22b2.jpg",
+    "name": "image-b2dda89c-c425-4419-af01-4c46f02f22b2.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 225728,
+    "sha256": "e9524f9de97be347f20b6a1314c28ae08c5095c2575c0915b95409806facf6e6",
+    "views": [
+      {
+        "label": "App · 1.1 · Lugares",
+        "href": "guia/pantalla.html?id=1.1"
+      },
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-bcb27feb-2caf-4952-9248-ec1fa9069702.jpg",
+    "name": "image-bcb27feb-2caf-4952-9248-ec1fa9069702.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 83331,
+    "sha256": "f3afa5852f4c8d9af0f9654d44e6a9cab9c891f4cc5483cfcb85b9887e740b08",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-cbf022ee-96bb-4000-be9e-5dc1db4c6178.jpg",
+    "name": "image-cbf022ee-96bb-4000-be9e-5dc1db4c6178.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 59047,
+    "sha256": "c718cf2eb36ef34d051c3ec68dca01bbb1c57533566223cd5d1d0bbd1e66cf50",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-cd7137d9-56fb-4a37-bdfc-2f254c6a87d8.jpg",
+    "name": "image-cd7137d9-56fb-4a37-bdfc-2f254c6a87d8.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 326371,
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "views": [
+      {
+        "label": "App · 1.4 · Mapa",
+        "href": "guia/pantalla.html?id=1.4"
+      },
+      {
+        "label": "App · 1.5 · Mapa · acercado",
+        "href": "guia/pantalla.html?id=1.5"
+      },
+      {
+        "label": "App · 3.4 · Tu cuenta, desde la caja",
+        "href": "guia/pantalla.html?id=3.4"
+      },
+      {
+        "label": "App · 4.1 · Historial",
+        "href": "guia/pantalla.html?id=4.1"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-da5bbd1e-2b5a-4cf2-859a-96d645a34edb.jpg",
+    "name": "image-da5bbd1e-2b5a-4cf2-859a-96d645a34edb.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 71845,
+    "sha256": "42a61039e76af3614e7bd91e97ef7708988ea0c3a9bc2005fb5825ad3b6a7361",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-dce233d0-01db-4855-ade1-eecf06bc506d.jpg",
+    "name": "image-dce233d0-01db-4855-ade1-eecf06bc506d.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 213470,
+    "sha256": "ce1021929e84399be89a2dfce6d0be93743dab0d7eb1df47be61187eabd2a709",
+    "views": [
+      {
+        "label": "App · 2.2 · Detalle · comunidad",
+        "href": "guia/pantalla.html?id=2.2"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-design-cover.jpg",
+    "name": "image-design-cover.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 326371,
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-design-dok.jpg",
+    "name": "image-design-dok.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 144934,
+    "sha256": "8c4866873c7052eeefcdd1a723565f1876d028faa29d05f72493a4d5e0d10623",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-design-okonomiyaki.jpg",
+    "name": "image-design-okonomiyaki.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 244211,
+    "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6",
+    "views": [
+      {
+        "label": "App · lugares.busqueda · Busca por antojo",
+        "href": "guia/pantalla.html?id=lugares.busqueda"
+      },
+      {
+        "label": "App · platos.local · Lo que se repite acá",
+        "href": "guia/pantalla.html?id=platos.local"
+      },
+      {
+        "label": "App · platos.sin-marcas · Sé de los primeros",
+        "href": "guia/pantalla.html?id=platos.sin-marcas"
+      },
+      {
+        "label": "App · carta.plato · Un plato, de cerca",
+        "href": "guia/pantalla.html?id=carta.plato"
+      },
+      {
+        "label": "App · resena.editar · Tu nota, como tú quieras",
+        "href": "guia/pantalla.html?id=resena.editar"
+      },
+      {
+        "label": "App · foto.comentarios · La conversa del plato",
+        "href": "guia/pantalla.html?id=foto.comentarios"
+      },
+      {
+        "label": "App · foto.editar · Tu foto y tu texto",
+        "href": "guia/pantalla.html?id=foto.editar"
+      },
+      {
+        "label": "App · fotos.mas · Más momentos de este lugar",
+        "href": "guia/pantalla.html?id=fotos.mas"
+      },
+      {
+        "label": "App · notas.filtros · Lo que te gustó",
+        "href": "guia/pantalla.html?id=notas.filtros"
+      },
+      {
+        "label": "App · restaurante.resenas · Qué repetirían tus clientes",
+        "href": "guia/pantalla.html?id=restaurante.resenas"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-eeb0abf7-9546-4605-91fe-3f3ea0bbda3f.jpg",
+    "name": "image-eeb0abf7-9546-4605-91fe-3f3ea0bbda3f.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 346193,
+    "sha256": "c98284bee97a65b0bf0bb0b1ce6d9fdb95994b6c3978eee5bf5d7f0fb3473318",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-ef5fcae9-d65b-44b1-a39a-e4c9bf083882.jpg",
+    "name": "image-ef5fcae9-d65b-44b1-a39a-e4c9bf083882.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 225728,
+    "sha256": "e9524f9de97be347f20b6a1314c28ae08c5095c2575c0915b95409806facf6e6",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-f330b4d4-1347-452d-815c-d69dfc6d9063.jpg",
+    "name": "image-f330b4d4-1347-452d-815c-d69dfc6d9063.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 184138,
+    "sha256": "f56200adda4e5c7fd0f45e14313ba7c828142bc3b29480288d9f7ad19ea3cd97",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-f7261324-9589-4d72-b6b0-d4449e1dcc74.jpg",
+    "name": "image-f7261324-9589-4d72-b6b0-d4449e1dcc74.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 84528,
+    "sha256": "eded4041bff5ef74f97ed9a823f202cd658fa18d85be8724a0f893261fffc7c6",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-ff20bab8-0331-4378-b895-84f426a890f5.jpg",
+    "name": "image-ff20bab8-0331-4378-b895-84f426a890f5.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 176825,
+    "sha256": "a4e389152fbe66f69a5a036fcd2da9d167ab307b94d6620a3dd79b74dc4eb0b5",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-ffd29d2c-b236-49df-91bd-594e9a191cc9.jpg",
+    "name": "image-ffd29d2c-b236-49df-91bd-594e9a191cc9.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 145303,
+    "sha256": "91ed0f7f69cc4de4e6255b582dbaea6389cad4fcc1de970e3ba0515977817f3a",
+    "views": []
+  },
+  {
+    "file": "assets/app/fotos/image-vamoa-okonomiyaki.jpg",
+    "name": "image-vamoa-okonomiyaki.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 244211,
+    "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6",
+    "views": [
+      {
+        "label": "App · 3.8 · Reseña de un plato",
+        "href": "guia/pantalla.html?id=3.8"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/fotos/image-vamoa-welcome-bar.jpg",
+    "name": "image-vamoa-welcome-bar.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 122290,
+    "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/adaptive-icon.png",
+    "name": "adaptive-icon.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 9301,
+    "sha256": "dd848a4392d1b0978ce6369de1f7dca662758e5bf688daee9985daca7b97e167",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/icon.png",
+    "name": "icon.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 35459,
+    "sha256": "63923408a92fccbb71c738e6e1844427e9310c601d43bc6b8e858e522d97420e",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/monochrome-icon.png",
+    "name": "monochrome-icon.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 9466,
+    "sha256": "2be00da90d877f86619a717511f6e6606da676093597c1bd384c7cb935956acb",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/notification-icon.png",
+    "name": "notification-icon.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 3122,
+    "sha256": "75c3703504c3e9445fbffff70ef510e5e156d97dcaf09a89674a3464aa30b779",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/redesign/logo-light.png",
+    "name": "logo-light.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 5293,
+    "sha256": "82d4ce4192bfacf88307954ab973509eb930edf869f9c386528e7767efe8c15e",
+    "views": []
+  },
+  {
+    "file": "assets/app/originales-vamoa/splash-icon.png",
+    "name": "splash-icon.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 13122,
+    "sha256": "34387bcfc5df50d7ad813ad60c39a6a2c1fd9661f1e783a6cc4a5d5ba8f21479",
+    "views": []
+  },
+  {
+    "file": "assets/app/portales/imagen-c6976f7f9fb1.jpg",
+    "name": "imagen-c6976f7f9fb1.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 211888,
+    "sha256": "c6976f7f9fb16e376d9f773edac054e776e4a73801cebbb0c00068c59527c0d4",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/agua-vital-330cc.jpg",
+    "name": "agua-vital-330cc.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 166582,
+    "sha256": "044555b387a09799f3b452938b972d975c79d650c65d72dc245098f92e4d84a2",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/asahi-dry.jpg",
+    "name": "asahi-dry.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 190790,
+    "sha256": "cc1deba4d8680fa09c8f805c276bfba69fe8e411b005b4c1c9881bc41cf15ad9",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/bebida.jpg",
+    "name": "bebida.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 182875,
+    "sha256": "5bd617e0a2fa0ee1268c8161df67f6cb94aa0d17daca7b98154b198fc0a83c1b",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/dan-dan.jpg",
+    "name": "dan-dan.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 143108,
+    "sha256": "1c35a7918bfc53c39849cb13fcb20f2f8b66c15e936d848367b69535ee96a7f9",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/dok-bok-ki-veggie.jpg",
+    "name": "dok-bok-ki-veggie.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 194709,
+    "sha256": "f99f167f1c95100b865688b3b794c3c0e14c59bf31de43cf1221493a3a24bc52",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/ensalada-china-de-berenjenas.jpg",
+    "name": "ensalada-china-de-berenjenas.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 138526,
+    "sha256": "20f3c907acaa6252843d0f14cd21a1e6c180f54ab6d8895ded5c0919e4d2f859",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/fake-pop-s.jpg",
+    "name": "fake-pop-s.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 257579,
+    "sha256": "2e04cb87d4109adaf044f4bf566008b89db19aadbf075b6f49af260cddb98627",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/hamburguesa-decalle.jpg",
+    "name": "hamburguesa-decalle.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 177069,
+    "sha256": "511db277e8c8a1bc4e970cfc36f22bcea2a55be5a63f34f2712caa02a61aead0",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/hamburguesa-dragon.jpg",
+    "name": "hamburguesa-dragon.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 111473,
+    "sha256": "0c87a33836e1ed0daf26fca934fb7aa0f818d3dbdcad0c261d2148e0e60350d6",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/kfc-kids.jpg",
+    "name": "kfc-kids.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 320964,
+    "sha256": "22ea7f2dfb6db9417955673e97388c7ccef88c4deec4a7a6c981dd709e7d0ba8",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/locura-1-chardonnay.jpg",
+    "name": "locura-1-chardonnay.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 89221,
+    "sha256": "2d95c350cee58ce76de363000e6c823f034a49d985a726fe1b49efd8fbcf5e1c",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/palta-frita.jpg",
+    "name": "palta-frita.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 165352,
+    "sha256": "cb43a61d0f8c702f115e922abd9d648bee2469d31cd78bcb3c726ad416e88fed",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/papas.jpg",
+    "name": "papas.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 187663,
+    "sha256": "d2db4fbdd5bba5502dd30b37422025f4ff1278246773ed98e65b4c37c7d1b791",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/porcion-de-arroz.jpg",
+    "name": "porcion-de-arroz.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 219612,
+    "sha256": "93dc7cb64ad7300c56619064a66b83e3327390b0730a163aced0dd25a2cc51ad",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/potstickers.jpg",
+    "name": "potstickers.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 219345,
+    "sha256": "5bd7ffda34346c693e4a3bb5895a061fcf16711a48a7d7710f30b4d844852332",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/px-1-pedro-ximenez.jpg",
+    "name": "px-1-pedro-ximenez.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 82407,
+    "sha256": "14d0f5dcc105755981fe1e8b658290a70f75c805a56494fa0f6a9cf12eabb8ed",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/sapporo.jpg",
+    "name": "sapporo.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 123232,
+    "sha256": "db01c67f49c674c4dd87da4065e14399f79ec6ef96fbabc4b539a30adcb2315c",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/tapioca.jpg",
+    "name": "tapioca.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 109614,
+    "sha256": "a83e7b6aaf952d157947ac26c853fc47d860753d66e136e29be44c0b85da6ab4",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/tsukune.jpg",
+    "name": "tsukune.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 323445,
+    "sha256": "27300b373ba7a1374e007c7093fd823d7b4defdf8ad10f1e354e704e5f8126e2",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/veggieburguer.jpg",
+    "name": "veggieburguer.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 118089,
+    "sha256": "859ff0d32f4c6ab7657e284be5c3091362f9a293b4c33c2d696c1f1869f81535",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/carta/wontons.jpg",
+    "name": "wontons.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 121130,
+    "sha256": "88d29fcba180c8151298a8911ee44adb81578ce6119966e3e3476e60c4488003",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/galeria/cheeseburger.jpg",
+    "name": "cheeseburger.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 134801,
+    "sha256": "22a724889c9fa6733b7d331ad25344566c2d9692c3ed5a6cde119ec97ee1f9bd",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/logo.png",
+    "name": "logo.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 34129,
+    "sha256": "057ec87eae3e23276cc591e1c4e32752e599d5018cfa18d311811b43b87b2d44",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/resenas/resena-okonomiyaki-burger.jpg",
+    "name": "resena-okonomiyaki-burger.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 212250,
+    "sha256": "3ae451dcae8d830b6f98fc974938723e4a19688b00e9005d7af9e10db7a37309",
+    "views": []
+  },
+  {
+    "file": "assets/app/restaurantes/decalle/resenas/resena-umami-bomb.jpg",
+    "name": "resena-umami-bomb.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 200014,
+    "sha256": "5caa7de5df97a8d7dd89d100a0e511b729c6db45f2b7cf0cceff5b83ee370641",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-07b2fa37a61a.jpg",
+    "name": "imagen-07b2fa37a61a.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 4824,
+    "sha256": "07b2fa37a61afa65b8e621b24da7408d287751fd5e7dcc887855ce077faaa425",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/imagen-263c24564d26.jpg",
+    "name": "imagen-263c24564d26.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 125815,
+    "sha256": "263c24564d26b9be1d92968ede620ca6e25888d8367293f453d822d18609204b",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-906d4d70b0b1.jpg",
+    "name": "imagen-906d4d70b0b1.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 121204,
+    "sha256": "906d4d70b0b1d891bbab0beacdee39e2084522477f9ea4d342c8fc2de5364803",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-a3ce7862e44d.jpg",
+    "name": "imagen-a3ce7862e44d.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 121498,
+    "sha256": "a3ce7862e44d960ed660cdadfa28d17f359162501d36ccaeac9ac91d5c7d7c7f",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-a634d4f02fe5.jpg",
+    "name": "imagen-a634d4f02fe5.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 5242,
+    "sha256": "a634d4f02fe5b77804943c1d74b8d70e35ffe26454e0e9af9717432a2c72bfde",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/imagen-b46d556982a4.jpg",
+    "name": "imagen-b46d556982a4.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 187526,
+    "sha256": "b46d556982a40f482ec0385ae86352cef329ca42d331160fe41dde2e29a3b97a",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-b9eb4c9b10c8.jpg",
+    "name": "imagen-b9eb4c9b10c8.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 132836,
+    "sha256": "b9eb4c9b10c8f76ee77397620a84a69077c08117fa327b5dd877df102575292a",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-b9eba7444af3.jpg",
+    "name": "imagen-b9eba7444af3.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 132987,
+    "sha256": "b9eba7444af3a13d7b2be1a3ba9fa8b422a791c74882fd9edab56801c5c8d449",
+    "views": []
+  },
+  {
+    "file": "assets/landing/imagen-d8dab29a5736.jpg",
+    "name": "imagen-d8dab29a5736.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 3539,
+    "sha256": "d8dab29a5736d5c2b0084d720d3db02c785560071609be501541922928fdf831",
+    "views": [
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/imagen-dd488e9c596a.jpg",
+    "name": "imagen-dd488e9c596a.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 6685,
+    "sha256": "dd488e9c596acfa36c305825596e7b6737dd437b5cfb8d399edf9579618d8416",
+    "views": []
+  },
+  {
+    "file": "assets/landing/index-de-calle-c73a8302.png",
+    "name": "index-de-calle-c73a8302.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 20185,
+    "sha256": "c73a83026dca7f4fbcd6574971503c7e40addbe86dd850ec1b176fe79d3c83a3",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/index-foto-amigos-comiendo-en-un-restaurante-e0a60d89.jpg",
+    "name": "index-foto-amigos-comiendo-en-un-restaurante-e0a60d89.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 189435,
+    "sha256": "e0a60d893cf885afc3d2c4309cc7f5cba7b0af3de874bcfc5d8aaa0fe568a4d2",
+    "views": []
+  },
+  {
+    "file": "assets/landing/index-justo-3c33f37a.png",
+    "name": "index-justo-3c33f37a.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 7904,
+    "sha256": "3c33f37a046e1e0b7489f70b0d5c653d2ba3ad60416ff5936dd58a000f738eb9",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/originales-vamoa/6c57ea9476643429a6bd7f9e.svg",
+    "name": "6c57ea9476643429a6bd7f9e.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3467,
+    "sha256": "6c57ea9476643429a6bd7f9ec00caa0492170ab4b586115ef2b208a5c6e76eef",
+    "views": [
+      {
+        "label": "Restaurantes",
+        "href": "restaurantes.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/originales-vamoa/bd3c83388d2b14b6cacb311e.svg",
+    "name": "bd3c83388d2b14b6cacb311e.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3467,
+    "sha256": "bd3c83388d2b14b6cacb311e8bdc47df5bb3a2c3221a71902884370a3ce90eda",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/landing/parati-plato-4ab2421c.jpg",
+    "name": "parati-plato-4ab2421c.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 63612,
+    "sha256": "4ab2421c1d5fee4a8f7cdac76bf300dc45cb4590f9127b613dd488124c374152",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-610eb2d5.jpg",
+    "name": "parati-plato-610eb2d5.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 50045,
+    "sha256": "610eb2d543a7071541145686e952eb1b576bf8e0556392fec85e994fdca88095",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-6a8a06f3.jpg",
+    "name": "parati-plato-6a8a06f3.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 72143,
+    "sha256": "6a8a06f36f6b0deda8c5718931e0f3f68c62fb6a233a918de5c644729a7e180f",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-772e8870.jpg",
+    "name": "parati-plato-772e8870.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 65748,
+    "sha256": "772e8870bc757e39bfb9def6f6c5c0984c0915e4f25b068a9154d08f436e4f36",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-87cb470b.jpg",
+    "name": "parati-plato-87cb470b.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 62727,
+    "sha256": "87cb470be680275fc53b9759ffab44362996f11cc26a3f1b935ac8ed0de3ede0",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-9af229fd.jpg",
+    "name": "parati-plato-9af229fd.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 68682,
+    "sha256": "9af229fdca53a9645c7286a7dd60d65d43ab42e90d176bf2c5aa900c8c1ec546",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-d8731d6e.jpg",
+    "name": "parati-plato-d8731d6e.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 68491,
+    "sha256": "d8731d6eb16d07c097883115c11e630c65bbac5322de90d5242b71396d875620",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-e9a7692f.jpg",
+    "name": "parati-plato-e9a7692f.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 54974,
+    "sha256": "e9a7692f2be914e63725499d8639f3550e1ab0cccbd3af8c917132d9b6ea0bf8",
+    "views": []
+  },
+  {
+    "file": "assets/landing/parati-plato-ecc3dbe9.jpg",
+    "name": "parati-plato-ecc3dbe9.jpg",
+    "kind": "originales",
+    "mime": "image/jpeg",
+    "bytes": 41254,
+    "sha256": "ecc3dbe9cc378e734775798eb59a4e2bd5d08d1e4863f6d36c541eb65d54c157",
+    "views": []
+  },
+  {
+    "file": "assets/marca/isotipo-512.png",
+    "name": "isotipo-512.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 11598,
+    "sha256": "975f5f064bf0c405c9440e155c6a88cfa1d5f42a1161444498c1c9eb91ca3b07",
+    "views": []
+  },
+  {
+    "file": "assets/marca/isotipo-mono.svg",
+    "name": "isotipo-mono.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 403,
+    "sha256": "e423a84e2593e0fdf412f3d7721e8f62810e417cedaf135908c51c4e9e1837cd",
+    "views": []
+  },
+  {
+    "file": "assets/marca/isotipo.svg",
+    "name": "isotipo.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 403,
+    "sha256": "5b500d6ddf94eae4d4ec4665212cc3e700904c3f4f29bb1b2b5b1bd66fbaa7e5",
+    "views": [
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      },
+      {
+        "label": "App · guía",
+        "href": "guia/app.html"
+      },
+      {
+        "label": "App · lienzo",
+        "href": "guia/app-lienzo.html"
+      },
+      {
+        "label": "App · pantalla individual",
+        "href": "guia/pantalla.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/marca/logo-google-hidpi.png",
+    "name": "logo-google-hidpi.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 9665,
+    "sha256": "97d88c5c06387afa7569d1beaafafef74b4bd47e4cdeb9f9476074b75eb552d8",
+    "views": []
+  },
+  {
+    "file": "assets/marca/logo-light.svg",
+    "name": "logo-light.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3682,
+    "sha256": "799e7fcfd9538212fec3bab9b8642531dfbb00ad81b559c3e9d93905aeff56b8",
+    "views": [
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      },
+      {
+        "label": "App · lienzo",
+        "href": "guia/app-lienzo.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/marca/logo-vamoa-6c57ea94.svg",
+    "name": "logo-vamoa-6c57ea94.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3465,
+    "sha256": "0194109fb19e848f69629d8d2b19fd838c9f5e16d50fe3ac3bb58bc27704660c",
+    "views": []
+  },
+  {
+    "file": "assets/marca/logo-vamoa-8fc41ae1.svg",
+    "name": "logo-vamoa-8fc41ae1.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3682,
+    "sha256": "8fc41ae1b47043c995999b3539d5947d87e6c660e1a4a3660a1fc59bfcadbb25",
+    "views": [
+      {
+        "label": "Restaurantes",
+        "href": "restaurantes.html"
+      },
+      {
+        "label": "App · 0.1 · Portada",
+        "href": "guia/pantalla.html?id=0.1"
+      },
+      {
+        "label": "App · 0.6 · Carga",
+        "href": "guia/pantalla.html?id=0.6"
+      }
+    ]
+  },
+  {
+    "file": "assets/marca/logo-vamoa-bd3c8338.svg",
+    "name": "logo-vamoa-bd3c8338.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3465,
+    "sha256": "0815af1cff61eab9a9fa52c09c9ade8671caced1a9df69a5f0af027f648958ce",
+    "views": [
+      {
+        "label": "Contacto",
+        "href": "contacto.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/marca/logo-vamoa-dcbe8fb7.svg",
+    "name": "logo-vamoa-dcbe8fb7.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3682,
+    "sha256": "dcbe8fb782ff55c0dda3f0b8dcdc9ec79b0e22ff1ab71cb3c85462b568625710",
+    "views": [
+      {
+        "label": "Landing",
+        "href": "index.html"
+      },
+      {
+        "label": "Para ti",
+        "href": "parati.html"
+      },
+      {
+        "label": "Contacto",
+        "href": "contacto.html"
+      }
+    ]
+  },
+  {
+    "file": "assets/marca/logo.svg",
+    "name": "logo.svg",
+    "kind": "originales",
+    "mime": "image/svg+xml",
+    "bytes": 3682,
+    "sha256": "b94ba437911305456ad824f52dbfb93100e416d425939be5c8bbd34600bf5d02",
+    "views": [
+      {
+        "label": "Marca y producto",
+        "href": "guia/index.html"
+      },
+      {
+        "label": "App · guía",
+        "href": "guia/app.html"
+      },
+      {
+        "label": "App · pantalla individual",
+        "href": "guia/pantalla.html"
+      }
+    ]
+  }
+]

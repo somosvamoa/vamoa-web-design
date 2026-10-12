@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Imágenes y recursos · Vamo’a</title>
+  <link rel="stylesheet" href="guia/recursos.css">
+  <script src="guia/recursos.js" defer></script>
+</head>
+<body>
+  <header>
+    <a href="guia/index.html">Vamo’a · Diseño</a>
+    <nav aria-label="Vistas"><a href="index.html">Landing</a><a href="guia/app-lienzo.html">App</a><a href="portales.html">Portales</a></nav>
+  </header>
+  <main>
+    <h1>Las imágenes, en tus manos.</h1>
+    <p>Abre o descarga el archivo original, copia su ruta y revisa en qué vistas aparece.
+      Los archivos están separados en <code>assets/app/</code>, <code>assets/landing/</code>
+      y <code>assets/marca/</code>. Busca una de esas rutas para filtrar por carpeta.</p>
+    <div class="controls">
+      <label>Buscar por archivo o vista<input id="search" type="search" placeholder="Ej. Portada, De Calle, logo…"></label>
+      <label>Mostrar<select id="kind"><option value="originales">Imágenes originales</option><option value="capturas">Capturas de pantallas</option><option value="todos">Todas las imágenes</option></select></label>
+      <button id="background" type="button" aria-pressed="false">Fondo oscuro</button>
+    </div>
+    <p id="count" role="status">Cargando catálogo…</p>
+    <p id="message" role="status"></p>
+    <div id="gallery" class="gallery"></div>
+    <noscript>Este catálogo necesita JavaScript. Los archivos originales también se pueden abrir desde las carpetas indicadas.</noscript>
+  </main>
+</body>
+</html>

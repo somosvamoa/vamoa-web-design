@@ -1,0 +1,346 @@
+html,body{margin:0}
+
+.v-reference--index .v-footer-layout{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:24px;align-items:center}
+.v-reference--index .v-footer-brand{justify-self:start}
+.v-reference--index .v-footer-note{justify-self:center;text-align:center}
+.v-reference--index .v-footer-links{justify-content:flex-end}
+@media(max-width:760px){.v-reference--index .v-footer-layout{grid-template-columns:1fr}.v-reference--index .v-footer-brand{justify-self:center}.v-reference--index .v-footer-links{justify-content:center}}
+
+.v-reference--index .v-partners-centered .v-suma>div{box-sizing:border-box}
+@font-face{font-family:'App Display';src:url("../assets/fuentes/fuente-60c06664b5a9.woff2") format('woff2');font-weight:400;font-style:normal;font-display:block}@font-face{font-family:'App UI';src:url("../assets/fuentes/fuente-f9da9e1091a8.woff2") format('woff2');font-weight:400;font-style:normal;font-display:block}@font-face{font-family:'App UI';src:url("../assets/fuentes/fuente-03f356d702fc.woff2") format('woff2');font-weight:500;font-style:normal;font-display:block}@font-face{font-family:'App UI';src:url("../assets/fuentes/fuente-8f1dc2e19636.woff2") format('woff2');font-weight:600;font-style:normal;font-display:block}@font-face{font-family:'App Mono';src:url("../assets/fuentes/fuente-320720dea18b.woff2") format('woff2');font-weight:500;font-style:normal;font-display:block}
+/* vietnamese */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 500 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/fuentes/font-53c9e52c-d98a-48cc-9e8e-f3ff144377bb.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 500 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/fuentes/font-28089cbb-b95d-45a4-9ab6-7f7691927861.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 500 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../assets/fuentes/font-106b265d-ed36-4175-a9a5-2fcee32f7812.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Schibsted Grotesk';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../assets/fuentes/font-9b508d3b-0dba-469d-932d-2a6a80506bfa.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Schibsted Grotesk';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../assets/fuentes/font-da2d5ae5-8a39-4e13-8bed-2a4d682a0cc6.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* fallback */
+@font-face {
+  font-family: 'Material Symbols Rounded';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: block;
+  src: url("../assets/fuentes/font-e9813be6-d55e-452e-bd8c-d02efe9b5734.woff2") format('woff2');
+}
+
+.v-reference--index .material-symbols-rounded {
+  font-family: 'Material Symbols Rounded';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+.v-reference--index{margin:0;background:#FAF7EF;color:#18332C;font-family:'Schibsted Grotesk',system-ui,sans-serif;-webkit-font-smoothing:antialiased}.v-reference--index a{color:#18332C;text-decoration:none}.v-reference--index a:hover{color:#BD3F2F}.v-reference--index,.v-reference--index *{box-sizing:border-box}.v-reference--index .v-suma{transform-origin:50% 100%;animation:vChinA 4.8s cubic-bezier(.45,0,.3,1) infinite}.v-reference--index .v-suma--b{animation-name:vChinB}@keyframes vChinA{0%,60%{transform:none}70%{transform:translateX(2px) rotate(3deg)}74%{transform:translateX(0) rotate(1deg)}78%{transform:translateX(2px) rotate(3deg)}90%,100%{transform:none}}@keyframes vChinB{0%,60%{transform:none}70%{transform:translateX(-2px) rotate(-3deg)}74%{transform:translateX(0) rotate(-1deg)}78%{transform:translateX(-2px) rotate(-3deg)}90%,100%{transform:none}}.v-reference--index .v-chin{position:absolute;left:50%;top:-6px;width:0;height:0;pointer-events:none}.v-reference--index .v-chin i{position:absolute;left:-1.5px;bottom:0;width:3px;height:12px;border-radius:2px;background:#EF684E;transform-origin:50% 100%;opacity:0;animation:vChispa 4.8s ease-out infinite}.v-reference--index .v-chin i:nth-child(1){--r:-40deg}.v-reference--index .v-chin i:nth-child(2){--r:0deg}.v-reference--index .v-chin i:nth-child(3){--r:40deg}@keyframes vChispa{0%,68%{opacity:0;transform:rotate(var(--r)) translateY(2px) scaleY(.3)}71%{opacity:1;transform:rotate(var(--r)) translateY(-6px) scaleY(1)}84%,100%{opacity:0;transform:rotate(var(--r)) translateY(-16px) scaleY(.5)}}.v-reference--index .v-sumas:hover .v-suma,.v-reference--index .v-sumas:hover .v-chin i{animation-play-state:paused}@keyframes vamoaMarquee{from{transform:translateX(0)}to{transform:translateX(calc(-100% / 3))}}.v-reference--index a:focus-visible,.v-reference--index button:focus-visible,.v-reference--index select:focus-visible{outline:3px solid #BD3F2F!important;outline-offset:3px}.v-reference--index .v-pill:focus-within{box-shadow:0 0 0 3px #18332C}@media (max-width:700px){.v-reference--index .v-nav{display:none!important}.v-reference--index header a[href="#lista"]{margin-left:auto}}@media (max-width:560px){.v-reference--index .v-pill>button{flex:1 1 100%!important}.v-reference--index .v-pill>div{min-width:0!important;flex:1 1 100%!important}.v-reference--index .v-pill--sugerir>input{flex:1 1 100%!important;min-width:0!important}.v-reference--index .v-pill--sugerir>input+input{border-left:0!important;border-top:1px solid #E4DECF!important}}@media (prefers-reduced-motion:reduce){.v-reference--index *,.v-reference--index *::before,.v-reference--index *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.v-reference--index{scroll-behavior:smooth}
+.v-reference--index #lista{scroll-margin-top:72px}
+.v-reference--index .v-design-opening{position:fixed;inset:0;z-index:1000;display:grid;place-items:center;overflow:hidden;background:#18332C;pointer-events:none;clip-path:circle(150% at 50% 55%);animation:vDesignReveal 440ms cubic-bezier(.76,0,.24,1) 1160ms both}
+.v-reference--index .v-design-opening__lockup{display:flex;align-items:center;gap:clamp(16px,3vw,28px);animation:vDesignLockupOut 220ms ease 1160ms both}
+.v-reference--index .v-design-opening__mark-wrap{position:relative;isolation:isolate;width:clamp(60px,12vw,88px);margin-inline:calc(clamp(60px,12vw,88px)*-.1);flex:none}
+.v-reference--index .v-design-opening__mark{display:block;width:100%;height:auto;transform-origin:50% 100%;animation:vDesignPinDrop 720ms linear both}
+.v-reference--index .v-design-opening__pulse{position:absolute;z-index:-1;bottom:-6px;left:50%;width:20px;aspect-ratio:1;border:2px solid #D4DF60;border-radius:50%;opacity:0;translate:-50% 50%;animation:vDesignPulse 430ms ease-out 390ms both}
+.v-reference--index .v-design-opening__wordmark{display:block;width:min(50vw,210px);height:auto;opacity:0;animation:vDesignWordmarkIn 300ms cubic-bezier(.22,1,.36,1) 720ms both}
+@keyframes vDesignPinDrop{0%{translate:0 -62vh;rotate:-7deg;scale:.92}54%{translate:0 6px;rotate:0deg;scale:1.08 .88}68%{translate:0 -22px;scale:.97 1.04}82%{translate:0 2px;scale:1.035 .965}92%{translate:0 -5px;scale:.99 1.01}100%{translate:0;rotate:0deg;scale:1}}
+@keyframes vDesignPulse{0%{opacity:0;scale:.4}28%{opacity:.7}100%{opacity:0;scale:3.2 .9}}
+@keyframes vDesignWordmarkIn{from{opacity:0;translate:-13px 0}to{opacity:1;translate:0}}
+@keyframes vDesignLockupOut{from{opacity:1;scale:1}to{opacity:0;scale:.96}}
+@keyframes vDesignReveal{from{clip-path:circle(150% at 50% 55%)}to{clip-path:circle(0 at 50% 55%)}}
+@media(prefers-reduced-motion:reduce){.v-reference--index{scroll-behavior:auto}.v-reference--index .v-design-opening{display:none!important}}
+
+.v-reference--index .v-app-preview,.v-reference--index .v-app-preview *{box-sizing:content-box}
+
+.v-reference--index .v-step-track{transform-origin:center;transition:transform 180ms ease,background-color 180ms ease;pointer-events:none}
+@media(hover:hover) and (pointer:fine){.v-reference--index .v-step-control:hover .v-step-track{transform:scale(1.02,2);background-color:#50766A!important}}
+.v-reference--index #como-funciona .v-step-control:focus-visible{outline:2px solid #D4DF60!important;outline-offset:3px}
+.v-reference--index .v-step-control:focus-visible .v-step-track{transform:scale(1.02,2);background-color:#50766A!important}
+.v-reference--index .v-step-control:active .v-step-track{transform:scale(1,1.5)}
+@media(prefers-reduced-motion:reduce){.v-reference--index .v-step-track{transition:none}}
+
+.v-reference--index .v-app-preview>div{border-radius:0!important;box-shadow:none!important}
+
+
+/*
+ * El menú del celular en las cuatro páginas del diseño. Bajo 700 px el export esconde los
+ * enlaces de la barra; este botón de tres líneas los trae de vuelta en un panel que se
+ * abre bajo la barra, de lado a lado y con el color del header de cada página. La página
+ * actual va en píldora, igual que en la barra de escritorio.
+ */
+
+.v-menu-diseno {
+  display: none;
+  --menu-fondo: #faf7ef;
+  --menu-texto: #18332c;
+  --menu-linea: rgba(24, 51, 44, 0.26);
+  --menu-hover: #f2eddf;
+  --menu-actual-fondo: #18332c;
+  --menu-actual-texto: #faf7ef;
+}
+
+.v-reference--restaurantes .v-menu-diseno {
+  --menu-fondo: #18332c;
+  --menu-texto: #faf7ef;
+  --menu-linea: rgba(250, 247, 239, 0.28);
+  --menu-hover: #285247;
+  --menu-actual-fondo: #d4df60;
+  --menu-actual-texto: #18332c;
+}
+
+.v-reference--contacto .v-menu-diseno {
+  --menu-fondo: #d4df60;
+  --menu-linea: rgba(24, 51, 44, 0.32);
+  --menu-hover: rgba(24, 51, 44, 0.08);
+}
+
+.v-menu-diseno__boton {
+  display: flex;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid var(--menu-linea);
+  border-radius: 22px;
+  color: var(--menu-texto);
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.v-menu-diseno__boton::-webkit-details-marker {
+  display: none;
+}
+
+.v-menu-diseno__boton:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.v-menu-diseno__lineas {
+  display: flex;
+  width: 18px;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.v-menu-diseno__lineas > i {
+  display: block;
+  height: 2px;
+  border-radius: 1px;
+  background: currentColor;
+  transform-origin: center;
+  transition:
+    transform 200ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    opacity 200ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.v-menu-diseno[open] .v-menu-diseno__lineas > i:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.v-menu-diseno[open] .v-menu-diseno__lineas > i:nth-child(2) {
+  opacity: 0;
+}
+
+.v-menu-diseno[open] .v-menu-diseno__lineas > i:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+/* El header es sticky, así que el panel absoluto se ubica justo bajo su borde. */
+.v-menu-diseno__panel {
+  position: absolute;
+  inset: 100% 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 16px 20px;
+  border-bottom: 1px solid var(--menu-linea);
+  background: var(--menu-fondo);
+  color: var(--menu-texto);
+  box-shadow: 0 18px 30px -18px rgba(16, 37, 31, 0.35);
+}
+
+.v-menu-diseno__panel > a {
+  display: flex;
+  height: 48px;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 24px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.v-menu-diseno__panel > a:active {
+  background: var(--menu-hover);
+}
+
+.v-menu-diseno__panel > a[aria-current="page"] {
+  background: var(--menu-actual-fondo);
+  color: var(--menu-actual-texto);
+  font-weight: 700;
+}
+
+.v-menu-diseno__panel > a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: -2px;
+}
+
+/*
+ * `<details>` esconde su contenido al instante, así que se anima `::details-content`:
+ * `allow-discrete` retiene el `display` hasta que termina el fundido al cerrar y
+ * `@starting-style` da el punto de partida al abrir. Con `transform`, el pseudoelemento
+ * pasa a ser el bloque contenedor del panel, así que el que se posiciona bajo la barra es
+ * él. Sin soporte, el panel abre y cierra en seco.
+ */
+@supports selector(::details-content) {
+  .v-menu-diseno::details-content {
+    position: absolute;
+    inset: 100% 0 auto;
+    opacity: 0;
+    transform: translateY(-8px);
+    transition:
+      opacity 150ms ease-in,
+      transform 150ms ease-in,
+      display 150ms allow-discrete,
+      content-visibility 150ms allow-discrete;
+  }
+
+  .v-menu-diseno[open]::details-content {
+    opacity: 1;
+    transform: translateY(0);
+    transition:
+      opacity 200ms cubic-bezier(0.2, 0.7, 0.2, 1),
+      transform 200ms cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  @starting-style {
+    .v-menu-diseno[open]::details-content {
+      opacity: 0;
+      transform: translateY(-8px);
+    }
+  }
+
+  .v-menu-diseno__panel {
+    position: static;
+  }
+}
+
+/* «Acceso al portal» en el header: más angosto que 840 px le corta los enlaces al nav. */
+@media (max-width: 839px) {
+  .v-reference header .v-portal-diseno {
+    display: none !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .v-menu-diseno {
+    display: block;
+  }
+
+  /* El logo empuja el botón principal y el menú al borde derecho. */
+  .v-reference header > div {
+    gap: 8px !important;
+  }
+
+  .v-reference header a[aria-label="Vamo’a, inicio"] {
+    margin-right: auto;
+  }
+}
+
+/*
+ * Bajo 375 px (Android de 360, iPhone SE de 320) logo, botón principal y menú no caben con
+ * las medidas del diseño: la portada usa el margen de 16 px de las otras páginas, el logo
+ * baja a 32 px de alto y el botón principal a 14 px de letra.
+ */
+@media (max-width: 374px) {
+  .v-reference--index header > div {
+    padding: 0 16px !important;
+    gap: 12px !important;
+  }
+
+  .v-reference header a[aria-label="Vamo’a, inicio"] img {
+    height: 32px !important;
+  }
+
+  .v-reference header a[href="#lista"],
+  .v-reference header a[href="#sumate"] {
+    padding: 0 14px !important;
+    font-size: 14px !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .v-menu-diseno::details-content,
+  .v-menu-diseno[open]::details-content,
+  .v-menu-diseno__lineas > i {
+    transition: none;
+  }
+}
+
+.v-reference{font-size:16px;line-height:normal;letter-spacing:normal;font-weight:400;min-height:100vh;text-rendering:auto}
+.v-reference img,.v-reference svg{vertical-align:baseline;max-width:none}
+.v-reference-image{overflow:hidden;position:relative}
+.v-reference-honeypot{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+.v-reference-challenge{position:fixed;bottom:20px;left:20px;z-index:20;max-width:calc(100vw - 40px)}
+.v-reference [data-hover-background]:hover{background:var(--v-hover-background)}
+.v-reference button:disabled{cursor:wait;opacity:.65}
+
+.v-reference [data-hover-color]:hover{color:var(--v-hover-color)}
+.v-reference input::placeholder,.v-reference textarea::placeholder{color:#757575;opacity:1}
+.v-reference--index .v-pill{border:2px solid #87988B}
+.v-reference .v-pill input:focus-visible{outline:none!important;box-shadow:none!important}
+.v-reference .v-pill:focus-within{border-color:#18332C;box-shadow:none}
+.v-reference header a[href="#lista"]{border:1.5px solid #18332C}
+
+.v-menu-diseno,.v-menu-diseno *,.v-portal-diseno{box-sizing:border-box}

@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>document.querySelectorAll('.v-menu-diseno[open]').forEach(menu=>{if(!menu.contains(e.target)||e.target.closest('.v-menu-diseno__panel a'))menu.open=false}));document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelectorAll('.v-menu-diseno[open]').forEach(menu=>menu.open=false)});

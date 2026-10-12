@@ -188,7 +188,7 @@
     "category": "lugares",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
+    "context": "La tarjeta Pronto / Avísame es una propuesta visual de la entrega. El producto actual no implementa restaurantes sorpresa ni suscripción al aviso.",
     "primary": true,
     "presentation": "Vista principal",
     "roles": [
@@ -964,13 +964,13 @@
   {
     "id": "5.8",
     "title": "Trae a un amigo",
-    "state": "Vista principal",
+    "state": "Invitar a un amigo",
     "category": "comunidad",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
     "primary": true,
-    "presentation": "Vista principal",
+    "presentation": "Compartir código y enlace",
     "roles": [
       "comensal"
     ],
@@ -979,7 +979,9 @@
     ],
     "platform": "app",
     "consumer": true,
-    "aliases": [],
+    "aliases": [
+      "5.8.vigente"
+    ],
     "captures": [
       {
         "file": "5.8",
@@ -5318,7 +5320,7 @@
   {
     "id": "invitacion.invitados",
     "title": "Tus invitados",
-    "state": "Invitaciones registradas · sin premios nuevos",
+    "state": "Invitaciones registradas",
     "category": "comunidad",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
