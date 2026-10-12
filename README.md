@@ -33,6 +33,10 @@ contienen estilos y controladores externos.
 muestran código, compartir e invitados registrados, sin premios ni montos.
 `5.8.vigente` se conserva como alias de `5.8`.
 
+En la portada 0.1, el panel de acceso usa su altura de contenido y se sitúa más
+abajo; la foto ocupa el 72% del teléfono y la bienvenida aprovecha el espacio
+restante. El PNG y el ZIP incorporan esta composición, sin cambiar las acciones.
+
 Las fotos se pueden abrir, descargar, cambiar y reutilizar desde
 [recursos.html](recursos.html). Para sustituirlas conservar el nombre, o actualizar
 las rutas de las vistas. Los inventarios `assets/origenes.json` e
