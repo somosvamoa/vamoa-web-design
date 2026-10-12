@@ -48,7 +48,7 @@ try {
           }
         }
       }
-      for (const link of document.querySelectorAll('.canvas-shortcuts a,.top nav a,.phone-actions a,.phone-actions button')) {
+      for (const link of document.querySelectorAll('.top nav a,.phone-actions a,.phone-actions button')) {
         if (!visible(link) || link.closest(protectedView)) continue;
         const range = document.createRange();
         range.selectNodeContents(link);
@@ -56,14 +56,6 @@ try {
         const lineHeight = parseFloat(getComputedStyle(link).lineHeight) || 20;
         if (rows.length && Math.max(...rows.map(rect => rect.top)) - Math.min(...rows.map(rect => rect.top)) > lineHeight / 2) {
           issues.push('etiqueta partida: ' + link.textContent.trim());
-        }
-      }
-      const shortcuts = document.querySelector('.canvas-shortcuts');
-      if (shortcuts && visible(shortcuts)) {
-        const links = [...shortcuts.querySelectorAll('a')].map(link => link.getBoundingClientRect());
-        if (links.length !== 2 || links[0].bottom > links[1].top) issues.push('accesos del índice superpuestos');
-        if (shortcuts.getBoundingClientRect().bottom > document.querySelector('.canvas-index-head').getBoundingClientRect().top) {
-          issues.push('accesos superpuestos con título Pantallas');
         }
       }
       return issues;
@@ -77,14 +69,16 @@ try {
       await page.goto(new URL(name, base).href, { waitUntil: 'networkidle0' });
       await page.evaluate(() => document.fonts.ready);
       if (name === 'guia/app-lienzo.html') {
+        await page.select('#canvas-scope', 'todas');
+        await page.select('#canvas-status', 'todos');
         if (width <= 760) await page.click('#canvas-index-toggle');
         await verify(name, width);
-        for (const [hash, expected] of [['dividir.inicio', 'dividir.inicio'], ['verificacion.pagada', 'verificacion.pagada']]) {
+        for (const id of ['dividir.inicio', 'verificacion.pagada']) {
           if (width <= 760 && !await page.$eval('#canvas-sidebar', sidebar => sidebar.classList.contains('open'))) {
             await page.click('#canvas-index-toggle');
           }
-          await page.click('.canvas-shortcuts a[href="#pantalla-' + hash + '"]');
-          await page.waitForFunction(id => window.vamoaCanvas.selected() === id, {}, expected);
+          await page.click('#canvas-index [data-select="' + id + '"]');
+          await page.waitForFunction(id => window.vamoaCanvas.selected() === id, {}, id);
           await verify(name, width);
         }
         const help = await page.$('.canvas-help summary');
@@ -108,7 +102,7 @@ try {
     console.log(JSON.stringify({ width, pageLayoutsChecked: checked }));
   }
   assert.deepEqual(errors, []);
-  console.log(JSON.stringify({ pageLayouts: checked, widths, errors: 0, shortcuts: 'passed' }));
+  console.log(JSON.stringify({ pageLayouts: checked, widths, errors: 0, chapterNavigation: 'passed' }));
 } finally {
   await browser.close();
 }

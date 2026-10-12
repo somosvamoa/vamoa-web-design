@@ -73,3 +73,7 @@ procesan pagos ni envían correos o inscripciones reales. «Pronto / Avísame» 
 propuesta visual. La publicación no contiene credenciales ni documentación
 operativa privada del producto. El sitio usa rutas relativas compatibles con la
 subcarpeta de GitHub Pages y se publica desde `main`, raíz, con `.nojekyll`.
+
+El índice del lienzo reúne todos los flujos como capítulos normales. Dividir la
+cuenta y Verificación QR no tienen botones destacados separados; sus pantallas,
+filtros y enlaces directos se conservan.

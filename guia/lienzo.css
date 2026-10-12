@@ -13,10 +13,6 @@
 .canvas-index-item[data-status="adoptado"] .index-dot{background:#d4df60}.canvas-frame[data-status="adoptado"]{border-color:#a5b65b}
 
 /* Page controls stay in their own boxes, outside the phone compositions. */
-.canvas-shortcuts{display:grid;gap:8px;margin-bottom:20px}
-.canvas-shortcuts .canvas-button{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;min-width:0;text-align:left}
-.canvas-shortcuts .canvas-button span:first-child{min-width:0;white-space:nowrap}
-.canvas-shortcuts .canvas-button span:last-child{flex:none}
 .canvas-index-item span:nth-child(2){flex:1;min-width:0;overflow-wrap:anywhere}
 .canvas-role-note>span{min-width:0}
 .canvas-frame-tools{flex-wrap:wrap;row-gap:8px}
