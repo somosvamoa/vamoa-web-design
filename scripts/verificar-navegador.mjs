@@ -1,6 +1,9 @@
 import assert from 'node:assert/strict';
 import { openBrowser, base, views, screenReady } from './navegador.mjs';
 
+const inventory = views();
+const consumerCount = inventory.filter(view => view.consumer).length;
+const captureCount = inventory.reduce((sum, view) => sum + view.captures.length, 0);
 const browser = await openBrowser();
 try {
   const page = await browser.newPage();
@@ -35,21 +38,21 @@ try {
   await page.waitForFunction(() => !document.getElementById('pt-correo'));
 
   await page.goto(new URL('guia/app.html', base).href, { waitUntil: 'networkidle0' });
-  assert.equal(await page.$$eval('[data-screen]', cards => cards.length), 191);
+  assert.equal(await page.$$eval('[data-screen]', cards => cards.length), consumerCount);
   await page.type('#screen-search', 'gyozas');
   assert.ok(await page.$eval('[id="pantalla-1.3"]', card => !card.hidden));
 
   await page.goto(new URL('guia/app-lienzo.html', base).href, { waitUntil: 'networkidle0' });
   await page.select('#canvas-scope', 'todas');
   await page.select('#canvas-status', 'todos');
-  assert.equal(await page.$$eval('[data-frame]', cards => cards.length), 241);
+  assert.equal(await page.$$eval('[data-frame]', cards => cards.length), inventory.length);
   await page.select('#canvas-role', 'dueño');
   const ownerCount = await page.$$eval('[data-frame]', cards => cards.length);
-  assert.ok(ownerCount > 0 && ownerCount < 241);
+  assert.ok(ownerCount > 0 && ownerCount < inventory.length);
 
   await page.setViewport({ width: 360, height: 800 });
   let screens = 0;
-  for (const view of views()) {
+  for (const view of inventory) {
     for (const capture of view.captures) {
       const query = new URLSearchParams({ id: view.id, captura: '1' });
       if (capture.role) query.set('rol', capture.role);
@@ -65,7 +68,7 @@ try {
       if (screens % 60 === 0) console.log(JSON.stringify({ renderedScreens: screens }));
     }
   }
-  assert.equal(screens, 242);
+  assert.equal(screens, captureCount);
   await page.goto(new URL('guia/pantalla.html?id=5.8.vigente', base).href, { waitUntil: 'networkidle0' });
   assert.match(await page.$eval('.screen-title', title => title.textContent), /^5\.8 ·/);
   await page.goto(new URL('guia/app.html#pantalla-5.8.vigente', base).href, { waitUntil: 'networkidle0' });

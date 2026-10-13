@@ -730,7 +730,7 @@
   {
     "id": "4.1",
     "title": "Historial",
-    "state": "Vista principal",
+    "state": "Cuentas agrupadas por mes",
     "category": "creditos",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
@@ -3025,12 +3025,12 @@
   },
   {
     "id": "pago.selector",
-    "title": "¿Dónde estás comiendo?",
-    "state": "Vista principal",
+    "title": "¿En cuál local estás?",
+    "state": "Elección explícita de sucursal",
     "category": "pago",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "Selección previa de restaurante y local, cuando todavía no están elegidos. No se repite al entrar desde una sucursal o QR.",
+    "context": "Después de elegir De Calle se muestran sus dos sucursales. Ninguna se preselecciona; un QR de mesa puede identificar el local.",
     "primary": false,
     "presentation": "",
     "roles": [
@@ -3493,12 +3493,12 @@
   },
   {
     "id": "historial.filtros",
-    "title": "Tus cuentas",
-    "state": "Búsqueda · filtro · paginación",
+    "title": "Historial · filtros",
+    "state": "Búsqueda por cuenta",
     "category": "creditos",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
+    "context": "Una cuenta coincide con la búsqueda. La app conserva filtros y solicitudes de pago; no ofrece un botón Cargar más.",
     "primary": false,
     "presentation": "",
     "roles": [
@@ -3519,7 +3519,7 @@
   },
   {
     "id": "historial.vacio",
-    "title": "Tu próxima salida empieza aquí",
+    "title": "Historial · sin cuentas",
     "state": "Sin cuentas",
     "category": "creditos",
     "status": "actual",
@@ -3539,6 +3539,32 @@
     "captures": [
       {
         "file": "historial.vacio",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "historial.actualizando",
+    "title": "Historial · actualizando",
+    "state": "Recarga de cuentas",
+    "category": "creditos",
+    "status": "actual",
+    "availability": "Producto actual · en pruebas",
+    "context": "La marca pulsa mientras el API actualiza las cuentas. Los importes son ejemplos.",
+    "primary": false,
+    "presentation": "",
+    "roles": [
+      "comensal"
+    ],
+    "roleLabels": [
+      "Comensal"
+    ],
+    "platform": "app",
+    "consumer": true,
+    "aliases": [],
+    "captures": [
+      {
+        "file": "historial.actualizando",
         "role": null
       }
     ]
@@ -3987,12 +4013,12 @@
   },
   {
     "id": "guardados.quitar",
-    "title": "Tus próximos lugares",
-    "state": "Guardar · quitar favorito",
+    "title": "Quiero probar · quitar",
+    "state": "Corazón independiente de abrir",
     "category": "comunidad",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
-    "context": "",
+    "context": "El corazón quita el restaurante de la lista; la tarjeta abre su ficha. No hay reserva de mesa ni pantalla de confirmación inventada.",
     "primary": false,
     "presentation": "",
     "roles": [

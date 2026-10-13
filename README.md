@@ -3,7 +3,7 @@
 Mockups estáticos de app, sitio web, portales y marca, publicados en
 [GitHub Pages](https://somosvamoa.github.io/vamoa-web-design/).
 La fuente de esta entrega es `Gutierrovski/VamoaDesign`, incluyendo la revisión
-local del 12 de octubre de 2026 sobre `dfb069d`. La publicación conserva las ocho
+del 13 de octubre de 2026 (commit `9a85f9d`). La publicación conserva las ocho
 fotos nuevas y las correcciones de landing, Para ti, Restaurantes, invitaciones y
 navegación de las guías. No actualiza la aplicación ni el backend del producto.
 
@@ -23,13 +23,13 @@ navegación de las guías. No actualiza la aplicación ni el backend del product
 ## Assets editables
 
 `assets/app/`, `assets/landing/` y `assets/marca/` reúnen los archivos reales:
-112 imágenes originales y 242 capturas. Incluyen los ocho JPG de
+112 imágenes originales y 243 capturas. Incluyen los ocho JPG de
 `assets/app/fotos/higgsfield/`, conservados sin modificar. Tipografías y bibliotecas
 locales están en `assets/fuentes/` y `assets/runtime/`. `styles/` y `scripts/`
 contienen estilos y controladores externos.
 
 `assets/app/vistas.json` es la fuente compartida de las tres presentaciones de app:
-241 referencias, 191 del comensal y 242 capturas con variantes. Las invitaciones
+242 referencias, 192 del comensal y 243 capturas con variantes. Las invitaciones
 muestran código, compartir e invitados registrados, sin premios ni montos.
 `5.8.vigente` se conserva como alias de `5.8`.
 
@@ -69,11 +69,19 @@ y `python3 scripts/actualizar-paquete.py` para actualizar capturas, catálogo y 
 ## Alcance
 
 Personas, cuentas, cifras y actividad son ejemplos. Estos mockups no autentican,
-procesan pagos ni envían correos o inscripciones reales. «Pronto / Avísame» es una
-propuesta visual. La publicación no contiene credenciales ni documentación
+procesan pagos ni envían correos o inscripciones reales. «Muy pronto» es un anuncio editorial con candado, sin fecha ni suscripción. La publicación no contiene credenciales ni documentación
 operativa privada del producto. El sitio usa rutas relativas compatibles con la
 subcarpeta de GitHub Pages y se publica desde `main`, raíz, con `.nojekyll`.
 
 El índice del lienzo reúne todos los flujos como capítulos normales. Dividir la
 cuenta y Verificación QR no tienen botones destacados separados; sus pantallas,
 filtros y enlaces directos se conservan.
+
+## Actualización del 13 de octubre
+
+Lugares y Guardados muestran logo y todas las comunas de cada restaurante. Los
+platos populares destacan nombre y porcentaje, sin restaurante/precio visibles.
+Pagar muestra portada/logo y después las dos sucursales de De Calle; el historial
+separa sus estados normal, filtros, vacío y recarga con marca. Cuatro pasos de
+tutorial rediseñados, conservando los importes como ejemplos. PNG, catálogo,
+hashes y ZIP actualizados. La interfaz de la app real se trabaja en su repo privado.

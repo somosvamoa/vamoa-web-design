@@ -52,9 +52,9 @@ def main():
             reference(value, css)
 
     views = json.loads((ROOT / 'assets/app/vistas.json').read_text())
-    assert len(views) == 241
-    assert len({view['id'] for view in views}) == 241
-    assert sum(bool(view['consumer']) for view in views) == 191
+    assert len(views) == 242
+    assert len({view['id'] for view in views}) == 242
+    assert sum(bool(view['consumer']) for view in views) == 192
     captures = []
     for view in views:
         for markup in [view['phone'], *view.get('phoneByRole', {}).values()]:
@@ -65,7 +65,7 @@ def main():
             name = capture['file'] + '.png'
             captures.append(name)
             reference('../assets/app/capturas/' + name, ROOT / 'guia/pantalla.html')
-    assert len(captures) == len(set(captures)) == 242
+    assert len(captures) == len(set(captures)) == 243
 
     catalog = json.loads((ROOT / 'assets/recursos.json').read_text())
     for item in catalog:

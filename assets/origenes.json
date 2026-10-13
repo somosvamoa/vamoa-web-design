@@ -45,21 +45,21 @@
   },
   {
     "archivo": "assets/app/capturas/1.1.png",
-    "sha256": "c4269db54b3b6c51e8b17fb8493e78137f74ae68c88a031087ad8436af0fa924",
+    "sha256": "5ec36437c4cf621cfbf174924b8db32433ec937d48695d1ff4725347a26f1a40",
     "exportacion": "guia/capturas/1.1.png",
     "vamoa": [],
     "sha256_original": "af6f1c0c68b393a2ed1c3a6e4c4b9d5ea91ffe27aa75075a9d115e5fcd4d1321"
   },
   {
     "archivo": "assets/app/capturas/1.2.png",
-    "sha256": "8028c3c2e567a026c2fbba5ef63528479b4811fb96501a2d3f72a77202f9e371",
+    "sha256": "43e4b9c1a9d1b7f679039b68f510073fd9a21281c080f9d1fcac839027bbd393",
     "exportacion": "guia/capturas/1.2.png",
     "vamoa": [],
     "sha256_original": "af1225f2a0d7ba9dad924e3bdb90cea12e08323d8980da5660b7b531810f44b8"
   },
   {
     "archivo": "assets/app/capturas/1.3.png",
-    "sha256": "8d6daf4c13aa9222820cfed0fcef29a3d3bf72025398dc95111574a3427bbdf8",
+    "sha256": "02575cd642dd944ce717c179dc11a5dcc959c839479dd8f966e65b13d7e36a43",
     "exportacion": "guia/capturas/1.3.png",
     "vamoa": [],
     "sha256_original": "07efa119dd82209d960e45d404834833458292c06e3fe0f5cb54d8f4460e0126"
@@ -122,7 +122,7 @@
   },
   {
     "archivo": "assets/app/capturas/3.1.png",
-    "sha256": "4a67df8a69d9e8d89ce8c4fe803641c50961c9f39928c014813ef98e1c440051",
+    "sha256": "979752b7a97c40a7957bcf35397bac6f431d122d8663580608d3501e6ae7549b",
     "exportacion": "guia/capturas/3.1.png",
     "vamoa": [],
     "sha256_original": "c02702a51725608a9ce0da41e340c8aaf92fb6faf3688b0e8457a058f4445c04"
@@ -185,9 +185,10 @@
   },
   {
     "archivo": "assets/app/capturas/4.1.png",
-    "sha256": "c4d18c95b071651137cb713a8e428ad7da596595e26426763bce5dea5b8e7885",
+    "sha256": "c2d058438916fdf5117e7105aea376204c1c3763b306d51ca0987b84d81082f3",
     "exportacion": "guia/capturas/4.1.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c4d18c95b071651137cb713a8e428ad7da596595e26426763bce5dea5b8e7885"
   },
   {
     "archivo": "assets/app/capturas/4.2.png",
@@ -228,7 +229,7 @@
   },
   {
     "archivo": "assets/app/capturas/5.2.png",
-    "sha256": "05ca9b5fb1460d4d1311d581ab94410499c9bd5e39d09f72cd65ea05aa1daea4",
+    "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e",
     "exportacion": "guia/capturas/5.2.png",
     "vamoa": [],
     "sha256_original": "4266cad7ff56887076e2da138c3e14b6f39067cd7562996bb089494e99c82c8d"
@@ -292,27 +293,31 @@
   },
   {
     "archivo": "assets/app/capturas/7.1.png",
-    "sha256": "61f97ff31289432aa03b05f8cf33cfcd93f967a7fa3e394e25029104e06060c0",
+    "sha256": "ef93e95352001c6714609ed2a2f22037c920f77a1800fd859305fe5aeaf41ac4",
     "exportacion": "guia/capturas/7.1.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "61f97ff31289432aa03b05f8cf33cfcd93f967a7fa3e394e25029104e06060c0"
   },
   {
     "archivo": "assets/app/capturas/7.2.png",
-    "sha256": "f447dd00d176a53b42c260d23c584a748a98e92f394bf7ffe4dd1d87fdcf6523",
+    "sha256": "4ad87c4be948d387565dd8f16e32244c464778b2205a17b28d43edf4d0e621ca",
     "exportacion": "guia/capturas/7.2.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f447dd00d176a53b42c260d23c584a748a98e92f394bf7ffe4dd1d87fdcf6523"
   },
   {
     "archivo": "assets/app/capturas/7.3.png",
-    "sha256": "77c838d5681f81ea28e1ef463749be96df32b6c34fe786d92e939b66a03a3e99",
+    "sha256": "efc02cda4f63974a5b2d24c1629ffae310b335078578c86ee101b8792ae6fc09",
     "exportacion": "guia/capturas/7.3.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "77c838d5681f81ea28e1ef463749be96df32b6c34fe786d92e939b66a03a3e99"
   },
   {
     "archivo": "assets/app/capturas/7.4.png",
-    "sha256": "f85d38c098b4fd5fce5152dab866c08c2438cf2ba0e728e37d825d1dd11b5174",
+    "sha256": "6db09de9ca3ab467271cfa99e0bb89a37b95a1496d193acd1a2d7295fea9547b",
     "exportacion": "guia/capturas/7.4.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f85d38c098b4fd5fce5152dab866c08c2438cf2ba0e728e37d825d1dd11b5174"
   },
   {
     "archivo": "assets/app/capturas/acceso.cambiar-correo.png",
@@ -859,7 +864,7 @@
   },
   {
     "archivo": "assets/app/capturas/guardados.quitar.png",
-    "sha256": "5f4b7e3a676350b565aa1646cd4e60684bcdd4270f338c2d40748ce9eecec37b",
+    "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e",
     "exportacion": "guia/capturas/guardados.quitar.png",
     "vamoa": [],
     "sha256_original": "34b2d11b03cb54a8f1793d21bf088113e5ad06314bed0e24a37aec882e50387f"
@@ -871,16 +876,23 @@
     "vamoa": []
   },
   {
+    "archivo": "assets/app/capturas/historial.actualizando.png",
+    "vamoa": [],
+    "sha256": "e8a3f2858cce92d54ed7ae2b9639feec8e4e226e9166597984ef67e99088dffd"
+  },
+  {
     "archivo": "assets/app/capturas/historial.filtros.png",
-    "sha256": "76f70be39fe778c7695a1ab128dce7780e12c1be332fc0e56ce98852fd7d2055",
+    "sha256": "5b33971f5cb943832ec08134ee30729418f8c4577e2b156c3fd526ab13a6b615",
     "exportacion": "guia/capturas/historial.filtros.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "76f70be39fe778c7695a1ab128dce7780e12c1be332fc0e56ce98852fd7d2055"
   },
   {
     "archivo": "assets/app/capturas/historial.vacio.png",
-    "sha256": "2f8360e876cc13ee9c0f9e0309e457424f041170a78424ca5d029a1860130fba",
+    "sha256": "11a798d40a0e288b77cb60d03a2fc21b2e786f99553cdde2846fa2badda794cf",
     "exportacion": "guia/capturas/historial.vacio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2f8360e876cc13ee9c0f9e0309e457424f041170a78424ca5d029a1860130fba"
   },
   {
     "archivo": "assets/app/capturas/invitacion.invitados.png",
@@ -891,7 +903,7 @@
   },
   {
     "archivo": "assets/app/capturas/lugar.direcciones.png",
-    "sha256": "ebbf3621462dc8654a231422df5de33533b530695823a9fd162aa4b0695259b6",
+    "sha256": "25087893db4d68687b175fbec595d5e1411adae4c8b7dc5963aa0020a9e03b70",
     "exportacion": "guia/capturas/lugar.direcciones.png",
     "vamoa": [],
     "sha256_original": "ce19c04a6542e3c897ce6b9b509ff2a526fda06806d5c9bfcb0e49646e6dc75f"
@@ -905,7 +917,7 @@
   },
   {
     "archivo": "assets/app/capturas/lugar.sucursales.png",
-    "sha256": "9f78c650e5cd04187194c99cbcea1d390eeceb58a2c5f0dfbb25866f00fd3f76",
+    "sha256": "fc77652f6c2617854371da0b6fbf04736d83bb078541252d70b0c518ab6a289b",
     "exportacion": "guia/capturas/lugar.sucursales.png",
     "vamoa": [],
     "sha256_original": "f04965eb2640203f96064d888ce8b21fff3cadd3efabcd0dc2986666bb442c6e"
@@ -1020,7 +1032,7 @@
   },
   {
     "archivo": "assets/app/capturas/pago.selector.png",
-    "sha256": "e53948a8b0dfcae4d3934a292ae0b99db92989b06d4ce8d97cddbffad1e4c412",
+    "sha256": "9cd7fa6bdaf89192e0bff171541e2208aa59ba514b1b1914ef663337d622ad6c",
     "exportacion": "guia/capturas/pago.selector.png",
     "vamoa": [],
     "sha256_original": "190ab2b83b7376abc99f7545006cd02db16f070fbda5a3a84e9e15abfc28c778"
@@ -1045,7 +1057,7 @@
   },
   {
     "archivo": "assets/app/capturas/platos.local.png",
-    "sha256": "01e60f55cc2dc159e8760626b45299c55314b4ef96f58586423a28c250e03ef8",
+    "sha256": "bd04b62949250980b85033e3ee3d9b25d8c9910dab673aec7375962bedf45fe5",
     "exportacion": "guia/capturas/platos.local.png",
     "vamoa": [],
     "sha256_original": "9ee4f2ac6143f4a9087c1c4ab14f48e136fdd94a768e9903e287518f00146715"
