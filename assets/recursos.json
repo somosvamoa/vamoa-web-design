@@ -102,8 +102,8 @@
     "name": "1.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 637943,
-    "sha256": "5ec36437c4cf621cfbf174924b8db32433ec937d48695d1ff4725347a26f1a40",
+    "bytes": 637035,
+    "sha256": "aa1e991a9ce2ce5b1823bc744c2b0ea84fbd8ebec10d6ac744065034b2a700e6",
     "views": [
       {
         "label": "1.1 · Lugares",
@@ -130,8 +130,8 @@
     "name": "1.3.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 899457,
-    "sha256": "02575cd642dd944ce717c179dc11a5dcc959c839479dd8f966e65b13d7e36a43",
+    "bytes": 899365,
+    "sha256": "54e1b6fae6caa83a7351bc33eb1582470894540afe130d36c850f0d3cc94c819",
     "views": [
       {
         "label": "1.3 · Platos más populares",
@@ -144,8 +144,8 @@
     "name": "1.4.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 252109,
-    "sha256": "737dbdbdab20e9968701c368e9ff3553f925cfa545632f1d17f37f061978b955",
+    "bytes": 151535,
+    "sha256": "397e8ec78b3fcbc53a39dc07bc3f14ca5043da81722cf6f58d1598538fc436fc",
     "views": [
       {
         "label": "1.4 · Mapa",
@@ -158,11 +158,11 @@
     "name": "1.5.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 257915,
-    "sha256": "e0e6bd04c1d314772853482e627c8e0797473482f32ac7a48ba07ecbb528e8fb",
+    "bytes": 113338,
+    "sha256": "727688e8af3071872619d1975cebda9e08220b55cd5c3adf263ad13071cc8f3d",
     "views": [
       {
-        "label": "1.5 · Mapa · acercado",
+        "label": "1.5 · Mapa · resultados desplegados",
         "href": "guia/pantalla.html?id=1.5"
       }
     ]
@@ -172,8 +172,8 @@
     "name": "2.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 817670,
-    "sha256": "7883cddf9c68af3b42ebe612c2708ba84e786873ed199d12dc99d55a9a2e4bb1",
+    "bytes": 1052741,
+    "sha256": "8cbaf540eaffde3c0ad937fb48fed000d90adc223bfcb43453caf90c788e9b8a",
     "views": [
       {
         "label": "2.1 · Detalle · arriba",
@@ -256,8 +256,8 @@
     "name": "3.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 511670,
-    "sha256": "979752b7a97c40a7957bcf35397bac6f431d122d8663580608d3501e6ae7549b",
+    "bytes": 511310,
+    "sha256": "fe4c48888256886334933b61f8bb21a7c8315886efc37a09844a3bb49bf1798c",
     "views": [
       {
         "label": "3.1 · ¿Dónde estás comiendo?",
@@ -396,8 +396,8 @@
     "name": "4.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 145297,
-    "sha256": "c2d058438916fdf5117e7105aea376204c1c3763b306d51ca0987b84d81082f3",
+    "bytes": 145290,
+    "sha256": "b8b76880ea702bf227fc84bfa5ab2d563b4f9385b4dc2998ccd4cc0cf7a90c75",
     "views": [
       {
         "label": "4.1 · Historial",
@@ -410,8 +410,8 @@
     "name": "4.2.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 139063,
-    "sha256": "cb0d920dd258b56434b0c2dbc22575e3054335745bd5dba51929f7acba0ea665",
+    "bytes": 133999,
+    "sha256": "4dd4ac958faf132efb7ca7721a6444468cccf4b48c387dbb238730cb1547defc",
     "views": [
       {
         "label": "4.2 · Tus créditos",
@@ -424,8 +424,8 @@
     "name": "5.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 104097,
-    "sha256": "7a16bc5f5f2ab2e3daa17a8ed0ffec8c967e48343e85d8f600bb3de8cbb9f839",
+    "bytes": 103776,
+    "sha256": "a21ff91ad2ffd1dbddbb5ca1528ebfb5c9391ef42d92375c9e9396c4da03bfb9",
     "views": [
       {
         "label": "5.1 · Cuenta",
@@ -1978,8 +1978,8 @@
     "name": "historial.actualizando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 154501,
-    "sha256": "e8a3f2858cce92d54ed7ae2b9639feec8e4e226e9166597984ef67e99088dffd",
+    "bytes": 154490,
+    "sha256": "72f29d0a8d52be78e1eaeee631d68cf33c52fecafa749b7cb198f94b35ccc866",
     "views": [
       {
         "label": "historial.actualizando · Historial · actualizando",
@@ -1992,8 +1992,8 @@
     "name": "historial.filtros.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 97153,
-    "sha256": "5b33971f5cb943832ec08134ee30729418f8c4577e2b156c3fd526ab13a6b615",
+    "bytes": 97156,
+    "sha256": "f5c0c42a69ee52910cd571e6ca87a5314950c4a97ac1fa95c9e37b9974a2d894",
     "views": [
       {
         "label": "historial.filtros · Historial · filtros",
@@ -2006,8 +2006,8 @@
     "name": "historial.vacio.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 55937,
-    "sha256": "11a798d40a0e288b77cb60d03a2fc21b2e786f99553cdde2846fa2badda794cf",
+    "bytes": 55962,
+    "sha256": "579e927b1cdcd668e1859d2579a0d205d34f58ea57403242b3f06ff795a32cb3",
     "views": [
       {
         "label": "historial.vacio · Historial · sin cuentas",
@@ -3560,14 +3560,6 @@
         "href": "guia/pantalla.html?id=1.3"
       },
       {
-        "label": "App · 1.4 · Mapa",
-        "href": "guia/pantalla.html?id=1.4"
-      },
-      {
-        "label": "App · 1.5 · Mapa · acercado",
-        "href": "guia/pantalla.html?id=1.5"
-      },
-      {
         "label": "App · 2.3 · Galería de fotos",
         "href": "guia/pantalla.html?id=2.3"
       },
@@ -3881,14 +3873,6 @@
     "sha256": "753bf75fd99b6452b8388e61d8aecfaddcfb8b07159c223c2da971b0849fe319",
     "views": [
       {
-        "label": "App · 1.4 · Mapa",
-        "href": "guia/pantalla.html?id=1.4"
-      },
-      {
-        "label": "App · 1.5 · Mapa · acercado",
-        "href": "guia/pantalla.html?id=1.5"
-      },
-      {
         "label": "App · 3.2 · Número de la cuenta",
         "href": "guia/pantalla.html?id=3.2"
       },
@@ -4058,14 +4042,6 @@
     "bytes": 326371,
     "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
     "views": [
-      {
-        "label": "App · 1.4 · Mapa",
-        "href": "guia/pantalla.html?id=1.4"
-      },
-      {
-        "label": "App · 1.5 · Mapa · acercado",
-        "href": "guia/pantalla.html?id=1.5"
-      },
       {
         "label": "App · 3.4 · Tu cuenta, desde la caja",
         "href": "guia/pantalla.html?id=3.4"
@@ -4349,7 +4325,12 @@
     "mime": "image/jpeg",
     "bytes": 143108,
     "sha256": "1c35a7918bfc53c39849cb13fcb20f2f8b66c15e936d848367b69535ee96a7f9",
-    "views": []
+    "views": [
+      {
+        "label": "App · 2.1 · Detalle · arriba",
+        "href": "guia/pantalla.html?id=2.1"
+      }
+    ]
   },
   {
     "file": "assets/app/restaurantes/decalle/carta/dok-bok-ki-veggie.jpg",
@@ -4376,7 +4357,12 @@
     "mime": "image/jpeg",
     "bytes": 257579,
     "sha256": "2e04cb87d4109adaf044f4bf566008b89db19aadbf075b6f49af260cddb98627",
-    "views": []
+    "views": [
+      {
+        "label": "App · 2.1 · Detalle · arriba",
+        "href": "guia/pantalla.html?id=2.1"
+      }
+    ]
   },
   {
     "file": "assets/app/restaurantes/decalle/carta/hamburguesa-decalle.jpg",
@@ -4394,7 +4380,12 @@
     "mime": "image/jpeg",
     "bytes": 111473,
     "sha256": "0c87a33836e1ed0daf26fca934fb7aa0f818d3dbdcad0c261d2148e0e60350d6",
-    "views": []
+    "views": [
+      {
+        "label": "App · 2.1 · Detalle · arriba",
+        "href": "guia/pantalla.html?id=2.1"
+      }
+    ]
   },
   {
     "file": "assets/app/restaurantes/decalle/carta/kfc-kids.jpg",
@@ -4529,6 +4520,14 @@
       {
         "label": "App · 1.1 · Lugares",
         "href": "guia/pantalla.html?id=1.1"
+      },
+      {
+        "label": "App · 1.4 · Mapa",
+        "href": "guia/pantalla.html?id=1.4"
+      },
+      {
+        "label": "App · 1.5 · Mapa · resultados desplegados",
+        "href": "guia/pantalla.html?id=1.5"
       },
       {
         "label": "App · 3.1 · ¿Dónde estás comiendo?",

@@ -268,7 +268,7 @@
     "availability": "Producto actual · en pruebas",
     "context": "",
     "primary": true,
-    "presentation": "Vista principal",
+    "presentation": "Logos de los locales y panel que se amplía al arrastrarlo o pulsar el asa.",
     "roles": [
       "comensal"
     ],
@@ -287,14 +287,14 @@
   },
   {
     "id": "1.5",
-    "title": "Mapa · acercado",
-    "state": "Vista principal",
+    "title": "Mapa · resultados desplegados",
+    "state": "Panel ampliado con los dos locales",
     "category": "lugares",
     "status": "actual",
     "availability": "Producto actual · en pruebas",
     "context": "",
     "primary": true,
-    "presentation": "Vista principal",
+    "presentation": "Panel ampliado; arrastrar o pulsar el asa para contraer.",
     "roles": [
       "comensal"
     ],
@@ -320,7 +320,7 @@
     "availability": "Producto actual · en pruebas",
     "context": "",
     "primary": true,
-    "presentation": "Vista principal",
+    "presentation": "Reacciones junto al nombre; carta, mapa y comunidad sin contadores de amigos.",
     "roles": [
       "comensal"
     ],

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <base href="../guia/">
+  <title>Vamo’a · Revisión de mapa, ficha y navegación</title>
+  <link rel="icon" href="../assets/marca/isotipo.svg">
+  <link rel="stylesheet" href="guia.css">
+  <link rel="stylesheet" href="telefonos.css">
+  <link rel="stylesheet" href="../styles/elementos.css">
+  <link rel="stylesheet" href="../previews/revision-ui.css">
+  <script src="datos-vistas.js" defer></script>
+  <script src="mapa-panel.js" defer></script>
+  <script src="../previews/revision-ui.js" defer></script>
+</head>
+<body>
+  <header class="review-header"><img src="../assets/marca/logo.svg" alt="Vamo’a"><a href="app-lienzo.html">Ver todas las vistas <span aria-hidden="true">↗</span></a></header>
+  <main class="review-main">
+    <div class="review-intro"><span class="review-eyebrow">REVISIÓN DE INTERFAZ</span><h1>El lugar al centro.<br>Todo más claro.</h1><p>Logo del restaurante, resultados que se despliegan y una navegación con la misma tipografía en todas las vistas.</p></div>
+    <div class="review-grid">
+      <section class="review-card"><header><span>01 · MAPA</span><h2>Reconoce el restaurante.</h2><p>Arrastra el asa hacia arriba o tócala para desplegar los resultados.</p></header><div class="phone-canvas"><div class="phone-original" data-review-screen="1.4"></div></div><button class="review-toggle" type="button" data-review-toggle>Ampliar resultados <span aria-hidden="true">↑</span></button></section>
+      <section class="review-card"><header><span>02 · RESTAURANTE</span><h2>La ficha, más limpia.</h2><p>Reacciones junto al nombre. Carta y mapa quedan al alcance.</p></header><div class="phone-canvas"><div class="phone-original" data-review-screen="2.1"></div></div><a class="review-toggle" href="pantalla.html?id=2.1">Abrir la ficha <span aria-hidden="true">↗</span></a></section>
+      <section class="review-card"><header><span>03 · NAVEGACIÓN</span><h2>Una misma voz visual.</h2><p>Cinco etiquetas con la misma fuente, tamaño y peso.</p></header><div class="phone-canvas"><div class="phone-original" data-review-screen="historial.vacio"></div></div><a class="review-toggle" href="pantalla.html?id=4.1">Abrir Historial <span aria-hidden="true">↗</span></a></section>
+    </div>
+  </main>
+  <footer class="review-footer"><span>Vamo’a · Diseño para revisión</span><span>Mapa y panel con interacción local</span></footer>
+</body>
+</html>

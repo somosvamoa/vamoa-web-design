@@ -3,7 +3,7 @@
 Mockups estáticos de app, sitio web, portales y marca, publicados en
 [GitHub Pages](https://somosvamoa.github.io/vamoa-web-design/).
 La fuente de esta entrega es `Gutierrovski/VamoaDesign`, incluyendo la revisión
-del 13 de octubre de 2026 (commit `9a85f9d`). La publicación conserva las ocho
+del 13 de octubre de 2026 (commit `6f89521`). La publicación conserva las ocho
 fotos nuevas y las correcciones de landing, Para ti, Restaurantes, invitaciones y
 navegación de las guías. No actualiza la aplicación ni el backend del producto.
 
@@ -19,6 +19,7 @@ navegación de las guías. No actualiza la aplicación ni el backend del product
 | Pantalla individual | [guia/pantalla.html](guia/pantalla.html?id=1.1) |
 | Portales | [portales.html](portales.html) |
 | Catálogo de imágenes | [recursos.html](recursos.html) |
+| Preview interactivo de correcciones | [previews/revision-ui.html](previews/revision-ui.html) |
 
 ## Assets editables
 
@@ -85,3 +86,16 @@ Pagar muestra portada/logo y después las dos sucursales de De Calle; el histori
 separa sus estados normal, filtros, vacío y recarga con marca. Cuatro pasos de
 tutorial rediseñados, conservando los importes como ejemplos. PNG, catálogo,
 hashes y ZIP actualizados. La interfaz de la app real se trabaja en su repo privado.
+
+## Mapa, ficha y pestañas vigentes
+
+Los resultados y pines usan el logo original del restaurante con su propio fondo,
+sin cápsula verde. El panel del mapa se abre/cierra con arrastre, botón y teclado,
+y tiene scroll interno. La ficha retira los dos contadores de amigos y conserva
+reacciones junto al nombre. Las cinco pestañas comparten Schibsted Grotesk
+12 px/600/16 e iconos de 24. Se conservan ambas sucursales de De Calle.
+
+`previews/revision-ui.html` muestra mapa, ficha e historial y permite probar el
+panel. Sus PNG y las 243 capturas están actualizados, incluido el alias histórico
+`guia/capturas/`. `publicacion.json` identifica la fuente y los hashes de todos
+los archivos copiados; es evidencia de esta publicación, no sincronización automática.

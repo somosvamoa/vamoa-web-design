@@ -1,0 +1,1730 @@
+{
+  "date": "2026-10-13",
+  "sourceRepository": "Gutierrovski/VamoaDesign",
+  "sourceCommit": "6f895212034a31329f0585380822e4ceab4f32d9",
+  "views": 242,
+  "consumerViews": 192,
+  "captures": 243,
+  "files": [
+    {
+      "file": "app.html",
+      "sha256": "f57788fb1b0a1785f7ca0ceffafe0226a5b9cc30a548e7f60f0815e98556f0b5"
+    },
+    {
+      "file": "assets/LEEME.txt",
+      "sha256": "aab4a9d40b0be1351fbd0fed97e25aeb4fcfa5cd0ef691ddd9988fdc5a70c75f"
+    },
+    {
+      "file": "assets/app/capturas/0.1.png",
+      "sha256": "00130b72ddc9bf23ec0387938634cdc4a06b673d83b06d81679553c471b35e4d"
+    },
+    {
+      "file": "assets/app/capturas/0.2.png",
+      "sha256": "f2834b3d6d089c0d754d319eb35b25900ed759584f37bafc2e7caec46c9c1ed2"
+    },
+    {
+      "file": "assets/app/capturas/0.3.png",
+      "sha256": "521dabf2e621efc29ee785588662cc19eb6f3183172dc50915864459131fe9c9"
+    },
+    {
+      "file": "assets/app/capturas/0.4.png",
+      "sha256": "baaa9e83f11a31e806db3372b1c2c72dd03d62006880e63a3436acb930c3ad05"
+    },
+    {
+      "file": "assets/app/capturas/0.5.png",
+      "sha256": "f2f58943f81106e3c3925b0d740406455b0fdaff17a18800e93ae3157e3bb30c"
+    },
+    {
+      "file": "assets/app/capturas/0.6.png",
+      "sha256": "0e59e25f5b17a5fc813b09872c00f00ecec5b6cc6ca447d27a77b57330a5dd1e"
+    },
+    {
+      "file": "assets/app/capturas/0.7.png",
+      "sha256": "a641b905d4e49f3459fd78b3aa87caeaff526db59bf988744989e6c0bac85822"
+    },
+    {
+      "file": "assets/app/capturas/1.1.png",
+      "sha256": "aa1e991a9ce2ce5b1823bc744c2b0ea84fbd8ebec10d6ac744065034b2a700e6"
+    },
+    {
+      "file": "assets/app/capturas/1.2.png",
+      "sha256": "43e4b9c1a9d1b7f679039b68f510073fd9a21281c080f9d1fcac839027bbd393"
+    },
+    {
+      "file": "assets/app/capturas/1.3.png",
+      "sha256": "54e1b6fae6caa83a7351bc33eb1582470894540afe130d36c850f0d3cc94c819"
+    },
+    {
+      "file": "assets/app/capturas/1.4.png",
+      "sha256": "397e8ec78b3fcbc53a39dc07bc3f14ca5043da81722cf6f58d1598538fc436fc"
+    },
+    {
+      "file": "assets/app/capturas/1.5.png",
+      "sha256": "727688e8af3071872619d1975cebda9e08220b55cd5c3adf263ad13071cc8f3d"
+    },
+    {
+      "file": "assets/app/capturas/2.1.png",
+      "sha256": "8cbaf540eaffde3c0ad937fb48fed000d90adc223bfcb43453caf90c788e9b8a"
+    },
+    {
+      "file": "assets/app/capturas/2.2.png",
+      "sha256": "057cafcdce0da1895723476373ed5887a18523ac97ff461ecd44bb5c7c347afa"
+    },
+    {
+      "file": "assets/app/capturas/2.3.png",
+      "sha256": "8be013b2f9895e066774a9f04feb82d396aa788cb8684cc709af5c694d5d352f"
+    },
+    {
+      "file": "assets/app/capturas/2.4.png",
+      "sha256": "2c319efe42ef358b0aa6f84e33fb881c8b2573be9e6c49e0584afd3044b76774"
+    },
+    {
+      "file": "assets/app/capturas/2.5.png",
+      "sha256": "a0fc8fda52f1fa1734d666e5cedf82ebe242fbdf2e9ba6d12513e399eedefdd4"
+    },
+    {
+      "file": "assets/app/capturas/2.6.png",
+      "sha256": "b077958cd438def2a6cbc8ceb58ca54478535f319c43937f445dd98fe15b2bc8"
+    },
+    {
+      "file": "assets/app/capturas/3.1.png",
+      "sha256": "fe4c48888256886334933b61f8bb21a7c8315886efc37a09844a3bb49bf1798c"
+    },
+    {
+      "file": "assets/app/capturas/3.10.png",
+      "sha256": "6670d08da47becd9f8d7d9664a711c2a4a9e41b47e8ad2172718502a746b8b77"
+    },
+    {
+      "file": "assets/app/capturas/3.2.png",
+      "sha256": "026662ce26d41093b70dcbc7b21efbcdfd0a4724096443dce5f0d5a85e273ac8"
+    },
+    {
+      "file": "assets/app/capturas/3.3.png",
+      "sha256": "c6f1e49b75ac9e4414780ea80ea6b3f15b10207af41b7ef8f2d09aaa624a6767"
+    },
+    {
+      "file": "assets/app/capturas/3.4.png",
+      "sha256": "bf8dfcfb57dcb55947f0000955f52b918673560d31aebf69cd3b1f34e4a7fab2"
+    },
+    {
+      "file": "assets/app/capturas/3.5.png",
+      "sha256": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36"
+    },
+    {
+      "file": "assets/app/capturas/3.6.png",
+      "sha256": "3067f1a95a92cc1af82fd5386196b8d4e195a8798c943ef3bdc6cfe83f4c2714"
+    },
+    {
+      "file": "assets/app/capturas/3.7.png",
+      "sha256": "0a71890bc945afcd967d3e007a7af604d1ae9c0ec31756849bb9b3b3d4ec8ea0"
+    },
+    {
+      "file": "assets/app/capturas/3.8.png",
+      "sha256": "7afdd7109acad1fc0fb682fa5bfbd8948df4090ae8b411cedbab36a732bb3ab2"
+    },
+    {
+      "file": "assets/app/capturas/3.9.png",
+      "sha256": "144507b711737b5e0c43c22627ee067c83b1111bb58cabba46adb769bd0a695a"
+    },
+    {
+      "file": "assets/app/capturas/4.1.png",
+      "sha256": "b8b76880ea702bf227fc84bfa5ab2d563b4f9385b4dc2998ccd4cc0cf7a90c75"
+    },
+    {
+      "file": "assets/app/capturas/4.2.png",
+      "sha256": "4dd4ac958faf132efb7ca7721a6444468cccf4b48c387dbb238730cb1547defc"
+    },
+    {
+      "file": "assets/app/capturas/5.1.png",
+      "sha256": "a21ff91ad2ffd1dbddbb5ca1528ebfb5c9391ef42d92375c9e9396c4da03bfb9"
+    },
+    {
+      "file": "assets/app/capturas/5.10.png",
+      "sha256": "0b2b009abb1ce39136f7054cc94214f466bdb52500171bee1bef6f7075679778"
+    },
+    {
+      "file": "assets/app/capturas/5.11.png",
+      "sha256": "7f944c2d91a8cf38dd569a5c19d4a199024a287ebf9d59a9d2e884fc0b43af77"
+    },
+    {
+      "file": "assets/app/capturas/5.12.png",
+      "sha256": "2af1676a54a4791fc5b0ab88294257dd3b14e1e913f0f341347fb92b87adc744"
+    },
+    {
+      "file": "assets/app/capturas/5.13.png",
+      "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971"
+    },
+    {
+      "file": "assets/app/capturas/5.2.png",
+      "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e"
+    },
+    {
+      "file": "assets/app/capturas/5.3.png",
+      "sha256": "bf82eb9e3d4d273fb75baca0cf7bb5be5491a46196cfb599fe0853c0bb65e4cb"
+    },
+    {
+      "file": "assets/app/capturas/5.4.png",
+      "sha256": "fb720682c410d994fcdf3b6cfd43fee2d42b03bbee3ee7a1924fc41c5f9c0467"
+    },
+    {
+      "file": "assets/app/capturas/5.5.png",
+      "sha256": "80cfea9223a5fdba7e8e2af0e3ce7e3710d61786c87d3933e2d9ac08046a8416"
+    },
+    {
+      "file": "assets/app/capturas/5.6.png",
+      "sha256": "b08b3dae07d7c22d6e10e56188b494ce7a7f53a92e1981cd2a2ec143644c0a74"
+    },
+    {
+      "file": "assets/app/capturas/5.7.png",
+      "sha256": "d1576fbf4918f0f6c0481391ab81bc7dc2e7185c2a3192a49258a68e4ebed384"
+    },
+    {
+      "file": "assets/app/capturas/5.8.png",
+      "sha256": "b348f2c6fd9394df59e02d1e5350b803d1d3d527039961d3e01b7ed6084dd8ea"
+    },
+    {
+      "file": "assets/app/capturas/5.9.png",
+      "sha256": "53a15407a16e54860704dbd5f115178710bdccf2a2309d6b069cf7ab8dbc347c"
+    },
+    {
+      "file": "assets/app/capturas/6.1.png",
+      "sha256": "3f46fe48f376763780dcd440c75033364252eea1b1f2348ed96d850a51a528a8"
+    },
+    {
+      "file": "assets/app/capturas/6.2.png",
+      "sha256": "1dba2d7d2b46b7a91809c98f0ada3d1fd2dfd203afc3ba3285af35cbecf47f3e"
+    },
+    {
+      "file": "assets/app/capturas/7.1.png",
+      "sha256": "ef93e95352001c6714609ed2a2f22037c920f77a1800fd859305fe5aeaf41ac4"
+    },
+    {
+      "file": "assets/app/capturas/7.2.png",
+      "sha256": "4ad87c4be948d387565dd8f16e32244c464778b2205a17b28d43edf4d0e621ca"
+    },
+    {
+      "file": "assets/app/capturas/7.3.png",
+      "sha256": "efc02cda4f63974a5b2d24c1629ffae310b335078578c86ee101b8792ae6fc09"
+    },
+    {
+      "file": "assets/app/capturas/7.4.png",
+      "sha256": "6db09de9ca3ab467271cfa99e0bb89a37b95a1496d193acd1a2d7295fea9547b"
+    },
+    {
+      "file": "assets/app/capturas/acceso.cambiar-correo.png",
+      "sha256": "317c1475537d7d0221e180cf3f0b061d210d64557366295e41e74b271bb939be"
+    },
+    {
+      "file": "assets/app/capturas/acceso.clave-lista.png",
+      "sha256": "edb681b7d920612eb83e6cf52a5966aa0d84a4f75fc0f02f596af886bc3b4077"
+    },
+    {
+      "file": "assets/app/capturas/acceso.clave-nueva.png",
+      "sha256": "6585f28cb8d14cc56ffbbe092cdca221083ce4eb99e33217f8d1866ae6a7c4d3"
+    },
+    {
+      "file": "assets/app/capturas/acceso.codigo-correo.png",
+      "sha256": "12023d092895eeaadf71070d8fc7ce93570910eb7c0831eed15d7dfd9d618167"
+    },
+    {
+      "file": "assets/app/capturas/acceso.codigo-invalido.png",
+      "sha256": "769dd2ae6f208e6da359074eba78c74f6c7e423f7d6364b54c95698fc4bb65d1"
+    },
+    {
+      "file": "assets/app/capturas/acceso.error.png",
+      "sha256": "49a11250bc0a5fbf481bec8c860eb8d4392aef20631ae3199caf860c4743aaf7"
+    },
+    {
+      "file": "assets/app/capturas/acceso.explorar.png",
+      "sha256": "bf60f4650f87986ee6e94c18ba9d2d977e6e560084c71a783e3888a607e4da73"
+    },
+    {
+      "file": "assets/app/capturas/acceso.ingresar.png",
+      "sha256": "2ba551bdd22d0a96c3980561842c3d5300604460fffc94155abc325ad51a26e4"
+    },
+    {
+      "file": "assets/app/capturas/acceso.invitacion-invalida.png",
+      "sha256": "8b8ee5fef9289b7e903d23563713470b92335dbd101975ea8f3827040b4c2c4f"
+    },
+    {
+      "file": "assets/app/capturas/acceso.invitacion-registro.png",
+      "sha256": "71987261766ac2ba3b3802eeb3749386f1c02ea3291ca5ab9c02e94902b835c7"
+    },
+    {
+      "file": "assets/app/capturas/acceso.invitar.png",
+      "sha256": "1900ed3e0d0b24782dec2895b5821bf1da3a9a8cad57cfd960bf19dd1a5dd9b4"
+    },
+    {
+      "file": "assets/app/capturas/acceso.recuperar-codigo.png",
+      "sha256": "50b3865977889215918f898fe48e99a68a92d7b6d731a0ba3d57e2dcbcfd5631"
+    },
+    {
+      "file": "assets/app/capturas/acceso.registro-error.png",
+      "sha256": "c46cf29053e280172e460a49e7699c81b8697f5bdb49e89355754e4bdab33d3a"
+    },
+    {
+      "file": "assets/app/capturas/acceso.sesion-requerida.png",
+      "sha256": "53b06d9e0deeac54bf5f527ca9b724ed63ba85cd606fd1dfa50c665574bb566a"
+    },
+    {
+      "file": "assets/app/capturas/amigos.listas.png",
+      "sha256": "568e68600d51378e7dd93b3d00f8ed7c1057403a44d59a0a869315fe13e799d6"
+    },
+    {
+      "file": "assets/app/capturas/amigos.no-encontrado.png",
+      "sha256": "ec0f50bc5ce60c9a6d29dcacabbcfb08ec82a6cefbbeda058953feb6031b948c"
+    },
+    {
+      "file": "assets/app/capturas/amigos.notas-amigos.png",
+      "sha256": "2e5500496ed04979b9952cbfaee03ad228dafb788b30e8c5484986ea9700380b"
+    },
+    {
+      "file": "assets/app/capturas/amigos.privado.png",
+      "sha256": "f0a191c8aa584012dfd4fd1f3ee0821094214f377b5fc1a9a2af09519c32199b"
+    },
+    {
+      "file": "assets/app/capturas/bienvenida.bono.png",
+      "sha256": "c057ea5bdff53ff17676e21e68ac55bac6c74a8bc80f5ccb2d96d18016c7ead4"
+    },
+    {
+      "file": "assets/app/capturas/bienvenida.revision.png",
+      "sha256": "78940174f1328d75a3e5205fa7226ee783f8c11e3977921adf3e2e5b1ffacebf"
+    },
+    {
+      "file": "assets/app/capturas/bienvenida.sin-bono.png",
+      "sha256": "66e4e6e67534c76fd7eb76efa8d326ce2e3884fd120c818bc261d29c94cb1ac2"
+    },
+    {
+      "file": "assets/app/capturas/cajero.hoy.png",
+      "sha256": "97e8fe5052cc9930ebe91e50aaa0a2395cb8583172afc89f9898ce24dc3df94e"
+    },
+    {
+      "file": "assets/app/capturas/cajero.mas.png",
+      "sha256": "303466703c40213cd68145e8e1408ff524fa76ec97faffb181fafcccb82a1f0b"
+    },
+    {
+      "file": "assets/app/capturas/carta.plato.png",
+      "sha256": "86f76945a5bd18f8bb81fd9ed944d409d4d27995ff0cae15442ca4dbeaf1f176"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.compartir.png",
+      "sha256": "94808bc8737456dea07ef7996b3a51dba1cb219fabd70a5b4784b9fb076b9e7f"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.correo.png",
+      "sha256": "f33b582fa097fa2b5a5f416a49e543a27a7ef70f29bd88753ffff85fde89d5a4"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.devuelta.png",
+      "sha256": "33b25363c27b6eadf784a1896f3d97b4260d7625b96311319a425e06a4bcc72e"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.imprimir.png",
+      "sha256": "a5c06003d36bc1486f2faef9c9b077746d8c807c642ccf97a45cb736386a48c6"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.principal.png",
+      "sha256": "1b5b464260b5714f8d74d3440df52563d27e5a012aa01dd2956c823478b959cf"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.procesando.png",
+      "sha256": "7fc01d9cfa1ed7fbfa3b681ae3ba2ef2afdcb13edc4f53ab70fc289325085b5b"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.qr-cargando.png",
+      "sha256": "10ceed7dc86fb5a594b1c9da114c9c9bb69bfc455bcefa377fbd499a410da3c7"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.qr-no-vigente.png",
+      "sha256": "968bfa13107e67ecdbb6562307131769acc4dadd0c8dff804bf52e09107ef38a"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.qr.png",
+      "sha256": "70677c50570de1c5173e505e42694bedee94bc381f9b7d30c30aed2404b4e55b"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.sello.png",
+      "sha256": "b28060ee5907aad67e9cc063ca6f4640cf4ed2422f797b257f42160de3efed97"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.sin-sello.png",
+      "sha256": "f8412968c83e1437cb5ab248313acdbe0a97e30fd0084730faee00820d286069"
+    },
+    {
+      "file": "assets/app/capturas/comprobante.ticket.png",
+      "sha256": "2f271787826e3c499f4f7f1d732f70c35cb32ef010ab3f7f36643ca678f9473b"
+    },
+    {
+      "file": "assets/app/capturas/creditos.movimientos.png",
+      "sha256": "c895812d4709c2a23a99fb774064de90b26ca2b324118523f58614fec6d06f8e"
+    },
+    {
+      "file": "assets/app/capturas/creditos.vacio.png",
+      "sha256": "836fcf08e01e3e533209d9092efe95a4cefe84b588e1c554113a1c86e5257c8e"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.arroba-ocupada.png",
+      "sha256": "f7f0b802567dbc83511781250f7aa12a57f970f0ffd8a59c888be1e8b06c4b6b"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.avatar.png",
+      "sha256": "d105cb124a5b49d16ef704ea906ef07aa7d401fe6cdce199f854dc79e40d111f"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.borrada.png",
+      "sha256": "b8083a25f247c3e830bb64f7e3a4b0faaa1191a5a4e31702a35c60fea130c67d"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.borrar.png",
+      "sha256": "992f03e24ec26b38b6cb2a18011bbf9add286589c95e0c8267fa770cc31fb16e"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.clave-cambiada.png",
+      "sha256": "60e0247e002f185e408550eac25c2cd6465825454109ef25788a0a71c11550b7"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.correo-pendiente.png",
+      "sha256": "4fcf34ba61a43e9186af588347dc0d5e07f6dabfefe8f67eaee5c3a7f44b8853"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.medicion.png",
+      "sha256": "0d68dcd99d167d48e5cd1d21b5f69f66948cfbd56fa1097a0d3c4be73cab8d69"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.perfil.png",
+      "sha256": "7e49e5c96925353d1699199bf91350e17a73ff6ceec75fd01eaeae853b3c56da"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.seguridad.png",
+      "sha256": "30382af90260d2a66a912bc0e05edbfd888d971c1557677e6fe902c96bed4017"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.sesiones.png",
+      "sha256": "c848f150dbafdbc22f9075e19a7bea6a2fdc2a209b86d1328cfb900b18fbe83e"
+    },
+    {
+      "file": "assets/app/capturas/cuenta.ubicacion.png",
+      "sha256": "2114a1963d6d4ec0e2cbdced77c7bc0acfaa487aff726cec36e3195db3452dce"
+    },
+    {
+      "file": "assets/app/capturas/dividir.cancelar.png",
+      "sha256": "1c629c6b7f56cc63e700bf520b9ebd4aa36b67d31f79b917c7826958f6cafa09"
+    },
+    {
+      "file": "assets/app/capturas/dividir.completa.png",
+      "sha256": "ebdf181b6941491365f751e993185cec3042ace80c31704779212da73ee81c4c"
+    },
+    {
+      "file": "assets/app/capturas/dividir.comprobante.png",
+      "sha256": "7e7f129074f090151b3a39a67627e68aa1089b1aca715c8997b87592f67988bd"
+    },
+    {
+      "file": "assets/app/capturas/dividir.configurar.png",
+      "sha256": "3f8bf4054a845d1d1341a91589194ca8f99232d63655b6057a86cdce9e55882d"
+    },
+    {
+      "file": "assets/app/capturas/dividir.confirmar.png",
+      "sha256": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4"
+    },
+    {
+      "file": "assets/app/capturas/dividir.cubierta.png",
+      "sha256": "3c4dafbda45ea70264014de27bfec5744c06bd6fbc39482afa2e4cdeb2badc58"
+    },
+    {
+      "file": "assets/app/capturas/dividir.cubrir.png",
+      "sha256": "a0e9a7dc606316a3a2d6be8644b8ecfa8ad1566481f9870b7e483d15d405ff56"
+    },
+    {
+      "file": "assets/app/capturas/dividir.cuenta-cambio.png",
+      "sha256": "6d81fac6d873c73c54a238cad14a4b3daf31ad4fb3ca234d14da200b5b0fdb67"
+    },
+    {
+      "file": "assets/app/capturas/dividir.dos.png",
+      "sha256": "e23b3549fc4dde4d95ef811b6d01fd4d8a415a315f29f78fc38b2ad5d6e29d51"
+    },
+    {
+      "file": "assets/app/capturas/dividir.esperando.png",
+      "sha256": "73b11a207b41087b561d64f9eb56df9979f24424fbd86848fe0d1be29c65921e"
+    },
+    {
+      "file": "assets/app/capturas/dividir.grupo.png",
+      "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38"
+    },
+    {
+      "file": "assets/app/capturas/dividir.inicio.png",
+      "sha256": "72a3f9e39575586d701f0cc06b29651abd31946336abda5b99753077678228c1"
+    },
+    {
+      "file": "assets/app/capturas/dividir.invitacion-vencida.png",
+      "sha256": "b8ec6cef4839620fc8569670e76fade6f3438aab2ce7b770a4d49554e908fb5e"
+    },
+    {
+      "file": "assets/app/capturas/dividir.invitar.png",
+      "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38"
+    },
+    {
+      "file": "assets/app/capturas/dividir.mi-parte.png",
+      "sha256": "8e5dcb78fddfcd980eee6e793fb7db4e41a03fe83cd60abcf477ba2d11461d05"
+    },
+    {
+      "file": "assets/app/capturas/dividir.montos.png",
+      "sha256": "b2a5460ad5b4f618fd6658be4fa025495d6aaa01cdcd5c8b25495b3afe171be3"
+    },
+    {
+      "file": "assets/app/capturas/dividir.pendiente.png",
+      "sha256": "8b3f578e80958ec7dc3b5fccb65a651b9b629877c37e32b0f3fe06bb2c1d3543"
+    },
+    {
+      "file": "assets/app/capturas/dividir.rechazo.png",
+      "sha256": "33d4b7251c793086634a3c37e3254783e6005fd41b5669002ca78b052a2767b3"
+    },
+    {
+      "file": "assets/app/capturas/dividir.unirse.png",
+      "sha256": "2c34623a9b804279ce8727a324798493a8dab393b9fdd1b7822901606d32e141"
+    },
+    {
+      "file": "assets/app/capturas/dueño.hoy.png",
+      "sha256": "1db2939e805e2c488378b0e4025fe94cdf91452b685320482d7702f97d597ab4"
+    },
+    {
+      "file": "assets/app/capturas/dueño.mas.png",
+      "sha256": "c765c86232070e195e8a8032c4ed6ead84e9e033b68d7e731246943da95d97a7"
+    },
+    {
+      "file": "assets/app/capturas/encargado.hoy.png",
+      "sha256": "d32d6ada45af09ae4f6370f99c67e27a0fe749ef1591789e5f86c3ba30beca72"
+    },
+    {
+      "file": "assets/app/capturas/encargado.mas.png",
+      "sha256": "1e45bed5b37df037e571357061a6d75ead4ba41fa875b22befe8224d2f5cad64"
+    },
+    {
+      "file": "assets/app/capturas/estado.catalogo.carga.png",
+      "sha256": "fc5dc4d5d766e26d1a6d05a3b85bae24f79498eefcc37bb3def71cff1a6e2d93"
+    },
+    {
+      "file": "assets/app/capturas/estado.catalogo.error.png",
+      "sha256": "42a1077a51a20ce6cb8e25be0aad8e9d0a4b76c1eea9fc607ce6edbcc1032473"
+    },
+    {
+      "file": "assets/app/capturas/estado.catalogo.guardando.png",
+      "sha256": "41c697ace94ebc6d423dd44777e2ad08a008358a76d07a9bba2448233e18fcf6"
+    },
+    {
+      "file": "assets/app/capturas/estado.comunidad.carga.png",
+      "sha256": "b16dccf69cc576b4141d3c16c3dc6685f9127b417ab93eab5cfe48bfc84baeea"
+    },
+    {
+      "file": "assets/app/capturas/estado.comunidad.error.png",
+      "sha256": "5b271f46683ad62ca29e1a51b0a3c032b2b3eeb0e0030d0d2fb84283670dc152"
+    },
+    {
+      "file": "assets/app/capturas/estado.comunidad.guardando.png",
+      "sha256": "3f0e6d159c3e3b560b83e55df091e4d219d6bb663a36255feaf890f57d06c3e2"
+    },
+    {
+      "file": "assets/app/capturas/estado.cuenta.carga.png",
+      "sha256": "91e1956ad415c5e751a4b3ba39666346c9560e1eec77201731567d2c209559a8"
+    },
+    {
+      "file": "assets/app/capturas/estado.cuenta.error.png",
+      "sha256": "b40f03045546e32eef4310b1ddd316045a47e3f1179a5f18c77e3efa059acb1d"
+    },
+    {
+      "file": "assets/app/capturas/estado.cuenta.guardando.png",
+      "sha256": "9be76d66a68f6a85f5ae18edc82dc2cfe2027d7f8b7e6d3f6bb4d0557226f0e3"
+    },
+    {
+      "file": "assets/app/capturas/estado.restaurante.carga.png",
+      "sha256": "0c1087d4c17a4882537e1f54d411dbb8485d3a64b46512788295c298d119f5c5"
+    },
+    {
+      "file": "assets/app/capturas/estado.restaurante.error.png",
+      "sha256": "5273f8ca26607e4b1bfdba60be0eb1cd80e77c0fddf576ff08baac61e71b784e"
+    },
+    {
+      "file": "assets/app/capturas/estado.restaurante.guardando.png",
+      "sha256": "c8e0fc152675342558078a5132fc990a837ca3aace468a051869f6c090fe58d9"
+    },
+    {
+      "file": "assets/app/capturas/foto.comentarios.png",
+      "sha256": "61efb1646848cdeac0af601636bfd623324d8b04454ea5277d008e52bbe644e2"
+    },
+    {
+      "file": "assets/app/capturas/foto.denunciar.png",
+      "sha256": "e18507d21ca8516b0007e85c03aaa8dcf615edcca7d62fee96585cb7a21e413f"
+    },
+    {
+      "file": "assets/app/capturas/foto.editar.png",
+      "sha256": "31ff323a193776bcb9d71db8c0e3af57fac89078427bc25b5b1b971fa35f045c"
+    },
+    {
+      "file": "assets/app/capturas/foto.oculta.png",
+      "sha256": "b289566d46b6855c08b3370952cb05aa4a42167c93f8ea348313e63c14d596cb"
+    },
+    {
+      "file": "assets/app/capturas/foto.reporte-enviado.png",
+      "sha256": "c4e940be990cd2abf3f612a84a808265770763a6d5f2072593cb01a131ccdabe"
+    },
+    {
+      "file": "assets/app/capturas/fotos.mas.png",
+      "sha256": "11cf263bbc4885db67fd9fba6c7c06c08b1dbba8348cb0743c3772b105a704ba"
+    },
+    {
+      "file": "assets/app/capturas/guardados.quitar.png",
+      "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e"
+    },
+    {
+      "file": "assets/app/capturas/guardados.vacio.png",
+      "sha256": "16fdf6224ca2654f6af2deb16efc086934f1234484faa7a9cabfe1ac0a4a1d67"
+    },
+    {
+      "file": "assets/app/capturas/historial.actualizando.png",
+      "sha256": "72f29d0a8d52be78e1eaeee631d68cf33c52fecafa749b7cb198f94b35ccc866"
+    },
+    {
+      "file": "assets/app/capturas/historial.filtros.png",
+      "sha256": "f5c0c42a69ee52910cd571e6ca87a5314950c4a97ac1fa95c9e37b9974a2d894"
+    },
+    {
+      "file": "assets/app/capturas/historial.vacio.png",
+      "sha256": "579e927b1cdcd668e1859d2579a0d205d34f58ea57403242b3f06ff795a32cb3"
+    },
+    {
+      "file": "assets/app/capturas/invitacion.invitados.png",
+      "sha256": "060ae2a8d207cdd956369eddeb80c94c428a8fa9e288276dbdf90c0a55b33934"
+    },
+    {
+      "file": "assets/app/capturas/lugar.direcciones.png",
+      "sha256": "25087893db4d68687b175fbec595d5e1411adae4c8b7dc5963aa0020a9e03b70"
+    },
+    {
+      "file": "assets/app/capturas/lugar.no-disponible.png",
+      "sha256": "a333550979ed49235a64964e63aa67f25df8cffb0d9e106f7b84416ef4acd3fb"
+    },
+    {
+      "file": "assets/app/capturas/lugar.sucursales.png",
+      "sha256": "fc77652f6c2617854371da0b6fbf04736d83bb078541252d70b0c518ab6a289b"
+    },
+    {
+      "file": "assets/app/capturas/lugares.busqueda.png",
+      "sha256": "3d9633d9717619dd6632744d1d7056ddbc5b7be16f402bd046202e7cb75e1572"
+    },
+    {
+      "file": "assets/app/capturas/lugares.catalogo-vacio.png",
+      "sha256": "b03fea8c6a0fb15fd9910974dfcc295c9ab3a9eed235f3b3aac362cc748a2ed5"
+    },
+    {
+      "file": "assets/app/capturas/lugares.filtros.png",
+      "sha256": "342925e0f4467732fae6af03636f4d6b2c7fd8e2cc294c35bf1e7797c9442844"
+    },
+    {
+      "file": "assets/app/capturas/lugares.sin-resultados.png",
+      "sha256": "c1d495b9dcadf38a6aaf73c51176e6f5a051a452e1940f9463da7e8d5b3539e6"
+    },
+    {
+      "file": "assets/app/capturas/mapa.no-disponible.png",
+      "sha256": "d78d1bb67ece3460250e83399a02ebfecf51e800a1e2b1e7e5adf1389e4e8add"
+    },
+    {
+      "file": "assets/app/capturas/mapa.zona.png",
+      "sha256": "9831b00ca4847ac29f6335452f983612a9ba59d0cfdaebff11e6bce50106210d"
+    },
+    {
+      "file": "assets/app/capturas/notas.filtros.png",
+      "sha256": "d9b1ea5b4fae94febbd2519d37fbe844911aa27ff239009f9e7fb769fe3a8f2f"
+    },
+    {
+      "file": "assets/app/capturas/novedades.leer.png",
+      "sha256": "74f09209d685c68a447392e6f626cc2d23aa2ca7202e60b8c01dac988087472d"
+    },
+    {
+      "file": "assets/app/capturas/pago.bono-no-aplica.png",
+      "sha256": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56"
+    },
+    {
+      "file": "assets/app/capturas/pago.cuenta-cambio.png",
+      "sha256": "45880ba2b77d8423e80e49b045f828175771753cfa0ef0571451ed34a293ca9c"
+    },
+    {
+      "file": "assets/app/capturas/pago.limite.png",
+      "sha256": "60eb17c634dba7926ffcf269ff3c85d678056dcbca1212cc598ce0219def1012"
+    },
+    {
+      "file": "assets/app/capturas/pago.mas-digitos.png",
+      "sha256": "85f014a3f081ceaffaf0f10d99d2f6ca79ecbf05c70cac93c1863bb5639c988d"
+    },
+    {
+      "file": "assets/app/capturas/pago.otra-tarjeta.png",
+      "sha256": "272e7ef9f6d7f5a845b793108380b6ceabddfc018a71caf8cb31da15886d6a4a"
+    },
+    {
+      "file": "assets/app/capturas/pago.pos-caido.png",
+      "sha256": "b6c392902d11e3acdd17f6ab041cad8c23c8b78429a801414264f2f0d02171b3"
+    },
+    {
+      "file": "assets/app/capturas/pago.propina-libre.png",
+      "sha256": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f"
+    },
+    {
+      "file": "assets/app/capturas/pago.propina-mesa.png",
+      "sha256": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13"
+    },
+    {
+      "file": "assets/app/capturas/pago.resultado-incierto.png",
+      "sha256": "ae683cbf87f54a2fa0f4d01c7646393205821713c3448d1a79e5bcc9f6160a6d"
+    },
+    {
+      "file": "assets/app/capturas/pago.salir.png",
+      "sha256": "af10f1ec6fd737b9d643ab31c6856fb0dd64a41af1a42ba8fd3e599fa25973bf"
+    },
+    {
+      "file": "assets/app/capturas/pago.selector.png",
+      "sha256": "9cd7fa6bdaf89192e0bff171541e2208aa59ba514b1b1914ef663337d622ad6c"
+    },
+    {
+      "file": "assets/app/capturas/pago.sin-creditos.png",
+      "sha256": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1"
+    },
+    {
+      "file": "assets/app/capturas/pago.sin-tarjeta.png",
+      "sha256": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421"
+    },
+    {
+      "file": "assets/app/capturas/pago.todo-credito.png",
+      "sha256": "8971bed9cac4a6c82fd59733392cb01abc19753cef60f544380962ad2e300626"
+    },
+    {
+      "file": "assets/app/capturas/platos.local.png",
+      "sha256": "bd04b62949250980b85033e3ee3d9b25d8c9910dab673aec7375962bedf45fe5"
+    },
+    {
+      "file": "assets/app/capturas/platos.sin-marcas.png",
+      "sha256": "9cce4da85994d605fdafd4e0f8cdc9c952f929ee10d11e9eacb87ccddda97778"
+    },
+    {
+      "file": "assets/app/capturas/postpago.atribucion.png",
+      "sha256": "261690bb65726d9bca5ae53b46aa8e7a749c08ca22f91b13f504b16356e237e8"
+    },
+    {
+      "file": "assets/app/capturas/postpago.ya-guardado.png",
+      "sha256": "0ee6763e2392ff59df4bc54cc08d9e118da806ac115796db462e67645a03dce8"
+    },
+    {
+      "file": "assets/app/capturas/preferencias.permiso.png",
+      "sha256": "c99673aacb77208c97cde83d42845e232b05cf467ca60651cddc9695a486dafa"
+    },
+    {
+      "file": "assets/app/capturas/preferencias.todos.png",
+      "sha256": "67f7acafab9d22f6ca204c6bfb6797b4bd491d00e366731b70a98872436c3700"
+    },
+    {
+      "file": "assets/app/capturas/ranking.filtros.png",
+      "sha256": "589a7f2e5ef444f33b64fc4aba004dce8e20accf932167ccb454197cad09aafb"
+    },
+    {
+      "file": "assets/app/capturas/resena.editar.png",
+      "sha256": "9e46dbdd6c630e16b67f56d123a159e6e9918b77e6582bbd44c937bbf56c3630"
+    },
+    {
+      "file": "assets/app/capturas/resena.lugar.png",
+      "sha256": "119f6f53e0a8747a43e9e88f64368191699161502af819cea53e31d9b22b0ceb"
+    },
+    {
+      "file": "assets/app/capturas/resena.sin-visita.png",
+      "sha256": "758e90d5a9db0bc5e8de975dfe719d53fe5090f592a89b46af2b372455b94e82"
+    },
+    {
+      "file": "assets/app/capturas/reservas.cancelada.png",
+      "sha256": "3465bd5569d0e1e1b1224bff7fe27e1e37e8b895e553f541d1dc546c2ea2dd7d"
+    },
+    {
+      "file": "assets/app/capturas/reservas.cancelar.png",
+      "sha256": "48ef8f61a4903af68728c8d20d1cc0eeddf632c94f7cc2d3acec763f7913c5ad"
+    },
+    {
+      "file": "assets/app/capturas/reservas.confirmada.png",
+      "sha256": "20ece6868596b064d8ca12d3159575c237e6555a7a2ed855d878542a1d4aec49"
+    },
+    {
+      "file": "assets/app/capturas/reservas.desactivada.png",
+      "sha256": "70079237834e31426287006c2f6226b79838a7443dd24595faeeb62742621858"
+    },
+    {
+      "file": "assets/app/capturas/reservas.elegir.png",
+      "sha256": "71445a43ae9169f39a92b2070600cac7edb55ed5433598fb475809fba6efc3a4"
+    },
+    {
+      "file": "assets/app/capturas/reservas.sin-cupo.png",
+      "sha256": "e11640c68820e65060e5afbcf372f06ddf5f92edcca2363f2c301b878cb4684b"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.ajustes-avisos.png",
+      "sha256": "118c56751e4c090e6fa3a926f0632b89da88009112b37e7d3e06410f23514dd5"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.avisos.png",
+      "sha256": "35c80cdd0e36798277c3cf599655fad68f6b4c1035e0b10a717a329e17585976"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.cobro.png",
+      "sha256": "aa838807c9fc8fc4ab0bc9e9c6f8e31af55117f9b4b7ab796c8d29cea7d4f170"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.cobros-filtros-encargado.png",
+      "sha256": "5fffbef86c0f914419bcedfcdbcebceaea8ea03ad3b6649bdf0c3517db3bd8f4"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.cobros-filtros.png",
+      "sha256": "e2474ef69ef0b76936ff0f1d1bc662f1fb71a2688476677cf0f567c8e86d078a"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.credito-enviado.png",
+      "sha256": "ee1c138b656a57920365891bf9357d744536b88cca75ed1afdedac470d35d6d6"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.credito.png",
+      "sha256": "a7080a9d20df4f21721831da12533f059665e7bf050dcefcb551db3405f63648"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.cuenta.png",
+      "sha256": "17b9e7165416bc3183b7316d241c336185a9450e2ccb3402dc2ec6ac213d0e31"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.equipo.png",
+      "sha256": "c41e1686eb8feb1fc0514af042fad78cb0929425e6bdad3134155f6c790dbf9a"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.exportar.png",
+      "sha256": "4efcfbaa5448c280636873ef86b3bb3ec494c563305e511abffb8497de8ab7d9"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.incidencia.png",
+      "sha256": "ddb345c46aced9e592f012014681ffdda8025838aee65c9123d6fc0c7f82aa8a"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.incidencias-lista.png",
+      "sha256": "44c3db2c75f405d11026b84ed7830a5191a6529353ab8c68eb84acb1af461ce5"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.pedir-credito.png",
+      "sha256": "1ef7c3ee878a09abf36fcb0333c483a3fe6132702c319566fb450ed12168abbb"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.practicar-parcial.png",
+      "sha256": "4b8fc9c27e0f512a0438b5edab7d77911ca2db52a44855c9a28cdfabc943defd"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.practicar.png",
+      "sha256": "53a7369d827fd29171aa179937b43274b8cac19d211b13cd48a5227cf4ebf623"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.resenas.png",
+      "sha256": "051cf30c44a5698182b7c8f1eac9da134d3cff3d7f97e3337d583ea66940911f"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.reserva-cancelar.png",
+      "sha256": "349bf86f894f90be753a26f570b7f1b8647489ce56d2071d0ff034f373891064"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.reservas.png",
+      "sha256": "4466dee1a444e749b3763dc549254e3a05529355614b028f1aec7d769bc199b4"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.seguridad.png",
+      "sha256": "eb15ced36047f7c1072a6bca508febe2588cd0eb66288a6449640c8607506368"
+    },
+    {
+      "file": "assets/app/capturas/restaurante.verificar.png",
+      "sha256": "a33f11d2ff600adbe8bf74e730604dfb0f324f6eafe5e7962c80670571dbe13b"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.admin-web.png",
+      "sha256": "6f9403f837e3f0036efaa5d1e8a8b6e799c1b9d4a5833007f70d31f50b304b56"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.desbloqueo-error.png",
+      "sha256": "be50c746851cff6ea65d956142dd78cdbdccfaf5e2bf02e18ea32710980c3d24"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.desbloqueo.png",
+      "sha256": "658eaf4976e2b259389009e25c410f147b0130b6ea731cc8d0ee54292b83cd50"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.mfa-alta.png",
+      "sha256": "8a7dd7e48253823e66d9907ec39c4fe85dea6f45fbf32a4c1b2ef2d7c19a8cfd"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.mfa-error.png",
+      "sha256": "bb533d081f2f673d5c75e89d9507abc57131b77f4db7734d9cf9e3d87c831447"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.mfa-recuperacion.png",
+      "sha256": "10738c28f35e5c8566c08564bef9ed31d62139e45b2ecf9d101f7f50fa93a491"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.recuperadores.png",
+      "sha256": "e51335af75f63e59e531b741ce45206649e357c4755583603c1662151b0ecbc1"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.reverificar.png",
+      "sha256": "f955125b877fbcb2bfd80647c88b0bb45cd4f4bbf96b9f66ca2732be3297bb00"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.selector.png",
+      "sha256": "b64890bd493eb3f5a4752c401be60f7d5049450715508c713af48773cdf481b9"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.sesion-perdida.png",
+      "sha256": "7345849e394c48dbcdcfc0ac0e22d526acb2d632e708f1c7935f528e2fd3aa08"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.sin-restaurante.png",
+      "sha256": "630be9212b8ce36ab89cfa90c50eda65691d8937dd047d01f4fd6285c59c5547"
+    },
+    {
+      "file": "assets/app/capturas/seguridad.stepup-recuperador.png",
+      "sha256": "c0992764a4538a3ceaf8ab471c587ea79f43a2dc11692248274e7b576dbb3bfc"
+    },
+    {
+      "file": "assets/app/capturas/soporte.enviado.png",
+      "sha256": "683ffcdf83cd280e0037a974bf840f61d3a31015d898cd74b9e5fd8e0dd588c1"
+    },
+    {
+      "file": "assets/app/capturas/soporte.error.png",
+      "sha256": "280564c86ad5a7329bd82bd5215078853f1e281dabfd8245ef91bda39dc346c3"
+    },
+    {
+      "file": "assets/app/capturas/soporte.principal.png",
+      "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.cancelada.png",
+      "sha256": "2f578ac81f84b595a1d9955dbbac3c61d85561e85e930a019b95fcdf315926b4"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.eliminar.png",
+      "sha256": "69cb0b2c1fa7fca25996f0a658140c1f33f56e0300f5300737f9e03f9f465149"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.guardando.png",
+      "sha256": "204f8fdec9886f65d51a233751fc056c8350ae69f2b95e5fae0460d2acb2f4df"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.incierta.png",
+      "sha256": "7f6ef98f9fdedcc6686eb1aacddc0438c7e7c4c1bf4e9f0f0ae36108ea32c42a"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.predeterminada.png",
+      "sha256": "16c716cc6ddbeb1a1f452721186a7c3a3252694e382223baf073c9b846029e43"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.preparando.png",
+      "sha256": "b9884d060c6c2c08300f7fc8e5cd4a519649ccc37bf26bc88bf941cc3572fed6"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.procesador.png",
+      "sha256": "7f846540f18fcccbb090f08c601cb441facbba7c64fcfe009656e28f78f6bed9"
+    },
+    {
+      "file": "assets/app/capturas/tarjetas.sin-tarjetas.png",
+      "sha256": "1f3e8505ef4ac8d8c6c27dd87626b2fbc35ab7f24df2473759ba3d1316cdd663"
+    },
+    {
+      "file": "assets/app/capturas/vacio.amigos.png",
+      "sha256": "392983bdf9cb80e7e047b308e5476ae47d2623b5dcbb252b88f320c66027438f"
+    },
+    {
+      "file": "assets/app/capturas/vacio.fotos.png",
+      "sha256": "9a37aed9ac777384e6897f3a78de54bdb612dda899ae87014cd1429d326085af"
+    },
+    {
+      "file": "assets/app/capturas/vacio.notas.png",
+      "sha256": "ab505004c01d0cdd90f33d73cc76085da1b9eed52c7ed42d53effbb058f922e0"
+    },
+    {
+      "file": "assets/app/capturas/vacio.novedades.png",
+      "sha256": "554b93b45cdbbfda65d8a2237cb56a82f49b86496f22a6da67e4bd28fc9a61d7"
+    },
+    {
+      "file": "assets/app/capturas/vacio.opiniones.png",
+      "sha256": "79703f8858509b15e33dcca031d6a22235c3df50b485435c001549daecab03d4"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.cargando.png",
+      "sha256": "2c03be95af12d16c1fd9f360691c8cfe426d24c51726fe875ef03a9b3b2597d6"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.completa.png",
+      "sha256": "f02ac1c4ecbaaf3ba02dda758b8d84a46075c2aa28d50aa94b8bc7f2f6697856"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.cuenta-cambio.png",
+      "sha256": "0381524292123513aabfc68ac69ad7d5f857ded7bb0683303665de54903c32f1"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.devuelta.png",
+      "sha256": "4f17a5b380deba6c0bd980b3e5cf0a4d247addd1592d94a9a15c25ebb2724840"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.enlace-invalido.png",
+      "sha256": "ca967190fb11705847603eac78b6bb5ad7d6731cc1fa39b2c5d0c970c2df81ca"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.pagada.png",
+      "sha256": "9b188a43fd7a14f80c2645aafafca1ef872f4f158bb65b4e18523d3e0291b70c"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.parcial.png",
+      "sha256": "fc2806c1292b45d433bfd04a8a0b03113385f0ff8f346618f0483da144a9a723"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.procesando.png",
+      "sha256": "437ab06d9bc4f700447f125c09d68a0c9e59cf10d34a4790c225cda2b4d77c0d"
+    },
+    {
+      "file": "assets/app/capturas/verificacion.sin-conexion.png",
+      "sha256": "876f366c0c2f1ed0c9fe7dd73eb2c3caa596ab7bcaa9fabdcc7330b0eeb07c7c"
+    },
+    {
+      "file": "assets/app/fotos/decalle-bar.jpg",
+      "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a"
+    },
+    {
+      "file": "assets/app/fotos/decalle-okonomiyaki.jpg",
+      "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6"
+    },
+    {
+      "file": "assets/app/fotos/decalle-portada.jpg",
+      "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-01-gyoza-palillos.jpg",
+      "sha256": "bd7595886261509e5bdaa0b009f24d42c293c16e91c775887a6b4d17987f5bc4"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-02-mesa-compartida.jpg",
+      "sha256": "74a296b18d1149a9c336d6f6f7c562cddd15e07e9eb124902a6823134b4dfafd"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-04-dokbokki-mantel.jpg",
+      "sha256": "587d4df3a1bab638eed3c8073c4a677673a3f2a5c1247e314dd92ca73ba919a2"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-05-burger-mordida.jpg",
+      "sha256": "319a98ca44d9ed5a1333455642ff452dd26766ece6ab1c0e61062d48a31cb59e"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-06-brindis-barra.jpg",
+      "sha256": "7e1118d57f55ade99dbe432f4d833da15759f19b89bccbf5083ae4120860271b"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-07-spread.jpg",
+      "sha256": "a6fe8996466c3c846bef9218ae5a175ea5e630792216ad2e336acc8c86d39d0b"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-08-edamame-unas.jpg",
+      "sha256": "9f949b3708a309a70d34697c233a26d65284d61c745a4298f43e9b77a91a4484"
+    },
+    {
+      "file": "assets/app/fotos/higgsfield/hf-09-costillas-hero.jpg",
+      "sha256": "014083505b5a11997d9dc5c0e3353c5518c4076d4c583814896245a0d25525c7"
+    },
+    {
+      "file": "assets/app/fotos/image-004286da-f8ee-465f-a4bc-044684e53aec.jpg",
+      "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a"
+    },
+    {
+      "file": "assets/app/fotos/image-2fc4245b-cd30-4b91-a7b2-3e040123ab9e.jpg",
+      "sha256": "c6af7877d4f3ae015a0fa687537efb2a2e60b5f6376bd150d6a0775770ec367b"
+    },
+    {
+      "file": "assets/app/fotos/image-38227571-774c-44df-89a3-fcccf2418a91.jpg",
+      "sha256": "fda45c1afdd39cd7175640d6254e354532a09d0edfb179cb3fc661ea6428ade6"
+    },
+    {
+      "file": "assets/app/fotos/image-3f0eb75e-40d0-49fb-9f7a-8974ecc83e13.jpg",
+      "sha256": "7f55612e1d96bcd5edaf2e291cce07f2e63620f02d239f63b6a863873c86fa4a"
+    },
+    {
+      "file": "assets/app/fotos/image-41502990-5d09-4723-86d8-3c8fc8f9539b.jpg",
+      "sha256": "d5cdcbae1ba76104ce903848eaa1fe9e07cfb346bab977adc7dcd4a754a3034d"
+    },
+    {
+      "file": "assets/app/fotos/image-4e56ca61-8b8d-49cf-9d6a-55206bb62aaf.jpg",
+      "sha256": "d19d1a17244a2dc120550823fd0b5c19ab4a7155f66b81361b4b4adfb6a6583b"
+    },
+    {
+      "file": "assets/app/fotos/image-608a1d01-b9c4-4af4-bad7-1dd50a7a0abf.jpg",
+      "sha256": "612efbce0a5ac6d32ef4278e510746a101ff3a12b7fc4a86b5b7cbdc8a833bbb"
+    },
+    {
+      "file": "assets/app/fotos/image-64c74fb1-2487-51d8-beab-a767413899cc.webp",
+      "sha256": "753bf75fd99b6452b8388e61d8aecfaddcfb8b07159c223c2da971b0849fe319"
+    },
+    {
+      "file": "assets/app/fotos/image-6d543f4d-11d5-4f74-9494-a96a823d5445.jpg",
+      "sha256": "8c4866873c7052eeefcdd1a723565f1876d028faa29d05f72493a4d5e0d10623"
+    },
+    {
+      "file": "assets/app/fotos/image-718d6cca-a261-4889-92d8-fea576f09bc7.jpg",
+      "sha256": "a951999866d8eb45d9becbe1f5328639f249ec953fbd93780573d544b5ba22fc"
+    },
+    {
+      "file": "assets/app/fotos/image-71fb9f73-31d8-47f0-b4f3-95e1fc80512b.jpg",
+      "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700"
+    },
+    {
+      "file": "assets/app/fotos/image-82ee6a23-8f24-466b-a35b-eeb809010ec1.jpg",
+      "sha256": "a4e389152fbe66f69a5a036fcd2da9d167ab307b94d6620a3dd79b74dc4eb0b5"
+    },
+    {
+      "file": "assets/app/fotos/image-867feb57-45cd-439b-a5a3-1196e34d3cd8.jpg",
+      "sha256": "70575ab32e0c21eadd6020f33b884074b6548d42519d38a393916674ce4dd9ed"
+    },
+    {
+      "file": "assets/app/fotos/image-94e8cbf8-7b99-4217-8fb0-43755507a70c.jpg",
+      "sha256": "ed1d80b25aaea8ab47bde0406808117627ace5d68ef7067468e39fabbeaabb01"
+    },
+    {
+      "file": "assets/app/fotos/image-97bdaa57-c266-4554-828c-30c45684ab83.jpg",
+      "sha256": "6cf39260d3614bda21f1cd85a8778ef18996e0d24e237f050afb700f0561fc18"
+    },
+    {
+      "file": "assets/app/fotos/image-97e582de-a0c2-4c27-a401-d7aff6271e87.jpg",
+      "sha256": "fc44d2a7c1cb51a9962d1ff305008169097400943c8473d40740ee068329f9c3"
+    },
+    {
+      "file": "assets/app/fotos/image-a2fe4783-0c28-426b-a37b-4c1bc56a214d.jpg",
+      "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700"
+    },
+    {
+      "file": "assets/app/fotos/image-afd3e9c6-c791-47f0-9438-f915d6338f9c.jpg",
+      "sha256": "f0ea81560fe27aacce118cbe1b2884c6beb31ae34a49a0e8490dde29f74be9c7"
+    },
+    {
+      "file": "assets/app/fotos/image-b2dda89c-c425-4419-af01-4c46f02f22b2.jpg",
+      "sha256": "e9524f9de97be347f20b6a1314c28ae08c5095c2575c0915b95409806facf6e6"
+    },
+    {
+      "file": "assets/app/fotos/image-bcb27feb-2caf-4952-9248-ec1fa9069702.jpg",
+      "sha256": "f3afa5852f4c8d9af0f9654d44e6a9cab9c891f4cc5483cfcb85b9887e740b08"
+    },
+    {
+      "file": "assets/app/fotos/image-cbf022ee-96bb-4000-be9e-5dc1db4c6178.jpg",
+      "sha256": "c718cf2eb36ef34d051c3ec68dca01bbb1c57533566223cd5d1d0bbd1e66cf50"
+    },
+    {
+      "file": "assets/app/fotos/image-cd7137d9-56fb-4a37-bdfc-2f254c6a87d8.jpg",
+      "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700"
+    },
+    {
+      "file": "assets/app/fotos/image-da5bbd1e-2b5a-4cf2-859a-96d645a34edb.jpg",
+      "sha256": "42a61039e76af3614e7bd91e97ef7708988ea0c3a9bc2005fb5825ad3b6a7361"
+    },
+    {
+      "file": "assets/app/fotos/image-dce233d0-01db-4855-ade1-eecf06bc506d.jpg",
+      "sha256": "ce1021929e84399be89a2dfce6d0be93743dab0d7eb1df47be61187eabd2a709"
+    },
+    {
+      "file": "assets/app/fotos/image-design-cover.jpg",
+      "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700"
+    },
+    {
+      "file": "assets/app/fotos/image-design-dok.jpg",
+      "sha256": "8c4866873c7052eeefcdd1a723565f1876d028faa29d05f72493a4d5e0d10623"
+    },
+    {
+      "file": "assets/app/fotos/image-design-okonomiyaki.jpg",
+      "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6"
+    },
+    {
+      "file": "assets/app/fotos/image-eeb0abf7-9546-4605-91fe-3f3ea0bbda3f.jpg",
+      "sha256": "c98284bee97a65b0bf0bb0b1ce6d9fdb95994b6c3978eee5bf5d7f0fb3473318"
+    },
+    {
+      "file": "assets/app/fotos/image-ef5fcae9-d65b-44b1-a39a-e4c9bf083882.jpg",
+      "sha256": "e9524f9de97be347f20b6a1314c28ae08c5095c2575c0915b95409806facf6e6"
+    },
+    {
+      "file": "assets/app/fotos/image-f330b4d4-1347-452d-815c-d69dfc6d9063.jpg",
+      "sha256": "f56200adda4e5c7fd0f45e14313ba7c828142bc3b29480288d9f7ad19ea3cd97"
+    },
+    {
+      "file": "assets/app/fotos/image-f7261324-9589-4d72-b6b0-d4449e1dcc74.jpg",
+      "sha256": "eded4041bff5ef74f97ed9a823f202cd658fa18d85be8724a0f893261fffc7c6"
+    },
+    {
+      "file": "assets/app/fotos/image-ff20bab8-0331-4378-b895-84f426a890f5.jpg",
+      "sha256": "a4e389152fbe66f69a5a036fcd2da9d167ab307b94d6620a3dd79b74dc4eb0b5"
+    },
+    {
+      "file": "assets/app/fotos/image-ffd29d2c-b236-49df-91bd-594e9a191cc9.jpg",
+      "sha256": "91ed0f7f69cc4de4e6255b582dbaea6389cad4fcc1de970e3ba0515977817f3a"
+    },
+    {
+      "file": "assets/app/fotos/image-vamoa-okonomiyaki.jpg",
+      "sha256": "483b4c47dc3a8ef08d52796c6aa2b27ea26e2804f0b02fdc2ca5a994ae3593d6"
+    },
+    {
+      "file": "assets/app/fotos/image-vamoa-welcome-bar.jpg",
+      "sha256": "ceeb03a360a9381db67361003caec3df84cdae0eb54c4900bf1dafe760ced98a"
+    },
+    {
+      "file": "assets/app/originales-vamoa/adaptive-icon.png",
+      "sha256": "dd848a4392d1b0978ce6369de1f7dca662758e5bf688daee9985daca7b97e167"
+    },
+    {
+      "file": "assets/app/originales-vamoa/icon.png",
+      "sha256": "63923408a92fccbb71c738e6e1844427e9310c601d43bc6b8e858e522d97420e"
+    },
+    {
+      "file": "assets/app/originales-vamoa/monochrome-icon.png",
+      "sha256": "2be00da90d877f86619a717511f6e6606da676093597c1bd384c7cb935956acb"
+    },
+    {
+      "file": "assets/app/originales-vamoa/notification-icon.png",
+      "sha256": "75c3703504c3e9445fbffff70ef510e5e156d97dcaf09a89674a3464aa30b779"
+    },
+    {
+      "file": "assets/app/originales-vamoa/redesign/logo-light.png",
+      "sha256": "82d4ce4192bfacf88307954ab973509eb930edf869f9c386528e7767efe8c15e"
+    },
+    {
+      "file": "assets/app/originales-vamoa/splash-icon.png",
+      "sha256": "34387bcfc5df50d7ad813ad60c39a6a2c1fd9661f1e783a6cc4a5d5ba8f21479"
+    },
+    {
+      "file": "assets/app/portales/imagen-c6976f7f9fb1.jpg",
+      "sha256": "c6976f7f9fb16e376d9f773edac054e776e4a73801cebbb0c00068c59527c0d4"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/agua-vital-330cc.jpg",
+      "sha256": "044555b387a09799f3b452938b972d975c79d650c65d72dc245098f92e4d84a2"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/asahi-dry.jpg",
+      "sha256": "cc1deba4d8680fa09c8f805c276bfba69fe8e411b005b4c1c9881bc41cf15ad9"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/bebida.jpg",
+      "sha256": "5bd617e0a2fa0ee1268c8161df67f6cb94aa0d17daca7b98154b198fc0a83c1b"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/dan-dan.jpg",
+      "sha256": "1c35a7918bfc53c39849cb13fcb20f2f8b66c15e936d848367b69535ee96a7f9"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/dok-bok-ki-veggie.jpg",
+      "sha256": "f99f167f1c95100b865688b3b794c3c0e14c59bf31de43cf1221493a3a24bc52"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/ensalada-china-de-berenjenas.jpg",
+      "sha256": "20f3c907acaa6252843d0f14cd21a1e6c180f54ab6d8895ded5c0919e4d2f859"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/fake-pop-s.jpg",
+      "sha256": "2e04cb87d4109adaf044f4bf566008b89db19aadbf075b6f49af260cddb98627"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/hamburguesa-decalle.jpg",
+      "sha256": "511db277e8c8a1bc4e970cfc36f22bcea2a55be5a63f34f2712caa02a61aead0"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/hamburguesa-dragon.jpg",
+      "sha256": "0c87a33836e1ed0daf26fca934fb7aa0f818d3dbdcad0c261d2148e0e60350d6"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/kfc-kids.jpg",
+      "sha256": "22ea7f2dfb6db9417955673e97388c7ccef88c4deec4a7a6c981dd709e7d0ba8"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/locura-1-chardonnay.jpg",
+      "sha256": "2d95c350cee58ce76de363000e6c823f034a49d985a726fe1b49efd8fbcf5e1c"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/palta-frita.jpg",
+      "sha256": "cb43a61d0f8c702f115e922abd9d648bee2469d31cd78bcb3c726ad416e88fed"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/papas.jpg",
+      "sha256": "d2db4fbdd5bba5502dd30b37422025f4ff1278246773ed98e65b4c37c7d1b791"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/porcion-de-arroz.jpg",
+      "sha256": "93dc7cb64ad7300c56619064a66b83e3327390b0730a163aced0dd25a2cc51ad"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/potstickers.jpg",
+      "sha256": "5bd7ffda34346c693e4a3bb5895a061fcf16711a48a7d7710f30b4d844852332"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/px-1-pedro-ximenez.jpg",
+      "sha256": "14d0f5dcc105755981fe1e8b658290a70f75c805a56494fa0f6a9cf12eabb8ed"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/sapporo.jpg",
+      "sha256": "db01c67f49c674c4dd87da4065e14399f79ec6ef96fbabc4b539a30adcb2315c"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/tapioca.jpg",
+      "sha256": "a83e7b6aaf952d157947ac26c853fc47d860753d66e136e29be44c0b85da6ab4"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/tsukune.jpg",
+      "sha256": "27300b373ba7a1374e007c7093fd823d7b4defdf8ad10f1e354e704e5f8126e2"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/veggieburguer.jpg",
+      "sha256": "859ff0d32f4c6ab7657e284be5c3091362f9a293b4c33c2d696c1f1869f81535"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/carta/wontons.jpg",
+      "sha256": "88d29fcba180c8151298a8911ee44adb81578ce6119966e3e3476e60c4488003"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/galeria/cheeseburger.jpg",
+      "sha256": "22a724889c9fa6733b7d331ad25344566c2d9692c3ed5a6cde119ec97ee1f9bd"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/logo.png",
+      "sha256": "057ec87eae3e23276cc591e1c4e32752e599d5018cfa18d311811b43b87b2d44"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/resenas/resena-okonomiyaki-burger.jpg",
+      "sha256": "3ae451dcae8d830b6f98fc974938723e4a19688b00e9005d7af9e10db7a37309"
+    },
+    {
+      "file": "assets/app/restaurantes/decalle/resenas/resena-umami-bomb.jpg",
+      "sha256": "5caa7de5df97a8d7dd89d100a0e511b729c6db45f2b7cf0cceff5b83ee370641"
+    },
+    {
+      "file": "assets/app/vistas.json",
+      "sha256": "9859ca0b1ef0b0be974885c8eef1d65a1f21562fca1026bae19564954a746ec4"
+    },
+    {
+      "file": "assets/fuentes/font-106b265d-ed36-4175-a9a5-2fcee32f7812.woff2",
+      "sha256": "85f55a58a31e61a2e19e8bb25fed503181bf2a6b4cab76c589992cfaac377447"
+    },
+    {
+      "file": "assets/fuentes/font-28089cbb-b95d-45a4-9ab6-7f7691927861.woff2",
+      "sha256": "1d04719f1325400ea4267e630dba29b02af87eb094d7d71d2e4d80a05479d07a"
+    },
+    {
+      "file": "assets/fuentes/font-53c9e52c-d98a-48cc-9e8e-f3ff144377bb.woff2",
+      "sha256": "7e13a14cb0bd5fcacf4907e47ac01fb4adb471540663987ecf356043612368c0"
+    },
+    {
+      "file": "assets/fuentes/font-9b508d3b-0dba-469d-932d-2a6a80506bfa.woff2",
+      "sha256": "f5df746dbc2eccec6d22fdaaa2d253cd6915a30ce9f6ba86138bb6151c7254db"
+    },
+    {
+      "file": "assets/fuentes/font-da2d5ae5-8a39-4e13-8bed-2a4d682a0cc6.woff2",
+      "sha256": "e3b56e90510a84ac0ed465b822e112983eaf58e37436bf769681c31f77b1f3a7"
+    },
+    {
+      "file": "assets/fuentes/font-e9813be6-d55e-452e-bd8c-d02efe9b5734.woff2",
+      "sha256": "7854fe424a0926cd4f41069cee90ca7cf553ea30af0baa03c698c3e860bca340"
+    },
+    {
+      "file": "assets/fuentes/fuente-03f356d702fc.woff2",
+      "sha256": "03f356d702fc39314248e11875502a3a0d60c1966e1360965b4c5d7a35943313"
+    },
+    {
+      "file": "assets/fuentes/fuente-320720dea18b.woff2",
+      "sha256": "320720dea18b96358327f57b97a243cd7a4016dd03b783de6123f729ac98f2a1"
+    },
+    {
+      "file": "assets/fuentes/fuente-60c06664b5a9.woff2",
+      "sha256": "60c06664b5a95c7de6cc3e00d1f9034d78bd1e40b564016b241674449a067d4d"
+    },
+    {
+      "file": "assets/fuentes/fuente-6cb67f1a1d32.ttf",
+      "sha256": "6cb67f1a1d32af3226c5c70bf7813324381bdda76d80c654c3866328797234ac"
+    },
+    {
+      "file": "assets/fuentes/fuente-8f1dc2e19636.woff2",
+      "sha256": "8f1dc2e19636c98c56dc96d92dd087bd35f2039e1dd390393b406b1e6c0bdce0"
+    },
+    {
+      "file": "assets/fuentes/fuente-f9da9e1091a8.woff2",
+      "sha256": "f9da9e1091a872eb3f67d2c67809ea8c42fa2f3f00f0e5acddb73fcb4849f988"
+    },
+    {
+      "file": "assets/importacion.json",
+      "sha256": "5fc2c3376fee7e43f72e194d0ba000fc7d6e16256a457300d980b5640b08e24f"
+    },
+    {
+      "file": "assets/landing/imagen-07b2fa37a61a.jpg",
+      "sha256": "07b2fa37a61afa65b8e621b24da7408d287751fd5e7dcc887855ce077faaa425"
+    },
+    {
+      "file": "assets/landing/imagen-263c24564d26.jpg",
+      "sha256": "263c24564d26b9be1d92968ede620ca6e25888d8367293f453d822d18609204b"
+    },
+    {
+      "file": "assets/landing/imagen-906d4d70b0b1.jpg",
+      "sha256": "906d4d70b0b1d891bbab0beacdee39e2084522477f9ea4d342c8fc2de5364803"
+    },
+    {
+      "file": "assets/landing/imagen-a3ce7862e44d.jpg",
+      "sha256": "a3ce7862e44d960ed660cdadfa28d17f359162501d36ccaeac9ac91d5c7d7c7f"
+    },
+    {
+      "file": "assets/landing/imagen-a634d4f02fe5.jpg",
+      "sha256": "a634d4f02fe5b77804943c1d74b8d70e35ffe26454e0e9af9717432a2c72bfde"
+    },
+    {
+      "file": "assets/landing/imagen-b46d556982a4.jpg",
+      "sha256": "b46d556982a40f482ec0385ae86352cef329ca42d331160fe41dde2e29a3b97a"
+    },
+    {
+      "file": "assets/landing/imagen-b9eb4c9b10c8.jpg",
+      "sha256": "b9eb4c9b10c8f76ee77397620a84a69077c08117fa327b5dd877df102575292a"
+    },
+    {
+      "file": "assets/landing/imagen-b9eba7444af3.jpg",
+      "sha256": "b9eba7444af3a13d7b2be1a3ba9fa8b422a791c74882fd9edab56801c5c8d449"
+    },
+    {
+      "file": "assets/landing/imagen-d8dab29a5736.jpg",
+      "sha256": "d8dab29a5736d5c2b0084d720d3db02c785560071609be501541922928fdf831"
+    },
+    {
+      "file": "assets/landing/imagen-dd488e9c596a.jpg",
+      "sha256": "dd488e9c596acfa36c305825596e7b6737dd437b5cfb8d399edf9579618d8416"
+    },
+    {
+      "file": "assets/landing/index-de-calle-c73a8302.png",
+      "sha256": "c73a83026dca7f4fbcd6574971503c7e40addbe86dd850ec1b176fe79d3c83a3"
+    },
+    {
+      "file": "assets/landing/index-foto-amigos-comiendo-en-un-restaurante-e0a60d89.jpg",
+      "sha256": "e0a60d893cf885afc3d2c4309cc7f5cba7b0af3de874bcfc5d8aaa0fe568a4d2"
+    },
+    {
+      "file": "assets/landing/index-justo-3c33f37a.png",
+      "sha256": "3c33f37a046e1e0b7489f70b0d5c653d2ba3ad60416ff5936dd58a000f738eb9"
+    },
+    {
+      "file": "assets/landing/originales-vamoa/6c57ea9476643429a6bd7f9e.svg",
+      "sha256": "6c57ea9476643429a6bd7f9ec00caa0492170ab4b586115ef2b208a5c6e76eef"
+    },
+    {
+      "file": "assets/landing/originales-vamoa/bd3c83388d2b14b6cacb311e.svg",
+      "sha256": "bd3c83388d2b14b6cacb311e8bdc47df5bb3a2c3221a71902884370a3ce90eda"
+    },
+    {
+      "file": "assets/landing/parati-plato-4ab2421c.jpg",
+      "sha256": "4ab2421c1d5fee4a8f7cdac76bf300dc45cb4590f9127b613dd488124c374152"
+    },
+    {
+      "file": "assets/landing/parati-plato-610eb2d5.jpg",
+      "sha256": "610eb2d543a7071541145686e952eb1b576bf8e0556392fec85e994fdca88095"
+    },
+    {
+      "file": "assets/landing/parati-plato-6a8a06f3.jpg",
+      "sha256": "6a8a06f36f6b0deda8c5718931e0f3f68c62fb6a233a918de5c644729a7e180f"
+    },
+    {
+      "file": "assets/landing/parati-plato-772e8870.jpg",
+      "sha256": "772e8870bc757e39bfb9def6f6c5c0984c0915e4f25b068a9154d08f436e4f36"
+    },
+    {
+      "file": "assets/landing/parati-plato-87cb470b.jpg",
+      "sha256": "87cb470be680275fc53b9759ffab44362996f11cc26a3f1b935ac8ed0de3ede0"
+    },
+    {
+      "file": "assets/landing/parati-plato-9af229fd.jpg",
+      "sha256": "9af229fdca53a9645c7286a7dd60d65d43ab42e90d176bf2c5aa900c8c1ec546"
+    },
+    {
+      "file": "assets/landing/parati-plato-d8731d6e.jpg",
+      "sha256": "d8731d6eb16d07c097883115c11e630c65bbac5322de90d5242b71396d875620"
+    },
+    {
+      "file": "assets/landing/parati-plato-e9a7692f.jpg",
+      "sha256": "e9a7692f2be914e63725499d8639f3550e1ab0cccbd3af8c917132d9b6ea0bf8"
+    },
+    {
+      "file": "assets/landing/parati-plato-ecc3dbe9.jpg",
+      "sha256": "ecc3dbe9cc378e734775798eb59a4e2bd5d08d1e4863f6d36c541eb65d54c157"
+    },
+    {
+      "file": "assets/marca/isotipo-512.png",
+      "sha256": "975f5f064bf0c405c9440e155c6a88cfa1d5f42a1161444498c1c9eb91ca3b07"
+    },
+    {
+      "file": "assets/marca/isotipo-mono.svg",
+      "sha256": "e423a84e2593e0fdf412f3d7721e8f62810e417cedaf135908c51c4e9e1837cd"
+    },
+    {
+      "file": "assets/marca/isotipo.svg",
+      "sha256": "5b500d6ddf94eae4d4ec4665212cc3e700904c3f4f29bb1b2b5b1bd66fbaa7e5"
+    },
+    {
+      "file": "assets/marca/logo-google-hidpi.png",
+      "sha256": "97d88c5c06387afa7569d1beaafafef74b4bd47e4cdeb9f9476074b75eb552d8"
+    },
+    {
+      "file": "assets/marca/logo-light.svg",
+      "sha256": "799e7fcfd9538212fec3bab9b8642531dfbb00ad81b559c3e9d93905aeff56b8"
+    },
+    {
+      "file": "assets/marca/logo-vamoa-6c57ea94.svg",
+      "sha256": "0194109fb19e848f69629d8d2b19fd838c9f5e16d50fe3ac3bb58bc27704660c"
+    },
+    {
+      "file": "assets/marca/logo-vamoa-8fc41ae1.svg",
+      "sha256": "8fc41ae1b47043c995999b3539d5947d87e6c660e1a4a3660a1fc59bfcadbb25"
+    },
+    {
+      "file": "assets/marca/logo-vamoa-bd3c8338.svg",
+      "sha256": "0815af1cff61eab9a9fa52c09c9ade8671caced1a9df69a5f0af027f648958ce"
+    },
+    {
+      "file": "assets/marca/logo-vamoa-dcbe8fb7.svg",
+      "sha256": "dcbe8fb782ff55c0dda3f0b8dcdc9ec79b0e22ff1ab71cb3c85462b568625710"
+    },
+    {
+      "file": "assets/marca/logo.svg",
+      "sha256": "b94ba437911305456ad824f52dbfb93100e416d425939be5c8bbd34600bf5d02"
+    },
+    {
+      "file": "assets/marca/paleta.json",
+      "sha256": "b6e819ca6a3262d254e975cb8bf5a1a272098322c1d195396fb86f3f1582ca8a"
+    },
+    {
+      "file": "assets/origenes.json",
+      "sha256": "bea26224bd77713650a9c9dc715780edf1af7e9a62a68386dc34dd0de90ac9ba"
+    },
+    {
+      "file": "assets/recursos.json",
+      "sha256": "c6eecb5ed4ea0cf9b040518d2ab26b2921d5f7bf8c95c1b7cc4d0ae662150a6f"
+    },
+    {
+      "file": "assets/runtime/dc-runtime.js",
+      "sha256": "8fe7df74405f3c55f49b7249c74ea1397e65d07dea2b1bd3b4a489bec2e28cbe"
+    },
+    {
+      "file": "assets/runtime/react-18.3.1.js",
+      "sha256": "d949f1c3687aedadcedac85261865f29b17cd273997e7f6b2bfc53b2f9d4c4dd"
+    },
+    {
+      "file": "assets/runtime/react-dom-18.3.1.js",
+      "sha256": "35f4f974f4b2bcd44da73963347f8952e341f83909e4498227d4e26b98f66f0d"
+    },
+    {
+      "file": "contacto.html",
+      "sha256": "11403abd15d0582edbcc8e6e76626aaab47cf493b0956454ebaddf5548840218"
+    },
+    {
+      "file": "guia/app-lienzo.html",
+      "sha256": "02a63451b417859fd17752d7f71aa61d8a429b2c0a5cecaecc7f7dc627176574"
+    },
+    {
+      "file": "guia/app-motion.js",
+      "sha256": "b1047f486e789c7c8d8f9db0dce2306f6ac89bd8a4dd7adb649687176d70133b"
+    },
+    {
+      "file": "guia/app.html",
+      "sha256": "8596b669ec6a1741ee030277d2f58bfb178711732992bdd2781af1f15b559110"
+    },
+    {
+      "file": "guia/datos-vistas.js",
+      "sha256": "e304d7d8c8aea39adfe96f2f94b718d1386b1fc62cce6a2665a5e280d5b04902"
+    },
+    {
+      "file": "guia/guia.css",
+      "sha256": "688fb54e016afd5005d1661ce9f2119c5a50364e5df6e1b7cbc54d97ef2f1a73"
+    },
+    {
+      "file": "guia/guia.js",
+      "sha256": "e64a0974443980d320e29cc82963f25c57e60548101a919dc7912d72e9ed6c4c"
+    },
+    {
+      "file": "guia/index.html",
+      "sha256": "04e96a0099435b9f896ae6adf6e4c31e0acf4cf7aeac8cf2a0e188e4feb20c09"
+    },
+    {
+      "file": "guia/lienzo.css",
+      "sha256": "e2b673a35b11bbfbe64648b3fbd4acd427309d4e336241e6da8f1432b1c9ab87"
+    },
+    {
+      "file": "guia/lienzo.js",
+      "sha256": "7243bf592af8ea81fad730f2ab43cddb9d99b9a2c5f1fd627a211b753251f623"
+    },
+    {
+      "file": "guia/mapa-panel.js",
+      "sha256": "a07699dd6d09cce342e222420ee7dbc8a838da73c33ddc398e39b104ce06d5ac"
+    },
+    {
+      "file": "guia/marca-vamoa.zip",
+      "sha256": "b58b257604fdfacc1e76771c8771830831062cb23b184a32ee47a668c1733344"
+    },
+    {
+      "file": "guia/pantalla.html",
+      "sha256": "b1cfb7437b20558d1e052665a82497c1683cd756efc09654fe7a8982aa7f8004"
+    },
+    {
+      "file": "guia/pantalla.js",
+      "sha256": "f6d106c903e051347ab0900fdcf134cf10c3693b56791d4192829abdbb918bf7"
+    },
+    {
+      "file": "guia/pantallas-vamoa.zip",
+      "sha256": "2cc3eddb14e779ba3e93443d8972ccc62565e22f933908e37acc6c2ead5057ad"
+    },
+    {
+      "file": "guia/recursos.css",
+      "sha256": "7ec5393ac2e2d96a2526e07c79c7d3674c327871cf38341223e92c2feefb24ce"
+    },
+    {
+      "file": "guia/recursos.js",
+      "sha256": "8a374a4f8cdabca8ee69eaf30299d4c6760879d3915ccad859183b3660f24719"
+    },
+    {
+      "file": "guia/telefonos.css",
+      "sha256": "1399d3a2152c267035596fe1a8520d00466149987c15412dbf2a0c8575ab2e57"
+    },
+    {
+      "file": "index.html",
+      "sha256": "7dbfe9fddd8a9c6d3a197296fe758baf85ae74235bbec37dfc884838882df922"
+    },
+    {
+      "file": "package-lock.json",
+      "sha256": "6e5e63b795ad291e1c7912c0c63cfd86fbcae7d82c55ca95e427cc25aca74c03"
+    },
+    {
+      "file": "package.json",
+      "sha256": "c46aee6654fb71d628824719ff1936892f2549e5df02e45d41dcfde8c4eed6a6"
+    },
+    {
+      "file": "parati.html",
+      "sha256": "deed9b5fb5ab9a583b76370ad7ae51d0a99afb1321720ba79d711e63d57d3e6a"
+    },
+    {
+      "file": "portales.html",
+      "sha256": "1649bcaaa0fc1803961efb285d39e999c95b991eaa66d024a3e894afd9787d7f"
+    },
+    {
+      "file": "previews/revision-ui-desplegado.png",
+      "sha256": "d03c30cc54d2dda157d4040729596c1b0d552e1cf934b0b4c6446b4577f7146d"
+    },
+    {
+      "file": "previews/revision-ui.css",
+      "sha256": "ec29cd0580c7954448f2de7ffe5d5ed524468b582009976df9d3ef718efd84ad"
+    },
+    {
+      "file": "previews/revision-ui.html",
+      "sha256": "7426c16ee3f8b92b64d31227b906a41ad0846aeecd251b1e179f5e09bb6ebb8a"
+    },
+    {
+      "file": "previews/revision-ui.js",
+      "sha256": "686cdb74dfc66b59e17407497266aa0762b65e08d283774f2e18fed3cc1258d7"
+    },
+    {
+      "file": "previews/revision-ui.png",
+      "sha256": "8b13cda98a0f3989fabf1c4a688aab7ff9e219fbfb7fba7693e199327e970654"
+    },
+    {
+      "file": "recursos.html",
+      "sha256": "2cdc25f8a806c66a71831ce8f0b413b075b32b03c489b495662cb77f44d74e66"
+    },
+    {
+      "file": "restaurantes.html",
+      "sha256": "84e326186756b243e2f62f5f77b90f40ab763a560fcb073c8e62471d0b24e252"
+    },
+    {
+      "file": "scripts/actualizar-paquete.py",
+      "sha256": "151afb3af3d36e1135da33b6039cfed647979c57efa7ed40034d63234da50a7d"
+    },
+    {
+      "file": "scripts/actualizar-recursos.py",
+      "sha256": "b21136b3ea5aaeaddebfdf3967913f07de2626a24fe40d45aa567a9b35b44e83"
+    },
+    {
+      "file": "scripts/app.js",
+      "sha256": "612eb935e66dcbd192d1069ebc9a02ecafb0101b0502b5481e9e973d82bc886a"
+    },
+    {
+      "file": "scripts/capturar-pantallas.mjs",
+      "sha256": "cef7494b2b2f5f6db4901eb3588b3a0d9b51e44466a525538a380fc7fb732864"
+    },
+    {
+      "file": "scripts/contacto.js",
+      "sha256": "13a9de1fb96220ee4b6c26745c52a0e5c83fd2112d3e955e9497ef11f0b6fd79"
+    },
+    {
+      "file": "scripts/estilos-dinamicos.js",
+      "sha256": "282d6f37e4885337610286bb932a59610c922d18cb56f0b74c04ad8d0f0c31f4"
+    },
+    {
+      "file": "scripts/index.js",
+      "sha256": "9456f7e29c24e527bdc763d562995a1df0906ab3ce0fdbee8196febac5500a1d"
+    },
+    {
+      "file": "scripts/iniciar-publico.js",
+      "sha256": "a9921b4872807f900c1f8b59df2f31c11ba1384d2a7244cd7e6110c1ec3a6983"
+    },
+    {
+      "file": "scripts/menu-diseno.js",
+      "sha256": "f0fc156ffc94e4d94e5c42b6207b84217aa529a5972f1fcaf519f500370c6fe8"
+    },
+    {
+      "file": "scripts/navegador.mjs",
+      "sha256": "94e2b69d4c2520bbe5020b9278fc4ea57ae3d515338f4feced9b86a97e8c2081"
+    },
+    {
+      "file": "scripts/parati.js",
+      "sha256": "eb7366d84f403b7b3df4d40e698478ab0e1e70297294b3be55500c5eb3786ff7"
+    },
+    {
+      "file": "scripts/portales-1.js",
+      "sha256": "c2e8456d9ed1df8fdb0c50fa74499ab573f4daa265279468eee4268253add30f"
+    },
+    {
+      "file": "scripts/portales-2.js",
+      "sha256": "b8e0b60ddf2077ca7982edc553cd7f1e9cd7d559868b37035c2704fa93dce9d7"
+    },
+    {
+      "file": "scripts/restaurantes.js",
+      "sha256": "afb7aab08e631de2105fbac2061e052843d939a1ef2fb98240d80cb5e1c7ff1d"
+    },
+    {
+      "file": "scripts/verificar-layout.mjs",
+      "sha256": "1b776c8a141e8ff19d41200f89c4848c144dd13d9a981336ebdc65f442b3e983"
+    },
+    {
+      "file": "scripts/verificar-navegador.mjs",
+      "sha256": "2833b8232a146efb3b214ec7d12745bb58442a3078fe485c1eadeeafc1831281"
+    },
+    {
+      "file": "scripts/verificar-referencias.py",
+      "sha256": "0312d4a34958364bc1b05f893bb4c7d5fce9f8952b721ea7a157fd64219f88b7"
+    },
+    {
+      "file": "styles/contacto.css",
+      "sha256": "2ba08e449db2dcd9a1ee7579d96bb3188678f6c80ed9bc86dcb2f45830237102"
+    },
+    {
+      "file": "styles/elementos.css",
+      "sha256": "0d219909ad38e7fc776d603083d51d9d5cc323569dc303d9d48075025067438a"
+    },
+    {
+      "file": "styles/index.css",
+      "sha256": "d093728a939ed456e59effbf959abbec2885f0ff223eab9b40a70856f72e5422"
+    },
+    {
+      "file": "styles/parati.css",
+      "sha256": "82f0d843060a2c089b9794a964479900ede559404cb747b2d25934f6aa72a3c9"
+    },
+    {
+      "file": "styles/portales.css",
+      "sha256": "2421aae20daf90e6f61ed4f309b921706374c77b451bec0c6e0d1a6f5e0846e3"
+    },
+    {
+      "file": "styles/restaurantes.css",
+      "sha256": "0cc250f653505a723692b87d35e67dfd66ac70199329187edf18dc22f19fd221"
+    }
+  ]
+}
