@@ -277,9 +277,25 @@ html,body{margin:0}
 }
 
 /* «Acceso al portal» en el header: más angosto que 840 px le corta los enlaces al nav. */
+/* Bajo 840 px el menú conserva el acceso al portal sin depender del footer. */
 @media (max-width: 839px) {
   .v-reference header .v-portal-diseno {
     display: none !important;
+  }
+  .v-menu-diseno {
+    display: block;
+  }
+  .v-reference header .v-nav,
+  .v-reference header [data-m=nav] {
+    display: none !important;
+  }
+  .v-reference header > div {
+    flex-wrap: nowrap !important;
+    gap: 8px !important;
+  }
+  .v-reference header a[aria-label="Vamo’a, inicio"] {
+    margin-right: auto !important;
+    flex: initial !important;
   }
 }
 

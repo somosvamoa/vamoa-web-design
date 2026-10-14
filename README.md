@@ -99,3 +99,7 @@ reacciones junto al nombre. Las cinco pestañas comparten Schibsted Grotesk
 panel. Sus PNG y las 243 capturas están actualizados, incluido el alias histórico
 `guia/capturas/`. `publicacion.json` identifica la fuente y los hashes de todos
 los archivos copiados; es evidencia de esta publicación, no sincronización automática.
+
+El navbar usa Acceso al portal relleno en verde botella con texto crema. El footer
+conserva Contacto y los enlaces legales; bajo 840 px el menú mantiene el portal
+disponible, también en tablet. Los commits se atribuyen a `sebastian-vamoa`.

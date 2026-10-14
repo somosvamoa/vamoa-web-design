@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "sourceRepository": "Gutierrovski/VamoaDesign",
-  "sourceCommit": "6f895212034a31329f0585380822e4ceab4f32d9",
+  "sourceCommit": "6e9e1447fdcdf765faf9c0d62be08fb7cef6eef8",
   "views": 242,
   "consumerViews": 192,
   "captures": 243,
@@ -1516,7 +1516,7 @@
     },
     {
       "file": "contacto.html",
-      "sha256": "11403abd15d0582edbcc8e6e76626aaab47cf493b0956454ebaddf5548840218"
+      "sha256": "2d27331e056a7ce2f2173d5cc484055bcccfac5133b16f422ce8215408fb3b82"
     },
     {
       "file": "guia/app-lienzo.html",
@@ -1588,7 +1588,7 @@
     },
     {
       "file": "index.html",
-      "sha256": "7dbfe9fddd8a9c6d3a197296fe758baf85ae74235bbec37dfc884838882df922"
+      "sha256": "10d8649b2057559593e860ec09b7f858a4b549df85b021fd2c9d26fa7cecdbb9"
     },
     {
       "file": "package-lock.json",
@@ -1600,7 +1600,7 @@
     },
     {
       "file": "parati.html",
-      "sha256": "deed9b5fb5ab9a583b76370ad7ae51d0a99afb1321720ba79d711e63d57d3e6a"
+      "sha256": "893b4857a7647ae3111630aead20b833521eb9379b7cf93e2b20b5fd444cc3d2"
     },
     {
       "file": "portales.html",
@@ -1632,7 +1632,7 @@
     },
     {
       "file": "restaurantes.html",
-      "sha256": "84e326186756b243e2f62f5f77b90f40ab763a560fcb073c8e62471d0b24e252"
+      "sha256": "3188eb217c8dab43fa43f3c125f8f6e87e2372799383b6c6638d9c2b0c3b4bf3"
     },
     {
       "file": "scripts/actualizar-paquete.py",
@@ -1704,19 +1704,19 @@
     },
     {
       "file": "styles/contacto.css",
-      "sha256": "2ba08e449db2dcd9a1ee7579d96bb3188678f6c80ed9bc86dcb2f45830237102"
+      "sha256": "2677576072fc0a7834ff884524dbd8fb6b583afcd1b3a4e0c1694b46838759b1"
     },
     {
       "file": "styles/elementos.css",
-      "sha256": "0d219909ad38e7fc776d603083d51d9d5cc323569dc303d9d48075025067438a"
+      "sha256": "5ac15f14aa04b56722285fe126aae12290a52c761099e2eea60c32b1707e397e"
     },
     {
       "file": "styles/index.css",
-      "sha256": "d093728a939ed456e59effbf959abbec2885f0ff223eab9b40a70856f72e5422"
+      "sha256": "36bd8b56a676b3eea73d43d7d7f12e54791ada96d38eb6508911d29f582173bb"
     },
     {
       "file": "styles/parati.css",
-      "sha256": "82f0d843060a2c089b9794a964479900ede559404cb747b2d25934f6aa72a3c9"
+      "sha256": "31dfc1ae3691aedcb99866a751cf5937ef9477e512c24a109c9846eb71a94f51"
     },
     {
       "file": "styles/portales.css",
@@ -1724,7 +1724,7 @@
     },
     {
       "file": "styles/restaurantes.css",
-      "sha256": "0cc250f653505a723692b87d35e67dfd66ac70199329187edf18dc22f19fd221"
+      "sha256": "ccc3ff9041e3142f9bb963fc065a97337f28bde2da43773271c678f867b2e9f5"
     }
   ]
 }
