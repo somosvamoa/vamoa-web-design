@@ -1,1501 +1,1976 @@
 [
   {
     "archivo": "assets/app/capturas/0.1.png",
-    "sha256": "00130b72ddc9bf23ec0387938634cdc4a06b673d83b06d81679553c471b35e4d",
+    "sha256": "d787d2c2e6ea31ce841613c77629b11663b301aab87448991f99c993d71b94ca",
     "exportacion": "guia/capturas/0.1.png",
     "vamoa": [],
     "sha256_original": "93d6d0ebd0f08ccffd8409f3f9ddf292e975402abb5ebda46ac12aead3285304"
   },
   {
     "archivo": "assets/app/capturas/0.2.png",
-    "sha256": "f2834b3d6d089c0d754d319eb35b25900ed759584f37bafc2e7caec46c9c1ed2",
+    "sha256": "be61fb3af49a032af7fd363d7fa830aa29e239b4b9682b46fa6e0c160d9a7ced",
     "exportacion": "guia/capturas/0.2.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f2834b3d6d089c0d754d319eb35b25900ed759584f37bafc2e7caec46c9c1ed2"
   },
   {
     "archivo": "assets/app/capturas/0.3.png",
-    "sha256": "521dabf2e621efc29ee785588662cc19eb6f3183172dc50915864459131fe9c9",
+    "sha256": "9a0876a5b038a66ca3b4a81a0c057ddcf6a91214fbdd1b5648f948cda7c25493",
     "exportacion": "guia/capturas/0.3.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "521dabf2e621efc29ee785588662cc19eb6f3183172dc50915864459131fe9c9"
   },
   {
     "archivo": "assets/app/capturas/0.4.png",
-    "sha256": "baaa9e83f11a31e806db3372b1c2c72dd03d62006880e63a3436acb930c3ad05",
+    "sha256": "260d07f157fbcf8aa1e1f254a5d05a32d89d3fa8714741d405071a0e69d5a1a5",
     "exportacion": "guia/capturas/0.4.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "baaa9e83f11a31e806db3372b1c2c72dd03d62006880e63a3436acb930c3ad05"
   },
   {
     "archivo": "assets/app/capturas/0.5.png",
-    "sha256": "f2f58943f81106e3c3925b0d740406455b0fdaff17a18800e93ae3157e3bb30c",
+    "sha256": "9d26e3b5c590bffce84c7e4cfc2d53f17f7976d0a23acd30ab67ae6f90aa2f58",
     "exportacion": "guia/capturas/0.5.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f2f58943f81106e3c3925b0d740406455b0fdaff17a18800e93ae3157e3bb30c"
   },
   {
     "archivo": "assets/app/capturas/0.6.png",
-    "sha256": "0e59e25f5b17a5fc813b09872c00f00ecec5b6cc6ca447d27a77b57330a5dd1e",
+    "sha256": "b4d2d8d4b5d52487455c3799b71779a86b209d2b9898f58c4da264d57199055d",
     "exportacion": "guia/capturas/0.6.png",
     "vamoa": [],
     "sha256_original": "3e10b7ae2be990d95bd7c5cd2629d8ed3062977d17379e3e58f4accdb6c97bf4"
   },
   {
     "archivo": "assets/app/capturas/0.7.png",
-    "sha256": "a641b905d4e49f3459fd78b3aa87caeaff526db59bf988744989e6c0bac85822",
+    "sha256": "1768c987bcba672aaac00cbe2496aece510eb4d4137db25b6dbd29bcb52a3a56",
     "exportacion": "guia/capturas/0.7.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "a641b905d4e49f3459fd78b3aa87caeaff526db59bf988744989e6c0bac85822"
   },
   {
     "archivo": "assets/app/capturas/1.1.png",
-    "sha256": "aa1e991a9ce2ce5b1823bc744c2b0ea84fbd8ebec10d6ac744065034b2a700e6",
+    "sha256": "97f787f097d1b98b48a7b61c285dec39365995ee209286626ac18627e405e18f",
     "exportacion": "guia/capturas/1.1.png",
     "vamoa": [],
     "sha256_original": "af6f1c0c68b393a2ed1c3a6e4c4b9d5ea91ffe27aa75075a9d115e5fcd4d1321"
   },
   {
     "archivo": "assets/app/capturas/1.2.png",
-    "sha256": "43e4b9c1a9d1b7f679039b68f510073fd9a21281c080f9d1fcac839027bbd393",
+    "sha256": "6e6f51508f45a6952396abb937b5b865c58d5362d1e2fa9eb84ea02293928674",
     "exportacion": "guia/capturas/1.2.png",
     "vamoa": [],
     "sha256_original": "af1225f2a0d7ba9dad924e3bdb90cea12e08323d8980da5660b7b531810f44b8"
   },
   {
     "archivo": "assets/app/capturas/1.3.png",
-    "sha256": "54e1b6fae6caa83a7351bc33eb1582470894540afe130d36c850f0d3cc94c819",
+    "sha256": "4f8a2a90d17c3952de92e86caeb5e58cdfc22fa06a6c84844693eca5e0726b7c",
     "exportacion": "guia/capturas/1.3.png",
     "vamoa": [],
     "sha256_original": "07efa119dd82209d960e45d404834833458292c06e3fe0f5cb54d8f4460e0126"
   },
   {
     "archivo": "assets/app/capturas/1.4.png",
-    "sha256": "397e8ec78b3fcbc53a39dc07bc3f14ca5043da81722cf6f58d1598538fc436fc",
+    "sha256": "d24f6f6355d2529594a3b21b81948e3f2c456c8a51140be793feb21aaea92345",
     "exportacion": "guia/capturas/1.4.png",
     "vamoa": [],
     "sha256_original": "b6e4e62b89417215648028415df740ddd1480b29c8a45ff5acd7124d9b662785"
   },
   {
     "archivo": "assets/app/capturas/1.5.png",
-    "sha256": "727688e8af3071872619d1975cebda9e08220b55cd5c3adf263ad13071cc8f3d",
+    "sha256": "4cb1b7b793f926ec4bd8e9f64d89b1a98741efce5a61797050e7f4ffd84df137",
     "exportacion": "guia/capturas/1.5.png",
     "vamoa": [],
     "sha256_original": "fd74ff2aa0dfe3b8204d8cdf2820ede185a5237dfe402475706b1efa5697f663"
   },
   {
     "archivo": "assets/app/capturas/2.1.png",
-    "sha256": "8cbaf540eaffde3c0ad937fb48fed000d90adc223bfcb43453caf90c788e9b8a",
+    "sha256": "4ded7088e7a55d8c8881774327c0a6146ad40d51d3f99d1bdcae79b7b1398a08",
     "exportacion": "guia/capturas/2.1.png",
     "vamoa": [],
     "sha256_original": "b2992f2018900c10117ff43b928b71f26b852edbfaa3174a5af8996ce7f6aa02"
   },
   {
     "archivo": "assets/app/capturas/2.2.png",
-    "sha256": "057cafcdce0da1895723476373ed5887a18523ac97ff461ecd44bb5c7c347afa",
+    "sha256": "d7c79800a698238509010183ef9098b3efb669df837f8c4f8655180419ce6279",
     "exportacion": "guia/capturas/2.2.png",
     "vamoa": [],
     "sha256_original": "7be9212e0622283e39d2a6e5787249b7355dbfb064605258f5283cc8e92a435b"
   },
   {
     "archivo": "assets/app/capturas/2.3.png",
-    "sha256": "8be013b2f9895e066774a9f04feb82d396aa788cb8684cc709af5c694d5d352f",
+    "sha256": "94123d97fc2d52cd4f99ba796ba6ee6fc06b50cef016ae827172dfd950121fb8",
     "exportacion": "guia/capturas/2.3.png",
     "vamoa": [],
     "sha256_original": "f5e2fd7657c634fd7295ee72b128c0cd1474faefa6504104e9c1fa4a3beee9db"
   },
   {
     "archivo": "assets/app/capturas/2.4.png",
-    "sha256": "2c319efe42ef358b0aa6f84e33fb881c8b2573be9e6c49e0584afd3044b76774",
+    "sha256": "52f948cde44d4be8bb632f3ca4e8421289f7c1e6fdb465c0cabffb84657becdf",
     "exportacion": "guia/capturas/2.4.png",
     "vamoa": [],
     "sha256_original": "a2da563e42a9ac7d510bd9ddf5fbe22e4c28053e51320fcac524f709c87df06e"
   },
   {
     "archivo": "assets/app/capturas/2.5.png",
-    "sha256": "a0fc8fda52f1fa1734d666e5cedf82ebe242fbdf2e9ba6d12513e399eedefdd4",
+    "sha256": "77861559049c47cd35c4b41b97c95c4bf1c1e9850c8504c6dc07489b0c449f2d",
     "exportacion": "guia/capturas/2.5.png",
     "vamoa": [],
     "sha256_original": "4a2a336438563a3a24376b2629eb1a5759a749ed756b25b9303900059deb0130"
   },
   {
     "archivo": "assets/app/capturas/2.6.png",
-    "sha256": "b077958cd438def2a6cbc8ceb58ca54478535f319c43937f445dd98fe15b2bc8",
+    "sha256": "bccce24605e56af4b7da74fd67d68ad951c988a43754e2a47dbf4a0cc132210e",
     "exportacion": "guia/capturas/2.6.png",
     "vamoa": [],
     "sha256_original": "3594bb9b2e59d6190434bb73a28b0628d1a02cac7fbe1a0204b219e2c18da103"
   },
   {
     "archivo": "assets/app/capturas/3.1.png",
-    "sha256": "fe4c48888256886334933b61f8bb21a7c8315886efc37a09844a3bb49bf1798c",
+    "sha256": "192114e74ff20140b264a9c09c0604b61b23c3c74ed4462697f740879fc3de77",
     "exportacion": "guia/capturas/3.1.png",
     "vamoa": [],
     "sha256_original": "c02702a51725608a9ce0da41e340c8aaf92fb6faf3688b0e8457a058f4445c04"
   },
   {
-    "archivo": "assets/app/capturas/3.10.png",
-    "sha256": "6670d08da47becd9f8d7d9664a711c2a4a9e41b47e8ad2172718502a746b8b77",
-    "exportacion": "guia/capturas/3.10.png",
-    "vamoa": []
-  },
-  {
     "archivo": "assets/app/capturas/3.2.png",
-    "sha256": "026662ce26d41093b70dcbc7b21efbcdfd0a4724096443dce5f0d5a85e273ac8",
+    "sha256": "2585952f1df536aadb8e231b9667094e58387e3cb3a927330965fb256386102b",
     "exportacion": "guia/capturas/3.2.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "026662ce26d41093b70dcbc7b21efbcdfd0a4724096443dce5f0d5a85e273ac8"
   },
   {
     "archivo": "assets/app/capturas/3.3.png",
-    "sha256": "c6f1e49b75ac9e4414780ea80ea6b3f15b10207af41b7ef8f2d09aaa624a6767",
+    "sha256": "766fb317f21841da41f46afde8c742117ff64a409f83d8234a124c3d07e70420",
     "exportacion": "guia/capturas/3.3.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c6f1e49b75ac9e4414780ea80ea6b3f15b10207af41b7ef8f2d09aaa624a6767"
   },
   {
     "archivo": "assets/app/capturas/3.4.png",
-    "sha256": "bf8dfcfb57dcb55947f0000955f52b918673560d31aebf69cd3b1f34e4a7fab2",
+    "sha256": "bd29c2be2c3f7432d665a4a8218dc3e10bb5f5d6b195c8f7f232a809e81867c8",
     "exportacion": "guia/capturas/3.4.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "bf8dfcfb57dcb55947f0000955f52b918673560d31aebf69cd3b1f34e4a7fab2"
   },
   {
     "archivo": "assets/app/capturas/3.5.png",
-    "sha256": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36",
+    "sha256": "f4bd9f57ee203b4d4863fc6a2d8bf7a5d7f92ec0b4837fe3b3d08ed2c6ccf401",
     "exportacion": "guia/capturas/3.5.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36"
   },
   {
     "archivo": "assets/app/capturas/3.6.png",
-    "sha256": "3067f1a95a92cc1af82fd5386196b8d4e195a8798c943ef3bdc6cfe83f4c2714",
+    "sha256": "dd1a9d8973eec04d44b479f8894b4a50152aadd4ea2cb716561f25dffa63e7da",
     "exportacion": "guia/capturas/3.6.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3067f1a95a92cc1af82fd5386196b8d4e195a8798c943ef3bdc6cfe83f4c2714"
   },
   {
     "archivo": "assets/app/capturas/3.7.png",
-    "sha256": "0a71890bc945afcd967d3e007a7af604d1ae9c0ec31756849bb9b3b3d4ec8ea0",
+    "sha256": "9f94c80ab0a2bdb11bd3c5d66825794614983fda9d88da7ff78dcd96a4337572",
     "exportacion": "guia/capturas/3.7.png",
     "vamoa": [],
     "sha256_original": "00d6d8cd1e34f62835d7af707ae8c7b4d683bcea8f2c33cda0a4d7e949969b3e"
   },
   {
     "archivo": "assets/app/capturas/3.8.png",
-    "sha256": "7afdd7109acad1fc0fb682fa5bfbd8948df4090ae8b411cedbab36a732bb3ab2",
+    "sha256": "497c16eaffcffc109790694592a405a3f21061cf12a26f6d18a2b515f85b4ebb",
     "exportacion": "guia/capturas/3.8.png",
     "vamoa": [],
     "sha256_original": "eea4fb92b606e332d81803ae479cc650b6a4eb09a86c025535082b19b1d7b02d"
   },
   {
     "archivo": "assets/app/capturas/3.9.png",
-    "sha256": "144507b711737b5e0c43c22627ee067c83b1111bb58cabba46adb769bd0a695a",
+    "sha256": "704ad33795d72689066f6c628563ebad9bdf7fd953ac7e8e2a3b0c9436c1336c",
     "exportacion": "guia/capturas/3.9.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "144507b711737b5e0c43c22627ee067c83b1111bb58cabba46adb769bd0a695a"
   },
   {
     "archivo": "assets/app/capturas/4.1.png",
-    "sha256": "b8b76880ea702bf227fc84bfa5ab2d563b4f9385b4dc2998ccd4cc0cf7a90c75",
+    "sha256": "9ae52c29a5dfe37bbdb755773e802b65a42db5d90febaf5add1b10b2acc3e70e",
     "exportacion": "guia/capturas/4.1.png",
     "vamoa": [],
     "sha256_original": "c4d18c95b071651137cb713a8e428ad7da596595e26426763bce5dea5b8e7885"
   },
   {
     "archivo": "assets/app/capturas/4.2.png",
-    "sha256": "4dd4ac958faf132efb7ca7721a6444468cccf4b48c387dbb238730cb1547defc",
+    "sha256": "3aa890d88dfc50959b40ebe605b305c49d1bbcecdbfad8670cab90e96be677c2",
     "exportacion": "guia/capturas/4.2.png",
     "vamoa": [],
     "sha256_original": "cb0d920dd258b56434b0c2dbc22575e3054335745bd5dba51929f7acba0ea665"
   },
   {
     "archivo": "assets/app/capturas/5.1.png",
-    "sha256": "a21ff91ad2ffd1dbddbb5ca1528ebfb5c9391ef42d92375c9e9396c4da03bfb9",
+    "sha256": "75a649078de9aa81b68c20a225e821cff3b7b57eadb1f2e34bb65118eaba5cbd",
     "exportacion": "guia/capturas/5.1.png",
     "vamoa": [],
     "sha256_original": "0814c44a97f51a1d3f33f482992f81e676de20040ac374c009247f6e091027b5"
   },
   {
     "archivo": "assets/app/capturas/5.10.png",
-    "sha256": "0b2b009abb1ce39136f7054cc94214f466bdb52500171bee1bef6f7075679778",
+    "sha256": "c8b1a6155aa3ae2938ac94990e1073c2c382a34670ca87be59f0aacc72f24809",
     "exportacion": "guia/capturas/5.10.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "0b2b009abb1ce39136f7054cc94214f466bdb52500171bee1bef6f7075679778"
   },
   {
     "archivo": "assets/app/capturas/5.11.png",
-    "sha256": "7f944c2d91a8cf38dd569a5c19d4a199024a287ebf9d59a9d2e884fc0b43af77",
+    "sha256": "43e8a66d6a2bf0f932f887d47f312d1c278ad77777ebf36432e8ec7187a25a18",
     "exportacion": "guia/capturas/5.11.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7f944c2d91a8cf38dd569a5c19d4a199024a287ebf9d59a9d2e884fc0b43af77"
   },
   {
     "archivo": "assets/app/capturas/5.12.png",
-    "sha256": "2af1676a54a4791fc5b0ab88294257dd3b14e1e913f0f341347fb92b87adc744",
+    "sha256": "61026885ddb68db126f133f5fc354c44f2f783e77674ef1524bfe2ad5eb8ed97",
     "exportacion": "guia/capturas/5.12.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2af1676a54a4791fc5b0ab88294257dd3b14e1e913f0f341347fb92b87adc744"
   },
   {
     "archivo": "assets/app/capturas/5.13.png",
-    "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971",
+    "sha256": "5996db14a1b55832ff0a61cfea97bdd21a33ad2f2889041e64b1670fbd23ede7",
     "exportacion": "guia/capturas/5.13.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971"
   },
   {
     "archivo": "assets/app/capturas/5.2.png",
-    "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e",
+    "sha256": "f0e234f8f7a4bd1ed47b817e108c7b037c06dad88a4ad6a2c28b918ee251f801",
     "exportacion": "guia/capturas/5.2.png",
     "vamoa": [],
     "sha256_original": "4266cad7ff56887076e2da138c3e14b6f39067cd7562996bb089494e99c82c8d"
   },
   {
     "archivo": "assets/app/capturas/5.3.png",
-    "sha256": "bf82eb9e3d4d273fb75baca0cf7bb5be5491a46196cfb599fe0853c0bb65e4cb",
+    "sha256": "1a8ac9ca62f53d2d7c1c1cf9917253cbeafa4836886eb1bc9b53ebfc2aa90236",
     "exportacion": "guia/capturas/5.3.png",
     "vamoa": [],
     "sha256_original": "07a409e684ffd44e70908126dcb1920cac2dfb0f81b26bd237e0ede8eeeecf71"
   },
   {
     "archivo": "assets/app/capturas/5.4.png",
-    "sha256": "fb720682c410d994fcdf3b6cfd43fee2d42b03bbee3ee7a1924fc41c5f9c0467",
+    "sha256": "83258e059e1d1249a8fa9850636373f0591f1ad0bb4a658cfb9f9bf0e7f2e4fc",
     "exportacion": "guia/capturas/5.4.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "fb720682c410d994fcdf3b6cfd43fee2d42b03bbee3ee7a1924fc41c5f9c0467"
   },
   {
     "archivo": "assets/app/capturas/5.5.png",
-    "sha256": "80cfea9223a5fdba7e8e2af0e3ce7e3710d61786c87d3933e2d9ac08046a8416",
+    "sha256": "8bebf3fd4e3fdec4d58a42c07e57e210e48b1cc3fb2465a3f8b2bf79a3393d78",
     "exportacion": "guia/capturas/5.5.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "80cfea9223a5fdba7e8e2af0e3ce7e3710d61786c87d3933e2d9ac08046a8416"
   },
   {
     "archivo": "assets/app/capturas/5.6.png",
-    "sha256": "b08b3dae07d7c22d6e10e56188b494ce7a7f53a92e1981cd2a2ec143644c0a74",
+    "sha256": "b66c9d050cbd1487ac9eae590ab58ce7a965a0ec5ab16b267f1a9919aa5270b3",
     "exportacion": "guia/capturas/5.6.png",
     "vamoa": [],
     "sha256_original": "796fd8c19684202fa9da79f0d87a7249376c675c60399cb348862a49478286f4"
   },
   {
     "archivo": "assets/app/capturas/5.7.png",
-    "sha256": "d1576fbf4918f0f6c0481391ab81bc7dc2e7185c2a3192a49258a68e4ebed384",
+    "sha256": "5ca3ddc8e817c683ad476b319ece40f560df1a0ab229da5cdd485ec17215e1b7",
     "exportacion": "guia/capturas/5.7.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "d1576fbf4918f0f6c0481391ab81bc7dc2e7185c2a3192a49258a68e4ebed384"
   },
   {
     "archivo": "assets/app/capturas/5.8.png",
-    "sha256": "b348f2c6fd9394df59e02d1e5350b803d1d3d527039961d3e01b7ed6084dd8ea",
+    "sha256": "8f0128d463ba8241ce9750152140f241962bd88a77d87cb1ff73c12abdee93be",
     "exportacion": "guia/capturas/5.8.png",
     "vamoa": [],
     "sha256_original": "0cd9fd4584a4199d4bb527622aa1c2b90e1581db4aa7a2092e350c885585b749"
   },
   {
     "archivo": "assets/app/capturas/5.9.png",
-    "sha256": "53a15407a16e54860704dbd5f115178710bdccf2a2309d6b069cf7ab8dbc347c",
+    "sha256": "95a2475041e2bcbc49f719bb75916d8f40df36e4365857c395869595d287437a",
     "exportacion": "guia/capturas/5.9.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "53a15407a16e54860704dbd5f115178710bdccf2a2309d6b069cf7ab8dbc347c"
   },
   {
     "archivo": "assets/app/capturas/6.1.png",
-    "sha256": "3f46fe48f376763780dcd440c75033364252eea1b1f2348ed96d850a51a528a8",
+    "sha256": "7e361c5b9b4df10317a11d3643c84178a3024e032f9bb2fdc046c38ec566563a",
     "exportacion": "guia/capturas/6.1.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3f46fe48f376763780dcd440c75033364252eea1b1f2348ed96d850a51a528a8"
   },
   {
     "archivo": "assets/app/capturas/6.2.png",
-    "sha256": "1dba2d7d2b46b7a91809c98f0ada3d1fd2dfd203afc3ba3285af35cbecf47f3e",
+    "sha256": "8a844802673755703061b79b88e0cad79aed71dd6f06ab6ee885dfacb3d47a75",
     "exportacion": "guia/capturas/6.2.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1dba2d7d2b46b7a91809c98f0ada3d1fd2dfd203afc3ba3285af35cbecf47f3e"
   },
   {
     "archivo": "assets/app/capturas/7.1.png",
-    "sha256": "ef93e95352001c6714609ed2a2f22037c920f77a1800fd859305fe5aeaf41ac4",
+    "sha256": "428fb5923eb9458693b1f40bc7fd6fe75110c82246c5c0cf7f93c2162872028c",
     "exportacion": "guia/capturas/7.1.png",
     "vamoa": [],
     "sha256_original": "61f97ff31289432aa03b05f8cf33cfcd93f967a7fa3e394e25029104e06060c0"
   },
   {
     "archivo": "assets/app/capturas/7.2.png",
-    "sha256": "4ad87c4be948d387565dd8f16e32244c464778b2205a17b28d43edf4d0e621ca",
+    "sha256": "2446a70610e3d5e32a23344435381d17ddb8347c21f1eb25312246fca60d7e04",
     "exportacion": "guia/capturas/7.2.png",
     "vamoa": [],
     "sha256_original": "f447dd00d176a53b42c260d23c584a748a98e92f394bf7ffe4dd1d87fdcf6523"
   },
   {
     "archivo": "assets/app/capturas/7.3.png",
-    "sha256": "efc02cda4f63974a5b2d24c1629ffae310b335078578c86ee101b8792ae6fc09",
+    "sha256": "60a4c15bae380adb5a81cf1dddcff735a160c43858fd37e494e6164211cb2690",
     "exportacion": "guia/capturas/7.3.png",
     "vamoa": [],
     "sha256_original": "77c838d5681f81ea28e1ef463749be96df32b6c34fe786d92e939b66a03a3e99"
   },
   {
     "archivo": "assets/app/capturas/7.4.png",
-    "sha256": "6db09de9ca3ab467271cfa99e0bb89a37b95a1496d193acd1a2d7295fea9547b",
+    "sha256": "7669dfecafd4c20fe5fe18d64bdff8da1a31ee922dee8b0f50bacfaae346cf04",
     "exportacion": "guia/capturas/7.4.png",
     "vamoa": [],
     "sha256_original": "f85d38c098b4fd5fce5152dab866c08c2438cf2ba0e728e37d825d1dd11b5174"
   },
   {
+    "archivo": "assets/app/capturas/accesibilidad.ajustes.png",
+    "vamoa": [],
+    "sha256": "409b463563f416b9d664f19debfe6e7d81b5b795f195e291246897634078ba56",
+    "sha256_original": "8d222b51366ae002926c4dc53d34a86d4af42bdaad9496151f6e18715a9373da"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.bienvenida.png",
+    "vamoa": [],
+    "sha256": "0f311363961b602936ca8b7b310eb13f278fb009c7ddc4250c574c810f161893",
+    "sha256_original": "56769310d7756d3cedce1cbcaf8d9dd09f8a0838f7dba22f8251f488a3830774"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.botones.png",
+    "vamoa": [],
+    "sha256": "ad527a158ee27d3f1139b95ef1d2f71edc55c6c440c738ae86d09100da68b649",
+    "sha256_original": "5fe1bbc37efc0d6623856c79d80228e776781bfcb21da1bdf1bed85321b88206"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.carta.png",
+    "vamoa": [],
+    "sha256": "758d5481bb76ee108bc127fecd48d99a0d7323dfb2ad9931d483cfc690f5b2a9",
+    "sha256_original": "5a095014978aff452dbfd09738ab6029805abcc5ce9b3696599cc7784355807b"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.repetir.png",
+    "vamoa": [],
+    "sha256": "33bcb84ff2a4e64dfa4080009b3b7667df9953a826ec949e70b17a8c70ee0cef",
+    "sha256_original": "e95ec1ea377c5dc6b4b39317d59ce9885a3ba9b566f456af8cbbd1467d59e277"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.restaurante.png",
+    "vamoa": [],
+    "sha256": "210a4cd46584edaa652a6684dbdd3e0e8a3b268ba365bd903ed7e145f389737e",
+    "sha256_original": "d80b5002feafe207d8e96bc2b88fa519345b90f0f57c6a30906547a3af676335"
+  },
+  {
+    "archivo": "assets/app/capturas/accesibilidad.segundo-factor.png",
+    "vamoa": [],
+    "sha256": "8264af2dfe67484b587de108b0509cab72f780a46beb33601c9b2b4967b7ed20",
+    "sha256_original": "cce06629212dc38a345aa5dd5f002677fa130a65184fece70ced3801128a6a6b"
+  },
+  {
     "archivo": "assets/app/capturas/acceso.cambiar-correo.png",
-    "sha256": "317c1475537d7d0221e180cf3f0b061d210d64557366295e41e74b271bb939be",
+    "sha256": "1342e82193f31c0dbcf744b537a364330d25245e9fa9ccddd8dad9843a810d34",
     "exportacion": "guia/capturas/acceso.cambiar-correo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "317c1475537d7d0221e180cf3f0b061d210d64557366295e41e74b271bb939be"
   },
   {
     "archivo": "assets/app/capturas/acceso.clave-lista.png",
-    "sha256": "edb681b7d920612eb83e6cf52a5966aa0d84a4f75fc0f02f596af886bc3b4077",
+    "sha256": "143069efa49c56225e0055433db48a459c56a988420824a904e99e7276086101",
     "exportacion": "guia/capturas/acceso.clave-lista.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "edb681b7d920612eb83e6cf52a5966aa0d84a4f75fc0f02f596af886bc3b4077"
   },
   {
     "archivo": "assets/app/capturas/acceso.clave-nueva.png",
-    "sha256": "6585f28cb8d14cc56ffbbe092cdca221083ce4eb99e33217f8d1866ae6a7c4d3",
+    "sha256": "5db0a705f0deb5c989d1374aa96b8174f009c2ecb434c1c18e15bdd10d58d3a4",
     "exportacion": "guia/capturas/acceso.clave-nueva.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "6585f28cb8d14cc56ffbbe092cdca221083ce4eb99e33217f8d1866ae6a7c4d3"
   },
   {
     "archivo": "assets/app/capturas/acceso.codigo-correo.png",
-    "sha256": "12023d092895eeaadf71070d8fc7ce93570910eb7c0831eed15d7dfd9d618167",
+    "sha256": "8276fc0a02759fb7f0c3f1222e9a41c6f0a6c5161ccf90db24dea21e6791d51b",
     "exportacion": "guia/capturas/acceso.codigo-correo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "12023d092895eeaadf71070d8fc7ce93570910eb7c0831eed15d7dfd9d618167"
   },
   {
     "archivo": "assets/app/capturas/acceso.codigo-invalido.png",
-    "sha256": "769dd2ae6f208e6da359074eba78c74f6c7e423f7d6364b54c95698fc4bb65d1",
+    "sha256": "55cd756734595feec72d11f68ef2c0fcaa277b38c3c09aa9921d0bf63e0f7839",
     "exportacion": "guia/capturas/acceso.codigo-invalido.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "769dd2ae6f208e6da359074eba78c74f6c7e423f7d6364b54c95698fc4bb65d1"
   },
   {
     "archivo": "assets/app/capturas/acceso.error.png",
-    "sha256": "49a11250bc0a5fbf481bec8c860eb8d4392aef20631ae3199caf860c4743aaf7",
+    "sha256": "4f2a8c43b037345a8eb7200ee962af193deedbc4d926856a4323cb1548a218da",
     "exportacion": "guia/capturas/acceso.error.png",
-    "vamoa": []
-  },
-  {
-    "archivo": "assets/app/capturas/acceso.explorar.png",
-    "sha256": "bf60f4650f87986ee6e94c18ba9d2d977e6e560084c71a783e3888a607e4da73",
-    "exportacion": "guia/capturas/acceso.explorar.png",
     "vamoa": [],
-    "sha256_original": "181e9ec44a9134990c30a1297d81f70ecdf3053be6e713bae072b40af611a7a7"
+    "sha256_original": "49a11250bc0a5fbf481bec8c860eb8d4392aef20631ae3199caf860c4743aaf7"
   },
   {
     "archivo": "assets/app/capturas/acceso.ingresar.png",
-    "sha256": "2ba551bdd22d0a96c3980561842c3d5300604460fffc94155abc325ad51a26e4",
+    "sha256": "fb400114d88363800aca5bbeb9c5bc50132225287b4bccdbd2e65fee12295e2b",
     "exportacion": "guia/capturas/acceso.ingresar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2ba551bdd22d0a96c3980561842c3d5300604460fffc94155abc325ad51a26e4"
   },
   {
     "archivo": "assets/app/capturas/acceso.invitacion-invalida.png",
-    "sha256": "8b8ee5fef9289b7e903d23563713470b92335dbd101975ea8f3827040b4c2c4f",
+    "sha256": "50c758144219edcd7d1f1b0241ab4ca8442cb6beb08ac0d86cc14a8552c33793",
     "exportacion": "guia/capturas/acceso.invitacion-invalida.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "8b8ee5fef9289b7e903d23563713470b92335dbd101975ea8f3827040b4c2c4f"
   },
   {
     "archivo": "assets/app/capturas/acceso.invitacion-registro.png",
-    "sha256": "71987261766ac2ba3b3802eeb3749386f1c02ea3291ca5ab9c02e94902b835c7",
+    "sha256": "a65254739c9de4eb0b5dc7daac2a2764fec23dc2e41155e099d1850d4f73451b",
     "exportacion": "guia/capturas/acceso.invitacion-registro.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "71987261766ac2ba3b3802eeb3749386f1c02ea3291ca5ab9c02e94902b835c7"
   },
   {
     "archivo": "assets/app/capturas/acceso.invitar.png",
-    "sha256": "1900ed3e0d0b24782dec2895b5821bf1da3a9a8cad57cfd960bf19dd1a5dd9b4",
+    "sha256": "c6b9c7b61eb555962f87d1d7ee334eaf880d1d03a973f8e85e99f840308d3960",
     "exportacion": "guia/capturas/acceso.invitar.png",
     "vamoa": [],
     "sha256_original": "9afb66b1f3006d789573f44fa5b8a07f26bb9ce05a42c26d5a260861e4a364ec"
   },
   {
     "archivo": "assets/app/capturas/acceso.recuperar-codigo.png",
-    "sha256": "50b3865977889215918f898fe48e99a68a92d7b6d731a0ba3d57e2dcbcfd5631",
+    "sha256": "1ab46cdc92ca0519f7f310c6d514a990e1b65c83723dcbc02286a470940595fb",
     "exportacion": "guia/capturas/acceso.recuperar-codigo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "50b3865977889215918f898fe48e99a68a92d7b6d731a0ba3d57e2dcbcfd5631"
   },
   {
     "archivo": "assets/app/capturas/acceso.registro-error.png",
-    "sha256": "c46cf29053e280172e460a49e7699c81b8697f5bdb49e89355754e4bdab33d3a",
+    "sha256": "0d6117ce3d96aa22a683138cf164fa039904da6fa8c853d14b28f9593451f32b",
     "exportacion": "guia/capturas/acceso.registro-error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c46cf29053e280172e460a49e7699c81b8697f5bdb49e89355754e4bdab33d3a"
   },
   {
     "archivo": "assets/app/capturas/acceso.sesion-requerida.png",
-    "sha256": "53b06d9e0deeac54bf5f527ca9b724ed63ba85cd606fd1dfa50c665574bb566a",
+    "sha256": "276060bb246c44832e8ef458005eb318fbbb7f203a947682a7f47e6dc299e3e3",
     "exportacion": "guia/capturas/acceso.sesion-requerida.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "53b06d9e0deeac54bf5f527ca9b724ed63ba85cd606fd1dfa50c665574bb566a"
+  },
+  {
+    "archivo": "assets/app/capturas/admin.consulta-devolucion.png",
+    "vamoa": [],
+    "sha256": "318d799a454761ebc0feca337d328de94deafad5009024cdc92c3176ff40d678",
+    "sha256_original": "1842df0ee45c1b4e85bf30b437cc9301f5093f192bbf4ec9a6d15397fd7d16bd"
+  },
+  {
+    "archivo": "assets/app/capturas/admin.finanzas-recuperos.png",
+    "vamoa": [],
+    "sha256": "e728019d5a14d4124e0f53473501ef1e1e313d878d98b2a96db1febcb4ad33e1",
+    "sha256_original": "4600487e7e6468df1b3dc3b3c1e1853e2328b02130c0a30edca1d14f5f719437"
+  },
+  {
+    "archivo": "assets/app/capturas/admin.recupero.png",
+    "vamoa": [],
+    "sha256": "0d4581673395a64f544c9232459b562dfaf3be6be83bc9e4f6e5ef2ca76533a5",
+    "sha256_original": "72487c4a2adb700b82b97c22dd0d6a3c1eb31cf3a49e869f877249c5e6aae65c"
   },
   {
     "archivo": "assets/app/capturas/amigos.listas.png",
-    "sha256": "568e68600d51378e7dd93b3d00f8ed7c1057403a44d59a0a869315fe13e799d6",
+    "sha256": "27827f116b7d3ec464dd54ac078d65fdc5527dc95b1f6b79d1e7f5bf3c86ed0a",
     "exportacion": "guia/capturas/amigos.listas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "568e68600d51378e7dd93b3d00f8ed7c1057403a44d59a0a869315fe13e799d6"
   },
   {
     "archivo": "assets/app/capturas/amigos.no-encontrado.png",
-    "sha256": "ec0f50bc5ce60c9a6d29dcacabbcfb08ec82a6cefbbeda058953feb6031b948c",
+    "sha256": "b994dda0538dd57e60c8b35ca1b71669fb36a795140618782f122b82807d2274",
     "exportacion": "guia/capturas/amigos.no-encontrado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ec0f50bc5ce60c9a6d29dcacabbcfb08ec82a6cefbbeda058953feb6031b948c"
   },
   {
     "archivo": "assets/app/capturas/amigos.notas-amigos.png",
-    "sha256": "2e5500496ed04979b9952cbfaee03ad228dafb788b30e8c5484986ea9700380b",
+    "sha256": "7c84842af2b861c77a2a850edd6746cbf62f144f7e221941df1dc024f4a32903",
     "exportacion": "guia/capturas/amigos.notas-amigos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2e5500496ed04979b9952cbfaee03ad228dafb788b30e8c5484986ea9700380b"
   },
   {
     "archivo": "assets/app/capturas/amigos.privado.png",
-    "sha256": "f0a191c8aa584012dfd4fd1f3ee0821094214f377b5fc1a9a2af09519c32199b",
+    "sha256": "5051830236c7246869fcc479517a000fdead999f1dfedacee9d573376d5b4219",
     "exportacion": "guia/capturas/amigos.privado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f0a191c8aa584012dfd4fd1f3ee0821094214f377b5fc1a9a2af09519c32199b"
   },
   {
     "archivo": "assets/app/capturas/bienvenida.bono.png",
-    "sha256": "c057ea5bdff53ff17676e21e68ac55bac6c74a8bc80f5ccb2d96d18016c7ead4",
+    "sha256": "eeec7eba1e367f221937da09698e1968a2e2916e1a25b3c66f7fe377dfd6bcab",
     "exportacion": "guia/capturas/bienvenida.bono.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c057ea5bdff53ff17676e21e68ac55bac6c74a8bc80f5ccb2d96d18016c7ead4"
   },
   {
     "archivo": "assets/app/capturas/bienvenida.revision.png",
-    "sha256": "78940174f1328d75a3e5205fa7226ee783f8c11e3977921adf3e2e5b1ffacebf",
+    "sha256": "50a0ca80810b347bee9d6fc7b0cec811389aa37131fccdc55d2d5dce94e83791",
     "exportacion": "guia/capturas/bienvenida.revision.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "78940174f1328d75a3e5205fa7226ee783f8c11e3977921adf3e2e5b1ffacebf"
   },
   {
     "archivo": "assets/app/capturas/bienvenida.sin-bono.png",
-    "sha256": "66e4e6e67534c76fd7eb76efa8d326ce2e3884fd120c818bc261d29c94cb1ac2",
+    "sha256": "abc6362f20e4631f86cc1238caae4eb7d09e6cd0d710bfa40162c546b7228f55",
     "exportacion": "guia/capturas/bienvenida.sin-bono.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "66e4e6e67534c76fd7eb76efa8d326ce2e3884fd120c818bc261d29c94cb1ac2"
+  },
+  {
+    "archivo": "assets/app/capturas/bono.ejemplo-reglas.png",
+    "vamoa": [],
+    "sha256": "177b6f2e4054b4bcead4100e0ef21323c21498aafc0a99ff43359366d70740c1",
+    "sha256_original": "37f4c04d04cc2e27209a2fdfaa0a755134dd5219784ceecd8f30709999108b0c"
   },
   {
     "archivo": "assets/app/capturas/cajero.hoy.png",
-    "sha256": "97e8fe5052cc9930ebe91e50aaa0a2395cb8583172afc89f9898ce24dc3df94e",
+    "sha256": "9dba2e3e094523f4b56cfe9e666b67896def6acc24a5314b831c633cd1b10dd3",
     "exportacion": "guia/capturas/cajero.hoy.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "97e8fe5052cc9930ebe91e50aaa0a2395cb8583172afc89f9898ce24dc3df94e"
   },
   {
     "archivo": "assets/app/capturas/cajero.mas.png",
-    "sha256": "303466703c40213cd68145e8e1408ff524fa76ec97faffb181fafcccb82a1f0b",
+    "sha256": "340c115fdab10b84f21af3fce1d5c21d8fc28dd0332d19b88a200291ac0568ea",
     "exportacion": "guia/capturas/cajero.mas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "303466703c40213cd68145e8e1408ff524fa76ec97faffb181fafcccb82a1f0b"
   },
   {
     "archivo": "assets/app/capturas/carta.plato.png",
-    "sha256": "86f76945a5bd18f8bb81fd9ed944d409d4d27995ff0cae15442ca4dbeaf1f176",
+    "sha256": "b5bf91d2d1c6222e1aaf49ee936fd2b6443d22a1de9d3d88f6bca7bd4de341d4",
     "exportacion": "guia/capturas/carta.plato.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "86f76945a5bd18f8bb81fd9ed944d409d4d27995ff0cae15442ca4dbeaf1f176"
   },
   {
     "archivo": "assets/app/capturas/comprobante.compartir.png",
-    "sha256": "94808bc8737456dea07ef7996b3a51dba1cb219fabd70a5b4784b9fb076b9e7f",
+    "sha256": "f595400651c608a363ccd4133bf0ef6e6f3a0bf0ae07aea9d9362930eaae4af6",
     "exportacion": "guia/capturas/comprobante.compartir.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "94808bc8737456dea07ef7996b3a51dba1cb219fabd70a5b4784b9fb076b9e7f"
   },
   {
     "archivo": "assets/app/capturas/comprobante.correo.png",
-    "sha256": "f33b582fa097fa2b5a5f416a49e543a27a7ef70f29bd88753ffff85fde89d5a4",
+    "sha256": "fdff5375440c57427eadc7e93d58b9c894326f91d27109c7ab064e7f46579c29",
     "exportacion": "guia/capturas/comprobante.correo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f33b582fa097fa2b5a5f416a49e543a27a7ef70f29bd88753ffff85fde89d5a4"
   },
   {
     "archivo": "assets/app/capturas/comprobante.devuelta.png",
-    "sha256": "33b25363c27b6eadf784a1896f3d97b4260d7625b96311319a425e06a4bcc72e",
+    "sha256": "c6ba1b2202edff86ef027cba0fd10b6841242cb94c0ebe3f08948dbdeafa1908",
     "exportacion": "guia/capturas/comprobante.devuelta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "33b25363c27b6eadf784a1896f3d97b4260d7625b96311319a425e06a4bcc72e"
   },
   {
     "archivo": "assets/app/capturas/comprobante.imprimir.png",
-    "sha256": "a5c06003d36bc1486f2faef9c9b077746d8c807c642ccf97a45cb736386a48c6",
+    "sha256": "a64a46801f436e9c25245cc6f8df0bee3331186bdb6cc1aef4cebd10871ffe06",
     "exportacion": "guia/capturas/comprobante.imprimir.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "a5c06003d36bc1486f2faef9c9b077746d8c807c642ccf97a45cb736386a48c6"
   },
   {
     "archivo": "assets/app/capturas/comprobante.principal.png",
-    "sha256": "1b5b464260b5714f8d74d3440df52563d27e5a012aa01dd2956c823478b959cf",
+    "sha256": "305b4ec94a37c927e4a2a66c785d7c455dd106467d6a57abcb59e67510b32b18",
     "exportacion": "guia/capturas/comprobante.principal.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1b5b464260b5714f8d74d3440df52563d27e5a012aa01dd2956c823478b959cf"
   },
   {
     "archivo": "assets/app/capturas/comprobante.procesando.png",
-    "sha256": "7fc01d9cfa1ed7fbfa3b681ae3ba2ef2afdcb13edc4f53ab70fc289325085b5b",
+    "sha256": "2c4493f248610625ae873d3cb06367df792dd39a7dba10e000f3870da8d41688",
     "exportacion": "guia/capturas/comprobante.procesando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7fc01d9cfa1ed7fbfa3b681ae3ba2ef2afdcb13edc4f53ab70fc289325085b5b"
   },
   {
     "archivo": "assets/app/capturas/comprobante.qr-cargando.png",
-    "sha256": "10ceed7dc86fb5a594b1c9da114c9c9bb69bfc455bcefa377fbd499a410da3c7",
+    "sha256": "0cd3f13b03f711904cf2b19595f90421fff764bd7d9a471ed84e6ec607065bc8",
     "exportacion": "guia/capturas/comprobante.qr-cargando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "10ceed7dc86fb5a594b1c9da114c9c9bb69bfc455bcefa377fbd499a410da3c7"
   },
   {
     "archivo": "assets/app/capturas/comprobante.qr-no-vigente.png",
-    "sha256": "968bfa13107e67ecdbb6562307131769acc4dadd0c8dff804bf52e09107ef38a",
+    "sha256": "002db5ded553b9722233df94cd102e71cdbc1073593ce65d0885c8aa5712c62e",
     "exportacion": "guia/capturas/comprobante.qr-no-vigente.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "968bfa13107e67ecdbb6562307131769acc4dadd0c8dff804bf52e09107ef38a"
   },
   {
     "archivo": "assets/app/capturas/comprobante.qr.png",
-    "sha256": "70677c50570de1c5173e505e42694bedee94bc381f9b7d30c30aed2404b4e55b",
+    "sha256": "6d8edeaeb1552de55fefc6b0b8ff0c5f67249ca699092b7dd2c999e4e1da85f6",
     "exportacion": "guia/capturas/comprobante.qr.png",
-    "vamoa": []
-  },
-  {
-    "archivo": "assets/app/capturas/comprobante.sello.png",
-    "sha256": "b28060ee5907aad67e9cc063ca6f4640cf4ed2422f797b257f42160de3efed97",
-    "exportacion": "guia/capturas/comprobante.sello.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "70677c50570de1c5173e505e42694bedee94bc381f9b7d30c30aed2404b4e55b"
   },
   {
     "archivo": "assets/app/capturas/comprobante.sin-sello.png",
-    "sha256": "f8412968c83e1437cb5ab248313acdbe0a97e30fd0084730faee00820d286069",
+    "sha256": "ab467750a637ab0a398a1b71255596202ea545c1eb0374243f79e24ade905dae",
     "exportacion": "guia/capturas/comprobante.sin-sello.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f8412968c83e1437cb5ab248313acdbe0a97e30fd0084730faee00820d286069"
   },
   {
     "archivo": "assets/app/capturas/comprobante.ticket.png",
-    "sha256": "2f271787826e3c499f4f7f1d732f70c35cb32ef010ab3f7f36643ca678f9473b",
+    "sha256": "28e7e61e78d111f5c70fb1e3c60903b7905e71936e0fc7c01d39bd1bd9b3afca",
     "exportacion": "guia/capturas/comprobante.ticket.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2f271787826e3c499f4f7f1d732f70c35cb32ef010ab3f7f36643ca678f9473b"
+  },
+  {
+    "archivo": "assets/app/capturas/creditos.error.png",
+    "vamoa": [],
+    "sha256": "458326243cc0aec0ea6d39cba19cc3f68023e7d13aaab50aeccb4778258db1d7",
+    "sha256_original": "a6d852526a32561d0fa51ae193b96ad8cffac10dbba3fe696481f65fccfc0caf"
   },
   {
     "archivo": "assets/app/capturas/creditos.movimientos.png",
-    "sha256": "c895812d4709c2a23a99fb774064de90b26ca2b324118523f58614fec6d06f8e",
+    "sha256": "89b5d6e8e24f94d4df4396cefba739a783074d3541e0ea66b852e93f9f1708a9",
     "exportacion": "guia/capturas/creditos.movimientos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c895812d4709c2a23a99fb774064de90b26ca2b324118523f58614fec6d06f8e"
+  },
+  {
+    "archivo": "assets/app/capturas/creditos.premio.png",
+    "vamoa": [],
+    "sha256": "f81aadda25c77b748b4b283b28d29e6cf757048f120ac689a02e8eb10d485a8f",
+    "sha256_original": "bf6928ac9e728ff0e45a68bb81ccb82a8b7b85a1a4ecdd770fff44f6a7294388"
   },
   {
     "archivo": "assets/app/capturas/creditos.vacio.png",
-    "sha256": "836fcf08e01e3e533209d9092efe95a4cefe84b588e1c554113a1c86e5257c8e",
+    "sha256": "b34060215e2fcbd9bf3002cc31c28f27deaa2f421c3142fb19634323d1c82fed",
     "exportacion": "guia/capturas/creditos.vacio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "836fcf08e01e3e533209d9092efe95a4cefe84b588e1c554113a1c86e5257c8e"
   },
   {
     "archivo": "assets/app/capturas/cuenta.arroba-ocupada.png",
-    "sha256": "f7f0b802567dbc83511781250f7aa12a57f970f0ffd8a59c888be1e8b06c4b6b",
+    "sha256": "d5529202b76baa150eaaeaa1a1842deddbb8b5b6553fd5046f408a16b5389bde",
     "exportacion": "guia/capturas/cuenta.arroba-ocupada.png",
-    "vamoa": []
-  },
-  {
-    "archivo": "assets/app/capturas/cuenta.avatar.png",
-    "sha256": "d105cb124a5b49d16ef704ea906ef07aa7d401fe6cdce199f854dc79e40d111f",
-    "exportacion": "guia/capturas/cuenta.avatar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f7f0b802567dbc83511781250f7aa12a57f970f0ffd8a59c888be1e8b06c4b6b"
   },
   {
     "archivo": "assets/app/capturas/cuenta.borrada.png",
-    "sha256": "b8083a25f247c3e830bb64f7e3a4b0faaa1191a5a4e31702a35c60fea130c67d",
+    "sha256": "b625324d0b33e7f1dca9c4be31eaf89c906a78a8e15b8b17d18fe9a5a30b63fb",
     "exportacion": "guia/capturas/cuenta.borrada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b8083a25f247c3e830bb64f7e3a4b0faaa1191a5a4e31702a35c60fea130c67d"
   },
   {
     "archivo": "assets/app/capturas/cuenta.borrar.png",
-    "sha256": "992f03e24ec26b38b6cb2a18011bbf9add286589c95e0c8267fa770cc31fb16e",
+    "sha256": "e70d0ad0324d1978c47fd72aaaca7567c1b2f87e0c32ded08c3d8de0ea831b5e",
     "exportacion": "guia/capturas/cuenta.borrar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "992f03e24ec26b38b6cb2a18011bbf9add286589c95e0c8267fa770cc31fb16e"
   },
   {
     "archivo": "assets/app/capturas/cuenta.clave-cambiada.png",
-    "sha256": "60e0247e002f185e408550eac25c2cd6465825454109ef25788a0a71c11550b7",
+    "sha256": "09de508bde3442453ba50e58c7a3aa8fa83e12ea60c8c33fda315f4843366c18",
     "exportacion": "guia/capturas/cuenta.clave-cambiada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "60e0247e002f185e408550eac25c2cd6465825454109ef25788a0a71c11550b7"
   },
   {
     "archivo": "assets/app/capturas/cuenta.correo-pendiente.png",
-    "sha256": "4fcf34ba61a43e9186af588347dc0d5e07f6dabfefe8f67eaee5c3a7f44b8853",
+    "sha256": "fbcdf07a2d9e66fdbb88026b71a47cd5510cb50b12ad02cb8c53c5f09fa48ba6",
     "exportacion": "guia/capturas/cuenta.correo-pendiente.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "4fcf34ba61a43e9186af588347dc0d5e07f6dabfefe8f67eaee5c3a7f44b8853"
+  },
+  {
+    "archivo": "assets/app/capturas/cuenta.intentos.png",
+    "vamoa": [],
+    "sha256": "dac565e6d98d231b391b7b7d1ea32b75192c074e82111faf16afd866e945f781",
+    "sha256_original": "76feb9b8df9a821486fe00cd51d13d37fc58217255c55d7949ba49fb803c2a2b"
   },
   {
     "archivo": "assets/app/capturas/cuenta.medicion.png",
-    "sha256": "0d68dcd99d167d48e5cd1d21b5f69f66948cfbd56fa1097a0d3c4be73cab8d69",
+    "sha256": "e64c57e1cd45d1ea2de54918657c2c5ff78d0e34a4e787bbe6ef983ee67b00bc",
     "exportacion": "guia/capturas/cuenta.medicion.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "0d68dcd99d167d48e5cd1d21b5f69f66948cfbd56fa1097a0d3c4be73cab8d69"
   },
   {
     "archivo": "assets/app/capturas/cuenta.perfil.png",
-    "sha256": "7e49e5c96925353d1699199bf91350e17a73ff6ceec75fd01eaeae853b3c56da",
+    "sha256": "4e1cdbaf0c88b956871c1da0bd3f305ad980a9757b64b16e5908a71e9155f374",
     "exportacion": "guia/capturas/cuenta.perfil.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7e49e5c96925353d1699199bf91350e17a73ff6ceec75fd01eaeae853b3c56da"
   },
   {
     "archivo": "assets/app/capturas/cuenta.seguridad.png",
-    "sha256": "30382af90260d2a66a912bc0e05edbfd888d971c1557677e6fe902c96bed4017",
+    "sha256": "29cb7167715c20302cbe8238f80816ea3999acc78ef81d7c363afa970f30c964",
     "exportacion": "guia/capturas/cuenta.seguridad.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "30382af90260d2a66a912bc0e05edbfd888d971c1557677e6fe902c96bed4017"
   },
   {
     "archivo": "assets/app/capturas/cuenta.sesiones.png",
-    "sha256": "c848f150dbafdbc22f9075e19a7bea6a2fdc2a209b86d1328cfb900b18fbe83e",
+    "sha256": "5930ec4d5907e842a9ae1e17b7fba0d3db09d703862154e2048dd7bd5762fa23",
     "exportacion": "guia/capturas/cuenta.sesiones.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c848f150dbafdbc22f9075e19a7bea6a2fdc2a209b86d1328cfb900b18fbe83e"
   },
   {
     "archivo": "assets/app/capturas/cuenta.ubicacion.png",
-    "sha256": "2114a1963d6d4ec0e2cbdced77c7bc0acfaa487aff726cec36e3195db3452dce",
+    "sha256": "bb1e290cfff1214f2f4967cd2f8e5e2c1f4402be28ee624b742552f02c0f08e1",
     "exportacion": "guia/capturas/cuenta.ubicacion.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2114a1963d6d4ec0e2cbdced77c7bc0acfaa487aff726cec36e3195db3452dce"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.cobro-en-caja.png",
+    "vamoa": [],
+    "sha256": "3aeda85051dd2e91538f7e102c3af4253e972240fb7bf7cf3913d006e7b33186",
+    "sha256_original": "d14774e8840b35a3abfb20c60b717676c907907548bd60e0c6e8cab855c01876"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.datos-bancarios.png",
+    "vamoa": [],
+    "sha256": "38df4c33a44c9eb0e7f265ecef005b6463dac0cd8d50ca91966a2d5945e0a631",
+    "sha256_original": "1041835a196156ccdf5846957290cf11d68e70b93b9c50ee445918e6dec1e725"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.enviada.png",
+    "vamoa": [],
+    "sha256": "7e335054d13e2e6bfd8d390842bb9ea6460085259839d219cce669c850b85628",
+    "sha256_original": "6924f6108d11f61a79ff3f60e60e8c7c03db8aec8171843b74be4710baae40b5"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.motivo.png",
+    "vamoa": [],
+    "sha256": "0da807adf41a89b5f9b31e8d5dddad3b0265ba12037c2b05423999eae9a65fcb",
+    "sha256_original": "949715311f96d2400d4338b13f1ff306bfb672afbd699b63a05041e9b2b4c797"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.parte-consumo.png",
+    "vamoa": [],
+    "sha256": "75d44350ca8f055a94a307d561aaad99844216a9e77b9a9c699125601bc384b8",
+    "sha256_original": "ecacc7bfa5449d694440a2241f06af25637d1394f5a620ab46d57c015a190b65"
   },
   {
     "archivo": "assets/app/capturas/dividir.cancelar.png",
-    "sha256": "1c629c6b7f56cc63e700bf520b9ebd4aa36b67d31f79b917c7826958f6cafa09",
+    "sha256": "7f3c6466e13c80c21686823826a1da76fbdcbc24fcd6cba6081f98a97570c67a",
     "exportacion": "guia/capturas/dividir.cancelar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1c629c6b7f56cc63e700bf520b9ebd4aa36b67d31f79b917c7826958f6cafa09"
   },
   {
     "archivo": "assets/app/capturas/dividir.completa.png",
-    "sha256": "ebdf181b6941491365f751e993185cec3042ace80c31704779212da73ee81c4c",
+    "sha256": "7f4b8be8e40fe5c62eb2419d688d2e0a7f936754f64201cb397be9e74c6182bd",
     "exportacion": "guia/capturas/dividir.completa.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ebdf181b6941491365f751e993185cec3042ace80c31704779212da73ee81c4c"
   },
   {
     "archivo": "assets/app/capturas/dividir.comprobante.png",
-    "sha256": "7e7f129074f090151b3a39a67627e68aa1089b1aca715c8997b87592f67988bd",
+    "sha256": "2b39209bcfe806a5d951b364504f38c99fd0bcba02d538d251c71f6db52aca22",
     "exportacion": "guia/capturas/dividir.comprobante.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7e7f129074f090151b3a39a67627e68aa1089b1aca715c8997b87592f67988bd"
   },
   {
     "archivo": "assets/app/capturas/dividir.configurar.png",
-    "sha256": "3f8bf4054a845d1d1341a91589194ca8f99232d63655b6057a86cdce9e55882d",
+    "sha256": "a1327f46caaf4dc1db92a4cfb632f7ce3c0a8bf5557d6c40f387c8f0033f4a59",
     "exportacion": "guia/capturas/dividir.configurar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3f8bf4054a845d1d1341a91589194ca8f99232d63655b6057a86cdce9e55882d"
   },
   {
     "archivo": "assets/app/capturas/dividir.confirmar.png",
-    "sha256": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4",
+    "sha256": "056c998560851824fceba07ab07816c954e3374c0af33ae6d0dd543504088c3e",
     "exportacion": "guia/capturas/dividir.confirmar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4"
   },
   {
     "archivo": "assets/app/capturas/dividir.cubierta.png",
-    "sha256": "3c4dafbda45ea70264014de27bfec5744c06bd6fbc39482afa2e4cdeb2badc58",
+    "sha256": "4294a91c9e6cc8bc030fb3ae4232b517e7acaa877c7287498d65de46ad0e7dd8",
     "exportacion": "guia/capturas/dividir.cubierta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3c4dafbda45ea70264014de27bfec5744c06bd6fbc39482afa2e4cdeb2badc58"
   },
   {
     "archivo": "assets/app/capturas/dividir.cubrir.png",
-    "sha256": "a0e9a7dc606316a3a2d6be8644b8ecfa8ad1566481f9870b7e483d15d405ff56",
+    "sha256": "c7ee0bc08dc7192de335c391d4669f0b12d6044344b69fda6abefc8537e32445",
     "exportacion": "guia/capturas/dividir.cubrir.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "a0e9a7dc606316a3a2d6be8644b8ecfa8ad1566481f9870b7e483d15d405ff56"
   },
   {
     "archivo": "assets/app/capturas/dividir.cuenta-cambio.png",
-    "sha256": "6d81fac6d873c73c54a238cad14a4b3daf31ad4fb3ca234d14da200b5b0fdb67",
+    "sha256": "026c8489e7d865bf7f5bfd6ec3865d4a15a7cb352a3e2bdf2e652da1df8f0685",
     "exportacion": "guia/capturas/dividir.cuenta-cambio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "6d81fac6d873c73c54a238cad14a4b3daf31ad4fb3ca234d14da200b5b0fdb67"
   },
   {
     "archivo": "assets/app/capturas/dividir.dos.png",
-    "sha256": "e23b3549fc4dde4d95ef811b6d01fd4d8a415a315f29f78fc38b2ad5d6e29d51",
+    "sha256": "e62bde451dfe853e83018872f2deb73496d0ee29b7ac09a991e86323b8aa66d7",
     "exportacion": "guia/capturas/dividir.dos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "e23b3549fc4dde4d95ef811b6d01fd4d8a415a315f29f78fc38b2ad5d6e29d51"
   },
   {
     "archivo": "assets/app/capturas/dividir.esperando.png",
-    "sha256": "73b11a207b41087b561d64f9eb56df9979f24424fbd86848fe0d1be29c65921e",
+    "sha256": "09ca560d5b3f6fd1039b0eff99754c920ea54ff006a9e1190a7e170fa9ca2ef0",
     "exportacion": "guia/capturas/dividir.esperando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "73b11a207b41087b561d64f9eb56df9979f24424fbd86848fe0d1be29c65921e"
   },
   {
     "archivo": "assets/app/capturas/dividir.grupo.png",
-    "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38",
+    "sha256": "b5c9e28e42567387328d414122e7a64292f366028b10e0a336302ffc8b7f1c90",
     "exportacion": "guia/capturas/dividir.grupo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38"
   },
   {
     "archivo": "assets/app/capturas/dividir.inicio.png",
-    "sha256": "72a3f9e39575586d701f0cc06b29651abd31946336abda5b99753077678228c1",
+    "sha256": "1cda46a949bc1d85d93bab7362a0be0ba47ad1389195f9e9592e1e750d022357",
     "exportacion": "guia/capturas/dividir.inicio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "72a3f9e39575586d701f0cc06b29651abd31946336abda5b99753077678228c1"
   },
   {
     "archivo": "assets/app/capturas/dividir.invitacion-vencida.png",
-    "sha256": "b8ec6cef4839620fc8569670e76fade6f3438aab2ce7b770a4d49554e908fb5e",
+    "sha256": "850d1630dcf3b8e26669877e6371bf5c126da8af15b31bfbc31782a416ef3531",
     "exportacion": "guia/capturas/dividir.invitacion-vencida.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b8ec6cef4839620fc8569670e76fade6f3438aab2ce7b770a4d49554e908fb5e"
   },
   {
     "archivo": "assets/app/capturas/dividir.invitar.png",
-    "sha256": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38",
+    "sha256": "b5c9e28e42567387328d414122e7a64292f366028b10e0a336302ffc8b7f1c90",
     "exportacion": "guia/capturas/dividir.invitar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "cdb5a9943370b7e4564bf798a647fefa2f67e3bfc4d96dd46fc3808a084a4d38"
+  },
+  {
+    "archivo": "assets/app/capturas/dividir.landing.png",
+    "vamoa": [],
+    "sha256": "53fccd54fb329899b75b1316b40770accbca5157e2db4d71c4688c470d99338a",
+    "sha256_original": "9bfa8bab5761bff2a09575448bc6a31ad4d7a024da21492a6f66283670749d5e"
   },
   {
     "archivo": "assets/app/capturas/dividir.mi-parte.png",
-    "sha256": "8e5dcb78fddfcd980eee6e793fb7db4e41a03fe83cd60abcf477ba2d11461d05",
+    "sha256": "11449a84a5a5180444a553efc17ef93d13d0efea5a243f1afd23fc17d896ada0",
     "exportacion": "guia/capturas/dividir.mi-parte.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "8e5dcb78fddfcd980eee6e793fb7db4e41a03fe83cd60abcf477ba2d11461d05"
   },
   {
     "archivo": "assets/app/capturas/dividir.montos.png",
-    "sha256": "b2a5460ad5b4f618fd6658be4fa025495d6aaa01cdcd5c8b25495b3afe171be3",
+    "sha256": "d638815b53ad7c9c97f32f53be4a44a4c432cddf3ca493ffb53c5ef08e01d012",
     "exportacion": "guia/capturas/dividir.montos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b2a5460ad5b4f618fd6658be4fa025495d6aaa01cdcd5c8b25495b3afe171be3"
   },
   {
-    "archivo": "assets/app/capturas/dividir.pendiente.png",
-    "sha256": "8b3f578e80958ec7dc3b5fccb65a651b9b629877c37e32b0f3fe06bb2c1d3543",
-    "exportacion": "guia/capturas/dividir.pendiente.png",
-    "vamoa": []
+    "archivo": "assets/app/capturas/dividir.no-disponible.png",
+    "vamoa": [],
+    "sha256": "7321d1b669cbb35cc1ca5c26cba3be40979f6123bdc0dec9cce083e536b78b27",
+    "sha256_original": "b7ef109ebd286432a0c714a7d972dec8d71c6929185dea13872b9c83fdec6598"
   },
   {
     "archivo": "assets/app/capturas/dividir.rechazo.png",
-    "sha256": "33d4b7251c793086634a3c37e3254783e6005fd41b5669002ca78b052a2767b3",
+    "sha256": "cb740d623666e9bba1bd2a1fa48506532ef82f86758d9b8130bceecaef14449d",
     "exportacion": "guia/capturas/dividir.rechazo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "33d4b7251c793086634a3c37e3254783e6005fd41b5669002ca78b052a2767b3"
   },
   {
     "archivo": "assets/app/capturas/dividir.unirse.png",
-    "sha256": "2c34623a9b804279ce8727a324798493a8dab393b9fdd1b7822901606d32e141",
+    "sha256": "12eb7f5177ecdf042fb03faf09a2a23b980f0056ae408f8a46597ddafc5109bb",
     "exportacion": "guia/capturas/dividir.unirse.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2c34623a9b804279ce8727a324798493a8dab393b9fdd1b7822901606d32e141"
   },
   {
     "archivo": "assets/app/capturas/dueño.hoy.png",
-    "sha256": "1db2939e805e2c488378b0e4025fe94cdf91452b685320482d7702f97d597ab4",
+    "sha256": "2a837e8e1f88e44a089bca75d0144a5e782c4fec123d28025768d70d896d41f7",
     "exportacion": "guia/capturas/dueño.hoy.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1db2939e805e2c488378b0e4025fe94cdf91452b685320482d7702f97d597ab4"
   },
   {
     "archivo": "assets/app/capturas/dueño.mas.png",
-    "sha256": "c765c86232070e195e8a8032c4ed6ead84e9e033b68d7e731246943da95d97a7",
+    "sha256": "a5c5f02ad81f95a033c41a7692d33e9c604cf8c88187e361ce723877d163390c",
     "exportacion": "guia/capturas/dueño.mas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c765c86232070e195e8a8032c4ed6ead84e9e033b68d7e731246943da95d97a7"
   },
   {
     "archivo": "assets/app/capturas/encargado.hoy.png",
-    "sha256": "d32d6ada45af09ae4f6370f99c67e27a0fe749ef1591789e5f86c3ba30beca72",
+    "sha256": "4e12dd139578f91c7cad437979c2a3ccd4629381b9ec964af1f082d50bf72552",
     "exportacion": "guia/capturas/encargado.hoy.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "d32d6ada45af09ae4f6370f99c67e27a0fe749ef1591789e5f86c3ba30beca72"
   },
   {
     "archivo": "assets/app/capturas/encargado.mas.png",
-    "sha256": "1e45bed5b37df037e571357061a6d75ead4ba41fa875b22befe8224d2f5cad64",
+    "sha256": "1bba4e27a4735894d287bf28427288df44e7b84c2826bcebd0c97a7baafcf426",
     "exportacion": "guia/capturas/encargado.mas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1e45bed5b37df037e571357061a6d75ead4ba41fa875b22befe8224d2f5cad64"
   },
   {
     "archivo": "assets/app/capturas/estado.catalogo.carga.png",
-    "sha256": "fc5dc4d5d766e26d1a6d05a3b85bae24f79498eefcc37bb3def71cff1a6e2d93",
+    "sha256": "49281f2dec7c430c910eeb98281bd061705ba3f1a5b6e98deddcf7690f329aa9",
     "exportacion": "guia/capturas/estado.catalogo.carga.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "fc5dc4d5d766e26d1a6d05a3b85bae24f79498eefcc37bb3def71cff1a6e2d93"
   },
   {
     "archivo": "assets/app/capturas/estado.catalogo.error.png",
-    "sha256": "42a1077a51a20ce6cb8e25be0aad8e9d0a4b76c1eea9fc607ce6edbcc1032473",
+    "sha256": "0583a59bc1c2287aafbdec4ed2dbb87b79421bfb2e74952c1368ec617d6d1d77",
     "exportacion": "guia/capturas/estado.catalogo.error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "42a1077a51a20ce6cb8e25be0aad8e9d0a4b76c1eea9fc607ce6edbcc1032473"
   },
   {
     "archivo": "assets/app/capturas/estado.catalogo.guardando.png",
-    "sha256": "41c697ace94ebc6d423dd44777e2ad08a008358a76d07a9bba2448233e18fcf6",
+    "sha256": "bad6da9c18f9d94cef8589c93101240bfe14472e3d0372a39289feaab9089197",
     "exportacion": "guia/capturas/estado.catalogo.guardando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "41c697ace94ebc6d423dd44777e2ad08a008358a76d07a9bba2448233e18fcf6"
   },
   {
     "archivo": "assets/app/capturas/estado.comunidad.carga.png",
-    "sha256": "b16dccf69cc576b4141d3c16c3dc6685f9127b417ab93eab5cfe48bfc84baeea",
+    "sha256": "a04ead3ee6fd2fb50e85431d7d4982d07dace1e657ffd156164153a8da7f6edf",
     "exportacion": "guia/capturas/estado.comunidad.carga.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b16dccf69cc576b4141d3c16c3dc6685f9127b417ab93eab5cfe48bfc84baeea"
   },
   {
     "archivo": "assets/app/capturas/estado.comunidad.error.png",
-    "sha256": "5b271f46683ad62ca29e1a51b0a3c032b2b3eeb0e0030d0d2fb84283670dc152",
+    "sha256": "e42fa15be267e14d885c43d04808f2077ca4e8592efb7b18d3af2b5495ab8609",
     "exportacion": "guia/capturas/estado.comunidad.error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "5b271f46683ad62ca29e1a51b0a3c032b2b3eeb0e0030d0d2fb84283670dc152"
   },
   {
     "archivo": "assets/app/capturas/estado.comunidad.guardando.png",
-    "sha256": "3f0e6d159c3e3b560b83e55df091e4d219d6bb663a36255feaf890f57d06c3e2",
+    "sha256": "bb5e452742e71fc0c5ee5cfeb77279c9c2543dcab5dfec4c6b3ae74de659798f",
     "exportacion": "guia/capturas/estado.comunidad.guardando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3f0e6d159c3e3b560b83e55df091e4d219d6bb663a36255feaf890f57d06c3e2"
   },
   {
     "archivo": "assets/app/capturas/estado.cuenta.carga.png",
-    "sha256": "91e1956ad415c5e751a4b3ba39666346c9560e1eec77201731567d2c209559a8",
+    "sha256": "f04275830417fe83b4035076dfe1b30a922c139cd95d5fbf0fd1a8f53949a2f5",
     "exportacion": "guia/capturas/estado.cuenta.carga.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "91e1956ad415c5e751a4b3ba39666346c9560e1eec77201731567d2c209559a8"
   },
   {
     "archivo": "assets/app/capturas/estado.cuenta.error.png",
-    "sha256": "b40f03045546e32eef4310b1ddd316045a47e3f1179a5f18c77e3efa059acb1d",
+    "sha256": "f75d5486d3258b5bbe13108aeba47843922a8ea51f8afc9ec0da309b55c50835",
     "exportacion": "guia/capturas/estado.cuenta.error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b40f03045546e32eef4310b1ddd316045a47e3f1179a5f18c77e3efa059acb1d"
   },
   {
     "archivo": "assets/app/capturas/estado.cuenta.guardando.png",
-    "sha256": "9be76d66a68f6a85f5ae18edc82dc2cfe2027d7f8b7e6d3f6bb4d0557226f0e3",
+    "sha256": "e83eb46913630eebf6e12b129e0070b7eb9dc075c06404eba3964eca2cb45392",
     "exportacion": "guia/capturas/estado.cuenta.guardando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "9be76d66a68f6a85f5ae18edc82dc2cfe2027d7f8b7e6d3f6bb4d0557226f0e3"
   },
   {
     "archivo": "assets/app/capturas/estado.restaurante.carga.png",
-    "sha256": "0c1087d4c17a4882537e1f54d411dbb8485d3a64b46512788295c298d119f5c5",
+    "sha256": "9e14f114a62df6b6a6191691c352e9786175c8ead7e7c50fa1059abaca16402e",
     "exportacion": "guia/capturas/estado.restaurante.carga.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "0c1087d4c17a4882537e1f54d411dbb8485d3a64b46512788295c298d119f5c5"
   },
   {
     "archivo": "assets/app/capturas/estado.restaurante.error.png",
-    "sha256": "5273f8ca26607e4b1bfdba60be0eb1cd80e77c0fddf576ff08baac61e71b784e",
+    "sha256": "e01d0f50c8fb9f2e0f3090243320e78bdf3144d88028cc16c9fa3a3dc6e24e72",
     "exportacion": "guia/capturas/estado.restaurante.error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "5273f8ca26607e4b1bfdba60be0eb1cd80e77c0fddf576ff08baac61e71b784e"
   },
   {
     "archivo": "assets/app/capturas/estado.restaurante.guardando.png",
-    "sha256": "c8e0fc152675342558078a5132fc990a837ca3aace468a051869f6c090fe58d9",
+    "sha256": "a491a2a1fdbd7e97951f56ccb067c410bed6aed9fda6db1693d7b28705780186",
     "exportacion": "guia/capturas/estado.restaurante.guardando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c8e0fc152675342558078a5132fc990a837ca3aace468a051869f6c090fe58d9"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.apple-pay.png",
+    "vamoa": [],
+    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256_original": "d46c59d5fdb3b982e18fd5c0908645c0bacefb5126b30ee2fa721f7517e94ab9"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.banco.png",
+    "vamoa": [],
+    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256_original": "8db1e86a94c7f09cb1a4719c56e5be6107280ff96a6ac0130fc419ce2f576dd6"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.comprobante-banco.png",
+    "vamoa": [],
+    "sha256": "cafedc1a537a4b49153438e05617f9e97d34893732e7a7859d9a887d9b8cbd9f",
+    "sha256_original": "ecda4d9899d8948803aae6ac2c494a45a056e8eee7b3008e941125d1c205e370"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.comprobante-tarjeta.png",
+    "vamoa": [],
+    "sha256": "2537bbd5bca8c838334ea23ba2c3b32479f22015831f1a100438154c971147fe",
+    "sha256_original": "9934aab8e025c7c004ca890073bd591a0f3d71315ca4317b933a14c89853f7de"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.confirmar.png",
+    "vamoa": [],
+    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256_original": "bcefec51d3733baa04eff163f6cb267021a281f46a8625adee627dd441be0834"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.creditos.png",
+    "vamoa": [],
+    "sha256": "1223e202298455cc170d974674bf7a323d1d8930a481f1c99f86ec829d0385b1",
+    "sha256_original": "03a26aaa7f43732ad1352ed3538d6f72c4b8d03cc78a2fb6f7c8932c9ed1f110"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.externo-banco.png",
+    "vamoa": [],
+    "sha256": "d6ebff4d172574cb240709bed702d3240131969163bc7986ae4eecf2d18c340e",
+    "sha256_original": "f6cc72f230015fda746cb91f99e6e2e360eeca4ec8c970622649c02f2218803b"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.externo-elegir.png",
+    "vamoa": [],
+    "sha256": "6467fbf5738bbce59e307e3e61850ab1134f65c3ded8b1dbabb0ec4bc7801cda",
+    "sha256_original": "8715d40abe73a1e2f34d8e97e869172ddf052a3132aad641a3036d2916709990"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.externo-tarjeta.png",
+    "vamoa": [],
+    "sha256": "6d9bf2ff674ba0062de7c4a711a5773e03a9e5b87093d4bbab0111ce0fc2ca75",
+    "sha256_original": "e1ce36f1a539c21322be6eff5d4dbee606eae6bf6b354388d37a93e0f5790d1c"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.google-pay.png",
+    "vamoa": [],
+    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256_original": "3102d1c5f20d1b24b194891baa23d252e589bd9c30b6acf8e02c5872f1a9d8ab"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.metodos.png",
+    "vamoa": [],
+    "sha256": "dc5ac0d997fed6d11a1b488642e36d7b747d69b6ce39e306b0e43d479681dcd0",
+    "sha256_original": "297c5279d08e748cde7bca7c82007d3a910cd86485afdd09c433239f3bb16e4b"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.pendiente.png",
+    "vamoa": [],
+    "sha256": "486e352973cc79e9ad1a7e20f7bc25bbf2abdfd2884bc1e9cd1c74c329779ea3",
+    "sha256_original": "0b966eb34f4e3254eb2f9cb315e7dcb3aad121c61015460ec2d308e0c752b367"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.solo-propina.png",
+    "vamoa": [],
+    "sha256": "cda3a97173dbc10cc7590ac9c7e6253e12a85065129b3844065c9e2a1c9f2afd",
+    "sha256_original": "791a76f0459691e2bc587256bdb1037cc05d0595b50f901016b88b3e425f0019"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.tarjeta.png",
+    "vamoa": [],
+    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256_original": "25bf53d4a95d91d4acf4da310c647a238974da8ba5405b2b0dd2d3fe020a669d"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.vencido.png",
+    "vamoa": [],
+    "sha256": "3d60fab8106f5146ab5ee13fef799b87ccb10ba784b15ae72e6b37c5ff4217b2",
+    "sha256_original": "08c471be5a1c0027b822853f23acf78b6b6b2effdf077471fc7b232fc9c25953"
+  },
+  {
+    "archivo": "assets/app/capturas/fintoc.verificando.png",
+    "vamoa": [],
+    "sha256": "aba9e8f6cf699b31835d206bf4d8e4b1ea064a0decb8f015b0e5e4c53ece06a8",
+    "sha256_original": "bc74bb300875263e8542b8c2d59156e1a7e0cfd734958fa5a6a165dc05fcf511"
+  },
+  {
+    "archivo": "assets/app/capturas/foto.acciones.png",
+    "vamoa": [],
+    "sha256": "3fd484daeada4caba4a4a3e8a2d3151c0b5161535ff8e4fa9adedb0b9f05d1fc"
   },
   {
     "archivo": "assets/app/capturas/foto.comentarios.png",
-    "sha256": "61efb1646848cdeac0af601636bfd623324d8b04454ea5277d008e52bbe644e2",
+    "sha256": "1393652a7221e2e7a5c8993b3b46381a92b593deaf9a7b3049941ccc44a029ac",
     "exportacion": "guia/capturas/foto.comentarios.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "61efb1646848cdeac0af601636bfd623324d8b04454ea5277d008e52bbe644e2"
   },
   {
     "archivo": "assets/app/capturas/foto.denunciar.png",
-    "sha256": "e18507d21ca8516b0007e85c03aaa8dcf615edcca7d62fee96585cb7a21e413f",
+    "sha256": "93a3f7c18b2464e1f4659bc93be9d4f414d0c2ac3cce02d28a6db2a6c4449560",
     "exportacion": "guia/capturas/foto.denunciar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "e18507d21ca8516b0007e85c03aaa8dcf615edcca7d62fee96585cb7a21e413f"
   },
   {
     "archivo": "assets/app/capturas/foto.editar.png",
-    "sha256": "31ff323a193776bcb9d71db8c0e3af57fac89078427bc25b5b1b971fa35f045c",
+    "sha256": "d556a59a3c0ae6532ed85a49bcd5867e67dc3ed9100ba3406f10b8c0d2df9131",
     "exportacion": "guia/capturas/foto.editar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "31ff323a193776bcb9d71db8c0e3af57fac89078427bc25b5b1b971fa35f045c"
   },
   {
     "archivo": "assets/app/capturas/foto.oculta.png",
-    "sha256": "b289566d46b6855c08b3370952cb05aa4a42167c93f8ea348313e63c14d596cb",
+    "sha256": "c1daad4c07aeacdb3bb426a05f2845114e55dafaea683fc311f1e7b47cef51b3",
     "exportacion": "guia/capturas/foto.oculta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b289566d46b6855c08b3370952cb05aa4a42167c93f8ea348313e63c14d596cb"
   },
   {
     "archivo": "assets/app/capturas/foto.reporte-enviado.png",
-    "sha256": "c4e940be990cd2abf3f612a84a808265770763a6d5f2072593cb01a131ccdabe",
+    "sha256": "fc62c539522d8f325a6d9846285fb5cac1f4a91da54545e5e4c2b43c45355f75",
     "exportacion": "guia/capturas/foto.reporte-enviado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c4e940be990cd2abf3f612a84a808265770763a6d5f2072593cb01a131ccdabe"
   },
   {
     "archivo": "assets/app/capturas/fotos.mas.png",
-    "sha256": "11cf263bbc4885db67fd9fba6c7c06c08b1dbba8348cb0743c3772b105a704ba",
+    "sha256": "9b85c0b3c95e442b12f3af015c557f6fede5a843a4c8efb136717234d2dde1e1",
     "exportacion": "guia/capturas/fotos.mas.png",
     "vamoa": [],
     "sha256_original": "dca34d199ce5dcca6451d4a50521552c05af1c4a4ee2f8667da59f7a30854013"
   },
   {
     "archivo": "assets/app/capturas/guardados.quitar.png",
-    "sha256": "4f9270b93ef0b85db09350698a95ac69d4c5f2b9c9c111ab1feccc61284b675e",
+    "sha256": "d9928edcf372eb018ec9f64793614dfd9f97ca987425714777c8ae782f58e54d",
     "exportacion": "guia/capturas/guardados.quitar.png",
     "vamoa": [],
     "sha256_original": "34b2d11b03cb54a8f1793d21bf088113e5ad06314bed0e24a37aec882e50387f"
   },
   {
     "archivo": "assets/app/capturas/guardados.vacio.png",
-    "sha256": "16fdf6224ca2654f6af2deb16efc086934f1234484faa7a9cabfe1ac0a4a1d67",
+    "sha256": "a645d671487b64db820e07a794adbd96ba2e96889f2cdaeb9c7ffc594b1b5c8d",
     "exportacion": "guia/capturas/guardados.vacio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "16fdf6224ca2654f6af2deb16efc086934f1234484faa7a9cabfe1ac0a4a1d67"
   },
   {
     "archivo": "assets/app/capturas/historial.actualizando.png",
     "vamoa": [],
-    "sha256": "72f29d0a8d52be78e1eaeee631d68cf33c52fecafa749b7cb198f94b35ccc866",
+    "sha256": "1f1d9f1c4fef25b65df7e065f50f7fa3d1c27b58ad914c853e91ba38ba71dc69",
     "sha256_original": "e8a3f2858cce92d54ed7ae2b9639feec8e4e226e9166597984ef67e99088dffd"
   },
   {
     "archivo": "assets/app/capturas/historial.filtros.png",
-    "sha256": "f5c0c42a69ee52910cd571e6ca87a5314950c4a97ac1fa95c9e37b9974a2d894",
+    "sha256": "f277a7effdb9eb2aeb05e15f17a74041c53e259d70a6ff7f449620ea9180a662",
     "exportacion": "guia/capturas/historial.filtros.png",
     "vamoa": [],
     "sha256_original": "76f70be39fe778c7695a1ab128dce7780e12c1be332fc0e56ce98852fd7d2055"
   },
   {
+    "archivo": "assets/app/capturas/historial.pago-eventos.png",
+    "vamoa": [],
+    "sha256": "0562bfc44e01d8be20da97aa11de7a255494557358d963311591fcf2d91bfbef",
+    "sha256_original": "49bf1e2baeff2a709aca709ac7ac3be558e8856dfde504bc15e920719b352753"
+  },
+  {
     "archivo": "assets/app/capturas/historial.vacio.png",
-    "sha256": "579e927b1cdcd668e1859d2579a0d205d34f58ea57403242b3f06ff795a32cb3",
+    "sha256": "155ba241de296a5f9fc1ee8ec0630f50e1c44effbec7b9873d08a8c99b59def3",
     "exportacion": "guia/capturas/historial.vacio.png",
     "vamoa": [],
     "sha256_original": "2f8360e876cc13ee9c0f9e0309e457424f041170a78424ca5d029a1860130fba"
   },
   {
+    "archivo": "assets/app/capturas/invitacion.confirmar.png",
+    "vamoa": [],
+    "sha256": "d2d803bd594a6c2c2c2b015fbcebe9cd04bae9a8f6fb58352e1c719485ea8e86",
+    "sha256_original": "333d39bc55afec5afebb1f8bbdc10861b40cb9540da9f8a2da079820207d2396"
+  },
+  {
+    "archivo": "assets/app/capturas/invitacion.elegir.png",
+    "vamoa": [],
+    "sha256": "8667804a7d1d15c6e6b39a41e5115cb6c4c9e2a004b4df9120301c83bee68f23",
+    "sha256_original": "14e63a611aab16baa3b5205a3e6420242232a7c99df874108b4b6a348d156241"
+  },
+  {
+    "archivo": "assets/app/capturas/invitacion.error.png",
+    "vamoa": [],
+    "sha256": "7192f686909450b65ca928c221d2df15a814e88fce693f05df95a6e5f98aa08a",
+    "sha256_original": "f59d1a0761d1b8d11e68a6a8da118fbc5068044c8dd90d30ff6cb37698a56c0f"
+  },
+  {
     "archivo": "assets/app/capturas/invitacion.invitados.png",
-    "sha256": "060ae2a8d207cdd956369eddeb80c94c428a8fa9e288276dbdf90c0a55b33934",
+    "sha256": "cfc8fb3232219c78f431b95bc7f26556b52f78e086e04e8bbe41a9d7e6e91c89",
     "exportacion": "guia/capturas/invitacion.invitados.png",
     "vamoa": [],
     "sha256_original": "f57cf86d2e53b339d99e4ded5f5f2fc73811bee0a1af97f1f182b302eb89c0b1"
   },
   {
+    "archivo": "assets/app/capturas/invitacion.partes.png",
+    "vamoa": [],
+    "sha256": "5cb5186affd71e73d587f5790dbba6bc4a3343bfb1b1fdaebda594a9af4a913c",
+    "sha256_original": "17e6e960941abae6c9fbbf6ec4242e0c6f123fcc0be8a2b0bc7770cde160811a"
+  },
+  {
+    "archivo": "assets/app/capturas/invitacion.reglas.png",
+    "vamoa": [],
+    "sha256": "615e64cc553b6a2478b68e35643aed4290923e3c9261d15fdee4b234efcef06f",
+    "sha256_original": "35ad5c43b08d245b6590458826cdcd230d0c31aa43354b88169b541436be1314"
+  },
+  {
+    "archivo": "assets/app/capturas/invitacion.reparto.png",
+    "vamoa": [],
+    "sha256": "8b9734e31c0d370c84769f37893951aebde72f40891e0357286ef07279b0bc47",
+    "sha256_original": "7522378d4a5596cb3b0b7f1b57639eeba4cc182c188b7aee24cb0a5506dae49e"
+  },
+  {
     "archivo": "assets/app/capturas/lugar.direcciones.png",
-    "sha256": "25087893db4d68687b175fbec595d5e1411adae4c8b7dc5963aa0020a9e03b70",
+    "sha256": "805e9104e84425e31148ebb7e2d9fcace8680e8dc7477eee80ee60f622a33754",
     "exportacion": "guia/capturas/lugar.direcciones.png",
     "vamoa": [],
     "sha256_original": "ce19c04a6542e3c897ce6b9b509ff2a526fda06806d5c9bfcb0e49646e6dc75f"
   },
   {
     "archivo": "assets/app/capturas/lugar.no-disponible.png",
-    "sha256": "a333550979ed49235a64964e63aa67f25df8cffb0d9e106f7b84416ef4acd3fb",
+    "sha256": "d81a60d931b3fcda5800fb0c0cceff3a9cb82612c36c09f1fbee55f7e645451e",
     "exportacion": "guia/capturas/lugar.no-disponible.png",
     "vamoa": [],
     "sha256_original": "15c4fa52e34ec9ab9bf0b0e4b2e5b3743921b0f5fda86e136ce9cbb557b427eb"
   },
   {
     "archivo": "assets/app/capturas/lugar.sucursales.png",
-    "sha256": "fc77652f6c2617854371da0b6fbf04736d83bb078541252d70b0c518ab6a289b",
+    "sha256": "34adc6066224fbbc731102b0a68fae4fa748a12cae89a65d4571d1b76da73230",
     "exportacion": "guia/capturas/lugar.sucursales.png",
     "vamoa": [],
     "sha256_original": "f04965eb2640203f96064d888ce8b21fff3cadd3efabcd0dc2986666bb442c6e"
   },
   {
     "archivo": "assets/app/capturas/lugares.busqueda.png",
-    "sha256": "3d9633d9717619dd6632744d1d7056ddbc5b7be16f402bd046202e7cb75e1572",
+    "sha256": "ce73e3fbce4f44caec271208cba740d3b858c1b26ad72f0927324e488468d336",
     "exportacion": "guia/capturas/lugares.busqueda.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3d9633d9717619dd6632744d1d7056ddbc5b7be16f402bd046202e7cb75e1572"
   },
   {
     "archivo": "assets/app/capturas/lugares.catalogo-vacio.png",
-    "sha256": "b03fea8c6a0fb15fd9910974dfcc295c9ab3a9eed235f3b3aac362cc748a2ed5",
+    "sha256": "c339fa1ee61e180bc0032291b573597cc469585edd9c45aa0ab52f5258200d84",
     "exportacion": "guia/capturas/lugares.catalogo-vacio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b03fea8c6a0fb15fd9910974dfcc295c9ab3a9eed235f3b3aac362cc748a2ed5"
   },
   {
     "archivo": "assets/app/capturas/lugares.filtros.png",
-    "sha256": "342925e0f4467732fae6af03636f4d6b2c7fd8e2cc294c35bf1e7797c9442844",
+    "sha256": "fd79312db611658fa698e2183bfc6896ec8b732aeae8430fd85e767183a209ff",
     "exportacion": "guia/capturas/lugares.filtros.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "342925e0f4467732fae6af03636f4d6b2c7fd8e2cc294c35bf1e7797c9442844"
   },
   {
     "archivo": "assets/app/capturas/lugares.sin-resultados.png",
-    "sha256": "c1d495b9dcadf38a6aaf73c51176e6f5a051a452e1940f9463da7e8d5b3539e6",
+    "sha256": "57cf5a175c331294de76a5494b914a5532b785ceb2c5dde7217ee261567c11e6",
     "exportacion": "guia/capturas/lugares.sin-resultados.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c1d495b9dcadf38a6aaf73c51176e6f5a051a452e1940f9463da7e8d5b3539e6"
   },
   {
     "archivo": "assets/app/capturas/mapa.no-disponible.png",
-    "sha256": "d78d1bb67ece3460250e83399a02ebfecf51e800a1e2b1e7e5adf1389e4e8add",
+    "sha256": "2393c149edfeaabf65892368f94f2accb4f9a818f10cc4f773d3332b301b5957",
     "exportacion": "guia/capturas/mapa.no-disponible.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "d78d1bb67ece3460250e83399a02ebfecf51e800a1e2b1e7e5adf1389e4e8add"
   },
   {
     "archivo": "assets/app/capturas/mapa.zona.png",
-    "sha256": "9831b00ca4847ac29f6335452f983612a9ba59d0cfdaebff11e6bce50106210d",
+    "sha256": "0fb631432280ff50299735e8991fae84d9f2769a18f88da1bf5504f286b19664",
     "exportacion": "guia/capturas/mapa.zona.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "9831b00ca4847ac29f6335452f983612a9ba59d0cfdaebff11e6bce50106210d"
   },
   {
     "archivo": "assets/app/capturas/notas.filtros.png",
-    "sha256": "d9b1ea5b4fae94febbd2519d37fbe844911aa27ff239009f9e7fb769fe3a8f2f",
+    "sha256": "e07812a5e4b33575405bfd6115b7b9d7c477dd20a023b11d84e816bfcc67f25d",
     "exportacion": "guia/capturas/notas.filtros.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "d9b1ea5b4fae94febbd2519d37fbe844911aa27ff239009f9e7fb769fe3a8f2f"
   },
   {
     "archivo": "assets/app/capturas/novedades.leer.png",
-    "sha256": "74f09209d685c68a447392e6f626cc2d23aa2ca7202e60b8c01dac988087472d",
+    "sha256": "05f5736ea7e93329d64a6ffc69ffd926ff28d37c5620b3a11572ae857ad9db30",
     "exportacion": "guia/capturas/novedades.leer.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "74f09209d685c68a447392e6f626cc2d23aa2ca7202e60b8c01dac988087472d"
+  },
+  {
+    "archivo": "assets/app/capturas/pagar.ya-pagada.png",
+    "vamoa": [],
+    "sha256": "5e490acd15cb3fe2c92e3e090ce5ef786fd635d3a2f54d0f08e5f6f043e7c184",
+    "sha256_original": "24a34c8f0f5bd8f630f071879a8ce2b4f69721e81d3dae533885933e8bca0497"
   },
   {
     "archivo": "assets/app/capturas/pago.bono-no-aplica.png",
-    "sha256": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56",
+    "sha256": "db45795587029c816cf9e205f1bf39ba5baae43a2f2591f329b786ca5a1d01e6",
     "exportacion": "guia/capturas/pago.bono-no-aplica.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56"
   },
   {
     "archivo": "assets/app/capturas/pago.cuenta-cambio.png",
-    "sha256": "45880ba2b77d8423e80e49b045f828175771753cfa0ef0571451ed34a293ca9c",
+    "sha256": "7595e33c708df972de4ac554a7a29c65aa4363327934298898d10bca80d9422c",
     "exportacion": "guia/capturas/pago.cuenta-cambio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "45880ba2b77d8423e80e49b045f828175771753cfa0ef0571451ed34a293ca9c"
   },
   {
     "archivo": "assets/app/capturas/pago.limite.png",
-    "sha256": "60eb17c634dba7926ffcf269ff3c85d678056dcbca1212cc598ce0219def1012",
+    "sha256": "2ca1d91ad9778ff3d0c221a325779b25226316f1732c305fb1999f8873e7e2ca",
     "exportacion": "guia/capturas/pago.limite.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "60eb17c634dba7926ffcf269ff3c85d678056dcbca1212cc598ce0219def1012"
   },
   {
     "archivo": "assets/app/capturas/pago.mas-digitos.png",
-    "sha256": "85f014a3f081ceaffaf0f10d99d2f6ca79ecbf05c70cac93c1863bb5639c988d",
+    "sha256": "1141e5ed4b5d9321ad989aece0ce10dc87bca6731723b9c7005eda28eb84855b",
     "exportacion": "guia/capturas/pago.mas-digitos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "85f014a3f081ceaffaf0f10d99d2f6ca79ecbf05c70cac93c1863bb5639c988d"
+  },
+  {
+    "archivo": "assets/app/capturas/pago.modo-demo.png",
+    "vamoa": [],
+    "sha256": "3915c28d1f9f55ec7b664c3b4cc27b3ef8f88e07babe51b1c03133607f49f889",
+    "sha256_original": "33e1f675116ffbb2b594b71bae735683ca18779824413bc550c6e654be9e289b"
   },
   {
     "archivo": "assets/app/capturas/pago.otra-tarjeta.png",
-    "sha256": "272e7ef9f6d7f5a845b793108380b6ceabddfc018a71caf8cb31da15886d6a4a",
+    "sha256": "47589c70dbaa6e9e70ded7a4529f52a22e258b1c6e5de48c622ec5d9dd6b2171",
     "exportacion": "guia/capturas/pago.otra-tarjeta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "272e7ef9f6d7f5a845b793108380b6ceabddfc018a71caf8cb31da15886d6a4a"
   },
   {
     "archivo": "assets/app/capturas/pago.pos-caido.png",
-    "sha256": "b6c392902d11e3acdd17f6ab041cad8c23c8b78429a801414264f2f0d02171b3",
+    "sha256": "e709378d960b739e93137481742f02b56e3d99e884bf5065a7adfba19f38a9b5",
     "exportacion": "guia/capturas/pago.pos-caido.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b6c392902d11e3acdd17f6ab041cad8c23c8b78429a801414264f2f0d02171b3"
+  },
+  {
+    "archivo": "assets/app/capturas/pago.propina-confirmar.png",
+    "vamoa": [],
+    "sha256": "015fb4f0fc00e357fa02b1b9c0dd7afa471eb51817e9518df2ae0bc668dc1064",
+    "sha256_original": "1dad486c9a152f434ff70d0524259a3c51a91a4993327690b834e2f89218f88f"
   },
   {
     "archivo": "assets/app/capturas/pago.propina-libre.png",
-    "sha256": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f",
+    "sha256": "047c7f47052ee27e4823206c95b927312975ee2918c5d06d5c088a983012e636",
     "exportacion": "guia/capturas/pago.propina-libre.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f"
   },
   {
     "archivo": "assets/app/capturas/pago.propina-mesa.png",
-    "sha256": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13",
+    "sha256": "a50036d04594fac34ecc9cbbec98f8ccdc17414b3075ca3a7737c61ae1a770fb",
     "exportacion": "guia/capturas/pago.propina-mesa.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13"
+  },
+  {
+    "archivo": "assets/app/capturas/pago.propina-tope.png",
+    "vamoa": [],
+    "sha256": "c513995c4e41aae4af523ecc76d52da28e6469581e90f96d0bd93a5a8b2ad904",
+    "sha256_original": "0c858a77340435036c1f2dbb6ce7feaff8265af1adb585be8fb839b0d36ad163"
   },
   {
     "archivo": "assets/app/capturas/pago.resultado-incierto.png",
-    "sha256": "ae683cbf87f54a2fa0f4d01c7646393205821713c3448d1a79e5bcc9f6160a6d",
+    "sha256": "bbf07207a5bf6ac5be10f5847ff50c170fccc2316be5d45142995af9ca569c0d",
     "exportacion": "guia/capturas/pago.resultado-incierto.png",
-    "vamoa": []
-  },
-  {
-    "archivo": "assets/app/capturas/pago.salir.png",
-    "sha256": "af10f1ec6fd737b9d643ab31c6856fb0dd64a41af1a42ba8fd3e599fa25973bf",
-    "exportacion": "guia/capturas/pago.salir.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ae683cbf87f54a2fa0f4d01c7646393205821713c3448d1a79e5bcc9f6160a6d"
   },
   {
     "archivo": "assets/app/capturas/pago.selector.png",
-    "sha256": "9cd7fa6bdaf89192e0bff171541e2208aa59ba514b1b1914ef663337d622ad6c",
+    "sha256": "e15993b29ae2768f997c0e2b09f9da08f1bc2c67cefeac323e30cd4238503dd2",
     "exportacion": "guia/capturas/pago.selector.png",
     "vamoa": [],
     "sha256_original": "190ab2b83b7376abc99f7545006cd02db16f070fbda5a3a84e9e15abfc28c778"
   },
   {
     "archivo": "assets/app/capturas/pago.sin-creditos.png",
-    "sha256": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1",
+    "sha256": "88c9ee3518a762b552396235cfe1b18443cfbafb296175a70aa427cb3e9e1d3b",
     "exportacion": "guia/capturas/pago.sin-creditos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1"
   },
   {
     "archivo": "assets/app/capturas/pago.sin-tarjeta.png",
-    "sha256": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421",
+    "sha256": "276b183671a7f47bf33366a864755d283236a6f5a2323b286be23e7630bfc344",
     "exportacion": "guia/capturas/pago.sin-tarjeta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421"
   },
   {
     "archivo": "assets/app/capturas/pago.todo-credito.png",
-    "sha256": "8971bed9cac4a6c82fd59733392cb01abc19753cef60f544380962ad2e300626",
+    "sha256": "9782221cb810ffd97a8ffa64f0e0439a7c48eb4038b54bc31f0dc75748c878e8",
     "exportacion": "guia/capturas/pago.todo-credito.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "8971bed9cac4a6c82fd59733392cb01abc19753cef60f544380962ad2e300626"
   },
   {
     "archivo": "assets/app/capturas/platos.local.png",
-    "sha256": "bd04b62949250980b85033e3ee3d9b25d8c9910dab673aec7375962bedf45fe5",
+    "sha256": "625177345a8a8f149b1cb3e7e6e260f22dc0134a3ad42b73f9d6a08f20e33bdd",
     "exportacion": "guia/capturas/platos.local.png",
     "vamoa": [],
     "sha256_original": "9ee4f2ac6143f4a9087c1c4ab14f48e136fdd94a768e9903e287518f00146715"
   },
   {
     "archivo": "assets/app/capturas/platos.sin-marcas.png",
-    "sha256": "9cce4da85994d605fdafd4e0f8cdc9c952f929ee10d11e9eacb87ccddda97778",
+    "sha256": "ced054f792943e7b56eea500f883067a154cb306363a447690339ec1b82e3b27",
     "exportacion": "guia/capturas/platos.sin-marcas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "9cce4da85994d605fdafd4e0f8cdc9c952f929ee10d11e9eacb87ccddda97778"
+  },
+  {
+    "archivo": "assets/app/capturas/portal.recuperos.png",
+    "vamoa": [],
+    "sha256": "7b83a50f7142a31e136a148d337bf16eeb5981129bb6c809518b85cff69a4f89",
+    "sha256_original": "83c463de96fd5a617805447b17c13c291fe79ee0139d9a2f306729e88fe13b9f"
   },
   {
     "archivo": "assets/app/capturas/postpago.atribucion.png",
-    "sha256": "261690bb65726d9bca5ae53b46aa8e7a749c08ca22f91b13f504b16356e237e8",
+    "sha256": "557801c73a2a64db5405823fd220553a1fbeb27cb9af97a847745e2546fd3ee8",
     "exportacion": "guia/capturas/postpago.atribucion.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "261690bb65726d9bca5ae53b46aa8e7a749c08ca22f91b13f504b16356e237e8"
   },
   {
     "archivo": "assets/app/capturas/postpago.ya-guardado.png",
-    "sha256": "0ee6763e2392ff59df4bc54cc08d9e118da806ac115796db462e67645a03dce8",
+    "sha256": "2d7272e7d1e58b3c7441c1185af3d4701556214a23997d01c2006c3803762e70",
     "exportacion": "guia/capturas/postpago.ya-guardado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "0ee6763e2392ff59df4bc54cc08d9e118da806ac115796db462e67645a03dce8"
   },
   {
     "archivo": "assets/app/capturas/preferencias.permiso.png",
-    "sha256": "c99673aacb77208c97cde83d42845e232b05cf467ca60651cddc9695a486dafa",
+    "sha256": "70ad775bd3e9c0dbf28727a1e6758a8e26e2a50239227027b325a500b6756807",
     "exportacion": "guia/capturas/preferencias.permiso.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c99673aacb77208c97cde83d42845e232b05cf467ca60651cddc9695a486dafa"
   },
   {
-    "archivo": "assets/app/capturas/preferencias.todos.png",
-    "sha256": "67f7acafab9d22f6ca204c6bfb6797b4bd491d00e366731b70a98872436c3700",
-    "exportacion": "guia/capturas/preferencias.todos.png",
-    "vamoa": []
+    "archivo": "assets/app/capturas/ranking.error.png",
+    "vamoa": [],
+    "sha256": "78028b53e4cbff17988e7819462b548c54934e5c391251b6c114bc6f6b30974a",
+    "sha256_original": "45befa56efed75da8967ad4b0466df4375bb5f99eb16d9724b88d988a2ce38d8"
   },
   {
     "archivo": "assets/app/capturas/ranking.filtros.png",
-    "sha256": "589a7f2e5ef444f33b64fc4aba004dce8e20accf932167ccb454197cad09aafb",
+    "sha256": "9c3127467f39bbc2463bab3c7a6d5de10818a2cdec85694a16c95414d061dcea",
     "exportacion": "guia/capturas/ranking.filtros.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "589a7f2e5ef444f33b64fc4aba004dce8e20accf932167ccb454197cad09aafb"
   },
   {
     "archivo": "assets/app/capturas/resena.editar.png",
-    "sha256": "9e46dbdd6c630e16b67f56d123a159e6e9918b77e6582bbd44c937bbf56c3630",
+    "sha256": "f3620f91803be3d49a74bed8687bc8ae3dee7122d52b7adade5c035ab14e4827",
     "exportacion": "guia/capturas/resena.editar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "9e46dbdd6c630e16b67f56d123a159e6e9918b77e6582bbd44c937bbf56c3630"
   },
   {
     "archivo": "assets/app/capturas/resena.lugar.png",
-    "sha256": "119f6f53e0a8747a43e9e88f64368191699161502af819cea53e31d9b22b0ceb",
+    "sha256": "41510b0d26222c95a8b37f9a561aac5aa203cd623653cac5134a01fddea7a2ea",
     "exportacion": "guia/capturas/resena.lugar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "119f6f53e0a8747a43e9e88f64368191699161502af819cea53e31d9b22b0ceb"
   },
   {
     "archivo": "assets/app/capturas/resena.sin-visita.png",
-    "sha256": "758e90d5a9db0bc5e8de975dfe719d53fe5090f592a89b46af2b372455b94e82",
+    "sha256": "f0eb1c70f5a56039221b3cfbeff3596fddc5fb30c0867229810d533f94815fed",
     "exportacion": "guia/capturas/resena.sin-visita.png",
     "vamoa": [],
     "sha256_original": "d771ee3223de9e67593f22f5b95da9483896376d89ef17272fd0e08eb8086696"
   },
   {
     "archivo": "assets/app/capturas/reservas.cancelada.png",
-    "sha256": "3465bd5569d0e1e1b1224bff7fe27e1e37e8b895e553f541d1dc546c2ea2dd7d",
+    "sha256": "5d78ea5cbca2358c7487ea04cf73f35dd238882bd662fbc07ef36f0cbd8b1276",
     "exportacion": "guia/capturas/reservas.cancelada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "3465bd5569d0e1e1b1224bff7fe27e1e37e8b895e553f541d1dc546c2ea2dd7d"
   },
   {
     "archivo": "assets/app/capturas/reservas.cancelar.png",
-    "sha256": "48ef8f61a4903af68728c8d20d1cc0eeddf632c94f7cc2d3acec763f7913c5ad",
+    "sha256": "97a338ab023ea5578a0e4843b59fcbb44f3780c498facfebca3d3143cff9bf5c",
     "exportacion": "guia/capturas/reservas.cancelar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "48ef8f61a4903af68728c8d20d1cc0eeddf632c94f7cc2d3acec763f7913c5ad"
   },
   {
     "archivo": "assets/app/capturas/reservas.confirmada.png",
-    "sha256": "20ece6868596b064d8ca12d3159575c237e6555a7a2ed855d878542a1d4aec49",
+    "sha256": "eeb1c9d750cb1ec257d7069c0aae5b32da15716a0e8e2c17a282515f18ded746",
     "exportacion": "guia/capturas/reservas.confirmada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "20ece6868596b064d8ca12d3159575c237e6555a7a2ed855d878542a1d4aec49"
   },
   {
     "archivo": "assets/app/capturas/reservas.desactivada.png",
-    "sha256": "70079237834e31426287006c2f6226b79838a7443dd24595faeeb62742621858",
+    "sha256": "b0869dfda42c4d8bbcadd6fd5fd4510cc1a6a4b8801f3aaaed0392da04cf7333",
     "exportacion": "guia/capturas/reservas.desactivada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "70079237834e31426287006c2f6226b79838a7443dd24595faeeb62742621858"
   },
   {
     "archivo": "assets/app/capturas/reservas.elegir.png",
-    "sha256": "71445a43ae9169f39a92b2070600cac7edb55ed5433598fb475809fba6efc3a4",
+    "sha256": "0e0c65f98c2b2b2bb1ee147fb79688a872e5dbc4efb2baefb35b3bb1396e0e48",
     "exportacion": "guia/capturas/reservas.elegir.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "71445a43ae9169f39a92b2070600cac7edb55ed5433598fb475809fba6efc3a4"
   },
   {
     "archivo": "assets/app/capturas/reservas.sin-cupo.png",
-    "sha256": "e11640c68820e65060e5afbcf372f06ddf5f92edcca2363f2c301b878cb4684b",
+    "sha256": "aea1b624c69248ca994fb72a52e5a65a5d64e04a548181b5b5b6f39e16dc8dc3",
     "exportacion": "guia/capturas/reservas.sin-cupo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "e11640c68820e65060e5afbcf372f06ddf5f92edcca2363f2c301b878cb4684b"
   },
   {
     "archivo": "assets/app/capturas/restaurante.ajustes-avisos.png",
-    "sha256": "118c56751e4c090e6fa3a926f0632b89da88009112b37e7d3e06410f23514dd5",
+    "sha256": "44f19e4e914b4190802566b0d78aa94b155054c74241d655ab70df0e6cb10540",
     "exportacion": "guia/capturas/restaurante.ajustes-avisos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "118c56751e4c090e6fa3a926f0632b89da88009112b37e7d3e06410f23514dd5"
   },
   {
     "archivo": "assets/app/capturas/restaurante.avisos.png",
-    "sha256": "35c80cdd0e36798277c3cf599655fad68f6b4c1035e0b10a717a329e17585976",
+    "sha256": "0e31da6d76ac81f5758f2b3826c37fefe2ca10cdd92c0b4b6979f649fbdcb4fa",
     "exportacion": "guia/capturas/restaurante.avisos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "35c80cdd0e36798277c3cf599655fad68f6b4c1035e0b10a717a329e17585976"
   },
   {
     "archivo": "assets/app/capturas/restaurante.cobro.png",
-    "sha256": "aa838807c9fc8fc4ab0bc9e9c6f8e31af55117f9b4b7ab796c8d29cea7d4f170",
+    "sha256": "438354d93cd29b6750c9d432a601a3420aeb9b97b5029fe1ce364d602df7dff6",
     "exportacion": "guia/capturas/restaurante.cobro.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "aa838807c9fc8fc4ab0bc9e9c6f8e31af55117f9b4b7ab796c8d29cea7d4f170"
   },
   {
     "archivo": "assets/app/capturas/restaurante.cobros-filtros-encargado.png",
-    "sha256": "5fffbef86c0f914419bcedfcdbcebceaea8ea03ad3b6649bdf0c3517db3bd8f4",
+    "sha256": "fa68b11a412b9fac0e1f344b9d1d35493f45333a984e46bb5506b244d3f8a415",
     "exportacion": "guia/capturas/restaurante.cobros-filtros-encargado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "5fffbef86c0f914419bcedfcdbcebceaea8ea03ad3b6649bdf0c3517db3bd8f4"
   },
   {
     "archivo": "assets/app/capturas/restaurante.cobros-filtros.png",
-    "sha256": "e2474ef69ef0b76936ff0f1d1bc662f1fb71a2688476677cf0f567c8e86d078a",
+    "sha256": "1a711bf30789b531b36c7d3e4bac5119b876bd2294a997124f208dd37d8e468b",
     "exportacion": "guia/capturas/restaurante.cobros-filtros.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "e2474ef69ef0b76936ff0f1d1bc662f1fb71a2688476677cf0f567c8e86d078a"
   },
   {
     "archivo": "assets/app/capturas/restaurante.credito-enviado.png",
-    "sha256": "ee1c138b656a57920365891bf9357d744536b88cca75ed1afdedac470d35d6d6",
+    "sha256": "04b26191d776ee49143760a49f8de07d86428c59651dbb020210e3e4a63b73de",
     "exportacion": "guia/capturas/restaurante.credito-enviado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ee1c138b656a57920365891bf9357d744536b88cca75ed1afdedac470d35d6d6"
   },
   {
     "archivo": "assets/app/capturas/restaurante.credito.png",
-    "sha256": "a7080a9d20df4f21721831da12533f059665e7bf050dcefcb551db3405f63648",
+    "sha256": "67c37b587a808f092b4099a575ef3d850b1702e858b8047b8f6c2b98121407dc",
     "exportacion": "guia/capturas/restaurante.credito.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "a7080a9d20df4f21721831da12533f059665e7bf050dcefcb551db3405f63648"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.cuenta-mesa.png",
+    "vamoa": [],
+    "sha256": "68c72ec0811b7b772803445f07f0a78459f9912b0fda8dd1ea0a986ea983f0a4",
+    "sha256_original": "876c1c5d3b37e3f2ca83a778e829aeb8a3aba92ccb368849e571da8a8fd659f9"
   },
   {
     "archivo": "assets/app/capturas/restaurante.cuenta.png",
-    "sha256": "17b9e7165416bc3183b7316d241c336185a9450e2ccb3402dc2ec6ac213d0e31",
+    "sha256": "89b2b022e5d38c16495522f7688025e9113532a0bab9254b45138eca222f2200",
     "exportacion": "guia/capturas/restaurante.cuenta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "17b9e7165416bc3183b7316d241c336185a9450e2ccb3402dc2ec6ac213d0e31"
   },
   {
     "archivo": "assets/app/capturas/restaurante.equipo.png",
-    "sha256": "c41e1686eb8feb1fc0514af042fad78cb0929425e6bdad3134155f6c790dbf9a",
+    "sha256": "8b72b8e6e98f590ac1257a00c8b522a95113b0d00e274d89a5aac7f8a2769e4b",
     "exportacion": "guia/capturas/restaurante.equipo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c41e1686eb8feb1fc0514af042fad78cb0929425e6bdad3134155f6c790dbf9a"
   },
   {
     "archivo": "assets/app/capturas/restaurante.exportar.png",
-    "sha256": "4efcfbaa5448c280636873ef86b3bb3ec494c563305e511abffb8497de8ab7d9",
+    "sha256": "e5ef97d7ec3a75d8e3a53f2afb0d6bfffa783e9f2cfa05dd7f8a496c496651fb",
     "exportacion": "guia/capturas/restaurante.exportar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "4efcfbaa5448c280636873ef86b3bb3ec494c563305e511abffb8497de8ab7d9"
   },
   {
     "archivo": "assets/app/capturas/restaurante.incidencia.png",
-    "sha256": "ddb345c46aced9e592f012014681ffdda8025838aee65c9123d6fc0c7f82aa8a",
+    "sha256": "70aa3ea43fb5933e059f8b15f9b5245616b3c0d2fc91cb2a68c37f0bd50e9d2a",
     "exportacion": "guia/capturas/restaurante.incidencia.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ddb345c46aced9e592f012014681ffdda8025838aee65c9123d6fc0c7f82aa8a"
   },
   {
     "archivo": "assets/app/capturas/restaurante.incidencias-lista.png",
-    "sha256": "44c3db2c75f405d11026b84ed7830a5191a6529353ab8c68eb84acb1af461ce5",
+    "sha256": "226b5fb971df7e0d2b0048f7831ff78017f05d9d4142bd2c25e3a5f90ea74cdf",
     "exportacion": "guia/capturas/restaurante.incidencias-lista.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "44c3db2c75f405d11026b84ed7830a5191a6529353ab8c68eb84acb1af461ce5"
   },
   {
     "archivo": "assets/app/capturas/restaurante.pedir-credito.png",
-    "sha256": "1ef7c3ee878a09abf36fcb0333c483a3fe6132702c319566fb450ed12168abbb",
+    "sha256": "b5f11b5ca72cbaff2c65037baa38caf3d6b44efc3aa85964e3bf59a12759570a",
     "exportacion": "guia/capturas/restaurante.pedir-credito.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1ef7c3ee878a09abf36fcb0333c483a3fe6132702c319566fb450ed12168abbb"
   },
   {
     "archivo": "assets/app/capturas/restaurante.practicar-parcial.png",
-    "sha256": "4b8fc9c27e0f512a0438b5edab7d77911ca2db52a44855c9a28cdfabc943defd",
+    "sha256": "ab653fdb9c1d7e22306bf6709d667b98617d2f7bf3cff602f28c6fe2096ccf34",
     "exportacion": "guia/capturas/restaurante.practicar-parcial.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "4b8fc9c27e0f512a0438b5edab7d77911ca2db52a44855c9a28cdfabc943defd"
   },
   {
     "archivo": "assets/app/capturas/restaurante.practicar.png",
-    "sha256": "53a7369d827fd29171aa179937b43274b8cac19d211b13cd48a5227cf4ebf623",
+    "sha256": "3cd057691199bebafbe4d051a063c12034ebfe35a2744aa7f107b7ae70be8687",
     "exportacion": "guia/capturas/restaurante.practicar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "53a7369d827fd29171aa179937b43274b8cac19d211b13cd48a5227cf4ebf623"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.recupero-detalle.png",
+    "vamoa": [],
+    "sha256": "eea1427dee71dd965051dc22a8fe207ac0bd8398013787457a9eb4a89b05f430",
+    "sha256_original": "3a9b4db4f8603af7b835a4ad1c5df72c5bcfc1f5b820925de016e95869caac2b"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.recuperos.png",
+    "vamoa": [],
+    "sha256": "6f20b87d59324d23142f5a70b1fad2f5f70ce710e90d86ca6dbc92773674589e",
+    "sha256_original": "b6a6d712253a38305bc7a2d04a6fb5b663cf02b65d9ca0ffdb5178c24b7468d5"
   },
   {
     "archivo": "assets/app/capturas/restaurante.resenas.png",
-    "sha256": "051cf30c44a5698182b7c8f1eac9da134d3cff3d7f97e3337d583ea66940911f",
+    "sha256": "19b008698ef789580ec48c621054caef291271f7cc3a307f450b082274e9151d",
     "exportacion": "guia/capturas/restaurante.resenas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "051cf30c44a5698182b7c8f1eac9da134d3cff3d7f97e3337d583ea66940911f"
   },
   {
     "archivo": "assets/app/capturas/restaurante.reserva-cancelar.png",
-    "sha256": "349bf86f894f90be753a26f570b7f1b8647489ce56d2071d0ff034f373891064",
+    "sha256": "4f60742190ac72fd1ccebb4002fd7d211d66d74f323b2ee93679a476c3d1afbf",
     "exportacion": "guia/capturas/restaurante.reserva-cancelar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "349bf86f894f90be753a26f570b7f1b8647489ce56d2071d0ff034f373891064"
   },
   {
     "archivo": "assets/app/capturas/restaurante.reservas.png",
-    "sha256": "4466dee1a444e749b3763dc549254e3a05529355614b028f1aec7d769bc199b4",
+    "sha256": "e02387ad78a62afa43535f5d3edd0d96c11365569d00c1d30fe6decd14ba2f7e",
     "exportacion": "guia/capturas/restaurante.reservas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "4466dee1a444e749b3763dc549254e3a05529355614b028f1aec7d769bc199b4"
   },
   {
     "archivo": "assets/app/capturas/restaurante.seguridad.png",
-    "sha256": "eb15ced36047f7c1072a6bca508febe2588cd0eb66288a6449640c8607506368",
+    "sha256": "1615e71810792e629d865ea7d2025b2c983b487c5c0d9c119c21b73ed67297c6",
     "exportacion": "guia/capturas/restaurante.seguridad.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "eb15ced36047f7c1072a6bca508febe2588cd0eb66288a6449640c8607506368"
   },
   {
     "archivo": "assets/app/capturas/restaurante.verificar.png",
-    "sha256": "a33f11d2ff600adbe8bf74e730604dfb0f324f6eafe5e7962c80670571dbe13b",
+    "sha256": "b9a3c9e643e3e764ef55ab8467de08b9d1745b8c92230fd4c162ef4d92ad6fbf",
     "exportacion": "guia/capturas/restaurante.verificar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "a33f11d2ff600adbe8bf74e730604dfb0f324f6eafe5e7962c80670571dbe13b"
   },
   {
     "archivo": "assets/app/capturas/seguridad.admin-web.png",
-    "sha256": "6f9403f837e3f0036efaa5d1e8a8b6e799c1b9d4a5833007f70d31f50b304b56",
+    "sha256": "e13162032db58fbee3769492f82c3981425c2fa155874f6afc24a55c1701a2c6",
     "exportacion": "guia/capturas/seguridad.admin-web.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "6f9403f837e3f0036efaa5d1e8a8b6e799c1b9d4a5833007f70d31f50b304b56"
   },
   {
     "archivo": "assets/app/capturas/seguridad.desbloqueo-error.png",
-    "sha256": "be50c746851cff6ea65d956142dd78cdbdccfaf5e2bf02e18ea32710980c3d24",
+    "sha256": "b9a788333db72a2cb3de6453d041a9b7c0583960539e2b3bd5e458979901a73e",
     "exportacion": "guia/capturas/seguridad.desbloqueo-error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "be50c746851cff6ea65d956142dd78cdbdccfaf5e2bf02e18ea32710980c3d24"
   },
   {
     "archivo": "assets/app/capturas/seguridad.desbloqueo.png",
-    "sha256": "658eaf4976e2b259389009e25c410f147b0130b6ea731cc8d0ee54292b83cd50",
+    "sha256": "92c56be5fbbea5f611e43df1f934f39cbcc3c5e37c79272fe9bbfaa000990543",
     "exportacion": "guia/capturas/seguridad.desbloqueo.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "658eaf4976e2b259389009e25c410f147b0130b6ea731cc8d0ee54292b83cd50"
   },
   {
     "archivo": "assets/app/capturas/seguridad.mfa-alta.png",
-    "sha256": "8a7dd7e48253823e66d9907ec39c4fe85dea6f45fbf32a4c1b2ef2d7c19a8cfd",
+    "sha256": "34bc1b3f4d3567c4f1d8b2f7f05f16d76aefc5bc3a98965e4481ffbd4ea8bc3f",
     "exportacion": "guia/capturas/seguridad.mfa-alta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "8a7dd7e48253823e66d9907ec39c4fe85dea6f45fbf32a4c1b2ef2d7c19a8cfd"
   },
   {
     "archivo": "assets/app/capturas/seguridad.mfa-error.png",
-    "sha256": "bb533d081f2f673d5c75e89d9507abc57131b77f4db7734d9cf9e3d87c831447",
+    "sha256": "3a1fb080a7406cf46817cf8bb9c49b0fad404566bd5bda4ed4f15d7d4ae07be1",
     "exportacion": "guia/capturas/seguridad.mfa-error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "bb533d081f2f673d5c75e89d9507abc57131b77f4db7734d9cf9e3d87c831447"
   },
   {
     "archivo": "assets/app/capturas/seguridad.mfa-recuperacion.png",
-    "sha256": "10738c28f35e5c8566c08564bef9ed31d62139e45b2ecf9d101f7f50fa93a491",
+    "sha256": "26ed9193977a7dc18cb01e7c3280159fa44b9bf99ec3b61ca6bb5fa7c5e0c3a4",
     "exportacion": "guia/capturas/seguridad.mfa-recuperacion.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "10738c28f35e5c8566c08564bef9ed31d62139e45b2ecf9d101f7f50fa93a491"
   },
   {
     "archivo": "assets/app/capturas/seguridad.recuperadores.png",
-    "sha256": "e51335af75f63e59e531b741ce45206649e357c4755583603c1662151b0ecbc1",
+    "sha256": "05f6db8f78128d5a5912f04219b067c0d74db0ecb6b615a9dcc8134df343ee07",
     "exportacion": "guia/capturas/seguridad.recuperadores.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "e51335af75f63e59e531b741ce45206649e357c4755583603c1662151b0ecbc1"
   },
   {
     "archivo": "assets/app/capturas/seguridad.reverificar.png",
-    "sha256": "f955125b877fbcb2bfd80647c88b0bb45cd4f4bbf96b9f66ca2732be3297bb00",
+    "sha256": "46228b244fbef70e2f13b97eac4bc510b9c9c82eeed5660ba783de790d00231b",
     "exportacion": "guia/capturas/seguridad.reverificar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f955125b877fbcb2bfd80647c88b0bb45cd4f4bbf96b9f66ca2732be3297bb00"
   },
   {
     "archivo": "assets/app/capturas/seguridad.selector.png",
-    "sha256": "b64890bd493eb3f5a4752c401be60f7d5049450715508c713af48773cdf481b9",
+    "sha256": "0fad1bca070986a7959c09582987dddcb5dc459b6dcb22423aca52b2e09103a9",
     "exportacion": "guia/capturas/seguridad.selector.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b64890bd493eb3f5a4752c401be60f7d5049450715508c713af48773cdf481b9"
   },
   {
     "archivo": "assets/app/capturas/seguridad.sesion-perdida.png",
-    "sha256": "7345849e394c48dbcdcfc0ac0e22d526acb2d632e708f1c7935f528e2fd3aa08",
+    "sha256": "a78a3f670af6ecfe43b35a00e81690bf03e4f058fc6e68e59991076558fb4139",
     "exportacion": "guia/capturas/seguridad.sesion-perdida.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7345849e394c48dbcdcfc0ac0e22d526acb2d632e708f1c7935f528e2fd3aa08"
   },
   {
     "archivo": "assets/app/capturas/seguridad.sin-restaurante.png",
-    "sha256": "630be9212b8ce36ab89cfa90c50eda65691d8937dd047d01f4fd6285c59c5547",
+    "sha256": "6b6c0054855266b1f6be87d239c3687b851e44990ab3482e69ccffbc289fb065",
     "exportacion": "guia/capturas/seguridad.sin-restaurante.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "630be9212b8ce36ab89cfa90c50eda65691d8937dd047d01f4fd6285c59c5547"
   },
   {
     "archivo": "assets/app/capturas/seguridad.stepup-recuperador.png",
-    "sha256": "c0992764a4538a3ceaf8ab471c587ea79f43a2dc11692248274e7b576dbb3bfc",
+    "sha256": "6a684a9859877965563a2e0c87e599419a6812183a3ae17c88eac87fb52ba4d5",
     "exportacion": "guia/capturas/seguridad.stepup-recuperador.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "c0992764a4538a3ceaf8ab471c587ea79f43a2dc11692248274e7b576dbb3bfc"
   },
   {
     "archivo": "assets/app/capturas/soporte.enviado.png",
-    "sha256": "683ffcdf83cd280e0037a974bf840f61d3a31015d898cd74b9e5fd8e0dd588c1",
+    "sha256": "a512317a653ede593c20237a2f2096678c5a9539134d374e267225471d6f1308",
     "exportacion": "guia/capturas/soporte.enviado.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "683ffcdf83cd280e0037a974bf840f61d3a31015d898cd74b9e5fd8e0dd588c1"
   },
   {
     "archivo": "assets/app/capturas/soporte.error.png",
-    "sha256": "280564c86ad5a7329bd82bd5215078853f1e281dabfd8245ef91bda39dc346c3",
+    "sha256": "b59bc901098696572b462b2f74bb98978b9f4db4e06b2e02a0a681710e75b07c",
     "exportacion": "guia/capturas/soporte.error.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "280564c86ad5a7329bd82bd5215078853f1e281dabfd8245ef91bda39dc346c3"
   },
   {
     "archivo": "assets/app/capturas/soporte.principal.png",
-    "sha256": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971",
+    "sha256": "fdfe32ed4c82b496487e71a2d7298d63d4e6039768f31e9ad613b459293ddc11",
     "exportacion": "guia/capturas/soporte.principal.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "35ac43d09fc8d9dfdbd05d3d67b431235b3c011b2aeede5007d2ae9265e9b971"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.cancelada.png",
-    "sha256": "2f578ac81f84b595a1d9955dbbac3c61d85561e85e930a019b95fcdf315926b4",
+    "sha256": "a850d3423494dab44e2f72e9320f525e46747334cd3d1228ef461e5a8882842a",
     "exportacion": "guia/capturas/tarjetas.cancelada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2f578ac81f84b595a1d9955dbbac3c61d85561e85e930a019b95fcdf315926b4"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.eliminar.png",
-    "sha256": "69cb0b2c1fa7fca25996f0a658140c1f33f56e0300f5300737f9e03f9f465149",
+    "sha256": "73aa7444b0d5caa509390e6f020d2f7e240b771df825dde737d2f022ab6d5ce5",
     "exportacion": "guia/capturas/tarjetas.eliminar.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "69cb0b2c1fa7fca25996f0a658140c1f33f56e0300f5300737f9e03f9f465149"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.guardando.png",
-    "sha256": "204f8fdec9886f65d51a233751fc056c8350ae69f2b95e5fae0460d2acb2f4df",
+    "sha256": "09b1601bb89df66641d36a3581c9c91ea5ed3d7263793eb88f422301ff483a52",
     "exportacion": "guia/capturas/tarjetas.guardando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "204f8fdec9886f65d51a233751fc056c8350ae69f2b95e5fae0460d2acb2f4df"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.incierta.png",
-    "sha256": "7f6ef98f9fdedcc6686eb1aacddc0438c7e7c4c1bf4e9f0f0ae36108ea32c42a",
+    "sha256": "303a0193b45e71dc1237bfa09b2b2719487a5230c42602d39787f73b07c9ac62",
     "exportacion": "guia/capturas/tarjetas.incierta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7f6ef98f9fdedcc6686eb1aacddc0438c7e7c4c1bf4e9f0f0ae36108ea32c42a"
+  },
+  {
+    "archivo": "assets/app/capturas/tarjetas.opciones.png",
+    "vamoa": [],
+    "sha256": "1636b5a7ca529762c0a4c212f8ee09b5954d0bb916363765d605a916136f6ec1",
+    "sha256_original": "45d880a499ebc4e28a0f2bdd545215b1c709475b113beff3c4bf2cea3c2935c1"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.predeterminada.png",
-    "sha256": "16c716cc6ddbeb1a1f452721186a7c3a3252694e382223baf073c9b846029e43",
+    "sha256": "42e27072733b37abeac9e6681d22978ac67d5f22a7ed5ddc02cd7d684a76262d",
     "exportacion": "guia/capturas/tarjetas.predeterminada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "16c716cc6ddbeb1a1f452721186a7c3a3252694e382223baf073c9b846029e43"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.preparando.png",
-    "sha256": "b9884d060c6c2c08300f7fc8e5cd4a519649ccc37bf26bc88bf941cc3572fed6",
+    "sha256": "da1c2d07399ff2c65545f664565cab682ec455ac45d2ae4dc48155f254f477f7",
     "exportacion": "guia/capturas/tarjetas.preparando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "b9884d060c6c2c08300f7fc8e5cd4a519649ccc37bf26bc88bf941cc3572fed6"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.procesador.png",
-    "sha256": "7f846540f18fcccbb090f08c601cb441facbba7c64fcfe009656e28f78f6bed9",
+    "sha256": "c331333158e0f73014cdb319d223ebac4eaf34d01dfcf8676acb400c494e5ee2",
     "exportacion": "guia/capturas/tarjetas.procesador.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "7f846540f18fcccbb090f08c601cb441facbba7c64fcfe009656e28f78f6bed9"
   },
   {
     "archivo": "assets/app/capturas/tarjetas.sin-tarjetas.png",
-    "sha256": "1f3e8505ef4ac8d8c6c27dd87626b2fbc35ab7f24df2473759ba3d1316cdd663",
+    "sha256": "e0a396ff770dac1aa5c12ecbcc1be6105cc5434a4903bb2cd2c7c43ca9695fd2",
     "exportacion": "guia/capturas/tarjetas.sin-tarjetas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "1f3e8505ef4ac8d8c6c27dd87626b2fbc35ab7f24df2473759ba3d1316cdd663"
   },
   {
     "archivo": "assets/app/capturas/vacio.amigos.png",
-    "sha256": "392983bdf9cb80e7e047b308e5476ae47d2623b5dcbb252b88f320c66027438f",
+    "sha256": "b6c51a7b663844062f9f3ac0d49e9dabe58f14939e6b17bd7cbe299c1d497a9b",
     "exportacion": "guia/capturas/vacio.amigos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "392983bdf9cb80e7e047b308e5476ae47d2623b5dcbb252b88f320c66027438f"
   },
   {
     "archivo": "assets/app/capturas/vacio.fotos.png",
-    "sha256": "9a37aed9ac777384e6897f3a78de54bdb612dda899ae87014cd1429d326085af",
+    "sha256": "698a31b69675713060b5cf3801a0ae29a86c2555cdd8394cab5f0ac632bd9937",
     "exportacion": "guia/capturas/vacio.fotos.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "9a37aed9ac777384e6897f3a78de54bdb612dda899ae87014cd1429d326085af"
   },
   {
     "archivo": "assets/app/capturas/vacio.notas.png",
-    "sha256": "ab505004c01d0cdd90f33d73cc76085da1b9eed52c7ed42d53effbb058f922e0",
+    "sha256": "c4886b68e9e1ed053041cd39abc2d78cc92ca128b79b4778e7a648089476b750",
     "exportacion": "guia/capturas/vacio.notas.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ab505004c01d0cdd90f33d73cc76085da1b9eed52c7ed42d53effbb058f922e0"
   },
   {
     "archivo": "assets/app/capturas/vacio.novedades.png",
-    "sha256": "554b93b45cdbbfda65d8a2237cb56a82f49b86496f22a6da67e4bd28fc9a61d7",
+    "sha256": "06dd15aa81081cc3859ef82d13f2cccf0f52825044a69d95ce6f5c85d1eeae17",
     "exportacion": "guia/capturas/vacio.novedades.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "554b93b45cdbbfda65d8a2237cb56a82f49b86496f22a6da67e4bd28fc9a61d7"
   },
   {
     "archivo": "assets/app/capturas/vacio.opiniones.png",
-    "sha256": "79703f8858509b15e33dcca031d6a22235c3df50b485435c001549daecab03d4",
+    "sha256": "10d439a336ccd76a7f053bbd3664f777ac3101c232492291455f12b34b574f9f",
     "exportacion": "guia/capturas/vacio.opiniones.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "79703f8858509b15e33dcca031d6a22235c3df50b485435c001549daecab03d4"
   },
   {
     "archivo": "assets/app/capturas/verificacion.cargando.png",
-    "sha256": "2c03be95af12d16c1fd9f360691c8cfe426d24c51726fe875ef03a9b3b2597d6",
+    "sha256": "12a439ff1bdd3d2df16e8b85579f2abe61cedd292e9430b1e048ad8c6a5cb4e0",
     "exportacion": "guia/capturas/verificacion.cargando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "2c03be95af12d16c1fd9f360691c8cfe426d24c51726fe875ef03a9b3b2597d6"
   },
   {
     "archivo": "assets/app/capturas/verificacion.completa.png",
-    "sha256": "f02ac1c4ecbaaf3ba02dda758b8d84a46075c2aa28d50aa94b8bc7f2f6697856",
+    "sha256": "e9792b4ab66328cfedf33bcc484da17c095cd696bc20b4e6e95178dcbb1f5bf6",
     "exportacion": "guia/capturas/verificacion.completa.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "f02ac1c4ecbaaf3ba02dda758b8d84a46075c2aa28d50aa94b8bc7f2f6697856"
   },
   {
     "archivo": "assets/app/capturas/verificacion.cuenta-cambio.png",
-    "sha256": "0381524292123513aabfc68ac69ad7d5f857ded7bb0683303665de54903c32f1",
+    "sha256": "6b4db2b52ff43517b5b3880e2868d05ad914f3b5024ab3bc31a06f17363cfeac",
     "exportacion": "guia/capturas/verificacion.cuenta-cambio.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "0381524292123513aabfc68ac69ad7d5f857ded7bb0683303665de54903c32f1"
   },
   {
     "archivo": "assets/app/capturas/verificacion.devuelta.png",
-    "sha256": "4f17a5b380deba6c0bd980b3e5cf0a4d247addd1592d94a9a15c25ebb2724840",
+    "sha256": "17a09f331669c95f0e67c5f6d921d133f9a4be56c66cdd9b3b2bc709a243f86c",
     "exportacion": "guia/capturas/verificacion.devuelta.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "4f17a5b380deba6c0bd980b3e5cf0a4d247addd1592d94a9a15c25ebb2724840"
   },
   {
     "archivo": "assets/app/capturas/verificacion.enlace-invalido.png",
-    "sha256": "ca967190fb11705847603eac78b6bb5ad7d6731cc1fa39b2c5d0c970c2df81ca",
+    "sha256": "d9a86e902b9295ec062e3ea9f40c1135dc6d2ad74e1ac6bb80be5ba908d71e15",
     "exportacion": "guia/capturas/verificacion.enlace-invalido.png",
-    "vamoa": []
-  },
-  {
-    "archivo": "assets/app/capturas/verificacion.pagada.png",
-    "sha256": "9b188a43fd7a14f80c2645aafafca1ef872f4f158bb65b4e18523d3e0291b70c",
-    "exportacion": "guia/capturas/verificacion.pagada.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "ca967190fb11705847603eac78b6bb5ad7d6731cc1fa39b2c5d0c970c2df81ca"
   },
   {
     "archivo": "assets/app/capturas/verificacion.parcial.png",
-    "sha256": "fc2806c1292b45d433bfd04a8a0b03113385f0ff8f346618f0483da144a9a723",
+    "sha256": "4a6ff9a2e0edb9d6f69f70156e8117bc008817345c0706b6dd651268f2d3ecd1",
     "exportacion": "guia/capturas/verificacion.parcial.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "fc2806c1292b45d433bfd04a8a0b03113385f0ff8f346618f0483da144a9a723"
   },
   {
     "archivo": "assets/app/capturas/verificacion.procesando.png",
-    "sha256": "437ab06d9bc4f700447f125c09d68a0c9e59cf10d34a4790c225cda2b4d77c0d",
+    "sha256": "25104f049e346749b8773affbe07a6cdf3f9e206746db4197cfd8eb9aca96f82",
     "exportacion": "guia/capturas/verificacion.procesando.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "437ab06d9bc4f700447f125c09d68a0c9e59cf10d34a4790c225cda2b4d77c0d"
   },
   {
     "archivo": "assets/app/capturas/verificacion.sin-conexion.png",
-    "sha256": "876f366c0c2f1ed0c9fe7dd73eb2c3caa596ab7bcaa9fabdcc7330b0eeb07c7c",
+    "sha256": "c7ccbb88c33f8941168f32589ccae562a0688804b055f7e75cad5ec0ce842bfb",
     "exportacion": "guia/capturas/verificacion.sin-conexion.png",
-    "vamoa": []
+    "vamoa": [],
+    "sha256_original": "876f366c0c2f1ed0c9fe7dd73eb2c3caa596ab7bcaa9fabdcc7330b0eeb07c7c"
   },
   {
     "archivo": "assets/app/fotos/decalle-bar.jpg",
@@ -1506,6 +1981,12 @@
       "apps/mobile/assets/redesign/welcome-3.jpg",
       "docs/decalle/galeria/bar.jpg"
     ]
+  },
+  {
+    "archivo": "assets/app/fotos/decalle-mesa-desde-arriba.jpg",
+    "vamoa": [],
+    "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
+    "origen": "docs/decalle/portada.jpg del repositorio Vamoa (portada oficial de De Calle, copiada sin cambios)"
   },
   {
     "archivo": "assets/app/fotos/decalle-okonomiyaki.jpg",
@@ -1863,6 +2344,41 @@
     ]
   },
   {
+    "archivo": "assets/app/lienzo/decalle-logo.png",
+    "vamoa": [],
+    "sha256": "057ec87eae3e23276cc591e1c4e32752e599d5018cfa18d311811b43b87b2d44"
+  },
+  {
+    "archivo": "assets/app/lienzo/fintoc-dark.svg",
+    "vamoa": [],
+    "sha256": "6ea8404967eb07d19a95cbc2a193a426f405c441090322c9dd4dc9433bc366ba"
+  },
+  {
+    "archivo": "assets/app/lienzo/fintoc-light.svg",
+    "vamoa": [],
+    "sha256": "833c863fec662b136e3937e1fccef4e515290bfa823e000e147bd1f776fc4bd6"
+  },
+  {
+    "archivo": "assets/app/lienzo/fintoc-real-banco.png",
+    "vamoa": [],
+    "sha256": "5bfe602e0f5ed492798879f830c911e859606738b0c232c4660f6ee5324896aa"
+  },
+  {
+    "archivo": "assets/app/lienzo/fintoc-real-medios.png",
+    "vamoa": [],
+    "sha256": "742bc7447b535b9ca48e1c727bd446ad62c2035093cbbc28d9ff92b7344d54e8"
+  },
+  {
+    "archivo": "assets/app/lienzo/fintoc-real-tarjeta.png",
+    "vamoa": [],
+    "sha256": "e4ef1b7b69d556e1f3bef1de88abfd12828cfedcc1349efaac891479b66877d7"
+  },
+  {
+    "archivo": "assets/app/lienzo/welcome-1.jpg",
+    "vamoa": [],
+    "sha256": "74a296b18d1149a9c336d6f6f7c562cddd15e07e9eb124902a6823134b4dfafd"
+  },
+  {
     "archivo": "assets/app/originales-vamoa/adaptive-icon.png",
     "sha256": "dd848a4392d1b0978ce6369de1f7dca662758e5bf688daee9985daca7b97e167",
     "vamoa": [
@@ -1903,6 +2419,42 @@
     "vamoa": [
       "apps/mobile/assets/splash-icon.png"
     ]
+  },
+  {
+    "archivo": "assets/app/pagos/057ec87eae3e2327.png",
+    "vamoa": [],
+    "sha256": "057ec87eae3e23276cc591e1c4e32752e599d5018cfa18d311811b43b87b2d44"
+  },
+  {
+    "archivo": "assets/app/pagos/6ea8404967eb07d1.svg",
+    "vamoa": [],
+    "sha256": "6ea8404967eb07d19a95cbc2a193a426f405c441090322c9dd4dc9433bc366ba"
+  },
+  {
+    "archivo": "assets/app/pagos/833c863fec662b13.svg",
+    "vamoa": [],
+    "sha256": "833c863fec662b136e3937e1fccef4e515290bfa823e000e147bd1f776fc4bd6"
+  },
+  {
+    "archivo": "assets/app/pagos/fintoc-dark.svg",
+    "vamoa": [],
+    "sha256": "6ea8404967eb07d19a95cbc2a193a426f405c441090322c9dd4dc9433bc366ba",
+    "origen": "VamoaLienzos/invitaciones-y-arreglos/assets/pagos/fintoc-dark.svg (logo oficial de Fintoc para fondo oscuro, sin modificar)"
+  },
+  {
+    "archivo": "assets/app/pagos/fintoc-real/fintoc-real-banco.png",
+    "vamoa": [],
+    "sha256": "5bfe602e0f5ed492798879f830c911e859606738b0c232c4660f6ee5324896aa"
+  },
+  {
+    "archivo": "assets/app/pagos/fintoc-real/fintoc-real-medios.png",
+    "vamoa": [],
+    "sha256": "742bc7447b535b9ca48e1c727bd446ad62c2035093cbbc28d9ff92b7344d54e8"
+  },
+  {
+    "archivo": "assets/app/pagos/fintoc-real/fintoc-real-tarjeta.png",
+    "vamoa": [],
+    "sha256": "e4ef1b7b69d556e1f3bef1de88abfd12828cfedcc1349efaac891479b66877d7"
   },
   {
     "archivo": "assets/app/portales/imagen-c6976f7f9fb1.jpg",
@@ -2089,6 +2641,26 @@
     ]
   },
   {
+    "archivo": "assets/correos/85f55a58a31e61a2e19e8bb2.woff2",
+    "vamoa": [],
+    "sha256": "85f55a58a31e61a2e19e8bb25fed503181bf2a6b4cab76c589992cfaac377447"
+  },
+  {
+    "archivo": "assets/correos/e3b56e90510a84ac0ed465b8.woff2",
+    "vamoa": [],
+    "sha256": "e3b56e90510a84ac0ed465b822e112983eaf58e37436bf769681c31f77b1f3a7"
+  },
+  {
+    "archivo": "assets/correos/logo-email-dark.png",
+    "vamoa": [],
+    "sha256": "063dec486abc9f3f02102be9a7d16d70476de964d7491031d7618b2101eed0d1"
+  },
+  {
+    "archivo": "assets/correos/logo-email-light.png",
+    "vamoa": [],
+    "sha256": "56846dd90664e24483d687f71e18aeb8a3dd3d6b8634d6cac82373ab20182c61"
+  },
+  {
     "archivo": "assets/fuentes/font-106b265d-ed36-4175-a9a5-2fcee32f7812.woff2",
     "vamoa": [],
     "sha256": "85f55a58a31e61a2e19e8bb25fed503181bf2a6b4cab76c589992cfaac377447",
@@ -2206,6 +2778,31 @@
       "guia/assets/fuente-f9da9e1091a8.woff2",
       "index.html:7fa9d7b6-9a49-596f-8e8c-4e74b9333ed6"
     ]
+  },
+  {
+    "archivo": "assets/fuentes/geist-mono-400.ttf",
+    "vamoa": [],
+    "sha256": "6494f60161994c6032c0f97c9b368606f1ac3ad8155339929102d1cdcd4609c7"
+  },
+  {
+    "archivo": "assets/fuentes/geist-mono-500.ttf",
+    "vamoa": [],
+    "sha256": "c2a21d5dd99ae6fc360f9218d7254da15a0ceaea08de0b474cf1d80ce4e2aaff"
+  },
+  {
+    "archivo": "assets/fuentes/geist-mono-600.ttf",
+    "vamoa": [],
+    "sha256": "60f786362b2456c49e99ce46c47bb06b29aa2276d129071a2e98c04253bd188f"
+  },
+  {
+    "archivo": "assets/landing/fintoc-logo-claro.svg",
+    "vamoa": [],
+    "sha256": "88061c6753c0d167873f574bd0c05a88287eb5a722e3843db57035032b36698b"
+  },
+  {
+    "archivo": "assets/landing/fintoc-logo-oscuro.svg",
+    "vamoa": [],
+    "sha256": "a331879ad83cd9d37f2879a05cd5c4159a2a3a43b89b3a8c58f53de482367385"
   },
   {
     "archivo": "assets/landing/imagen-07b2fa37a61a.jpg",
@@ -2416,6 +3013,35 @@
     ]
   },
   {
+    "archivo": "assets/landing/pasos/2.1.webp",
+    "vamoa": [],
+    "sha256": "905d89f416326a9e6a7fb7d833921eaa3e118c02b5408f912f56861fba6b9f53"
+  },
+  {
+    "archivo": "assets/landing/pasos/3.2.webp",
+    "vamoa": [],
+    "sha256": "0ac6cf5a789ee31423297109adb7b8f4f31c46889ae2e8559466fb0eef5d9ff2",
+    "sha256_original": "89da875e26566a753874e3d219ab658de653876d1b9c832c45d94e5c1a47daa7"
+  },
+  {
+    "archivo": "assets/landing/pasos/3.4.webp",
+    "vamoa": [],
+    "sha256": "0e45d645f1d712b4339996a6e66176f19fa1e7dc6a1593545379c2607fbbe721",
+    "sha256_original": "be81b92bb7353c5f42c1d24050b12a1f939effe396cf37712e06a0f611ac24a0"
+  },
+  {
+    "archivo": "assets/landing/pasos/3.5.webp",
+    "vamoa": [],
+    "sha256": "7faaf643ec4267edbe36341a894a3a010322a2900281e84ef4155281729c948a",
+    "sha256_original": "39cd3ae467bc18592f6d7da5ed9fe92a2e29b0fc92b5a012e2b915c71e57ae80"
+  },
+  {
+    "archivo": "assets/landing/pasos/3.7.webp",
+    "vamoa": [],
+    "sha256": "8d9b561d3e2c84b172048dba151b3f00ca6e018a81eeb9ce3776189e33487acd",
+    "sha256_original": "3af501e0bc3706e002293469619a54d34f175cc713f9cf99ccc191b5371845a3"
+  },
+  {
     "archivo": "assets/marca/isotipo-512.png",
     "sha256": "975f5f064bf0c405c9440e155c6a88cfa1d5f42a1161444498c1c9eb91ca3b07",
     "exportacion": "guia/assets/isotipo-512.png",
@@ -2425,7 +3051,7 @@
   },
   {
     "archivo": "assets/marca/isotipo-mono.svg",
-    "sha256": "e423a84e2593e0fdf412f3d7721e8f62810e417cedaf135908c51c4e9e1837cd",
+    "sha256": "5c972ccffadcbc643993dc7a37d1f41bdc6776838e3ddcd1160c666131931b13",
     "exportacion": "guia/assets/isotipo-mono.svg",
     "vamoa": [
       "apps/web/public/brand/isotipo-mono.svg"
@@ -2433,7 +3059,7 @@
   },
   {
     "archivo": "assets/marca/isotipo.svg",
-    "sha256": "5b500d6ddf94eae4d4ec4665212cc3e700904c3f4f29bb1b2b5b1bd66fbaa7e5",
+    "sha256": "6b7a012a978e8cf485ad5d40ea0fe7b4734cf3ad6f8bd26a99ac0e5976a15305",
     "exportacion": "guia/assets/isotipo.svg",
     "vamoa": [
       "apps/web/public/brand/isotipo-light.svg",
@@ -2450,7 +3076,7 @@
   },
   {
     "archivo": "assets/marca/logo-light.svg",
-    "sha256": "799e7fcfd9538212fec3bab9b8642531dfbb00ad81b559c3e9d93905aeff56b8",
+    "sha256": "850bb48a8ac253b86e0b75f95d8d419ffbd821f25b84867c1c5a11c2ec54a685",
     "exportacion": "guia/assets/logo-light.svg",
     "vamoa": [
       "apps/web/public/design/portal-brand.svg",
@@ -2497,7 +3123,7 @@
   },
   {
     "archivo": "assets/marca/logo.svg",
-    "sha256": "b94ba437911305456ad824f52dbfb93100e416d425939be5c8bbd34600bf5d02",
+    "sha256": "c84ae4591ed5c316c3a9c1d9745cdaba5e98c2f49525416c4dae0b2fc28b170b",
     "exportacion": "guia/assets/logo.svg",
     "vamoa": [
       "apps/web/public/brand/logo.svg"
@@ -2535,5 +3161,705 @@
       "parati.html:982b5cd0-3fe3-4a84-93d4-c38724307c26",
       "restaurantes.html:a5492290-766a-418c-9b49-3809cb703dcb"
     ]
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-avisos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "1580bf81fbe0d2b95330cac406bd3088a881ce703eebd94f6bfcbdce3134f47b"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-avisos-movil.webp",
+    "vamoa": [],
+    "sha256": "60e03869052a13ba040967bf8f37853dc388bbff6fe504c5fc318ebc95983d63"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d5940183200c2b6805424d65512f75ed2ab3e4e6bc39cf760e95678a3c8578b8"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-movil.webp",
+    "vamoa": [],
+    "sha256": "32b3555a6cf5441407870dc005e00e3c545f0f23c6033ce24def9b6397077210"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "891ad1571b899b56702174050498ca24ba80ba6cea4a83efb0cd52f39dfc81b4",
+    "sha256_original": "311ca4dbee5418fd888b68e530a0f3f365c2e9d8f81749c8cef9049e20598ddc"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-id-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e829b294021d4390211b5d85b785a32e8a1d1e8653a984586721e9730b9b44e0",
+    "sha256_original": "17b13524262ae52e69b7eab1ebbf2b0db16795e196f5bcac9fdcf7034650c5e3"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-id-movil.webp",
+    "vamoa": [],
+    "sha256": "fec334e384bf03f62d86a677cabfcb1087f8c79f082675b69f2fc58e2a1aabab",
+    "sha256_original": "8d6b1cfb6809fdd63ab25d53ff9e05e3a834e8bb03206874b3af0e42a9bd5335"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-consultas-movil.webp",
+    "vamoa": [],
+    "sha256": "1b973c8c92f37d5e6862d21995abc02e6d194d748d732cd930d40d1d57da0129",
+    "sha256_original": "2fea6eef31e9eabf38e9691938469eabfc1d4503b7ac243810423c724536482f"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-escritorio.webp",
+    "vamoa": [],
+    "sha256": "da2b6019bdd3c042091b3e2ce5e738fe92de771a62ddd830050c706e13a2a1ed",
+    "sha256_original": "a7f6d8f7568f61b483ef114dc4bdeb221a43855e6ac8ef4645211e4d851e1a2c"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-escritorio.webp",
+    "vamoa": [],
+    "sha256": "8b42a9c1a2820def92971bb1c0d46565c78815450c1978fdde84b4df5c83e480"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-movil.webp",
+    "vamoa": [],
+    "sha256": "689bf073dd772fa1d5ae25c4525ed4017e16e7a171c0bfb01d2bb5d9e0037e2a"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "0d626cdb7a4589acae1eccb49ea533d41e47944deb51d4f36c2efcfc3d4cd02e",
+    "sha256_original": "8cb92d0dd1527e0e5244c560154e2bb8917f3e0be3e56dc3fb1d24fe9298308d"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-movil.webp",
+    "vamoa": [],
+    "sha256": "38c65aaa9ae9d33537dcb460e4f09ed5b00a1646f97a4e499981297a9e875947",
+    "sha256_original": "94de422b13fd8a8af50f0ac859cd67c1ff1fd918f8ebeddad613ae50bb809f73"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "62173327045cba7bd17139d80a1d6a66ee19435a908a58ef9bbcbfa43d9e8110"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-movil.webp",
+    "vamoa": [],
+    "sha256": "71f0a786c96d4cbe7cd7fd6b9157141b8a11be9b87e9bcf5254a764b83d9aef2"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-escritorio.webp",
+    "vamoa": [],
+    "sha256": "6c03302cb253a5469ffcc82fc82a7f637a076078130d76802b237b0272d04942"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-movil.webp",
+    "vamoa": [],
+    "sha256": "701841417d9133dfa6ec35d1dffc7b1810d4388935dbfa6d6496ab29b5e3c109"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "6572f966079bde57f129d24aa51ee9c27bccb150405ab460fea180f3ebd9bb6c"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-movil.webp",
+    "vamoa": [],
+    "sha256": "bc3fa96fcb6316425bf6fb4ef5e96ae2a820de169b08f91264773ba84349b842"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-fotos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "5b82be440f21ff6fb4c6fdc4beb77b4e12132035b0751d1afc7daf5e27fd0aff"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-fotos-movil.webp",
+    "vamoa": [],
+    "sha256": "7c571bd0ac820ad93afaa44fc067207f2ced6707cf5bd4464f766552c5b81aa7"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-incidencias-escritorio.webp",
+    "vamoa": [],
+    "sha256": "33a0041d2a448432aa46bc644ed5b150b07ea221f405677d1557bc9ce5e57fbc"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-incidencias-movil.webp",
+    "vamoa": [],
+    "sha256": "66ddf5e00075d0c8b341fa5bf57491dc688f1421f5d3f48b017c58664671b507"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-interesados-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e77c161d694e2c3377047c636949fde9e195adb1282b4b0424ea6c80e5839a65",
+    "sha256_original": "ae994a841d442f36f5bbaa394bbc64a43590f9aa5dfb762f56869ae2f74679f8"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-interesados-movil.webp",
+    "vamoa": [],
+    "sha256": "16ded5b3e58bc1fa7b67fc0b6e19174ccedaa80124dc0429c86e22fdea64b961",
+    "sha256_original": "171418dd63b648737d43567c189feae03d52650fe1fcc1955569f617696681c3"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-ledger-escritorio.webp",
+    "vamoa": [],
+    "sha256": "0792adfcb537ac7918575145f67ccc8c1e10fdfee771b2aeaafdc466d3a2bb4a"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-ledger-movil.webp",
+    "vamoa": [],
+    "sha256": "4251aa3658fa186ff0d3b968e60a616650debe17ad60d89d6aa7a194ca5d80f0"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-liquidaciones-escritorio.webp",
+    "vamoa": [],
+    "sha256": "5dd0fcfc8b57996edaf370bdefeea17ca5c967ac3147975e0830eee599a310df",
+    "sha256_original": "235a98536833fbae377df8620de28ac12190f2afba2e9ef9755bd508ba281aa1"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-liquidaciones-movil.webp",
+    "vamoa": [],
+    "sha256": "a0dfc459126f277acc7c7f4cd87a7728e1ef6655552bf1cfe71527d4772b393f",
+    "sha256_original": "486e4934eb91961a561dbc85429e7694569c20fa458796af4272242d9c809366"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-escritorio.webp",
+    "vamoa": [],
+    "sha256": "fd8a83d54727e100321b3adc06d19210f647503f9c85fd4d1d5db06fed6ff411",
+    "sha256_original": "cf506691062f89f0ffbdb7bf6c2eca85c1696a3ede48ac79fea7a560813d1db2"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-clientes-escritorio.webp",
+    "vamoa": [],
+    "sha256": "428ada2de7327478d2e50c5bfd17fe808f97e1b0862a759734d8a0b418027324",
+    "sha256_original": "579a48444b9e447ee4c275fd6a0f93498cc6f1fdf71ba9068427615486e2647b"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-clientes-movil.webp",
+    "vamoa": [],
+    "sha256": "17b9070d5a6d9978ae21a187858239a4743b322e658a0ddf86ac23ee7a981a08",
+    "sha256_original": "16008da75dd4870fa08915f65930368d7475ff0d2232f5d12783268511aa3a2f"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d548674fa1a9daa0b41a85d186feeb43e867f1a39b0e6f39f8331f4c9af68b38",
+    "sha256_original": "37974709903d635a85ed047ed149659e6c65c00f9d7a43c576505515f665dc45"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-movil.webp",
+    "vamoa": [],
+    "sha256": "f8d661a422aeaade61daef3e7614e0effbfb05d408f25edcf919df5765f94e34",
+    "sha256_original": "96f3ce75887e63ccfa3734067c88f175d565390657bb4e2a36a018223708f074"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-accesos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "51d9d1973968d9ed5827ba5146df67e949d0fb73e6a985820512285c383ba3e7",
+    "sha256_original": "929831b34db91afdfd69aabfe180fef289db2a0eae0bb54d43bab5c34ab3e2b7"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-accesos-movil.webp",
+    "vamoa": [],
+    "sha256": "d442339a631ddee0a27ab9a7fe09ea503ca90994ff0093b79b77b9eec3719270",
+    "sha256_original": "ab39eabfa25fb6f98bd1c00f6ceb5731a6866596964ab8f5799319a13c01ebb0"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-historial-escritorio.webp",
+    "vamoa": [],
+    "sha256": "8e662116f79a94ff8578a9137789bc4caf4ae34c7c651297edce447b7ed7d199",
+    "sha256_original": "d5981e230ba0b2df381caefe5b604687f24c4b827077a4e59a8013d869d64116"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-historial-movil.webp",
+    "vamoa": [],
+    "sha256": "b0f2978cb6c7835270045b878171b06958d35c6cf0e5f122716fb1670a0252d0",
+    "sha256_original": "1a558829b68b4cb7a76352cdbd388ceeeb0656285342ecfae6db8ba81021bb26"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-integracion-escritorio.webp",
+    "vamoa": [],
+    "sha256": "4388bcf9172e4df4f0394d509109416f2af08d176378f14ab0900a030c9d9e8d",
+    "sha256_original": "b586897d3311d0d6f864ae221cb08cb6df798f7ba508f733ab0677656ec9308a"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-integracion-movil.webp",
+    "vamoa": [],
+    "sha256": "aa4b916eb65ed4f37733fb0000604227fdee42c79458ddaeb143983d709a1308",
+    "sha256_original": "24ee2f09ae0c60ce940a56f0201961c45f707265aebc329f479125fe1ccf6813"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-escritorio.webp",
+    "vamoa": [],
+    "sha256": "edf17ebfcb652cac621879d6ae26abaa509cea1c0ee6a8664e67c977b3f61af8",
+    "sha256_original": "d76cab6d53d46bc315b9c273a71e6a1ed8d1312955317fe851b3420332f225be"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-movil.webp",
+    "vamoa": [],
+    "sha256": "2fb03eb94f4aa8549e51894d13cd31565a0634b8d1874e4654878c1393686cc5",
+    "sha256_original": "a3afaff27f5b0b4c7ba3763ffd3029f081bc8b8a8ea728f4cdccdc8701e998da"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-escritorio.webp",
+    "vamoa": [],
+    "sha256": "1f80e2e57cf0808f1fc634987380fcbc8554ca497da806b2ae384050ff2c378e",
+    "sha256_original": "5440e7df4d6c1cf12c8acf5c3e05aa9b02a7598545b1d9ca7f948999d2eae3a6"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-movil.webp",
+    "vamoa": [],
+    "sha256": "ca0b67de85a69a174fe9182717794029d7d4a9adf1bfda47a28a415cbc6d9de4",
+    "sha256_original": "0b8553cffb02812c5247f77b5e971fa821c75e9cda7fa6ad6740e82aadcea61f"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-escritorio.webp",
+    "vamoa": [],
+    "sha256": "afbd8d2cd1274aefb1bf70b1e0adff231e9c84a3d66e2cdd97da065cc7e3a4fb",
+    "sha256_original": "e45e6fd2c8e14d4a661c5b15ce43d6033de09a62a0e528d46e043276751dcc2f"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-movil.webp",
+    "vamoa": [],
+    "sha256": "9f06983d9c369d7d11e47965551404754c86e264c9fa73962b6acbcc06ff7018",
+    "sha256_original": "1b5fe8f0c9d721b31e902487d1f39f9134683388202b2597d52a0267a6543960"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-operacion-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d8f1787761a09ee485fa016261ac8253d75c9472fb002b540db560ae8307dd5e",
+    "sha256_original": "ba3c2a9343a67a25bfd24713fe785401520cf14f89a9efeb7fc45d7db9ef78ec"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-operacion-movil.webp",
+    "vamoa": [],
+    "sha256": "06fa7c1fb04053b1de711c3bfdcafc6ec71d504ed399ae66091d6a8962abc400",
+    "sha256_original": "7556a8d457538be78c945157e2827fc5ea33060b26bc7452563e4336a36b1191"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-escritorio.webp",
+    "vamoa": [],
+    "sha256": "20ce9eb22f7ed103fac0eb53e2c6fdecdf9d9a7470f2eac6fffa6eacab0a7c10",
+    "sha256_original": "4e3268be8c7b371ed70af32068b1ce7e099b4a0400f2248112c734172a1f4bc3"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-movil.webp",
+    "vamoa": [],
+    "sha256": "4dac79e5a5e9c711fea3d1c6a45605a4676f064ab117f58143fd2d8ad43115c0",
+    "sha256_original": "39f213197e46eda1f9c27c397ecf536ff3f99d4662b6cbe435ea2d19b53412ea"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-transacciones-escritorio.webp",
+    "vamoa": [],
+    "sha256": "6d555ff36710f0a0234fb55d05b2ae8d1e7ad275768c3219d07ffa0ca500d53f",
+    "sha256_original": "658bc367a750d6c1b819d7b26b15e2e91f78cd1782d41e58b1401428e2ccde04"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-id-transacciones-movil.webp",
+    "vamoa": [],
+    "sha256": "2a8a7cef28e04176c23e775de189625c6c31afe49468b844973ab89767f68a86",
+    "sha256_original": "b0e46d8a876c99b5f5483437ec12f061e40cd131f295666e29aa05c2b7eac13e"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-merchants-movil.webp",
+    "vamoa": [],
+    "sha256": "58fda6b38d8ff466f4c7812784b9eeb92a7772f05bdca3974d338b5fcee1955e",
+    "sha256_original": "0eff648e93d33b67f2eb7fc5433beb445129126590bc296b996da2a814015055"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-movil.webp",
+    "vamoa": [],
+    "sha256": "7d5ce8d1e2fadb3d6fc78f77c1c8e9f48075bba96d29f94f1c53c956b547dc15",
+    "sha256_original": "7029d27c2517a7ecdb5038f78ac953cb323ef46928d7714303e353ca52807357"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-riesgo-escritorio.webp",
+    "vamoa": [],
+    "sha256": "2e0cfbfb52b0b24f7888cc0a2a9cf473de3c1f3be5a2713f6bf41e8baba27bdc",
+    "sha256_original": "0f2bad63f29862b50e370863f3852b601117319821600f75cdb8259e5c9b76ec"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-riesgo-movil.webp",
+    "vamoa": [],
+    "sha256": "2266c6cac73cc925507ffd5b2a507c28edbc06fbe0edc920f3eff9f8c6763238",
+    "sha256_original": "1b65b321978bad226172d5f727b2569643f074ca863860477e139af277151318"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-seguridad-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e8b8419789a3fdca14aab844bcc8c9fef9506dbd9c542b84766a44d55b09e3ba"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-seguridad-movil.webp",
+    "vamoa": [],
+    "sha256": "7806450de7f141f4e1ec0f3b4ea7b7fa5b2861348208f848f53ffdead9022421"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-transacciones-escritorio.webp",
+    "vamoa": [],
+    "sha256": "b211dfc4b847410dfd9b041164f49ce24ff22cae9234c7c9fc9f2a7e763c0c86"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-transacciones-id-escritorio.webp",
+    "vamoa": [],
+    "sha256": "9faa16bd453ee1fccafe81ede12fb3fcce89b7d98eff1b505137c340fcbbe4c4",
+    "sha256_original": "c839c3c0d33b1b724b4160ab34dd107728e827934d8ff39789629d1f9d55d99e"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-transacciones-id-movil.webp",
+    "vamoa": [],
+    "sha256": "a7cddba84fb523a530dbff0798f7c77923a2c668ff4756f8d923f1598399ea63",
+    "sha256_original": "e24dbd0f2cddeaddc23e67ba2c268d85769bbee49307010aff0facfbf7d7747c"
+  },
+  {
+    "archivo": "assets/web/capturas/admin-admin-transacciones-movil.webp",
+    "vamoa": [],
+    "sha256": "c1e583e0f2ee338f4d920cd4620e7748e0105fc1ec02644aaaabc1ad7b81d302"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-avisos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "487e1beafee583617d5f5f1311a60b7fca9656e051acfe14698d5529e1a7f18f"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-avisos-movil.webp",
+    "vamoa": [],
+    "sha256": "bf9616badacd1ec2b8e65dc143668c6673a06c3b35d3736161036027e27c7b0c"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-devoluciones-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e30255359be7a3110b1ce9d3568761e755b784e1302a54568b81ccf9f997440a",
+    "sha256_original": "df42b3974ad520535a014ebc1b9199348b7b5a7109aa2353954a71e14331ae1b"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-devoluciones-movil.webp",
+    "vamoa": [],
+    "sha256": "a37386510d5b07a89b1295b27f672bff2b1a43b98482a8141db6534f28d6ec1d",
+    "sha256_original": "bebcc83e0e0c8cf4417f7c8c32c3ee830bbaaaa682104674860b35c5ae523483"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-equipo-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e293b96a5073b680e178efbbc57bb4b256b991cbbdc1ef0361a3da5659fac62b"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-equipo-movil.webp",
+    "vamoa": [],
+    "sha256": "5fdb8009c8201b7687e4cb745d01136a37b6dbe31c80b93f8bc5d0687040285e"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-escritorio.webp",
+    "vamoa": [],
+    "sha256": "c4a4a61433c0391c5b2887235004d61240caacb378e3e073bffddb6e2624ebe0",
+    "sha256_original": "66755a012d484b2b7d467fac57cd9ed2afcb5dbddb49e302abcdd08fb36e15a3"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-hoy-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d089ef838c0acd60ea0d22e9e3a56669179b70b39f2344bf3b123feaa1ab8008"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-hoy-movil.webp",
+    "vamoa": [],
+    "sha256": "80d5eff807c72bd5202009fa079334a33840fb089e2b7e7353c99d7aad0bf60c"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-incidencias-escritorio.webp",
+    "vamoa": [],
+    "sha256": "8de849016477ac331a3ba9e4c1e2700441c46dae3ce3a4958ee8f2409ac39640",
+    "sha256_original": "d89e543c9c24e7460b94b069d488d6d71daac46468aca096c46ee0e8bae62d6f"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-incidencias-movil.webp",
+    "vamoa": [],
+    "sha256": "f7a87c8e069e0c91d3841959552ad795f7ffdbff131f53bf3539261fa972ba33",
+    "sha256_original": "ec8b08a4c5c720f865c236688419c42e0b00b08b9f2b96d772a85c4a9a144339"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-inventario-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d825bfc94d98878c9264a88eb1900251556fd9dbaf43ed85e81b4856d48b973c",
+    "sha256_original": "71f037462726fb9d9f3ef65d7189da0665c2ac01b06f300766f8238e2840ca22"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-inventario-movil.webp",
+    "vamoa": [],
+    "sha256": "1d53c7b001e5430aab0ca8109023bff39b7919cb829e7d6c1aab349aed9c229d",
+    "sha256_original": "b8c554d5c1c5c8fb85c5e4a36329e5ad1bed32e5355003580a46e4ce07e20210"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-movil.webp",
+    "vamoa": [],
+    "sha256": "0af81fa6bccd303937213c9faff855b34ea3ab99745dc9af70276006e78e7374",
+    "sha256_original": "2edf954ed87e60bde7147f470d4e1710928416d2c70b1563375955035b16d2f1"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-practicar-escritorio.webp",
+    "vamoa": [],
+    "sha256": "09168eff968c36dc11b4044565ccf5b5e44666e817781bf76efd87774e8d6de3"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-practicar-movil.webp",
+    "vamoa": [],
+    "sha256": "ede33a5ee22672f18d9c8c75b6006c0c1aa34053a450845e3a0049119a52eba8"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-propinas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "b6d769e1e3b42f537e18b43cf4c130d9e56247a28e3d21628381f36e9ad6dcaa",
+    "sha256_original": "779ddcc85d79309ea3541e4a0caebb55b0e6daa76882957a6bd26d58a84c52cf"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-propinas-movil.webp",
+    "vamoa": [],
+    "sha256": "d4abfc9dcefbf9cae371768c6e221186304b159a105365e9f39ff44a4edc4fdb",
+    "sha256_original": "1c15445cf7a93f623f520812b8b6501ee2d6b81f2a6b03e780dbc396511e4ff2"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-recuperos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "29c82ac3dd6a76a41812669fc5adf4e04698528100312201f12979442e2908de",
+    "sha256_original": "92af670ea6a78ad5fc182263a056d5ccd725c1e8166f7d1c4363bc51d79b8577"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-recuperos-movil.webp",
+    "vamoa": [],
+    "sha256": "2af671ac16c32281408f72a01888f2a652584aeb03c5621cf73d7b28cf55adef",
+    "sha256_original": "18de3cf95fd2733dbc9d2225e1abf71b5758408ff9601d024cc63dc0923be050"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-resenas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "a0e260796994c2ee776a29f8d72daea079f7351a0bd0ae7067eadf61aafabe9c",
+    "sha256_original": "e401d1cfcfdcf712d0aca6162a1c647f8c202f6a6ea9ff24353b91d8e81c58f1"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-resenas-movil.webp",
+    "vamoa": [],
+    "sha256": "2a43be49a2beb5c7db0f94301b36277db680c9959423e1bd704ae7abadfbdd85",
+    "sha256_original": "57e7d3ca56980a162f59ac0401b1e5e63adcd74f82fe6a80d3c6e02eaecd5f1d"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-reservas-escritorio.webp",
+    "vamoa": [],
+    "sha256": "caa6537ddee4dbeef9e0e1aa99a5323c4ffac5887525ccdb98a15a2a6c73075d"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-reservas-movil.webp",
+    "vamoa": [],
+    "sha256": "e831b3a7a099458770bd548f063026a59936e5d4011d68c4bbf652eb63d015ae"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-escritorio.webp",
+    "vamoa": [],
+    "sha256": "36476cf1096f5386cf7559209bf348469fca80c9fe5f482b500d2deb9a5a69dd",
+    "sha256_original": "d139b278c1f891af69229b27275104dea72d092e303f73fb0c864b326a4666d8"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-escritorio.webp",
+    "vamoa": [],
+    "sha256": "4a61713d475a89ab09bd0d54e275e638b3b0e5be5210bd72380517d580545367"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-movil.webp",
+    "vamoa": [],
+    "sha256": "8da7a9151f0875bfc935636b9521d1a29dec8404e5b1f59654da25d51cd14b98"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-movil.webp",
+    "vamoa": [],
+    "sha256": "c375e3c21b3380847baf7b4ff25cbb54760ed016e8893f84003b3847819b670d",
+    "sha256_original": "654ed63253f8b521269aaaf220e9b097c8edc959c93a77b4e1f006eb9dae8440"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-period-all-view-declined-escritorio.webp",
+    "vamoa": [],
+    "sha256": "fdb61f65224d9e0d3cdd764a41b9d45aa706b3f3ae47f4742a0d60ffc0fe92f3",
+    "sha256_original": "0fc259f5898fd84c606ddf2c17cd71d3c57b2a0f0b2759b5bf65630e61e342fa"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-transacciones-period-all-view-declined-movil.webp",
+    "vamoa": [],
+    "sha256": "0e5c3195a4312912b2dc59d55a1cd789b659d3bea0253e2e7386323209d5fc16",
+    "sha256_original": "f9be4c6464edfc9e648d4cade6c9be29586859e18ca619ad1306aa4afd4d54c7"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-baja-escritorio.webp",
+    "vamoa": [],
+    "sha256": "fe20528120d46890aa83e7fec0e18d505fecb8fc151e9bab44ff0b799e55c24f"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-baja-movil.webp",
+    "vamoa": [],
+    "sha256": "af54c6a6031db2c41003f62a1186611aa90c11b202e8da786bbe9d5657243007"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-clientes-escritorio.webp",
+    "vamoa": [],
+    "sha256": "2138812029fe22bcaa2694602f73b29b35a7a5a7daf2f4fe3a8f8135ef3d656a"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-clientes-movil.webp",
+    "vamoa": [],
+    "sha256": "c7133bec97b9c1dbc6c15334cd1d3113289495ce2a424584756bb9947032308d"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-contacto-escritorio.webp",
+    "vamoa": [],
+    "sha256": "33dbf1d2779200724f300d919b4b2a10fdb64c8faea4244103febb7618bca8ad"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-contacto-movil.webp",
+    "vamoa": [],
+    "sha256": "9e9b7a84fccdd0a39eabec16904ca6b383f3b840999ee17fd6d0190feb2f6c35"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-dividir-token-inexistente-escritorio.webp",
+    "vamoa": [],
+    "sha256": "6ee865fa5b3d18efe8ac6fdc6d0f95fe74c6d96738558799b318a41fc1dfaeda",
+    "sha256_original": "e3c94e5a77427b01ff7fde355ba6cc21fd549a7e076e6bedb0c29348789a8090"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-dividir-token-inexistente-movil.webp",
+    "vamoa": [],
+    "sha256": "60ceca895b724bde7ff02dfea802b5f7fffe37d815fe24091d2790132c550183",
+    "sha256_original": "0ee285f5ffb767c43b3e49edb4f95399b7698cc4e1791e4b5097c03928003d05"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-escritorio.webp",
+    "vamoa": [],
+    "sha256": "ce26632d368e16647d6534ddeb0939f8539d5a7f4c53ed38436402b026fcf6f6",
+    "sha256_original": "4167dd2b8cd69e2b529420144d2e9a37c0e8651003885217dac62643d48d2d12"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-ingresar-escritorio.webp",
+    "vamoa": [],
+    "sha256": "feb11f6efe0d5019f4ec991d8e95340542600021b0f06d21b17fd0ba93efa3d9",
+    "sha256_original": "5243ea245d44d86b9788d99c50ac9510c7199cfa422f8c2251a255d7d4f92158"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-ingresar-movil.webp",
+    "vamoa": [],
+    "sha256": "c67127abe15b915ed92f1903bd789bda05469a03db07b0beecfb16ece0d78ec0",
+    "sha256_original": "5cf8b430b05df457194e1424c46fea792f952963f7b5bcf53f302777c867c608"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-invitar-codigo-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e99b5060307b82cac32e2df5e45008f34be59e4e3a70b5dd492dd1ea2e98eac5",
+    "sha256_original": "121db01915c2d6138003b5078f7ba6bcaa886d299eba07dd37f89c6b86e8849f"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-invitar-codigo-movil.webp",
+    "vamoa": [],
+    "sha256": "19a0340e2dbcf59a341ba85df85486464d799c67c25fe6628d4289feb03de430",
+    "sha256_original": "e48661980cc877d699808931e9ee6b6fa8eb8e931715af5975d85304b25a88f9"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-movil.webp",
+    "vamoa": [],
+    "sha256": "8fa2677ca548b3209783fcbc65435cd60a5234d066b20612d6a990da33dcb5f2",
+    "sha256_original": "ccc03acd29570ba28553962ed41c4bd9572960d014bad7506ebd15bca26b7d8f"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-olvidaste-contrasena-escritorio.webp",
+    "vamoa": [],
+    "sha256": "c40f808b5d6a19c8094a63e53f22e0fcc795a92788f6adf22a1988f67631e13e"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-olvidaste-contrasena-movil.webp",
+    "vamoa": [],
+    "sha256": "a65e8cdaa0df64ae2aa026c512e38d73714f22320d4cbe2dec12d24636a72124"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-privacidad-datos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "e405dd78b02d60d0c60bf94100a3300cb6dbc18cb8e3bda7ab1f9593711aceff",
+    "sha256_original": "2570312e7eb2f54832ab76898af44155880aaa071fcca62c31eb5887a7fb2c71"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-privacidad-datos-movil.jpg",
+    "vamoa": [],
+    "sha256": "ab5f6340caf931e8f94ef36c4010c965bf68e5450bc280f8a0d2f9555b1f6cab",
+    "sha256_original": "cf0cf31a9b721d0c33c1e0c11887b014f6772248e1000bba0ee54b8b35ac6b03"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-privacidad-escritorio.webp",
+    "vamoa": [],
+    "sha256": "185e57a69e7c72f73f4cd849695cd4505583b1e85ab82335c9e9980c36f2e9c0",
+    "sha256_original": "ef85f6440316f983a19d165c3411671332b3ad5c5ada5c6f6b4e7cb9fac941ff"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-privacidad-movil.jpg",
+    "vamoa": [],
+    "sha256": "e3c8610faa0649dff86a534794519091c4e3919f9121342a0f6a3d62076aef77",
+    "sha256_original": "6834fc96e918698747a2419055d3b1f93ee0365147a543b554fca11c1e6e851a"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-qr-qr-escritorio.webp",
+    "vamoa": [],
+    "sha256": "f6a0e53bc8a8b2564e3ecb53f2b69ac39d58370f260c52673cd591ac0c1bb2c2",
+    "sha256_original": "aaa9d713eb7c48edc4451e5f3aee64d83689e3eac2c2fd6f66401ad8194c9b13"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-qr-qr-movil.webp",
+    "vamoa": [],
+    "sha256": "767b9b29fef1b271e1847686bf07b60dc82699d8732812971353d1637ccdc2cd",
+    "sha256_original": "8342a9da838dfc5040c303646885a97fdbc3d0295a6ae93c051aaf679f6a2952"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-r-slug-escritorio.webp",
+    "vamoa": [],
+    "sha256": "c7e6c7f3c09d67e378636080a885ab2aa475df3824bd6661a09768533c9614d4",
+    "sha256_original": "baf93353b8a145efd4f23b19edcc5cf7835e2660a0fd33059fc9f2a9a1d89f51"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-r-slug-movil.webp",
+    "vamoa": [],
+    "sha256": "285f46cd91b6e9bdcdf39d4c13efb016f109fb010ace1eb50aceae12487dc18c",
+    "sha256_original": "440da594cdfe8f3a1d04ce66efc86a90bcdc2c8c2c087e798800dcec0327826c"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-restablecer-contrasena-escritorio.webp",
+    "vamoa": [],
+    "sha256": "2992ff0961a3f5acb545784bd44c2cab44c70ce0c051a47acc61f35563b0100e",
+    "sha256_original": "e774c36af3ab9a656c7f91d11be604775ebe650bc9fa5f5c62f6787e0bbdb5cb"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-restablecer-contrasena-movil.webp",
+    "vamoa": [],
+    "sha256": "ed4ef24562a5503d521e1aa422bc861e8ce0f4e08f11228775681bb144b982cd",
+    "sha256_original": "adfaa33842c046abeadd12fa901a1d906dc4f3f0c98694bf412a0ff577da1781"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-restaurantes-escritorio.webp",
+    "vamoa": [],
+    "sha256": "228f3a50a7e5b6061f33a54f3fde19570f99098f726a83f5011090d550378f86",
+    "sha256_original": "81b926530a7f1d6e769cf41cc691682546bf475f698ae37a7a6967c8fd9fe34a"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-restaurantes-movil.webp",
+    "vamoa": [],
+    "sha256": "bb84a72218bb47d1fae25f4e6f4cd1c9540618c5334d8f591b7ba2fab54b6948",
+    "sha256_original": "2c34fd99c997d1cbe80d5973e812add875c44aefe0733307eccb52e2307a3c09"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-terminos-escritorio.webp",
+    "vamoa": [],
+    "sha256": "6c9cb9e4af7715374c836e7a3f7e950239ad3b70eef10a2ccee4d921ad0c0ef2",
+    "sha256_original": "2f38b6cfaee955845a09924e9154d97cb4f1f695a54fc43f8dd0826f088fb9fb"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-terminos-movil.jpg",
+    "vamoa": [],
+    "sha256": "bf4aa2f244215ef7a834f24b31010849ffc4d770282f973d7a9d13fe84b7ebff",
+    "sha256_original": "c43e2e302e5f2c7b96d3829ceb888e01b855b54e448b70d0f5af2ac8a92077ef"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-v-token-inexistente-escritorio.webp",
+    "vamoa": [],
+    "sha256": "d67fdf85005db069afdca6182901ca85da117602d2d213dee7e37dd02a605ec9"
+  },
+  {
+    "archivo": "assets/web/capturas/publica-v-token-inexistente-movil.webp",
+    "vamoa": [],
+    "sha256": "c9fa8cd9777442a0a0854ef17dbaa165c3c2f50fa49f9693ff75abf70f75a318"
   }
 ]

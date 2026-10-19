@@ -1,0 +1,22 @@
+/* Catálogo de correos: índice por destinatario y los cuatro temas de cada plantilla. */
+.correos-indice{display:contents}
+.correos-grupo{display:block;margin:18px 12px 4px;font-size:10px;font-weight:650;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted)}
+.correo{padding:10px 0 40px}
+.correo h2{font-size:32px}
+.correo-datos{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 18px;margin:18px 0 30px;font-size:13px;max-width:760px}
+.correo-datos dt{font-weight:650}
+.correo-datos dd{margin:0;color:var(--muted);overflow-wrap:anywhere}
+.correo-temas{display:grid;gap:28px 24px;align-items:start}
+.correo-temas[data-ancho="390"]{grid-template-columns:repeat(auto-fill,minmax(min(100%,392px),1fr))}
+.correo-temas[data-ancho="800"]{grid-template-columns:repeat(auto-fill,minmax(min(100%,802px),1fr))}
+.correo-tema{margin:0;min-width:0}
+.correo-tema figcaption{display:flex;flex-direction:column;gap:2px;margin-bottom:12px;font-size:12px}
+.correo-tema figcaption strong{font:650 18px/1.3 var(--title);letter-spacing:-.02em}
+.correo-tema figcaption span{color:var(--muted)}
+.correo-marco{overflow:auto;border:1px solid var(--line);border-radius:18px;background:#131314;max-width:max-content}
+.correo-marco iframe{display:block;border:0;max-width:none}
+.correo-tema[data-tema="claro"] .correo-marco,.correo-tema[data-tema="gmail-claro"] .correo-marco{background:#fff}
+.label-guide{margin-top:10px}
+code{font-size:.92em}
+/* En el teléfono basta el selector: el índice empujaría los correos una pantalla y media. */
+@media(max-width:760px){.correos-pagina .doc-sidebar{display:none}.correo h2{font-size:26px}}

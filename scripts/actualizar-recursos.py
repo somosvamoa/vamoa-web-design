@@ -14,7 +14,7 @@ IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.svg', '.webp', '.gif', '.avif'}
 VIEW_NAMES = {
     'index.html': 'Landing', 'parati.html': 'Para ti',
     'restaurantes.html': 'Restaurantes', 'contacto.html': 'Contacto',
-    'portales.html': 'Portales', 'guia/index.html': 'Marca y producto',
+    'portales.html': 'Portales', 'portales-prototipo.html': 'Portales · prototipo anterior', 'guia/index.html': 'Marca y producto',
     'guia/app.html': 'App · guía', 'guia/app-lienzo.html': 'App · lienzo',
     'guia/pantalla.html': 'App · pantalla individual',
 }

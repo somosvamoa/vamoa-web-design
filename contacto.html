@@ -47,7 +47,7 @@
           <div class="v-style-89086d4ee3f5"><span class="v-style-93b62df276c9">¿Sobre qué es?</span>
             <div class="v-style-e71fea521116">
               <sc-for list="{{ topics }}" as="t" hint-placeholder-count="5">
-                <button sc-camel-on-click="{{ t.pick }}" class="v-style-eca4c69af001" data-v-bind="v-bind-6fff9bc2ea8a" data-v-value-0="{{ t.bg }}" data-v-value-1="{{ t.fg }}">{{ t.label }}</button>
+                <button sc-camel-on-click="{{ t.pick }}" aria-pressed="{{ t.pressed }}" class="v-style-eca4c69af001" data-v-bind="v-bind-6fff9bc2ea8a" data-v-value-0="{{ t.bg }}" data-v-value-1="{{ t.fg }}">{{ t.label }}</button>
               </sc-for>
             </div>
           </div>
@@ -56,7 +56,7 @@
             <input id="ct-correo" aria-label="Tu correo" type="email" autocomplete="email" placeholder="Tu correo" class="v-style-7bca87bffcb6">
           </div>
           <textarea id="ct-msg" aria-label="Tu mensaje" placeholder="Cuéntanos en qué podemos ayudarte…" class="v-style-7352d4bce7e5"></textarea>
-          <button sc-camel-on-click="{{ send }}" style-hover="background:#285247" class="v-style-4ab949f885a7">Enviar mensaje</button>
+          <button data-vamoa-press="" sc-camel-on-click="{{ send }}" style-hover="background:#285247" class="v-style-4ab949f885a7">Enviar mensaje</button>
           <sc-if value="{{ ctError }}" hint-placeholder-val="{{ false }}"><p role="alert" class="v-style-6aee7b60adda">Completa tu nombre, un correo válido y tu mensaje.</p></sc-if>
         </div>
       </sc-if>

@@ -1,0 +1,222 @@
+{
+  "generado": "2026-10-19T16:13:40.242Z",
+  "fuente": {
+    "repositorio": "Vamoa",
+    "rama": "dev",
+    "commit": "7a37c8a",
+    "codigo": "apps/web/src/lib/email.ts"
+  },
+  "correos": [
+    {
+      "id": "bienvenida",
+      "nombre": "Bienvenida a la lista",
+      "para": "Comensal",
+      "cuando": "Se inscribe en la lista de lanzamiento.",
+      "asunto": "Ya estás en la lista de Vamo’a",
+      "archivo": "assets/correos/bienvenida.html",
+      "sha256": "59780fa8e7eb888a078ee03327f80a5599eff0f55e746c8933c6ebf77ea4b598"
+    },
+    {
+      "id": "apertura",
+      "nombre": "Aviso de apertura",
+      "para": "Comensal",
+      "cuando": "Administración encola «Vamo’a ya abrió» desde /admin/interesados para la lista suscrita.",
+      "asunto": "Vamo’a ya abrió",
+      "archivo": "assets/correos/apertura.html",
+      "sha256": "5c1972c743f1e726082bfdfafeae6f2ffa04368bdd2caf60bf231cffbd89e2eb"
+    },
+    {
+      "id": "vuelta",
+      "nombre": "Volver a la lista",
+      "para": "Comensal",
+      "cuando": "Pide volver a la lista después de darse de baja.",
+      "asunto": "Confirma si quieres volver a la lista de Vamo’a",
+      "archivo": "assets/correos/vuelta.html",
+      "sha256": "131b6718e648cb2fb83d5cdffb247e37c19faf027b93d31b6b3d78ca3a50b0cd"
+    },
+    {
+      "id": "verify",
+      "nombre": "Código para confirmar el correo",
+      "para": "Comensal o equipo",
+      "cuando": "Crea su cuenta o pide un código nuevo para confirmar el correo.",
+      "asunto": "123456 es tu código de Vamo’a",
+      "archivo": "assets/correos/verify.html",
+      "sha256": "ce4f1ca06729907938239498f40d5adff8b15faf32facb92864f4bc233187368"
+    },
+    {
+      "id": "reset",
+      "nombre": "Código para restablecer la contraseña",
+      "para": "Comensal o equipo",
+      "cuando": "Pide restablecer la contraseña.",
+      "asunto": "123456 para cambiar tu contraseña de Vamo’a",
+      "archivo": "assets/correos/reset.html",
+      "sha256": "d9827c22a3d22cec2b5f0707fbd93f36fc04cfaaa0e393c71595d5720a06362d"
+    },
+    {
+      "id": "invite",
+      "nombre": "Código de invitación al equipo",
+      "para": "Equipo del restaurante",
+      "cuando": "El dueño invita a alguien a su local.",
+      "asunto": "Tu acceso al portal de Vamo’a · código 123456",
+      "archivo": "assets/correos/invite.html",
+      "sha256": "5dd03f271d73b7302421e4988232e3ab40650ecc290fe47150f42dfa9d2cc746"
+    },
+    {
+      "id": "comprobante",
+      "nombre": "Comprobante de pago",
+      "para": "Comensal",
+      "cuando": "Paga una cuenta con la app.",
+      "asunto": "Tu comprobante de De Calle · 11 de octubre de 2026",
+      "archivo": "assets/correos/comprobante.html",
+      "sha256": "166cc316aac850528f19aa1e3dfac18c4f020b10c9d20528ca52a839bc50d4f3"
+    },
+    {
+      "id": "exportacion",
+      "nombre": "Cobros en CSV y Excel",
+      "para": "Restaurante",
+      "cuando": "Pide «Enviar a mi correo» en Transacciones.",
+      "asunto": "Tus cobros de De Calle con Vamo’a",
+      "archivo": "assets/correos/exportacion.html",
+      "sha256": "49c625781a6d7834e4ce302db364bc9ef18dcbc2f8f55bc0979e500ac08fe368"
+    },
+    {
+      "id": "acuse",
+      "nombre": "Acuse de una consulta",
+      "para": "Quien escribe",
+      "cuando": "Manda el formulario de contacto.",
+      "asunto": "Tu consulta en Vamo’a · VA-7K3M",
+      "archivo": "assets/correos/acuse.html",
+      "sha256": "8b0b7c192164fa740d8ffa9690ca385a67151da61d0ed8dbfd5debd96da011e4"
+    },
+    {
+      "id": "respuesta",
+      "nombre": "Respuesta a una consulta",
+      "para": "Quien escribe",
+      "cuando": "El equipo responde desde /admin/consultas.",
+      "asunto": "Re: Tu consulta en Vamo’a · VA-7K3M",
+      "archivo": "assets/correos/respuesta.html",
+      "sha256": "36a78adb8b4214521260061f609e68ed8f5af74deee4007e7718ca28a5c7ceb1"
+    },
+    {
+      "id": "aviso",
+      "nombre": "Aviso interno · consulta nueva",
+      "para": "Equipo de Vamo’a",
+      "cuando": "Llega una consulta nueva.",
+      "asunto": "Consulta en Vamo’a · Antonia · VA-7K3M",
+      "archivo": "assets/correos/aviso.html",
+      "sha256": "2b569b11d3daaa0279fe6a189eed53b36eb5c4961e84677a2de2b51355d1f3a0"
+    },
+    {
+      "id": "avisoRespuesta",
+      "nombre": "Aviso interno · respuesta del cliente",
+      "para": "Equipo de Vamo’a",
+      "cuando": "El cliente responde al correo de una consulta.",
+      "asunto": "Re: Consulta en Vamo’a · Antonia · VA-7K3M",
+      "archivo": "assets/correos/avisoRespuesta.html",
+      "sha256": "efef5d5f1d2e29f5a2a43d518a2765cb72696dd8ce4aefb3a25afba2e983bb30"
+    },
+    {
+      "id": "devolucionRecibida",
+      "nombre": "Solicitud de devolución recibida",
+      "para": "Comensal",
+      "cuando": "Pide una devolución desde el comprobante de la app.",
+      "asunto": "Tu solicitud de devolución VA-7K3M · Vamo’a",
+      "archivo": "assets/correos/devolucionRecibida.html",
+      "sha256": "c277e993c7f4c01012ae1b3013777384503b163b984f82f1f020169bcbcea9fb"
+    },
+    {
+      "id": "devolucionEnRevision",
+      "nombre": "Devolución en revisión",
+      "para": "Comensal",
+      "cuando": "La devolución aprobada queda en revisión manual porque el procesador no confirmó el resultado.",
+      "asunto": "Tu devolución VA-7K3M sigue en revisión",
+      "archivo": "assets/correos/devolucionEnRevision.html",
+      "sha256": "a3244afd7ef3447a42fa8ee7a4aa8ac63603fee5edf8e93dcef5a7be68d0daf5"
+    },
+    {
+      "id": "devolucionAprobada",
+      "nombre": "Devolución aprobada",
+      "para": "Comensal",
+      "cuando": "Administración aprueba su solicitud y la devolución se hace efectiva por el procesador.",
+      "asunto": "Aprobamos tu devolución VA-7K3M",
+      "archivo": "assets/correos/devolucionAprobada.html",
+      "sha256": "df11526272cffa1f0528ddb49f96532ad15b06743930b134cec12a46be3a58fa"
+    },
+    {
+      "id": "devolucionTransferida",
+      "nombre": "Devolución aprobada por transferencia",
+      "para": "Comensal",
+      "cuando": "Administración registra la transferencia de una devolución aprobada desde la cuenta de Vamo’a.",
+      "asunto": "Aprobamos tu devolución VA-7K3M",
+      "archivo": "assets/correos/devolucionTransferida.html",
+      "sha256": "2410b09dc84e838d9ccc6951809a308acf204d7ff8fe227cd4e0fc792e4dedc9"
+    },
+    {
+      "id": "devolucionRechazada",
+      "nombre": "Devolución rechazada",
+      "para": "Comensal",
+      "cuando": "Administración rechaza su solicitud, con el motivo.",
+      "asunto": "No pudimos aprobar tu devolución VA-7K3M",
+      "archivo": "assets/correos/devolucionRechazada.html",
+      "sha256": "3e629255b1ed8142015ef1c6355cc6a576a8756cd256f14bfff51d29a9cb79b1"
+    },
+    {
+      "id": "resumenPropinas",
+      "nombre": "Propina por pagar del día",
+      "para": "Dueño o encargado",
+      "cuando": "Activó el resumen diario; sale a las 6:00 por el día que terminó.",
+      "asunto": "Propina por pagar del mar, 6 oct 2026 · De Calle",
+      "archivo": "assets/correos/resumenPropinas.html",
+      "sha256": "7fa56bd6f993cc5a25a5e9f862326f2e69ca5528d0967696b7dfbe77e4e516a4"
+    },
+    {
+      "id": "suspension",
+      "nombre": "Cuenta suspendida",
+      "para": "Comensal o equipo del restaurante",
+      "cuando": "Administración suspende la cuenta con scripts/suspender-cuenta.ts, con el motivo.",
+      "asunto": "Suspendimos tu cuenta de Vamo’a",
+      "archivo": "assets/correos/suspension.html",
+      "sha256": "3cb48f8d41625d278f7150a830de4f19665001f761c4111c2efa7e6f254e2bbb"
+    },
+    {
+      "id": "cambioLegal",
+      "nombre": "Cambio de términos o privacidad",
+      "para": "Cuenta activa con correo confirmado",
+      "cuando": "Administración avisa una versión nueva antes de que rija, con scripts/avisar-cambio-legal.ts.",
+      "asunto": "Cambian los términos y la privacidad de Vamo’a el 20 de noviembre de 2026",
+      "archivo": "assets/correos/cambioLegal.html",
+      "sha256": "4f09f4f7b4644dcbc8f19c50a97b0c2a46a10e44c18cb1ff004094312e3985aa"
+    },
+    {
+      "id": "brecha",
+      "nombre": "Aviso de filtración de datos",
+      "para": "Persona afectada",
+      "cuando": "Administración avisa un incidente que afectó datos, con scripts/avisar-brecha.ts.",
+      "asunto": "Aviso de seguridad: un incidente afectó tus datos en Vamo’a",
+      "archivo": "assets/correos/brecha.html",
+      "sha256": "81551d4da864646287c95f89a8ef47a8c5a78b46d9e4b7b102ab0595a7237cff"
+    }
+  ],
+  "recursos": [
+    {
+      "archivo": "assets/correos/85f55a58a31e61a2e19e8bb2.woff2",
+      "sha256": "85f55a58a31e61a2e19e8bb25fed503181bf2a6b4cab76c589992cfaac377447"
+    },
+    {
+      "archivo": "assets/correos/e3b56e90510a84ac0ed465b8.woff2",
+      "sha256": "e3b56e90510a84ac0ed465b822e112983eaf58e37436bf769681c31f77b1f3a7"
+    },
+    {
+      "archivo": "assets/correos/logo-email-dark.png",
+      "sha256": "063dec486abc9f3f02102be9a7d16d70476de964d7491031d7618b2101eed0d1"
+    },
+    {
+      "archivo": "assets/correos/logo-email-light.png",
+      "sha256": "56846dd90664e24483d687f71e18aeb8a3dd3d6b8634d6cac82373ab20182c61"
+    },
+    {
+      "archivo": "guia/simular-gmail-oscuro.js",
+      "sha256": "dd5c7055c06d00f248948c5041ac0fa6dc2f0f85fcf8847d47805f7cce07306f"
+    }
+  ]
+}

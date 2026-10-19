@@ -25,7 +25,7 @@
         <a href="contacto.html" data-hover-background="" data-hover-color="" class="v-style-953be09c9679">Contacto</a>
       </nav>
       <a data-m="hide" href="https://www.vamoa.cl/ingresar" class="v-portal-diseno v-style-dd95455ccf9c" data-hover-background="" data-hover-color="">Acceso al portal</a>
-      <a href="#sumate" data-hover-background="" data-hover-color="" class="v-style-8418b860f095">Súmate</a>
+      <a href="#sumate" sc-camel-on-click="{{ goSumate }}" data-hover-background="" data-hover-color="" class="v-style-8418b860f095">Súmate</a>
     <details class="v-menu-diseno"><summary class="v-menu-diseno__boton" aria-label="Menú"><span class="v-menu-diseno__lineas" aria-hidden="true"><i></i><i></i><i></i></span></summary><nav class="v-menu-diseno__panel" aria-label="Navegación principal"><a href="parati.html">Para ti</a><a href="restaurantes.html" aria-current="page">Restaurantes</a><a href="contacto.html">Contacto</a><a href="https://www.vamoa.cl/ingresar">Acceso al portal</a></nav></details></div>
   </header>
 
@@ -34,7 +34,8 @@
       <span class="v-style-bb8989e97e03">PARA RESTAURANTES</span>
       <h1 class="v-style-51319d16a429">Más mesas.<br><span class="v-style-f9e079508091">Más vueltas.</span></h1>
       <p class="v-style-d7593ca34960">Vamo’a te compra consumo por adelantado: caja hoy para servir mesas mañana. Tus clientes pagan desde la mesa con la cuenta que sale de tu caja y recuperan el 20% para volver.</p>
-      <div class="v-style-161d174efbf8"><a href="#sumate" sc-camel-on-click="{{ goSumate }}" style-hover="background:#C4D04A;color:#18332C" class="v-style-76da2c96c62b">Quiero sumar mi local</a><a href="#como" sc-camel-on-click="{{ goComo }}" style-hover="background:#285247;color:#FAF7EF" class="v-style-3e7b56aee765">Cómo funciona</a></div>
+      <div class="v-style-161d174efbf8 v-rest-actions"><a href="#sumate" sc-camel-on-click="{{ goSumate }}" style-hover="background:#C4D04A;color:#18332C" class="v-style-76da2c96c62b">Quiero sumar mi local</a><a href="assets/documentos/propuesta-vamoa-restaurantes.pdf" download="Vamoa-propuesta-restaurantes.pdf" type="application/pdf" data-vamoa-press="" class="v-rest-download" aria-label="Descargar propuesta para restaurantes en PDF"><span aria-hidden="true" class="v-rest-download__icon">↓</span>Descargar propuesta<span class="v-rest-download__format">PDF</span></a></div>
+      <a href="#como" sc-camel-on-click="{{ goComo }}" class="v-rest-how">Cómo funciona <span aria-hidden="true">↗</span></a>
       <div class="v-style-a28cfa9db271">
         <div class="v-style-75b7cae80932"><span class="v-style-21633d5e0895">20%</span><span class="v-style-3f2e051b9b49">lo financia Vamo’a, no tu caja</span></div>
         <div class="v-style-75b7cae80932"><span class="v-style-e03fb7ffe8e0">100%</span><span class="v-style-3f2e051b9b49">de la propina al local</span></div>
@@ -54,7 +55,7 @@
       </div>
     </div>
   </section>
-  <section class="v-style-85b962170e88"><div class="v-style-0ac6392177b4"><img id="rs-hero" src="assets/app/fotos/decalle-portada.jpg" alt="Mesa de De Calle con todos sus platos" class="v-style-4979b3dc4a13"></div></section>
+  <section class="v-style-85b962170e88"><div class="v-style-0ac6392177b4 v-rest-gallery"><img id="rs-hero" src="assets/app/fotos/decalle-portada.jpg" alt="Mesa de De Calle con sus platos" width="1400" height="933" loading="lazy" decoding="async"><img class="v-rest-gallery__bar" src="assets/app/fotos/decalle-bar.jpg" alt="Cócteles en la barra de De Calle" width="1400" height="933" loading="lazy" decoding="async"></div></section>
 
   <section class="v-style-216edb464b1c">
     <div class="v-style-c83063ebe494">
@@ -79,7 +80,7 @@
     <div class="v-style-2c3dff9965e9">
       <div class="v-style-8b0ebad99652">
         <span class="v-style-6be7c0635a62">PORTAL DEL RESTAURANTE</span>
-        <h2 class="v-style-48e6ca0c0ea2">Todo lo que entra por Vamo'a, a la vista.</h2>
+        <h2 class="v-style-48e6ca0c0ea2">Todo lo que entra por Vamo’a, a la vista.</h2>
         <p class="v-style-4f8165a5ea6d">El consumo generado, quién viene y quién vuelve, cuánto te costó y cuánto crédito queda. Tus garzones ven cada mesa pagada desde su celular. Datos ilustrativos.</p>
       </div>
       <div class="v-style-6e3ecd74c182">
@@ -114,7 +115,7 @@
             <input id="rs-nombre" aria-label="Tu nombre" placeholder="Tu nombre" class="v-style-fc9053a48786">
             <input id="rs-correo" aria-label="Tu correo" placeholder="Tu correo" type="email" autocomplete="email" class="v-style-fc9053a48786">
           </div>
-          <button sc-camel-on-click="{{ send }}" style-hover="background:#285247" class="v-style-c79cfcae5dc2">Quiero sumar mi local</button>
+          <button data-vamoa-press="" sc-camel-on-click="{{ send }}" style-hover="background:#285247" class="v-style-c79cfcae5dc2">Quiero sumar mi local</button>
           <sc-if value="{{ rsError }}" hint-placeholder-val="{{ false }}"><p role="alert" class="v-style-d2f3c30d09bf">Completa el nombre del local, tu nombre y un correo válido.</p></sc-if>
         </div>
       </sc-if>

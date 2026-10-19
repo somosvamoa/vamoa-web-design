@@ -103,3 +103,12 @@ los archivos copiados; es evidencia de esta publicación, no sincronización aut
 El navbar usa Acceso al portal relleno en verde botella con texto crema. El footer
 conserva Contacto y los enlaces legales; bajo 840 px el menú mantiene el portal
 disponible, también en tablet. Los commits se atribuyen a `sebastian-vamoa`.
+
+## Actualización del 19 de octubre
+
+El lienzo de la app tiene 285 vistas y 286 capturas, cada una comparada con su pantalla
+real (texto y estructura). Pago con Fintoc y tarjeta guardada en Fintoc, hojas propias en
+vez de alertas del sistema, verificación del pago en el tema crema de la web, y lienzo web
+con 62 pantallas capturadas del producto. El catálogo de correos tiene las 21 variantes.
+Las capturas históricas de `guia/capturas/` se actualizaron con los PNG vigentes y los
+alias antiguos de `assets/app/capturas/` se conservan para no romper URLs publicadas.

@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="styles/elementos.css">
 <script src="scripts/estilos-dinamicos.js" defer></script>
 <script src="scripts/iniciar-publico.js" defer></script>
+<script src="scripts/boton-flecha.js" defer></script>
 </head>
 <body>
 <x-dc><!-- current-reference-wrapper --><div class="v-reference v-reference--parati">
@@ -24,7 +25,7 @@
         <a href="restaurantes.html" data-hover-background="" data-hover-color="" class="v-style-f1a4f2e72348">Restaurantes</a>
         <a href="contacto.html" data-hover-background="" data-hover-color="" class="v-style-f1a4f2e72348">Contacto</a>
       </nav><a data-m="hide" href="https://www.vamoa.cl/ingresar" class="v-portal-diseno v-style-347dfaa5cdc8" data-hover-background="" data-hover-color="">Acceso al portal</a>
-      <a href="#lista" data-hover-background="" data-hover-color="" class="v-style-316bc6eb31f0">Lista de espera</a>
+      <a href="#lista" sc-camel-on-click="{{ goWaitlist }}" data-hover-background="" data-hover-color="" class="v-style-316bc6eb31f0">Lista de espera</a>
     <details class="v-menu-diseno"><summary class="v-menu-diseno__boton" aria-label="Menú"><span class="v-menu-diseno__lineas" aria-hidden="true"><i></i><i></i><i></i></span></summary><nav class="v-menu-diseno__panel" aria-label="Navegación principal"><a href="parati.html" aria-current="page">Para ti</a><a href="restaurantes.html">Restaurantes</a><a href="contacto.html">Contacto</a><a href="https://www.vamoa.cl/ingresar">Acceso al portal</a></nav></details></div>
   </header>
 
@@ -35,7 +36,7 @@
       <div class="v-parati-waitlist v-style-c8007bc6a1f2">      <sc-if value="{{ notJoined }}" hint-placeholder-val="{{ true }}">
         <div class="v-pill v-style-d8116c830899">
           <div class="v-style-70ce1df5f628"><input id="pt-correo" type="email" autocomplete="email" aria-label="Tu correo" placeholder="tu@correo.cl" class="v-style-50695e912f5a"></div>
-          <button sc-camel-on-click="{{ join }}" class="v-style-d64a7b039033">Únete a la espera</button>
+          <button data-vamoa-press="" sc-camel-on-click="{{ join }}" class="v-style-d64a7b039033">Únete a la espera</button>
         </div>
         <sc-if value="{{ joinError }}" hint-placeholder-val="{{ false }}"><p role="alert" class="v-style-bc885a3abce2">Escribe un correo válido, como nombre@correo.cl.</p></sc-if>
       </sc-if>
@@ -91,21 +92,33 @@
     <div class="v-style-ae145ac00278">
       <div class="v-style-cb29959e1914">
         <span class="v-style-6be7c0635a62">COMER ES MEJOR ACOMPAÑADO</span>
-        <h2 class="v-style-d4d47cbf5294">Invita a tu amigo. <span class="v-style-f9e079508091">Planeen su próxima salida.</span></h2>
-        <p class="v-style-a68e7a2392df">Mándale tu código o tu link para que se sume a Vamo’a y descubran dónde comer juntos.</p>
+        <sc-if value="{{ invitacionesSinBono }}">
+          <h2 class="v-style-d4d47cbf5294">Invita a tu amigo. <span class="v-style-f9e079508091">Planeen su próxima salida.</span></h2>
+          <p class="v-style-a68e7a2392df">Mándale tu código o tu link para que se sume a Vamo’a y descubran dónde comer juntos.</p>
+        </sc-if>
+        <sc-if value="{{ invitacionesConBono }}">
+          <h2 class="v-style-d4d47cbf5294">Invita a tu amigo. <span class="v-style-f9e079508091">Ganen {{ premioInvitacion }} en créditos cada uno.</span></h2>
+          <ol class="v-referral-steps">
+            <li><span aria-hidden="true">1</span><p>Mándale tu código o tu link.</p></li>
+            <li><span aria-hidden="true">2</span><p>Tu amigo paga al menos {{ minimoInvitado }}.</p></li>
+            <li><span aria-hidden="true">3</span><p>Entre los dos llegan a {{ minimoConjunto }} y cada uno recibe {{ premioInvitacion }} en créditos para comer.</p></li>
+          </ol>
+          <p class="v-referral-note">En una o varias visitas, con su propio dinero. No cuentan créditos, bienvenida ni propina. Cada peso cuenta para una sola invitación.</p>
+          <a class="v-referral-terms" href="https://www.vamoa.cl/terminos#invitaciones">Condiciones</a>
+        </sc-if>
         <div class="v-style-161d174efbf8">
-          <a href="#lista" sc-camel-on-click="{{ goWaitlist }}" style-hover="background:#C4D04A;color:#18332C" class="v-style-77f60828e60c"><span class="v-style-85c8a2dd579c">ios_share</span>Compartir mi link</a>
+          <a href="#lista" sc-camel-on-click="{{ goWaitlist }}" style-hover="background:#C4D04A;color:#18332C" class="v-style-77f60828e60c"><span class="v-style-85c8a2dd579c">arrow_downward</span>Unirme a la lista de espera</a>
           <span class="v-style-28130cf7decb">JVR4K7 <span class="v-style-8eb04ca9ab69">content_copy</span></span>
         </div>
       </div>
       <div class="v-style-64c9ab0d0119">
         <div class="v-style-23285ca05564"></div>
         <div class="v-style-36d43d9d914e">
-          <div class="v-style-657a591033c7"><div style-hover="transform:rotate(0deg) scale(1.06)" class="v-style-033dc2f57a0a"><div class="v-style-b4e7d324c7e6"><span class="v-style-804bcc078552">JP</span><span class="v-style-75515584d0a3">Tú</span></div><span class="v-style-b43486b7616f">Invitaste a Matías</span><span class="v-style-03b2c6df4db8">Para salir juntos</span></div></div>
+          <div class="v-style-657a591033c7"><div style-hover="transform:rotate(0deg) scale(1.06)" class="v-style-033dc2f57a0a"><div class="v-style-b4e7d324c7e6"><span class="v-style-804bcc078552">JP</span><span class="v-style-75515584d0a3">Tú</span></div><span class="v-style-b43486b7616f"><sc-if value="{{ invitacionesSinBono }}">Invitaste a Matías</sc-if><sc-if value="{{ invitacionesConBono }}">+{{ premioInvitacion }}</sc-if></span><span class="v-style-03b2c6df4db8"><sc-if value="{{ invitacionesSinBono }}">Para salir juntos</sc-if><sc-if value="{{ invitacionesConBono }}">Por invitar a Matías</sc-if></span></div></div>
           <div class="v-style-002a2c08dfb9">🥂</div>
-          <div class="v-style-5813367ce592"><div style-hover="transform:rotate(0deg) scale(1.06)" class="v-style-b4236d6c1092"><div class="v-style-b4e7d324c7e6"><span class="v-style-804bcc078552">MS</span><span class="v-style-75515584d0a3">Tu amigo</span></div><span class="v-style-a35560743d60">¡Vamos!</span><span class="v-style-03b2c6df4db8">Una salida juntos</span></div></div>
+          <div class="v-style-5813367ce592"><div style-hover="transform:rotate(0deg) scale(1.06)" class="v-style-b4236d6c1092"><div class="v-style-b4e7d324c7e6"><span class="v-style-804bcc078552">MS</span><span class="v-style-75515584d0a3">Tu amigo</span></div><span class="v-style-a35560743d60"><sc-if value="{{ invitacionesSinBono }}">¡Vamos!</sc-if><sc-if value="{{ invitacionesConBono }}">+{{ premioInvitacion }}</sc-if></span><span class="v-style-03b2c6df4db8"><sc-if value="{{ invitacionesSinBono }}">Una salida juntos</sc-if><sc-if value="{{ invitacionesConBono }}">Para su próxima salida</sc-if></span></div></div>
         </div>
-        <div class="v-style-4fbeed473fc2"><span class="v-style-b978568bec6b"></span>Matías aceptó tu invitación</div>
+        <div class="v-style-4fbeed473fc2"><span class="v-style-b978568bec6b"></span><sc-if value="{{ invitacionesSinBono }}">Matías aceptó tu invitación</sc-if><sc-if value="{{ invitacionesConBono }}">Bono acreditado a los dos</sc-if></div>
       </div>
     </div>
   </section>

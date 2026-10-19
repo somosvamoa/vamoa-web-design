@@ -1,0 +1,870 @@
+{
+  "source": "VamoaLienzos/invitaciones-y-arreglos",
+  "boards": [
+    {
+      "board": "Main.dc.html",
+      "id": "5.8",
+      "sha256": "686afb28c2a3734249642faf2f154caecc9918bda973a10a0accf88d6280cd99"
+    },
+    {
+      "board": "Invitar-como-funciona.dc.html",
+      "id": "invitacion.reglas",
+      "sha256": "b53c2995c946fcc61c6912ebe571e6a5736519f610416d47e9b8b018d2349058"
+    },
+    {
+      "board": "Invitar-medida.dc.html",
+      "id": "invitacion.reparto",
+      "sha256": "2bc6cf051e4cbd1eda06135705ddea2e9bd6fd6d46f822f49adfa6f8bbb2a8b6"
+    },
+    {
+      "board": "Alerta-guardar.dc.html",
+      "id": "invitacion.confirmar",
+      "sha256": "45d2692d52f0f50939211df94c572243f5f09fac07bb0a7239d599212b2f4fb4"
+    },
+    {
+      "board": "Hoja-partes.dc.html",
+      "id": "invitacion.partes",
+      "sha256": "5493414fbb83c26fde970c9112f9d4bb2a20d1ce88113e79baa06a9c6d1f0ac7"
+    },
+    {
+      "board": "Hoja-elegir.dc.html",
+      "id": "invitacion.elegir",
+      "sha256": "1ade99c6034eb9a83d263fb8e66448b014503edd3893a74a3843d9cc5e9a558c"
+    },
+    {
+      "board": "Invitar-error.dc.html",
+      "id": "invitacion.error",
+      "sha256": "2c6dad3916b282a71059872b46586a12392678b8613646545ca5cdc68ab04a06"
+    },
+    {
+      "board": "Saldo.dc.html",
+      "id": "4.2",
+      "sha256": "fa0206bb672a697446d832e910638ad42101d553050fac53f94e73c747550129"
+    },
+    {
+      "board": "Mesa-despues.dc.html",
+      "id": "dividir.configurar",
+      "sha256": "af44334590748c61468be5bffcb60ed5bf4137463ea63b234a979de276506af6"
+    },
+    {
+      "board": "Saldo-carga-despues.dc.html",
+      "id": "creditos.error",
+      "sha256": "7a48a595704860aa05245d93a43ea6b5208a80bb7ea2c4ed5715d84e7043d33e"
+    },
+    {
+      "board": "Montos-despues.dc.html",
+      "id": "dividir.montos",
+      "sha256": "62e55e753911a00fca69f26e01b3cf5d82d00c44fb9ddbdf03a6a44dd10c80bd"
+    },
+    {
+      "board": "Saldo-premio-despues.dc.html",
+      "id": "creditos.premio",
+      "sha256": "236b73498acaa3647f84b2e6fc67fdf7b3a4a56c9a7d0ed5eecada0756c3b762"
+    },
+    {
+      "board": "Progreso-despues.dc.html",
+      "id": "invitacion.invitados",
+      "sha256": "62c36816dcde659c86ab08fd81d8c712ed885a09423b3560480a95e283f7efbc"
+    },
+    {
+      "board": "Fintoc-confirmar.dc.html",
+      "id": "fintoc.confirmar",
+      "sha256": "1acef43c2c5ad469cf39225e7da2dfdb6b75777203818ec8b58c301735900ab7"
+    },
+    {
+      "board": "Fintoc-externo-elegir.dc.html",
+      "id": "fintoc.externo-elegir",
+      "sha256": "6130e29627eecbff6d495191c91dc4fb046b3d224400d99171cb345a506998fd"
+    },
+    {
+      "board": "Fintoc-externo-tarjeta.dc.html",
+      "id": "fintoc.externo-tarjeta",
+      "sha256": "09dd1b2f989ed2349de70334964e020e378d7405028aa0c2141f1916d6f1c971"
+    },
+    {
+      "board": "Fintoc-externo-banco.dc.html",
+      "id": "fintoc.externo-banco",
+      "sha256": "5e86eb218d55a22e412240b179a2272d1e2520c2fb76f3bca8f2868094716da8"
+    },
+    {
+      "board": "Fintoc-verificando.dc.html",
+      "id": "fintoc.verificando",
+      "sha256": "6dd11deac3ab9e8c7bbc4465579e663c96459671d1e93157e639c540b4ab9c99"
+    },
+    {
+      "board": "Fintoc-pendiente.dc.html",
+      "id": "fintoc.pendiente",
+      "sha256": "cad444ddaa3dd03dea3188019695451689c5d148bf4459bb12f61f20baba491c"
+    },
+    {
+      "board": "Fintoc-vencido.dc.html",
+      "id": "fintoc.vencido",
+      "sha256": "ce6945c174795a58031deb18cb3dc73c75389a624128bf5c94f346456ed4d109"
+    },
+    {
+      "board": "Fintoc-comprobante-tarjeta.dc.html",
+      "id": "fintoc.comprobante-tarjeta",
+      "sha256": "49d6e6a70bd4ba117aabb68dbfcbf64bf660719deca58b13f774642c4b4dac54"
+    },
+    {
+      "board": "Fintoc-comprobante-banco.dc.html",
+      "id": "fintoc.comprobante-banco",
+      "sha256": "137898f23784765661a683eb5643f8fe5ad13f8f4c9f3eee664a7999a98481c2"
+    },
+    {
+      "board": "Fintoc-metodos.dc.html",
+      "id": "fintoc.metodos",
+      "sha256": "3059b4dbe11bce7c10c2b7d8593d65a1165ca41987521b96c24f57c3fea1985e"
+    },
+    {
+      "board": "Fintoc-creditos.dc.html",
+      "id": "fintoc.creditos",
+      "sha256": "147eb6b170c8c71ef0e0977151e76256bf1c8dda6a7325ce8bc98742edf9f09c"
+    },
+    {
+      "board": "Fintoc-solo-propina.dc.html",
+      "id": "fintoc.solo-propina",
+      "sha256": "253a7b4f70bc1efce6a37c6b1c3c1a28dfac2098e3ced98d0c6f9daaad86fe3a"
+    },
+    {
+      "board": "Carta-letra-despues.dc.html",
+      "id": "accesibilidad.carta",
+      "sha256": "a04d7a29ebd7236d763922f629ab698f383deef523084e3f754a296a8e28fef3"
+    },
+    {
+      "board": "Bienvenida-letra-despues.dc.html",
+      "id": "accesibilidad.bienvenida",
+      "sha256": "d1ed9d1e3f007afa36b8d06ba392a0a4351bd1d0806235de26f1cc85bf5ec687"
+    },
+    {
+      "board": "Ajustes-areas-despues.dc.html",
+      "id": "accesibilidad.ajustes",
+      "sha256": "0afcbf254f4c555fa6ddc035f2eb241224ae7fb6b3c29be592254b90b30c5452"
+    },
+    {
+      "board": "Ranking-error-despues.dc.html",
+      "id": "ranking.error",
+      "sha256": "0b449baddd80a8e7023fc1d79ad2f9236e093306931a553026dcba81a13b6715"
+    },
+    {
+      "board": "Mas-voiceover-despues.dc.html",
+      "id": "accesibilidad.restaurante",
+      "sha256": "fafe789c46cd8fc8558362314c2eb9c51395100bce8928005cb885bd1b92d2de"
+    },
+    {
+      "board": "Repetir-talkback-despues.dc.html",
+      "id": "accesibilidad.repetir",
+      "sha256": "e404f93d56e413e6fbcd22005c1d16803d2a6c05f7198b83bc1cc28478c7f402"
+    },
+    {
+      "board": "Segundo-factor-codigo-despues.dc.html",
+      "id": "accesibilidad.segundo-factor",
+      "sha256": "52b3bfc0659228f61a207c4b6d264a63387ad02561ecee1b912c0b1e0fdfa509"
+    },
+    {
+      "board": "Botones-area-despues.dc.html",
+      "id": "accesibilidad.botones",
+      "sha256": "0f3683ac50505781e74ecdb26505647db218c82f59518c74f1009e2531935af1"
+    },
+    {
+      "board": "Devolucion-motivo.dc.html",
+      "id": "devolucion.motivo",
+      "sha256": "f10faddb5878e20350179dd2f98d0402d9a29fee6b8d8a6bde1f9e4d2b590a65"
+    },
+    {
+      "board": "Devolucion-cobro-en-caja.dc.html",
+      "id": "devolucion.cobro-en-caja",
+      "sha256": "d6dc209a26b16eba659a25e5aa356ed7244c94719bef5236d8941bd634680aaa"
+    },
+    {
+      "board": "Devolucion-parte-consumo.dc.html",
+      "id": "devolucion.parte-consumo",
+      "sha256": "f17c9946ccea6e3d9892be9bae061a5baf9b92737bba1d96e73a7f0c0e0ea2ed"
+    },
+    {
+      "board": "Devolucion-enviada.dc.html",
+      "id": "devolucion.enviada",
+      "sha256": "e42378ad6d994de7f29a73fe1a00689a73276d188e0436dd68f4204e8f501a8a"
+    },
+    {
+      "board": "Admin-consulta-devolucion.dc.html",
+      "id": "admin.consulta-devolucion",
+      "sha256": "bc1253975acaaa6cdfe5504ef0b9aa4c3ce3edd099e31ec41b9a2d19225a1649"
+    },
+    {
+      "board": "Admin-recupero.dc.html",
+      "id": "admin.recupero",
+      "sha256": "82aaf4dc0c41b0b27f32b1cf15ae807a7f90154c573150d4dc083c1f168d0dcf"
+    },
+    {
+      "board": "Admin-finanzas-recuperos.dc.html",
+      "id": "admin.finanzas-recuperos",
+      "sha256": "47be94014b0126e2a2bc5fcf0c74fe685364cb8bdf9e64e2f1dfb54b91164cb7"
+    },
+    {
+      "board": "Portal-recuperos.dc.html",
+      "id": "portal.recuperos",
+      "sha256": "a63e382bcd79f0276bd1aa42622cbece62cea1442c28cf6eab5118f5ebf19b79"
+    },
+    {
+      "board": "Restaurante-recuperos.dc.html",
+      "id": "restaurante.recuperos",
+      "sha256": "fa00f582db8edae8cb071dc5f9ad383175139e7dac575467912cc58a06da1b46"
+    },
+    {
+      "board": "Restaurante-recupero-detalle.dc.html",
+      "id": "restaurante.recupero-detalle",
+      "sha256": "0f1554098788578d9337f6bd1043417494fad32a46e0f090af12b54acd1d224d"
+    },
+    {
+      "board": "Fintoc-rechazado.dc.html",
+      "id": "3.9",
+      "sha256": "6c5c11b334994cd7f767dc863a1023bd3031e5fb78e790349e4bf3491d20befb"
+    }
+  ],
+  "coverage": [
+    {
+      "board": "Main.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "5.8"
+    },
+    {
+      "board": "Invitar-como-funciona.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.reglas"
+    },
+    {
+      "board": "Invitar-medida.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.reparto"
+    },
+    {
+      "board": "Alerta-guardar.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.confirmar"
+    },
+    {
+      "board": "Hoja-partes.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.partes"
+    },
+    {
+      "board": "Hoja-elegir.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.elegir"
+    },
+    {
+      "board": "Invitar-error.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.error"
+    },
+    {
+      "board": "Saldo.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/saldo.tsx"
+      ],
+      "view": "4.2"
+    },
+    {
+      "board": "Mesa-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/mesa/nueva.tsx",
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ]
+    },
+    {
+      "board": "Mesa-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/mesa/nueva.tsx",
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ],
+      "view": "dividir.configurar"
+    },
+    {
+      "board": "Pago-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ]
+    },
+    {
+      "board": "Pago-despues.dc.html",
+      "state": "duplicate",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ]
+    },
+    {
+      "board": "Saldo-carga-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/saldo.tsx"
+      ]
+    },
+    {
+      "board": "Saldo-carga-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/saldo.tsx"
+      ],
+      "view": "creditos.error"
+    },
+    {
+      "board": "Montos-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/mesa/nueva.tsx",
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ]
+    },
+    {
+      "board": "Montos-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/mesa/nueva.tsx",
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ],
+      "view": "dividir.montos"
+    },
+    {
+      "board": "Invitar-texto-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ]
+    },
+    {
+      "board": "Invitar-texto-despues.dc.html",
+      "state": "duplicate",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ]
+    },
+    {
+      "board": "Saldo-premio-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/saldo.tsx"
+      ]
+    },
+    {
+      "board": "Saldo-premio-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/saldo.tsx"
+      ],
+      "view": "creditos.premio"
+    },
+    {
+      "board": "Progreso-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ]
+    },
+    {
+      "board": "Progreso-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/invitar.tsx",
+        "Vamoa/apps/mobile/src/referral-allocation.tsx",
+        "Vamoa/apps/mobile/src/referral-progress.tsx"
+      ],
+      "view": "invitacion.invitados"
+    },
+    {
+      "board": "Web-hoy.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Web-opcion-a.dc.html",
+      "state": "alternative_not_selected",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Web-opcion-b.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Web-hoy-movil.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Web-opcion-a-movil.dc.html",
+      "state": "alternative_not_selected",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Web-opcion-b-movil.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/parati.html",
+        "Vamoa/apps/web/src/app/clientes/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/parati.json"
+      ]
+    },
+    {
+      "board": "Fintoc-confirmar.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ],
+      "view": "fintoc.confirmar"
+    },
+    {
+      "board": "Fintoc-preparando.dc.html",
+      "state": "duplicate",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pago-en-curso.tsx"
+      ]
+    },
+    {
+      "board": "Fintoc-externo-elegir.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/checkout-procesador.tsx"
+      ],
+      "view": "fintoc.externo-elegir"
+    },
+    {
+      "board": "Fintoc-externo-tarjeta.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/checkout-procesador.tsx"
+      ],
+      "view": "fintoc.externo-tarjeta"
+    },
+    {
+      "board": "Fintoc-externo-banco.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/checkout-procesador.tsx"
+      ],
+      "view": "fintoc.externo-banco"
+    },
+    {
+      "board": "Fintoc-verificando.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/pago-pendiente.tsx",
+        "Vamoa/apps/mobile/src/payment-recovery.ts"
+      ],
+      "view": "fintoc.verificando"
+    },
+    {
+      "board": "Fintoc-pendiente.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/pago-pendiente.tsx",
+        "Vamoa/apps/mobile/src/payment-recovery.ts"
+      ],
+      "view": "fintoc.pendiente"
+    },
+    {
+      "board": "Fintoc-rechazado.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ],
+      "view": "3.9"
+    },
+    {
+      "board": "Fintoc-vencido.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ],
+      "view": "fintoc.vencido"
+    },
+    {
+      "board": "Fintoc-comprobante-tarjeta.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/t/[id].tsx",
+        "Vamoa/apps/mobile/src/resumen-del-comprobante.tsx"
+      ],
+      "view": "fintoc.comprobante-tarjeta"
+    },
+    {
+      "board": "Fintoc-comprobante-banco.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/t/[id].tsx",
+        "Vamoa/apps/mobile/src/resumen-del-comprobante.tsx"
+      ],
+      "view": "fintoc.comprobante-banco"
+    },
+    {
+      "board": "Fintoc-metodos.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/metodos.tsx"
+      ],
+      "view": "fintoc.metodos"
+    },
+    {
+      "board": "Fintoc-creditos.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ],
+      "view": "fintoc.creditos"
+    },
+    {
+      "board": "Fintoc-solo-propina.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/pagar-confirmar.tsx",
+        "Vamoa/apps/mobile/app/pagar/[slug].tsx",
+        "Vamoa/apps/mobile/app/mesa/[id]/pagar.tsx"
+      ],
+      "view": "fintoc.solo-propina"
+    },
+    {
+      "board": "Landing-hoy.dc.html",
+      "state": "before",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Landing-opcion-a.dc.html",
+      "state": "alternative_not_selected",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Landing-opcion-b.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Landing-hoy-movil.dc.html",
+      "state": "before",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Landing-opcion-a-movil.dc.html",
+      "state": "alternative_not_selected",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Landing-opcion-b-movil.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "VamoaDesign/index.html",
+        "Vamoa/apps/web/src/app/page.tsx",
+        "Vamoa/apps/web/src/ui/diseno-publico/index.json"
+      ]
+    },
+    {
+      "board": "Revision-vistas.dc.html",
+      "state": "review_report",
+      "implementation": [
+        "Vamoa/.claude/skills/revisar-app/SKILL.md"
+      ]
+    },
+    {
+      "board": "Carta-letra-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/carta/[slug].tsx"
+      ]
+    },
+    {
+      "board": "Carta-letra-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/carta/[slug].tsx"
+      ],
+      "view": "accesibilidad.carta"
+    },
+    {
+      "board": "Bienvenida-letra-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/src/bienvenida.tsx"
+      ]
+    },
+    {
+      "board": "Bienvenida-letra-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/bienvenida.tsx"
+      ],
+      "view": "accesibilidad.bienvenida"
+    },
+    {
+      "board": "Ajustes-areas-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/ajustes.tsx"
+      ]
+    },
+    {
+      "board": "Ajustes-areas-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/ajustes.tsx"
+      ],
+      "view": "accesibilidad.ajustes"
+    },
+    {
+      "board": "Ranking-error-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/ranking.tsx"
+      ]
+    },
+    {
+      "board": "Ranking-error-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/ranking.tsx"
+      ],
+      "view": "ranking.error"
+    },
+    {
+      "board": "Mas-voiceover-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/restaurante/(pestanas)/mas.tsx"
+      ]
+    },
+    {
+      "board": "Mas-voiceover-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/restaurante/(pestanas)/mas.tsx"
+      ],
+      "view": "accesibilidad.restaurante"
+    },
+    {
+      "board": "Repetir-talkback-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/repetir/[id].tsx"
+      ]
+    },
+    {
+      "board": "Repetir-talkback-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/repetir/[id].tsx"
+      ],
+      "view": "accesibilidad.repetir"
+    },
+    {
+      "board": "Segundo-factor-codigo-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/app/segundo-factor.tsx"
+      ]
+    },
+    {
+      "board": "Segundo-factor-codigo-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/segundo-factor.tsx"
+      ],
+      "view": "accesibilidad.segundo-factor"
+    },
+    {
+      "board": "Botones-area-antes.dc.html",
+      "state": "before",
+      "implementation": [
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ]
+    },
+    {
+      "board": "Botones-area-despues.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/src/ui.tsx"
+      ],
+      "view": "accesibilidad.botones"
+    },
+    {
+      "board": "Devolucion-motivo.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/reportar.tsx",
+        "Vamoa/apps/mobile/src/solicitud-de-devolucion.tsx"
+      ],
+      "view": "devolucion.motivo"
+    },
+    {
+      "board": "Devolucion-cobro-en-caja.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/reportar.tsx",
+        "Vamoa/apps/mobile/src/solicitud-de-devolucion.tsx"
+      ],
+      "view": "devolucion.cobro-en-caja"
+    },
+    {
+      "board": "Devolucion-parte-consumo.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/reportar.tsx",
+        "Vamoa/apps/mobile/src/solicitud-de-devolucion.tsx"
+      ],
+      "view": "devolucion.parte-consumo"
+    },
+    {
+      "board": "Devolucion-enviada.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/cuenta/reportar.tsx",
+        "Vamoa/apps/mobile/src/solicitud-de-devolucion.tsx"
+      ],
+      "view": "devolucion.enviada"
+    },
+    {
+      "board": "Admin-consulta-devolucion.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/web/src/app/admin/consultas/[id]/page.tsx"
+      ],
+      "view": "admin.consulta-devolucion"
+    },
+    {
+      "board": "Admin-recupero.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/web/src/app/admin/transacciones/[id]/page.tsx"
+      ],
+      "view": "admin.recupero"
+    },
+    {
+      "board": "Admin-finanzas-recuperos.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/web/src/app/admin/finanzas/page.tsx"
+      ],
+      "view": "admin.finanzas-recuperos"
+    },
+    {
+      "board": "Portal-recuperos.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/web/src/app/merchant/recuperos/page.tsx"
+      ],
+      "view": "portal.recuperos"
+    },
+    {
+      "board": "Restaurante-recuperos.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/restaurante/recuperos.tsx"
+      ],
+      "view": "restaurante.recuperos"
+    },
+    {
+      "board": "Restaurante-recupero-detalle.dc.html",
+      "state": "implemented",
+      "implementation": [
+        "Vamoa/apps/mobile/app/restaurante/recuperos.tsx"
+      ],
+      "view": "restaurante.recupero-detalle"
+    }
+  ],
+  "views": 285,
+  "captures": 286
+}

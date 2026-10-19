@@ -11,7 +11,7 @@ class Component extends DCLogic {
   state = { opening: shouldShowOpening(), sent: false, tick: 0 };
   componentDidMount() { this.startOpening(); if (location.hash === '#sumate') setTimeout(() => this.scrollToId('sumate'), 300); this.t = setInterval(() => this.setState(s => ({ tick: s.tick + 1 })), 2600); }
   componentWillUnmount() { this.stopOpening(); clearInterval(this.t); }
-  scrollToId(id) { const el = document.getElementById(id); if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 80, behavior: 'smooth' }); }
+  scrollToId(id) { const el = document.getElementById(id); if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 80, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' }); }
 
   startOpening() {
     if (!this.state.opening) return;
@@ -31,7 +31,7 @@ class Component extends DCLogic {
 
   renderVals() {
     return { opening: this.state.opening,
-      perks: [["payments","Caja hoy","Te compramos consumo por adelantado."],["volunteer_activism","Propina íntegra","Llega por su propia rama, para el equipo."],["point_of_sale","Conectado a tu caja","La cuenta sale de tu POS. Sin montos a mano."],["replay","Clientes que vuelven","El 20% sólo se usa volviendo a comer."],["qr_code_2","Tu equipo, sin cuenta","Escanean el QR y verifican cada mesa pagada."],["monitoring","Portal en vivo","Consumo, clientes y crédito, cuando quieras."]].map(([i, t, d]) => ({ i, t, d, bg: '#285247', fg: '#FAF7EF', sub: '#A9B4AC', ibg: '#D4DF60', ifg: '#18332C' })),
+      perks: [["payments","Caja hoy","Te compramos consumo por adelantado."],["volunteer_activism","Propina íntegra","Llega íntegra al equipo del local."],["point_of_sale","Conectado a tu caja","La cuenta sale de tu POS. Sin montos a mano."],["replay","Clientes que vuelven","El 20% sólo se usa volviendo a comer."],["qr_code_2","Tu equipo, sin cuenta","Escanean el QR y verifican cada mesa pagada."],["monitoring","Portal en vivo","Consumo, clientes y crédito, cuando quieras."]].map(([i, t, d]) => ({ i, t, d, bg: '#285247', fg: '#FAF7EF', sub: '#A9B4AC', ibg: '#D4DF60', ifg: '#18332C' })),
       steps: [
         { n: '01', t: 'Acordamos y te pagamos', d: 'Fijamos monto, precio y vigencia por contrato. Vamo’a transfiere el precio antes del primer consumo.', bg: '#F2EDDF' },
         { n: '02', t: 'Conectamos tu caja', d: 'Leemos la precuenta desde tu POS y probamos todo en marcha blanca antes de la primera mesa.', bg: '#F2EDDF' },
@@ -39,7 +39,7 @@ class Component extends DCLogic {
         { n: '04', t: 'Cierras la cuenta', d: 'Tu equipo verifica el QR del pago. El local registra y cierra la cuenta, y se rebaja el consumo contratado.', bg: '#D4DF60' }
       ],
       ...this.feedVals(),
-      goSumate: e => { e.preventDefault(); this.scrollToId('sumate'); },
+      goSumate: e => { if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); this.scrollToId('sumate'); },
       goComo: e => { e.preventDefault(); this.scrollToId('como'); },
       sent: this.state.sent, notSent: !this.state.sent,
       rsError: !!this.state.rsError,

@@ -1,0 +1,145 @@
+/* Lienzo web: la estructura y el zoom del lienzo de la app, con capturas en vez de vistas vivas. */
+
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('../assets/fuentes/geist-mono-500.ttf') format('truetype');
+  font-weight: 500;
+}
+
+.web-aviso {
+  padding: 8px 18px;
+  background: #1b3528;
+  border-bottom: 1px solid #314e39;
+  color: #c7d2c2;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.web-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 56px 40px;
+  align-items: flex-start;
+  max-width: 3200px;
+}
+
+.web-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid transparent;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
+.web-frame:hover {
+  border-color: #314e39;
+}
+
+.web-frame.is-selected {
+  border-color: #d4df60;
+  background: #10241b;
+}
+
+.web-frame-head {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-width: 1120px;
+}
+
+.web-frame-title {
+  margin: 0;
+  font: 650 17px/1.25 Bricolage, Georgia, serif;
+  letter-spacing: -0.01em;
+  color: #f6f1e7;
+}
+
+.web-frame-route {
+  font: 500 11px/1.4 'Geist Mono', ui-monospace, monospace;
+  color: #a9baae;
+  overflow-wrap: anywhere;
+}
+
+.web-estado {
+  align-self: flex-start;
+  padding: 3px 9px;
+  border: 1px solid #52664b;
+  border-radius: 999px;
+  background: #18332c;
+  color: #c8d5bd;
+  font-size: 10px;
+  line-height: 1.4;
+}
+
+.web-estado.maqueta {
+  border-color: #6f7a17;
+  color: #d4df60;
+}
+
+.web-estado.sin-diseno {
+  border-color: #75573e;
+  background: #392d23;
+  color: #ffb298;
+}
+
+.web-capturas {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+/* Cada captura muestra su primera pantalla; la completa se abre desde la selección. */
+.web-captura {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.web-captura figcaption {
+  font-size: 10px;
+  color: #a9b7a4;
+}
+
+.web-captura img {
+  display: block;
+  object-fit: cover;
+  object-position: top;
+  background: #f2eddf;
+  border-radius: 14px;
+  box-shadow: 0 8px 35px #0005;
+}
+
+.web-captura.movil img {
+  width: 300px;
+  height: 649px;
+  border-radius: 28px;
+}
+
+.web-captura.escritorio img {
+  width: 800px;
+  height: 500px;
+}
+
+.web-largo {
+  font-size: 10px;
+  color: #a9baae;
+}
+
+.canvas-index-item.web-index-item span:first-child {
+  width: auto;
+  flex: 1;
+  color: inherit;
+  font-size: 10px;
+}
+
+.canvas-selection a {
+  color: #d4df60;
+}
+
+.canvas-selection .web-sel-ruta {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  color: #a9baae;
+}

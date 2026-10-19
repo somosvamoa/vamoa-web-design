@@ -52,9 +52,10 @@ def main():
             reference(value, css)
 
     views = json.loads((ROOT / 'assets/app/vistas.json').read_text())
-    assert len(views) == 242
-    assert len({view['id'] for view in views}) == 242
-    assert sum(bool(view['consumer']) for view in views) == 192
+    integration = json.loads((ROOT / 'assets/app/lienzo-integracion.json').read_text())
+    assert len(views) == integration['views']
+    assert len({view['id'] for view in views}) == len(views)
+    assert {item['id'] for item in integration['boards']} <= {view['id'] for view in views}
     captures = []
     for view in views:
         for markup in [view['phone'], *view.get('phoneByRole', {}).values()]:
@@ -65,7 +66,7 @@ def main():
             name = capture['file'] + '.png'
             captures.append(name)
             reference('../assets/app/capturas/' + name, ROOT / 'guia/pantalla.html')
-    assert len(captures) == len(set(captures)) == 243
+    assert len(captures) == len(set(captures)) == integration['captures']
 
     catalog = json.loads((ROOT / 'assets/recursos.json').read_text())
     for item in catalog:
@@ -73,6 +74,38 @@ def main():
         assert hashlib.sha256(path.read_bytes()).hexdigest() == item['sha256'], item['file']
     for item in json.loads((ROOT / 'assets/origenes.json').read_text()):
         assert hashlib.sha256((ROOT / item['archivo']).read_bytes()).hexdigest() == item['sha256'], item['archivo']
+
+    web = json.loads((ROOT / 'assets/web/vistas.json').read_text())
+    assert len({view['id'] for view in web['vistas']}) == len(web['vistas'])
+    assert {view['seccion'] for view in web['vistas']} <= {section['id'] for section in web['secciones']}
+    web_files = set()
+    for view in web['vistas']:
+        for kind in ('movil', 'escritorio'):
+            path = ROOT / view[kind]['archivo']
+            web_files.add(path.name)
+            if not path.exists():
+                ERRORS.append(f'{view["id"]}: falta la captura {view[kind]["archivo"]}')
+            elif hashlib.sha256(path.read_bytes()).hexdigest() != view[kind]['sha256']:
+                ERRORS.append(f'{view["id"]}: la captura {view[kind]["archivo"]} no coincide con su hash')
+        if view['diseno'].get('enlace'):
+            reference(view['diseno']['enlace'], ROOT / 'guia/web-lienzo.html')
+    sobrantes = {path.name for path in (ROOT / 'assets/web/capturas').iterdir()} - web_files
+    if sobrantes:
+        ERRORS.append(f'assets/web/capturas: capturas sin pantalla {sorted(sobrantes)}')
+
+    mails = json.loads((ROOT / 'assets/correos/correos.json').read_text())
+    assert len({mail['id'] for mail in mails['correos']}) == len(mails['correos'])
+    mail_files = {'correos.json'}
+    for item in [*mails['correos'], *mails['recursos']]:
+        path = ROOT / item['archivo']
+        mail_files.add(path.name)
+        if not path.exists():
+            ERRORS.append(f'assets/correos: falta {item["archivo"]}')
+        elif hashlib.sha256(path.read_bytes()).hexdigest() != item['sha256']:
+            ERRORS.append(f'assets/correos: {item["archivo"]} no coincide con su hash')
+    sobrantes = {path.name for path in (ROOT / 'assets/correos').iterdir()} - mail_files
+    if sobrantes:
+        ERRORS.append(f'assets/correos: archivos sin correo {sorted(sobrantes)}')
 
     with zipfile.ZipFile(ROOT / 'guia/pantallas-vamoa.zip') as archive:
         for name in captures:
@@ -82,7 +115,7 @@ def main():
 
     if ERRORS:
         raise SystemExit('\n'.join(ERRORS))
-    print(json.dumps({'pages': len(pages), 'views': len(views), 'captures': len(captures), 'catalog_images': len(catalog), 'errors': 0}))
+    print(json.dumps({'pages': len(pages), 'views': len(views), 'captures': len(captures), 'web_views': len(web['vistas']), 'emails': len(mails['correos']), 'catalog_images': len(catalog), 'errors': 0}))
 
 
 if __name__ == '__main__':

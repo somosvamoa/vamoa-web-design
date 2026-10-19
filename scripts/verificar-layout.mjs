@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { openBrowser, base } from './navegador.mjs';
 
-const pages = ['guia/app-lienzo.html', 'guia/app.html', 'guia/index.html',
+const pages = ['guia/app-lienzo.html', 'guia/app.html', 'guia/index.html', 'guia/correos.html',
   'guia/pantalla.html?id=5.8', 'recursos.html', 'portales.html',
   'index.html', 'parati.html', 'restaurantes.html', 'contacto.html'];
 const widths = [320, 360, 390, 568, 768, 920, 1100, 1440];
@@ -73,7 +73,7 @@ try {
         await page.select('#canvas-status', 'todos');
         if (width <= 760) await page.click('#canvas-index-toggle');
         await verify(name, width);
-        for (const id of ['dividir.inicio', 'verificacion.pagada']) {
+        for (const id of ['dividir.inicio', 'verificacion.completa']) {
           if (width <= 760 && !await page.$eval('#canvas-sidebar', sidebar => sidebar.classList.contains('open'))) {
             await page.click('#canvas-index-toggle');
           }

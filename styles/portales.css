@@ -28,3 +28,7 @@
 
 /* Pointer coordinates follow the SVG path without CSS easing or discrete column hits. */
 .chart svg{cursor:crosshair;user-select:none}.chart-hover-label{width:240px;max-width:calc(100% - 8px);padding:12px 14px;border-radius:13px;box-shadow:0 7px 24px #10241b14;line-height:1.5}.chart-hover-label>strong{font-size:11px;font-weight:650;margin-bottom:8px}.chart-hover-label>small{display:block;font-size:9px;color:var(--muted);margin:-3px 0 9px}.chart-hover-label .chart-hover-series{display:grid;grid-template-columns:6px minmax(0,1fr) auto;gap:8px;align-items:center;margin-top:7px;color:var(--muted);font-size:10px}.chart-hover-series i{width:6px;height:6px;border-radius:50%}.chart-hover-series b{font-variant-numeric:tabular-nums;font-size:10px;font-weight:600;white-space:nowrap}.chart-hover-series.active{color:var(--ink)}.chart-hover-label .chart-purchase-text{margin:10px 0 0;padding-top:8px;border-top:1px solid var(--line);color:#9a3b28}.chart-purchases{gap:8px 18px}.chart-purchases span{background:transparent;border:0;border-radius:0;border-left:2px solid #ef684e66;padding:3px 0 3px 9px}
+
+/* El aviso del prototipo archivado: va sobre todo lo demás y no se confunde con el producto. */
+.prototipo-aviso{position:sticky;top:0;z-index:100;margin:0;padding:10px 18px;background:#422a25;color:#f6b599;font:500 13px/1.45 'Schibsted Grotesk',system-ui,sans-serif}
+.prototipo-aviso a{color:#ffd3c2;font-weight:700}

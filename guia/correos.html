@@ -1,0 +1,26 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Correos · Guía · Vamo’a</title><link rel="icon" href="../assets/marca/isotipo.svg"><link rel="stylesheet" href="guia.css"><link rel="stylesheet" href="correos.css">
+<script src="simular-gmail-oscuro.js" defer></script><script src="correos.js" defer></script>
+</head><body class="correos-pagina"><a class="skip" href="#contenido">Ir al contenido</a><header class="top"><a href="index.html" aria-label="Inicio de la guía"><img class="brand" src="../assets/marca/logo.svg" alt="Vamo’a"></a><nav aria-label="Guía de Vamo’a"><a href="index.html">Marca y producto</a><a href="app.html">App</a><a href="index.html#web">Sitio web</a><a class="active" href="correos.html">Correos</a><a href="../portales.html#documento/indice">Portales</a></nav></header>
+<div class="doc-layout">
+ <aside class="doc-sidebar" aria-label="Correos"><strong>Correos</strong><nav id="correos-indice" class="correos-indice"></nav></aside>
+ <main id="contenido" class="doc-main">
+  <header><span class="eyebrow">Correos · generados desde la web</span><h1>Cada correo,<br>en claro y en oscuro.</h1><p>Las plantillas que hoy manda vamoa.cl, renderizadas desde su código con datos de ejemplo. Revisa cada una en los cuatro temas antes de cambiarla: lo que no se ve bien acá, tampoco se va a ver bien en la bandeja.</p></header>
+  <div class="doc-controls">
+   <label><span>Correo</span><select id="correo-elegido"></select></label>
+   <label><span>Ancho</span><select id="correo-ancho"><option value="390">Teléfono · 390 px</option><option value="800">Escritorio · 800 px</option></select></label>
+   <p class="doc-count" id="correo-fuente"></p>
+  </div>
+  <section class="correo" aria-labelledby="correo-nombre">
+   <h2 id="correo-nombre">Cargando correos…</h2>
+   <dl class="correo-datos" id="correo-datos"></dl>
+   <div class="correo-temas" id="correo-temas"></div>
+  </section>
+  <details class="label-guide"><summary>Cómo leer los cuatro temas</summary><div class="grid">
+   <p><strong>Claro.</strong>El correo tal como sale. Así lo muestran Gmail en el computador, Apple Mail y Outlook en claro.</p>
+   <p><strong>Oscuro.</strong>Las reglas de modo oscuro del propio correo. Las usan Apple Mail y los clientes que respetan el tema del sistema.</p>
+   <p><strong>Gmail claro.</strong>Gmail lee un ajuste propio del correo: en las superficies verdes, todo el texto va en blanco, incluido el rótulo lima.</p>
+   <p><strong>Gmail iPhone oscuro, simulado.</strong>Gmail no lee el modo oscuro del correo e invierte cada color por su cuenta, menos las imágenes. La simulación está ajustada a una captura real; antes de un envío importante, confírmalo en un teléfono.</p>
+  </div></details>
+  <p class="notice">Los textos, montos y nombres son de ejemplo. El código vive en el repositorio Vamoa, en <code>apps/web/src/lib/email.ts</code>: los cambios se hacen ahí y se vuelven a importar acá.</p>
+ </main>
+</div></body></html>

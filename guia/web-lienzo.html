@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es" class="canvas-root">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>Web · Lienzo · Vamo’a</title><link rel="icon" href="../assets/marca/isotipo.svg">
+<link rel="stylesheet" href="guia.css"><link rel="stylesheet" href="lienzo.css"><link rel="stylesheet" href="web-lienzo.css">
+</head>
+<body class="canvas-page">
+<a class="skip" href="#canvas-viewport">Ir al lienzo</a>
+<header class="canvas-header">
+ <a href="index.html" aria-label="Guía de Vamo’a"><img src="../assets/marca/logo-light.svg" alt="Vamo’a" width="112" height="34"></a>
+ <div class="canvas-heading"><strong>Web · Lienzo</strong><span id="web-fuente">Capturas de la web real</span></div>
+ <nav class="format-switch canvas-formats" aria-label="Lienzos"><a href="app-lienzo.html">App</a><a href="web-lienzo.html" aria-current="page">Web</a></nav>
+ <a class="canvas-brand-link" href="index.html#web">Marca y producto ↗</a>
+</header>
+<div class="canvas-toolbar">
+ <button type="button" class="canvas-button canvas-index-toggle" id="canvas-index-toggle" aria-controls="canvas-sidebar" aria-expanded="false">Índice ☰</button>
+ <label class="canvas-search"><span>Buscar pantalla</span><input id="web-busqueda" type="search" placeholder="Crédito, ingreso, términos…"></label>
+ <label><span>Sección</span><select id="web-seccion"><option value="todas">Todas las secciones</option></select></label>
+ <label><span>Formato</span><select id="web-formato"><option value="ambos">Teléfono y escritorio</option><option value="movil">Teléfono · 390 px</option><option value="escritorio">Escritorio · 1440 px</option></select></label>
+ <label><span>Diseño</span><select id="web-diseno"><option value="todos">Todas</option><option value="maqueta">Con maqueta vigente</option><option value="prototipo">Sólo prototipo anterior, archivado</option><option value="sin-diseno">Sin diseño en VamoaDesign</option></select></label>
+ <button type="button" class="canvas-button" id="web-restablecer">Restablecer</button>
+ <details class="canvas-help"><summary>Qué es esto</summary><div><p><strong>Origen:</strong> cada pantalla es una captura de la web real de la rama dev, contra el servidor y la base local, con datos de demostración. No es una maqueta: es lo que hoy está construido.</p><p><strong>Datos:</strong> los restaurantes, personas, montos y créditos son simulados. Las cifras de De Calle no son las de su contrato.</p><p><strong>Diseño:</strong> cada pantalla dice si tiene maqueta vigente en VamoaDesign, sólo el prototipo anterior de portales, ya archivado, o ningún diseño.</p><p><strong>Mover:</strong> arrastra el fondo o usa la rueda; Ctrl/⌘ + rueda o los botones − / + para el zoom; flechas y +/− con el lienzo enfocado.</p><p><strong>Abrir:</strong> selecciona una pantalla para abrir su captura completa o su maqueta.</p></div></details>
+</div>
+<div class="web-aviso" role="note">Capturas de la web de la rama dev con datos de demostración de la base local. Ningún monto, persona ni cifra de restaurante es real.</div>
+<main class="canvas-workspace">
+ <aside class="canvas-sidebar" id="canvas-sidebar" aria-label="Índice del lienzo">
+  <div class="canvas-index-head"><strong>Pantallas</strong><span id="web-cuenta" role="status"></span></div>
+  <div id="web-indice"></div>
+  <div class="canvas-empty" id="web-vacio" hidden><p>No hay pantallas para estos filtros.</p></div>
+ </aside>
+ <div class="canvas-viewport" id="canvas-viewport" tabindex="0" role="region" aria-label="Lienzo de pantallas web. Flechas para mover, más y menos para zoom, Inicio para ver todo.">
+  <div class="canvas-world" id="web-mundo"></div>
+ </div>
+</main>
+<footer class="canvas-bottom">
+ <div class="canvas-selection" id="web-seleccion"><span>Selecciona una pantalla para abrir su captura completa.</span></div>
+ <div class="canvas-zoom" aria-label="Zoom del lienzo"><button type="button" id="web-encajar">Vista general</button><button type="button" id="web-menos" aria-label="Alejar">−</button><label><span class="canvas-sr">Porcentaje de zoom</span><input type="number" id="web-zoom" min="2" max="200" step="1" value="40"><span>%</span></label><button type="button" id="web-mas" aria-label="Acercar">+</button></div>
+</footer>
+<script src="web-lienzo.js" defer></script>
+</body></html>

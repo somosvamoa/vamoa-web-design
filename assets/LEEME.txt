@@ -7,4 +7,4 @@ Verificación QR: implementada; el ticket requiere impresora compatible. El sell
 Fotos De Calle: referencia real de producto; confirmar autorización para campañas antes de publicarlas.
 CTA actual: lista de espera.
 Recuperado: 20% del consumo pagado, excluye créditos usados y propina.
-Invitaciones: la composición 5.8 conserva una propuesta visual con premios; los premios nuevos siguen desactivados en el producto.
+Invitaciones: $10.000 en créditos por persona cuando el invitado paga $25.000 y juntos $50.000 con su dinero. Cada peso cuenta una vez; sujeto a habilitación y condiciones del programa.

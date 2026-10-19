@@ -1,0 +1,39 @@
+/*
+ * El botón «Únete a la espera» con flecha que la web dibuja con BotonFlecha
+ * (apps/web/src/ui/boton-flecha.module.css), copiado para la maqueta. Lo carga
+ * scripts/boton-flecha.js en ejecución: no va enlazado en el HTML, así que la importación
+ * de la web no lo lee y la web sigue usando su propio módulo.
+ */
+.vb-boton{position:relative;isolation:isolate;overflow:hidden;display:inline-flex;align-items:center;justify-content:space-between;gap:36px;padding:8px 8px 8px 26px;border:1px solid #18332c;border-radius:99px;color:var(--boton-texto,#18332c);background:var(--boton-fondo,#faf7ef);font-family:'Schibsted Grotesk',system-ui,sans-serif;font-weight:600;text-decoration:none;min-height:64px;transition:border-color 460ms cubic-bezier(.44,0,.56,1)}
+.vb-boton::before{content:'';position:absolute;z-index:1;right:8px;top:8px;width:48px;height:48px;border-radius:50%;background:var(--boton-reveal,#d4df60);transition:transform 460ms cubic-bezier(.44,0,.56,1)}
+.vb-boton:hover::before,.vb-boton:focus-visible::before{transform:scale(14)}
+.vb-boton:hover,.vb-boton:focus-visible{border-color:var(--boton-reveal,#d4df60)}
+.vb-etiqueta{font-size:17px;transition:transform 460ms cubic-bezier(.44,0,.56,1)}
+.vb-espacio-flecha{width:48px;height:48px;flex:none}
+.vb-flecha{color:var(--boton-flecha,#18332c);position:absolute;z-index:2;right:8px;top:8px;display:grid;place-items:center;width:48px;height:48px;border-radius:50%;font-size:27px;pointer-events:none;transition:right 460ms cubic-bezier(.44,0,.56,1),transform 460ms cubic-bezier(.44,0,.56,1)}
+.vb-boton:hover .vb-flecha,.vb-boton:focus-visible .vb-flecha{right:calc(50% - 24px);transform:rotate(45deg)}
+.vb-boton:hover .vb-etiqueta,.vb-boton:focus-visible .vb-etiqueta{transform:translateX(-8px)}
+.vb-boton:active{transform:scale(.97)}
+.vb-boton:focus-visible .vb-flecha{transform:rotate(45deg)}
+.vb-boton:focus-visible{outline:3px solid #bd3f2f;outline-offset:5px}
+.vb-colores-originales{--boton-fondo:#18332c;--boton-texto:#faf7ef;--boton-reveal:#faf7ef;--boton-flecha:#18332c}
+.vb-colores-parati{--boton-fondo:#d4df60;--boton-texto:#18332c;--boton-reveal:#faf7ef;--boton-flecha:#18332c}
+/* La paleta elegida gana sobre el color genérico de los enlaces de la página. */
+.vb-boton[data-boton-colores],.vb-boton[data-boton-colores]:hover{color:var(--boton-texto,#18332c)}
+
+/* El contorno SVG suaviza la curva hacia cada borde recto; los rellenos se enmascaran juntos. */
+.vb-capsula{display:inline-block;padding:0;min-height:0;border:0;border-radius:999px;background:transparent;font-weight:700;cursor:pointer;overflow:visible;box-shadow:0 7px 18px #18332c24;transition:transform 220ms ease,box-shadow 220ms ease}
+.vb-capsula::before{content:none}
+.vb-superficie{position:relative;isolation:isolate;display:flex;align-items:center;justify-content:space-between;gap:36px;height:68px;padding:10px 10px 10px 28px;overflow:hidden;--mascara-capsula:url("data:image/svg+xml,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 265 68%22 preserveAspectRatio%3D%22none%22%3E%3Cpath d%3D%22M46 0H219C232.702 0 245.083 0 255.042 9.958C261.418 16.334 265 24.983 265 34C265 43.017 261.418 51.666 255.042 58.042C245.083 68 232.702 68 219 68H46C32.298 68 19.917 68 9.958 58.042C3.582 51.666 0 43.017 0 34C0 24.983 3.582 16.334 9.958 9.958C19.917 0 32.298 0 46 0Z%22%2F%3E%3C%2Fsvg%3E");-webkit-mask-image:var(--mascara-capsula);mask-image:var(--mascara-capsula);-webkit-mask-size:100% 100%;mask-size:100% 100%;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;transform:translateZ(0);background:var(--boton-fondo)}
+.vb-superficie::before{content:'';position:absolute;z-index:1;inset:0;background:var(--boton-reveal);clip-path:circle(24px at calc(100% - 34px) 34px);transition:clip-path 560ms cubic-bezier(.22,1,.36,1)}
+.vb-capsula:hover .vb-superficie::before,.vb-capsula:focus-visible .vb-superficie::before{clip-path:circle(150% at calc(100% - 34px) 34px)}
+.vb-recorrido-flecha{position:absolute;z-index:2;inset:10px;pointer-events:none;transform:translateX(0);transition:transform 560ms cubic-bezier(.22,1,.36,1)}
+.vb-capsula .vb-flecha,.vb-capsula:hover .vb-flecha,.vb-capsula:focus-visible .vb-flecha{right:0;top:0;transform:none;transition:none}
+.vb-capsula .vb-flecha svg{display:block}
+.vb-capsula .vb-etiqueta{transition:transform 560ms cubic-bezier(.22,1,.36,1)}
+.vb-capsula:hover .vb-recorrido-flecha,.vb-capsula:focus-visible .vb-recorrido-flecha{transform:translateX(calc(-50% + 24px))}
+.vb-capsula:hover,.vb-capsula:focus-visible{transform:translateY(-1px);box-shadow:0 9px 22px #18332c28}
+.vb-capsula:active{transform:translateY(1px) scale(.985);box-shadow:0 3px 9px #18332c24}
+@media(prefers-reduced-motion:reduce){.vb-capsula,.vb-superficie::before,.vb-recorrido-flecha,.vb-capsula .vb-etiqueta{transition:none}.vb-capsula:hover,.vb-capsula:focus-visible,.vb-capsula:active{transform:none}}
+
+@media(prefers-reduced-motion:reduce){.vb-boton,.vb-boton::before,.vb-flecha,.vb-etiqueta{transition:none}.vb-boton:active{transform:none}}

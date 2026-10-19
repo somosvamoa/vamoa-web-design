@@ -1,4 +1,5 @@
 import path from 'node:path';
+import { copyFile } from 'node:fs/promises';
 import { openBrowser, root, base, views, screenReady } from './navegador.mjs';
 
 const requested = new Set(process.argv.slice(2));
@@ -15,6 +16,10 @@ try {
       await page.goto(new URL('guia/pantalla.html?' + query, base).href, { waitUntil: 'load' });
       await screenReady(page);
       await (await page.$('.phone-original')).screenshot({ path: path.join(root, 'assets/app/capturas', capture.file + '.png') });
+      // Direct PNG links from the retired hosted selectors keep the current confirmation.
+      if (view.id === 'fintoc.confirmar') for (const alias of view.aliases) {
+        await copyFile(path.join(root, 'assets/app/capturas', capture.file + '.png'), path.join(root, 'assets/app/capturas', alias + '.png'));
+      }
       count++;
     }
   }

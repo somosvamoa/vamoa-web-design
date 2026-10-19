@@ -1,0 +1,162 @@
+/* Option B: partners toast first; the coin has its own later beat. */
+.v-reference--index .v-payment-partners{
+  --v-partners-cycle:6.4s;
+  position:relative;isolation:isolate;width:min(100%,536px);margin:0 auto;
+  display:flex;flex-direction:column;align-items:center;
+}
+.v-reference--index .v-payment-partners .v-suma{
+  transform-origin:50% 100%;animation:vChinA var(--v-partners-cycle) cubic-bezier(.45,0,.3,1) infinite;
+}
+.v-reference--index .v-payment-partners .v-suma--b{animation-name:vChinB}
+.v-reference--index .v-chin{position:absolute;left:50%;top:-6px;width:0;height:0;z-index:5;pointer-events:none}
+.v-reference--index .v-chin i{
+  position:absolute;left:-1.5px;bottom:0;width:3px;height:12px;border-radius:2px;
+  background:#EF684E;transform-origin:50% 100%;opacity:0;
+  animation:vChispa var(--v-partners-cycle) ease-out infinite;
+}
+.v-reference--index .v-chin i:nth-child(1){--r:-40deg}
+.v-reference--index .v-chin i:nth-child(2){--r:0deg}
+.v-reference--index .v-chin i:nth-child(3){--r:40deg}
+.v-reference--index .v-payment-processor{width:100%;margin-top:36px;display:flex;flex-direction:column;align-items:center;gap:14px}
+.v-reference--index .v-payment-processor-label{
+  position:relative;z-index:4;background:#FAF7EF;padding:0 6px;
+  margin:0;color:#5D6962;font-size:13px;line-height:20px;font-weight:700;
+  letter-spacing:.08em;text-align:center;text-transform:uppercase;
+}
+.v-reference--index .v-payment-processor-card{
+  position:relative;width:calc(50% - 8px);height:132px;border-radius:28px;
+  border:1.5px solid #18332C;display:flex;align-items:center;justify-content:center;
+  padding:22px 30px;transform-origin:50% 100%;
+  animation:vFintocReceive var(--v-partners-cycle) ease-out infinite;
+}
+.v-reference--index .v-payment-processor-card>img{display:block;width:100%;height:auto;max-height:54px;object-fit:contain}
+.v-reference--index .v-payment-coin-slot{
+  position:absolute;top:-2px;left:calc(50% - 22px);width:44px;height:4px;border-radius:50%;
+  background:#18332C;opacity:0;animation:vFintocSlot var(--v-partners-cycle) linear infinite;
+}
+.v-reference--index .v-payment-coin-flight{
+  position:absolute;left:calc(50% - 19px);top:18px;width:38px;height:38px;
+  z-index:3;pointer-events:none;opacity:0;
+  animation:vFintocCoinFlight var(--v-partners-cycle) linear infinite;
+}
+.v-reference--index .v-payment-coin{
+  position:relative;display:grid;place-items:center;width:38px;height:38px;border-radius:50%;
+  background:linear-gradient(135deg,#EDF3AD 0%,#D4DF60 45%,#ACB43F 100%);
+  border:2px solid #18332C;color:#18332C;
+  box-shadow:2px 2px 0 #8B9635,3px 3px 0 #18332C,0 5px 9px #18332C24;
+  font:800 22px/1 'Schibsted Grotesk',sans-serif;
+  animation:vFintocCoinTurn var(--v-partners-cycle) linear infinite;
+}
+.v-reference--index .v-payment-coin::before{content:'';position:absolute;inset:3px;border:1px solid #18332C66;border-radius:50%}
+.v-reference--index .v-payment-coin::after{
+  content:'';position:absolute;inset:5px 11px;border-radius:50%;
+  background:linear-gradient(100deg,transparent,#FAF7EF99,transparent);opacity:0;
+  animation:vFintocCoinShine var(--v-partners-cycle) linear infinite;
+}
+.v-reference--index .v-payment-received{
+  position:absolute;top:-12px;right:-12px;width:36px;height:36px;border-radius:50%;
+  border:3px solid #FAF7EF;background:#D4DF60;color:#18332C;
+  display:grid;place-items:center;opacity:0;
+  animation:vFintocReceived var(--v-partners-cycle) ease-out infinite;
+}
+@keyframes vChinA{
+  0%,8%,28%,100%{transform:none}
+  12%{transform:translateX(2px) rotate(3deg)}
+  15%{transform:rotate(1deg)}18%{transform:translateX(2px) rotate(3deg)}
+}
+@keyframes vChinB{
+  0%,8%,28%,100%{transform:none}
+  12%{transform:translateX(-2px) rotate(-3deg)}
+  15%{transform:rotate(-1deg)}18%{transform:translateX(-2px) rotate(-3deg)}
+}
+@keyframes vChispa{
+  0%,10%{opacity:0;transform:rotate(var(--r)) translateY(2px) scaleY(.3)}
+  13%{opacity:1;transform:rotate(var(--r)) translateY(-6px) scaleY(1)}
+  25%,100%{opacity:0;transform:rotate(var(--r)) translateY(-16px) scaleY(.5)}
+}
+/* Spark opacity is zero by 25%; the coin cannot appear before 30%.
+   One arc sampled every half percent, paced between physical time and constant speed:
+   no segment starts from rest and the apex does not read as a pause. */
+@keyframes vFintocCoinFlight{
+  0%,29%{opacity:0;transform:translate3d(0,20px,0) scale(.2) rotate(-14deg)}
+  30%{opacity:1;transform:translate3d(0px,15px,0) scale(0.7) rotate(-14deg)}
+  30.5%{opacity:1;transform:translate3d(1.97px,11.2px,0) scale(0.73) rotate(-12.42deg)}
+  31%{opacity:1;transform:translate3d(3.97px,7.54px,0) scale(0.77) rotate(-10.82deg)}
+  31.5%{opacity:1;transform:translate3d(6px,4.01px,0) scale(0.8) rotate(-9.19deg)}
+  32%{opacity:1;transform:translate3d(8.08px,0.62px,0) scale(0.83) rotate(-7.52deg)}
+  32.5%{opacity:1;transform:translate3d(10.19px,-2.62px,0) scale(0.86) rotate(-5.82deg)}
+  33%{opacity:1;transform:translate3d(12.33px,-5.72px,0) scale(0.88) rotate(-4.09deg)}
+  33.5%{opacity:1;transform:translate3d(14.53px,-8.66px,0) scale(0.91) rotate(-2.31deg)}
+  34%{opacity:1;transform:translate3d(16.77px,-11.43px,0) scale(0.94) rotate(-0.49deg)}
+  34.5%{opacity:1;transform:translate3d(19.07px,-14.02px,0) scale(0.96) rotate(1.39deg)}
+  35%{opacity:1;transform:translate3d(21.45px,-16.39px,0) scale(0.98) rotate(3.35deg)}
+  35.5%{opacity:1;transform:translate3d(23.92px,-18.52px,0) scale(1) rotate(5.4deg)}
+  36%{opacity:1;transform:translate3d(26.52px,-20.31px,0) scale(1.01) rotate(7.58deg)}
+  36.5%{opacity:1;transform:translate3d(29.29px,-21.6px,0) scale(1.03) rotate(9.96deg)}
+  37%{opacity:1;transform:translate3d(32.21px,-21.97px,0) scale(1.03) rotate(12.54deg)}
+  37.5%{opacity:1;transform:translate3d(34.79px,-20.83px,0) scale(1.03) rotate(14.95deg)}
+  38%{opacity:1;transform:translate3d(36.41px,-18.58px,0) scale(1.02,1.03) rotate(16.62deg)}
+  38.5%{opacity:1;transform:translate3d(37.29px,-16.02px,0) scale(1.02,1.03) rotate(17.64deg)}
+  39%{opacity:1;transform:translate3d(37.74px,-13.42px,0) scale(1.02,1.03) rotate(18.31deg)}
+  39.5%{opacity:1;transform:translate3d(37.95px,-10.83px,0) scale(1.02,1.03) rotate(18.75deg)}
+  40%{opacity:1;transform:translate3d(38px,-8.26px,0) scale(1.02,1.03) rotate(19.04deg)}
+  40.5%{opacity:1;transform:translate3d(37.92px,-5.69px,0) scale(1.02,1.03) rotate(19.23deg)}
+  41%{opacity:1;transform:translate3d(37.76px,-3.1px,0) scale(1.01,1.03) rotate(19.34deg)}
+  41.5%{opacity:1;transform:translate3d(37.51px,-0.47px,0) scale(1.01,1.03) rotate(19.38deg)}
+  42%{opacity:1;transform:translate3d(37.2px,2.23px,0) scale(1.01,1.03) rotate(19.37deg)}
+  42.5%{opacity:1;transform:translate3d(36.82px,5px,0) scale(1.01,1.03) rotate(19.31deg)}
+  43%{opacity:1;transform:translate3d(36.38px,7.86px,0) scale(1.01,1.03) rotate(19.2deg)}
+  43.5%{opacity:1;transform:translate3d(35.88px,10.81px,0) scale(1.01,1.03) rotate(19.04deg)}
+  44%{opacity:1;transform:translate3d(35.32px,13.86px,0) scale(1.01,1.03) rotate(18.85deg)}
+  44.5%{opacity:1;transform:translate3d(34.71px,17.01px,0) scale(1.01,1.03) rotate(18.62deg)}
+  45%{opacity:1;transform:translate3d(34.04px,20.26px,0) scale(1,1.03) rotate(18.34deg)}
+  45.5%{opacity:1;transform:translate3d(33.32px,23.62px,0) scale(1,1.03) rotate(18.03deg)}
+  46%{opacity:1;transform:translate3d(32.55px,27.09px,0) scale(1,1.03) rotate(17.69deg)}
+  46.5%{opacity:1;transform:translate3d(31.73px,30.67px,0) scale(1,1.03) rotate(17.31deg)}
+  47%{opacity:1;transform:translate3d(30.86px,34.36px,0) scale(1,1.03) rotate(16.89deg)}
+  47.5%{opacity:1;transform:translate3d(29.95px,38.16px,0) scale(1,1.03) rotate(16.44deg)}
+  48%{opacity:1;transform:translate3d(28.99px,42.07px,0) scale(0.99,1.03) rotate(15.97deg)}
+  48.5%{opacity:1;transform:translate3d(27.98px,46.1px,0) scale(0.99,1.03) rotate(15.46deg)}
+  49%{opacity:1;transform:translate3d(26.93px,50.24px,0) scale(0.99,1.03) rotate(14.92deg)}
+  49.5%{opacity:1;transform:translate3d(25.84px,54.49px,0) scale(0.99,1.03) rotate(14.35deg)}
+  50%{opacity:1;transform:translate3d(24.72px,58.86px,0) scale(0.99,1.03) rotate(13.76deg)}
+  50.5%{opacity:1;transform:translate3d(23.55px,63.34px,0) scale(0.99,1.03) rotate(13.14deg)}
+  51%{opacity:1;transform:translate3d(22.35px,67.93px,0) scale(0.98,1.03) rotate(12.49deg)}
+  51.5%{opacity:1;transform:translate3d(21.12px,72.65px,0) scale(0.98,1.03) rotate(11.82deg)}
+  52%{opacity:1;transform:translate3d(19.86px,77.43px,0) scale(0.98,1.04) rotate(11.14deg)}
+  52.5%{opacity:1;transform:translate3d(18.57px,82.37px,0) scale(0.98,1.04) rotate(10.43deg)}
+  53%{opacity:1;transform:translate3d(17.25px,87.43px,0) scale(0.98,1.04) rotate(9.7deg)}
+  53.5%{opacity:1;transform:translate3d(15.9px,92.6px,0) scale(0.97,1.04) rotate(8.95deg)}
+  54%{opacity:1;transform:translate3d(14.53px,97.88px,0) scale(0.97,1.04) rotate(8.19deg)}
+  54.5%{opacity:1;transform:translate3d(13.13px,103.28px,0) scale(0.97,1.04) rotate(7.41deg)}
+  55%{opacity:1;transform:translate3d(11.72px,108.79px,0) scale(0.97,1.04) rotate(6.62deg)}
+  55.5%{opacity:1;transform:translate3d(10.29px,114.42px,0) scale(0.97,1.04) rotate(5.82deg)}
+  56%{opacity:1;transform:translate3d(8.85px,120.16px,0) scale(0.96,1.04) rotate(5.01deg)}
+  56.5%{opacity:1;transform:translate3d(7.39px,126.02px,0) scale(0.96,1.04) rotate(4.19deg)}
+  57%{opacity:1;transform:translate3d(5.93px,131.99px,0) scale(0.96,1.05) rotate(3.36deg)}
+  57.5%{opacity:1;transform:translate3d(4.45px,138.07px,0) scale(0.96,1.05) rotate(2.52deg)}
+  58%{opacity:1;transform:translate3d(2.97px,144.27px,0) scale(0.95,1.05) rotate(1.68deg)}
+  58.5%{opacity:1;transform:translate3d(1.49px,150.58px,0) scale(0.95,1.05) rotate(0.84deg)}
+  59%{opacity:1;transform:translate3d(0px,157px,0) scale(0.95,1.05) rotate(0deg);animation-timing-function:cubic-bezier(0.1,0.28,.4,1)}
+  62%,100%{opacity:0;transform:translate3d(0,171px,0) scale(.35,.7) rotate(0)}
+}
+@keyframes vFintocCoinTurn{
+  0%,30%{transform:perspective(350px) rotateY(0deg)}
+  59%,100%{transform:perspective(350px) rotateY(1440deg)}
+}
+@keyframes vFintocCoinShine{0%,33%,45%,53%,100%{opacity:0;transform:translateX(-4px)}37%,48%,57%{opacity:.85;transform:translateX(4px)}}
+@keyframes vFintocReceive{
+  0%,58%,72%,100%{transform:none}
+  62%{transform:scale(1.025,.97) translateY(2px)}
+  66%{transform:scale(.99,1.015) translateY(-1px)}
+}
+@keyframes vFintocSlot{0%,49%,69%,100%{opacity:0;transform:scaleX(.5)}55%,63%{opacity:.8;transform:scaleX(1)}}
+@keyframes vFintocReceived{
+  0%,61%{opacity:0;transform:translateY(5px) scale(.6)}
+  67%,85%{opacity:1;transform:translateY(0) scale(1)}
+  95%,100%{opacity:0;transform:translateY(0) scale(.9)}
+}
+@media(prefers-reduced-motion:reduce){
+  .v-reference--index .v-payment-partners *,.v-reference--index .v-payment-coin::after{animation:none!important}
+  .v-reference--index .v-payment-coin-flight,.v-reference--index .v-payment-coin-slot,.v-reference--index .v-payment-received{display:none}
+}

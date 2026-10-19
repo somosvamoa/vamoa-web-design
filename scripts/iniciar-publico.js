@@ -4,6 +4,23 @@
   const logic = document.querySelector('script[data-dc-script][data-src]');
   if (!logic) return;
 
+  // Presión táctil sin cancelar el click ni el desplazamiento del navegador.
+  const pressTargets = '.v-reference [data-vamoa-press], .v-reference .v-portal-diseno, .v-reference a[href="#lista"], .v-reference a[href="#sumate"], .v-reference header a[href="#formulario"], .v-reference button[sc-camel-on-click="{{ join }}"], .v-reference button[sc-camel-on-click="{{ send }}"]';
+  let pressed = null;
+  const release = () => { pressed?.removeAttribute('data-vamoa-pressed'); pressed = null; };
+  document.addEventListener('pointerdown', event => {
+    if (!event.isPrimary || event.button !== 0) return;
+    const button = event.target instanceof Element ? event.target.closest(pressTargets) : null;
+    if (!button || button.matches(':disabled, [aria-disabled="true"]')) return;
+    release(); pressed = button; button.setAttribute('data-vamoa-pressed', '');
+  });
+  for (const type of ['pointerup', 'pointercancel', 'lostpointercapture']) document.addEventListener(type, release);
+  document.addEventListener('pointerout', event => {
+    if (pressed && (!(event.relatedTarget instanceof Node) || !pressed.contains(event.relatedTarget))) release();
+  });
+  document.addEventListener('focusout', event => { if (pressed && event.target instanceof Node && pressed.contains(event.target)) release(); });
+  window.addEventListener('blur', release);
+
   try {
     const response = await fetch(new URL(logic.dataset.src, base));
     if (!response.ok) throw new Error(`No se pudo cargar ${logic.dataset.src}`);

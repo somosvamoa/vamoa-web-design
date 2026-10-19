@@ -31,7 +31,7 @@ class Component extends DCLogic {
   renderVals() {
     const T = ['Un pago', 'Mi cuenta', 'Mi bono o crédito', 'Soy restaurante', 'Otra cosa'];
     return { opening: this.state.opening,
-      topics: T.map((label, i) => ({ label, bg: i === this.state.topic ? '#18332C' : '#F2EDDF', fg: i === this.state.topic ? '#FAF7EF' : '#18332C', pick: () => this.setState({ topic: i }) })),
+      topics: T.map((label, i) => ({ label, bg: i === this.state.topic ? '#18332C' : '#F2EDDF', fg: i === this.state.topic ? '#FAF7EF' : '#18332C', pressed: i === this.state.topic ? 'true' : 'false', pick: () => this.setState({ topic: i }) })),
       sent: this.state.sent, notSent: !this.state.sent,
       ctError: !!this.state.ctError,
       send: () => { const v = id => ((document.getElementById(id) || {}).value || '').trim(); if (!v('ct-nombre') || !v('ct-msg') || !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v('ct-correo'))) { this.setState({ ctError: true }); return; } this.setState({ sent: true, ctError: false }); }

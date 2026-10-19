@@ -29,7 +29,8 @@ class Component extends DCLogic {
   }
 
   renderVals() {
-    return { opening: this.state.opening, goWaitlist: e => { e.preventDefault(); window.scrollTo({top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'}); },
+    // Ejemplo del programa activo. El sitio real recibe estos valores del servidor.
+    return { invitacionesConBono: true, invitacionesSinBono: false, premioInvitacion: '$10.000', minimoInvitado: '$25.000', minimoConjunto: '$50.000', opening: this.state.opening, goWaitlist: e => { if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); window.scrollTo({top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'}); },
       joined: this.state.joined, notJoined: !this.state.joined,
       joinError: !!this.state.joinError,
       join: () => { const i = document.getElementById('pt-correo'); const v = ((i && i.value) || '').trim(); if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) { this.setState({ joinError: true }); if (i) i.focus(); return; } this.setState({ joined: true, joinError: false }); }

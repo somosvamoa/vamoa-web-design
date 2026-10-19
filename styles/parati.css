@@ -80,7 +80,7 @@ html,body{margin:0}
   -webkit-font-smoothing: antialiased;
 }
 
-.v-reference--parati{margin:0;background:#FAF7EF;color:#18332C;font-family:'Schibsted Grotesk',system-ui,sans-serif;-webkit-font-smoothing:antialiased}.v-reference--parati a{color:#18332C;text-decoration:none}.v-reference--parati a:hover{color:#6F7A17}.v-reference--parati,.v-reference--parati *{box-sizing:border-box}.v-reference--parati input[type=range]{accent-color:#D4DF60}.v-reference--parati a:focus-visible,.v-reference--parati button:focus-visible,.v-reference--parati input:focus-visible,.v-reference--parati textarea:focus-visible{outline:3px solid #BD3F2F!important;outline-offset:3px}@media (max-width:700px){.v-reference--parati [data-m=nav]{display:none!important}.v-reference--parati [data-m=hide]{display:none!important}}@media (prefers-reduced-motion:reduce){.v-reference--parati *,.v-reference--parati *::before,.v-reference--parati *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}@keyframes ptMarquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media (max-width:760px){.v-reference--parati [data-m=hdr]{height:auto!important;flex-wrap:wrap!important;padding:12px 16px 10px!important;gap:10px 12px!important}.v-reference--parati [data-m=logo]{flex:1!important}.v-reference--parati [data-m=nav]{order:3!important;flex:1 1 100%!important;overflow-x:auto!important;scrollbar-width:none}.v-reference--parati [data-m=nav]::-webkit-scrollbar{display:none}.v-reference--parati [data-m=hide]{display:none!important}}.v-reference--parati html,.v-reference--parati{overflow-x:clip}
+.v-reference--parati{margin:0;background:#FAF7EF;color:#18332C;font-family:'Schibsted Grotesk',system-ui,sans-serif;-webkit-font-smoothing:antialiased}.v-reference--parati a{color:#18332C;text-decoration:none}.v-reference--parati a:hover{color:#6F7A17}.v-reference--parati,.v-reference--parati *{box-sizing:border-box}.v-reference--parati input[type=range]{accent-color:#D4DF60}.v-reference--parati a:focus-visible,.v-reference--parati button:focus-visible{outline:3px solid #BD3F2F!important;outline-offset:3px}@media (max-width:700px){.v-reference--parati [data-m=nav]{display:none!important}.v-reference--parati [data-m=hide]{display:none!important}}@media (prefers-reduced-motion:reduce){.v-reference--parati *,.v-reference--parati *::before,.v-reference--parati *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}@keyframes ptMarquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media (max-width:760px){.v-reference--parati [data-m=hdr]{height:auto!important;flex-wrap:wrap!important;padding:12px 16px 10px!important;gap:10px 12px!important}.v-reference--parati [data-m=logo]{flex:1!important}.v-reference--parati [data-m=nav]{order:3!important;flex:1 1 100%!important;overflow-x:auto!important;scrollbar-width:none}.v-reference--parati [data-m=nav]::-webkit-scrollbar{display:none}.v-reference--parati [data-m=hide]{display:none!important}}.v-reference--parati html,.v-reference--parati{overflow-x:clip}
 @media (max-width:560px){.v-reference--parati .v-pill>div{min-width:0!important;flex:1 1 100%!important}.v-reference--parati .v-pill>button{flex:1 1 100%!important}}
 
 .v-reference--parati{scroll-behavior:smooth}
@@ -391,3 +391,12 @@ html,body{margin:0}
 .v-reference header a[href="#lista"]{border:1.5px solid #18332C}
 
 .v-menu-diseno,.v-menu-diseno *,.v-portal-diseno{box-sizing:border-box}
+
+/* Invitaciones, opción B del lienzo: secuencia legible en escritorio y celular. */
+.v-referral-steps{list-style:none;padding:0;margin:28px 0 18px;display:grid;gap:16px}
+.v-referral-steps li{display:flex;gap:14px;align-items:flex-start;font-size:17px;line-height:1.45}
+.v-referral-steps li>span{flex:none;width:32px;height:32px;border-radius:50%;background:#D4DF60;color:#18332C;display:grid;place-items:center;font-weight:800}
+.v-referral-steps p{margin:2px 0 0}
+.v-referral-note{font-size:14px;line-height:1.5;max-width:480px;margin:0 0 10px;color:#C9D1C5}
+.v-reference--parati .v-referral-terms{display:inline-flex;min-height:48px;align-items:center;color:#D4DF60;font-size:14px;font-weight:700;text-underline-offset:4px}
+@media(max-width:767px){.v-referral-steps{margin-top:22px;gap:14px}.v-referral-steps li{font-size:16px}.v-referral-note{font-size:14px}}

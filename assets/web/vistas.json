@@ -1,0 +1,1520 @@
+{
+  "capturado": "2026-10-19T18:08:51.909Z",
+  "fuente": {
+    "repositorio": "Vamoa",
+    "rama": "dev",
+    "commit": "7a37c8a",
+    "servidor": "local, con la base del seed"
+  },
+  "secciones": [
+    {
+      "id": "sitio",
+      "nombre": "Sitio público",
+      "descripcion": "Las cuatro páginas que importa la web desde estas maquetas."
+    },
+    {
+      "id": "acceso",
+      "nombre": "Acceso",
+      "descripcion": "Ingreso del equipo y del administrador, contraseña y bajas de correo."
+    },
+    {
+      "id": "enlaces",
+      "nombre": "Enlaces desde la app",
+      "descripcion": "Lo que se abre en el navegador desde el QR de una mesa, el de un comprobante, una invitación o un enlace compartido."
+    },
+    {
+      "id": "legal",
+      "nombre": "Legal",
+      "descripcion": "Términos, privacidad y el detalle de los datos que se guardan."
+    },
+    {
+      "id": "restaurante",
+      "nombre": "Portal del restaurante",
+      "descripcion": "vamoa.cl/merchant: lo que ve el dueño en el computador."
+    },
+    {
+      "id": "admin",
+      "nombre": "Administración",
+      "descripcion": "vamoa.cl/admin: la operación de Vamo’a."
+    }
+  ],
+  "vistas": [
+    {
+      "id": "publica",
+      "seccion": "sitio",
+      "ruta": "/",
+      "nombre": "Portada",
+      "encabezado": "Elige el lugar, no la promoción.",
+      "diseno": {
+        "estado": "maqueta",
+        "texto": "Maqueta vigente",
+        "enlace": "../index.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-movil.webp",
+        "ancho": 390,
+        "alto": 7154,
+        "sha256": "8fa2677ca548b3209783fcbc65435cd60a5234d066b20612d6a990da33dcb5f2"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-escritorio.webp",
+        "ancho": 1440,
+        "alto": 5026,
+        "sha256": "ce26632d368e16647d6534ddeb0939f8539d5a7f4c53ed38436402b026fcf6f6"
+      }
+    },
+    {
+      "id": "publica-restaurantes",
+      "seccion": "sitio",
+      "ruta": "/restaurantes",
+      "nombre": "Restaurantes",
+      "encabezado": "Más mesas.Más vueltas.",
+      "diseno": {
+        "estado": "maqueta",
+        "texto": "Maqueta vigente",
+        "enlace": "../restaurantes.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-restaurantes-movil.webp",
+        "ancho": 390,
+        "alto": 5601,
+        "sha256": "bb84a72218bb47d1fae25f4e6f4cd1c9540618c5334d8f591b7ba2fab54b6948"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-restaurantes-escritorio.webp",
+        "ancho": 1440,
+        "alto": 3268,
+        "sha256": "228f3a50a7e5b6061f33a54f3fde19570f99098f726a83f5011090d550378f86"
+      }
+    },
+    {
+      "id": "publica-clientes",
+      "seccion": "sitio",
+      "ruta": "/clientes",
+      "nombre": "Para ti",
+      "encabezado": "Sal a comer.Te devolvemos el 20%",
+      "diseno": {
+        "estado": "maqueta",
+        "texto": "Maqueta vigente",
+        "enlace": "../parati.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-clientes-movil.webp",
+        "ancho": 390,
+        "alto": 4890,
+        "sha256": "c7133bec97b9c1dbc6c15334cd1d3113289495ce2a424584756bb9947032308d"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-clientes-escritorio.webp",
+        "ancho": 1440,
+        "alto": 3793,
+        "sha256": "2138812029fe22bcaa2694602f73b29b35a7a5a7daf2f4fe3a8f8135ef3d656a"
+      }
+    },
+    {
+      "id": "publica-contacto",
+      "seccion": "sitio",
+      "ruta": "/contacto",
+      "nombre": "Contacto",
+      "encabezado": "Hablemos.",
+      "diseno": {
+        "estado": "maqueta",
+        "texto": "Maqueta vigente",
+        "enlace": "../contacto.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-contacto-movil.webp",
+        "ancho": 390,
+        "alto": 2268,
+        "sha256": "9e9b7a84fccdd0a39eabec16904ca6b383f3b840999ee17fd6d0190feb2f6c35"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-contacto-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1517,
+        "sha256": "33dbf1d2779200724f300d919b4b2a10fdb64c8faea4244103febb7618bca8ad"
+      }
+    },
+    {
+      "id": "publica-ingresar",
+      "seccion": "acceso",
+      "ruta": "/ingresar",
+      "nombre": "Ingresar",
+      "encabezado": "Ingresar",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-ingresar-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "c67127abe15b915ed92f1903bd789bda05469a03db07b0beecfb16ece0d78ec0"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-ingresar-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "feb11f6efe0d5019f4ec991d8e95340542600021b0f06d21b17fd0ba93efa3d9"
+      }
+    },
+    {
+      "id": "publica-olvidaste-contrasena",
+      "seccion": "acceso",
+      "ruta": "/olvidaste-contrasena",
+      "nombre": "Recuperar contraseña",
+      "encabezado": "Recupera tu contraseña",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-olvidaste-contrasena-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "a65e8cdaa0df64ae2aa026c512e38d73714f22320d4cbe2dec12d24636a72124"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-olvidaste-contrasena-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "c40f808b5d6a19c8094a63e53f22e0fcc795a92788f6adf22a1988f67631e13e"
+      }
+    },
+    {
+      "id": "publica-restablecer-contrasena",
+      "seccion": "acceso",
+      "ruta": "/restablecer-contrasena",
+      "nombre": "Nueva contraseña",
+      "encabezado": "Crea una nueva contraseña",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-restablecer-contrasena-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "ed4ef24562a5503d521e1aa422bc861e8ce0f4e08f11228775681bb144b982cd"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-restablecer-contrasena-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "2992ff0961a3f5acb545784bd44c2cab44c70ce0c051a47acc61f35563b0100e"
+      }
+    },
+    {
+      "id": "publica-baja",
+      "seccion": "acceso",
+      "ruta": "/baja",
+      "nombre": "Dejar de recibir correos",
+      "encabezado": "Este enlace ya no sirve",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-baja-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "af54c6a6031db2c41003f62a1186611aa90c11b202e8da786bbe9d5657243007"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-baja-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "fe20528120d46890aa83e7fec0e18d505fecb8fc151e9bab44ff0b799e55c24f"
+      }
+    },
+    {
+      "id": "publica-r-slug",
+      "seccion": "enlaces",
+      "ruta": "/r/[slug]",
+      "nombre": "Ficha pública de un restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-r-slug-movil.webp",
+        "ancho": 390,
+        "alto": 1176,
+        "sha256": "285f46cd91b6e9bdcdf39d4c13efb016f109fb010ace1eb50aceae12487dc18c"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-r-slug-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1161,
+        "sha256": "c7e6c7f3c09d67e378636080a885ab2aa475df3824bd6661a09768533c9614d4"
+      }
+    },
+    {
+      "id": "publica-v-token-inexistente",
+      "seccion": "enlaces",
+      "ruta": "/v/[token-inexistente]",
+      "nombre": "Verificar un pago · enlace no disponible",
+      "encabezado": "Pide el comprobante vigente.",
+      "diseno": {
+        "estado": "maqueta",
+        "texto": "Maqueta vigente",
+        "enlace": "pantalla.html?id=verificacion.enlace-invalido"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-v-token-inexistente-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "c9fa8cd9777442a0a0854ef17dbaa165c3c2f50fa49f9693ff75abf70f75a318"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-v-token-inexistente-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "d67fdf85005db069afdca6182901ca85da117602d2d213dee7e37dd02a605ec9"
+      }
+    },
+    {
+      "id": "publica-dividir-token-inexistente",
+      "seccion": "enlaces",
+      "ruta": "/dividir/[token-inexistente]",
+      "nombre": "Paga tu parte · invitación no disponible",
+      "encabezado": "Paga tu parte",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-dividir-token-inexistente-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "60ceca895b724bde7ff02dfea802b5f7fffe37d815fe24091d2790132c550183"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-dividir-token-inexistente-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "6ee865fa5b3d18efe8ac6fdc6d0f95fe74c6d96738558799b318a41fc1dfaeda"
+      }
+    },
+    {
+      "id": "publica-invitar-codigo",
+      "seccion": "enlaces",
+      "ruta": "/invitar/[codigo]",
+      "nombre": "Invitación",
+      "encabezado": "Vamo’a comer bien",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-invitar-codigo-movil.webp",
+        "ancho": 390,
+        "alto": 867,
+        "sha256": "19a0340e2dbcf59a341ba85df85486464d799c67c25fe6628d4289feb03de430"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-invitar-codigo-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "e99b5060307b82cac32e2df5e45008f34be59e4e3a70b5dd492dd1ea2e98eac5"
+      }
+    },
+    {
+      "id": "publica-qr-qr",
+      "seccion": "enlaces",
+      "ruta": "/qr/[qr]",
+      "nombre": "QR de una mesa, sin la app",
+      "encabezado": "Sigue en la app",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-qr-qr-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "767b9b29fef1b271e1847686bf07b60dc82699d8732812971353d1637ccdc2cd"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-qr-qr-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "f6a0e53bc8a8b2564e3ecb53f2b69ac39d58370f260c52673cd591ac0c1bb2c2"
+      }
+    },
+    {
+      "id": "publica-privacidad",
+      "seccion": "legal",
+      "ruta": "/privacidad",
+      "nombre": "Privacidad",
+      "encabezado": "Privacidad",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-privacidad-movil.jpg",
+        "ancho": 390,
+        "alto": 18183,
+        "sha256": "e3c8610faa0649dff86a534794519091c4e3919f9121342a0f6a3d62076aef77"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-privacidad-escritorio.webp",
+        "ancho": 1440,
+        "alto": 10756,
+        "sha256": "185e57a69e7c72f73f4cd849695cd4505583b1e85ab82335c9e9980c36f2e9c0"
+      }
+    },
+    {
+      "id": "publica-privacidad-datos",
+      "seccion": "legal",
+      "ruta": "/privacidad/datos",
+      "nombre": "Qué datos guardamos",
+      "encabezado": "Qué datos guardamos",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-privacidad-datos-movil.jpg",
+        "ancho": 390,
+        "alto": 20779,
+        "sha256": "ab5f6340caf931e8f94ef36c4010c965bf68e5450bc280f8a0d2f9555b1f6cab"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-privacidad-datos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 12187,
+        "sha256": "e405dd78b02d60d0c60bf94100a3300cb6dbc18cb8e3bda7ab1f9593711aceff"
+      }
+    },
+    {
+      "id": "publica-terminos",
+      "seccion": "legal",
+      "ruta": "/terminos",
+      "nombre": "Términos y condiciones",
+      "encabezado": "Términos y condiciones",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-terminos-movil.jpg",
+        "ancho": 390,
+        "alto": 23561,
+        "sha256": "bf4aa2f244215ef7a834f24b31010849ffc4d770282f973d7a9d13fe84b7ebff"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-terminos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 14732,
+        "sha256": "6c9cb9e4af7715374c836e7a3f7e950239ad3b70eef10a2ccee4d921ad0c0ef2"
+      }
+    },
+    {
+      "id": "merchant-merchant",
+      "seccion": "restaurante",
+      "ruta": "/merchant",
+      "nombre": "Resumen restaurante",
+      "encabezado": "Tu negocio, de un vistazo.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-movil.webp",
+        "ancho": 390,
+        "alto": 4934,
+        "sha256": "0af81fa6bccd303937213c9faff855b34ea3ab99745dc9af70276006e78e7374"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-escritorio.webp",
+        "ancho": 1440,
+        "alto": 3148,
+        "sha256": "c4a4a61433c0391c5b2887235004d61240caacb378e3e073bffddb6e2624ebe0"
+      }
+    },
+    {
+      "id": "merchant-merchant-hoy",
+      "seccion": "restaurante",
+      "ruta": "/merchant/hoy",
+      "nombre": "Hoy en tus mesas",
+      "encabezado": "Pagos de hoy.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-hoy-movil.webp",
+        "ancho": 390,
+        "alto": 906,
+        "sha256": "80d5eff807c72bd5202009fa079334a33840fb089e2b7e7353c99d7aad0bf60c"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-hoy-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "d089ef838c0acd60ea0d22e9e3a56669179b70b39f2344bf3b123feaa1ab8008"
+      }
+    },
+    {
+      "id": "merchant-merchant-devoluciones",
+      "seccion": "restaurante",
+      "ruta": "/merchant/devoluciones",
+      "nombre": "Devoluciones",
+      "encabezado": "Lo que piden devolver tus clientes.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-devoluciones-movil.webp",
+        "ancho": 390,
+        "alto": 957,
+        "sha256": "a37386510d5b07a89b1295b27f672bff2b1a43b98482a8141db6534f28d6ec1d"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-devoluciones-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "e30255359be7a3110b1ce9d3568761e755b784e1302a54568b81ccf9f997440a"
+      }
+    },
+    {
+      "id": "merchant-merchant-equipo",
+      "seccion": "restaurante",
+      "ruta": "/merchant/equipo",
+      "nombre": "Ayuda para el equipo",
+      "encabezado": "Verificar sin instalar nada.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-equipo-movil.webp",
+        "ancho": 390,
+        "alto": 1225,
+        "sha256": "5fdb8009c8201b7687e4cb745d01136a37b6dbe31c80b93f8bc5d0687040285e"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-equipo-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "e293b96a5073b680e178efbbc57bb4b256b991cbbdc1ef0361a3da5659fac62b"
+      }
+    },
+    {
+      "id": "merchant-merchant-incidencias",
+      "seccion": "restaurante",
+      "ruta": "/merchant/incidencias",
+      "nombre": "Incidencias",
+      "encabezado": "Incidencias",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-incidencias-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "f7a87c8e069e0c91d3841959552ad795f7ffdbff131f53bf3539261fa972ba33"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-incidencias-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "8de849016477ac331a3ba9e4c1e2700441c46dae3ce3a4958ee8f2409ac39640"
+      }
+    },
+    {
+      "id": "merchant-merchant-inventario",
+      "seccion": "restaurante",
+      "ruta": "/merchant/inventario",
+      "nombre": "Tu crédito",
+      "encabezado": "Tu crédito, cuenta a cuenta.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-inventario-movil.webp",
+        "ancho": 390,
+        "alto": 1615,
+        "sha256": "1d53c7b001e5430aab0ca8109023bff39b7919cb829e7d6c1aab349aed9c229d"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-inventario-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1432,
+        "sha256": "d825bfc94d98878c9264a88eb1900251556fd9dbaf43ed85e81b4856d48b973c"
+      }
+    },
+    {
+      "id": "merchant-merchant-recuperos",
+      "seccion": "restaurante",
+      "ruta": "/merchant/recuperos",
+      "nombre": "Cobros de Vamo’a",
+      "encabezado": "Lo que Vamo’a te cobra por una devolución.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-recuperos-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "2af671ac16c32281408f72a01888f2a652584aeb03c5621cf73d7b28cf55adef"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-recuperos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "29c82ac3dd6a76a41812669fc5adf4e04698528100312201f12979442e2908de"
+      }
+    },
+    {
+      "id": "merchant-merchant-practicar",
+      "seccion": "restaurante",
+      "ruta": "/merchant/practicar",
+      "nombre": "Así se verifica un pago",
+      "encabezado": "Así se verifica un pago.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-practicar-movil.webp",
+        "ancho": 390,
+        "alto": 1174,
+        "sha256": "ede33a5ee22672f18d9c8c75b6006c0c1aa34053a450845e3a0049119a52eba8"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-practicar-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "09168eff968c36dc11b4044565ccf5b5e44666e817781bf76efd87774e8d6de3"
+      }
+    },
+    {
+      "id": "merchant-merchant-propinas",
+      "seccion": "restaurante",
+      "ruta": "/merchant/propinas",
+      "nombre": "Propina por pagar",
+      "encabezado": "La propina de tu equipo, día por día.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-propinas-movil.webp",
+        "ancho": 390,
+        "alto": 1580,
+        "sha256": "d4abfc9dcefbf9cae371768c6e221186304b159a105365e9f39ff44a4edc4fdb"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-propinas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 982,
+        "sha256": "b6d769e1e3b42f537e18b43cf4c130d9e56247a28e3d21628381f36e9ad6dcaa"
+      }
+    },
+    {
+      "id": "merchant-merchant-resenas",
+      "seccion": "restaurante",
+      "ruta": "/merchant/resenas",
+      "nombre": "Reseñas",
+      "encabezado": "Reseñas",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-resenas-movil.webp",
+        "ancho": 390,
+        "alto": 1938,
+        "sha256": "2a43be49a2beb5c7db0f94301b36277db680c9959423e1bd704ae7abadfbdd85"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-resenas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1461,
+        "sha256": "a0e260796994c2ee776a29f8d72daea079f7351a0bd0ae7067eadf61aafabe9c"
+      }
+    },
+    {
+      "id": "merchant-merchant-reservas",
+      "seccion": "restaurante",
+      "ruta": "/merchant/reservas",
+      "nombre": "Reservas",
+      "encabezado": "Reservas.",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-reservas-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "e831b3a7a099458770bd548f063026a59936e5d4011d68c4bbf652eb63d015ae"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-reservas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "caa6537ddee4dbeef9e0e1aa99a5323c4ffac5887525ccdb98a15a2a6c73075d"
+      }
+    },
+    {
+      "id": "merchant-merchant-transacciones",
+      "seccion": "restaurante",
+      "ruta": "/merchant/transacciones",
+      "nombre": "Transacciones",
+      "encabezado": "Transacciones",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-movil.webp",
+        "ancho": 390,
+        "alto": 1083,
+        "sha256": "c375e3c21b3380847baf7b4ff25cbb54760ed016e8893f84003b3847819b670d"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "36476cf1096f5386cf7559209bf348469fca80c9fe5f482b500d2deb9a5a69dd"
+      }
+    },
+    {
+      "id": "merchant-merchant-transacciones-period-all-view-declined",
+      "seccion": "restaurante",
+      "ruta": "/merchant/transacciones?period=all&view=declined",
+      "nombre": "Transacciones · Rechazadas",
+      "encabezado": "Transacciones",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-period-all-view-declined-movil.webp",
+        "ancho": 390,
+        "alto": 1478,
+        "sha256": "0e5c3195a4312912b2dc59d55a1cd789b659d3bea0253e2e7386323209d5fc16"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-period-all-view-declined-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "fdb61f65224d9e0d3cdd764a41b9d45aa706b3f3ae47f4742a0d60ffc0fe92f3"
+      }
+    },
+    {
+      "id": "merchant-merchant-avisos",
+      "seccion": "restaurante",
+      "ruta": "/merchant/avisos",
+      "nombre": "Avisos del restaurante",
+      "encabezado": "Avisos del restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-avisos-movil.webp",
+        "ancho": 390,
+        "alto": 1437,
+        "sha256": "bf9616badacd1ec2b8e65dc143668c6673a06c3b35d3736161036027e27c7b0c"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-avisos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1263,
+        "sha256": "487e1beafee583617d5f5f1311a60b7fca9656e051acfe14698d5529e1a7f18f"
+      }
+    },
+    {
+      "id": "merchant-merchant-transacciones-id",
+      "seccion": "restaurante",
+      "ruta": "/merchant/transacciones/[id]",
+      "nombre": "Detalle de un cobro",
+      "encabezado": "RND-6DF2070F",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-movil.webp",
+        "ancho": 390,
+        "alto": 2301,
+        "sha256": "8da7a9151f0875bfc935636b9521d1a29dec8404e5b1f59654da25d51cd14b98"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1449,
+        "sha256": "4a61713d475a89ab09bd0d54e275e638b3b0e5be5210bd72380517d580545367"
+      }
+    },
+    {
+      "id": "admin-admin",
+      "seccion": "admin",
+      "ruta": "/admin",
+      "nombre": "Panel",
+      "encabezado": "Panel",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-movil.webp",
+        "ancho": 390,
+        "alto": 6149,
+        "sha256": "7d5ce8d1e2fadb3d6fc78f77c1c8e9f48075bba96d29f94f1c53c956b547dc15"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-escritorio.webp",
+        "ancho": 1440,
+        "alto": 3197,
+        "sha256": "da2b6019bdd3c042091b3e2ce5e738fe92de771a62ddd830050c706e13a2a1ed"
+      }
+    },
+    {
+      "id": "admin-admin-avisos",
+      "seccion": "admin",
+      "ruta": "/admin/avisos",
+      "nombre": "Avisos",
+      "encabezado": "Avisos",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-avisos-movil.webp",
+        "ancho": 390,
+        "alto": 1226,
+        "sha256": "60e03869052a13ba040967bf8f37853dc388bbff6fe504c5fc318ebc95983d63"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-avisos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1082,
+        "sha256": "1580bf81fbe0d2b95330cac406bd3088a881ce703eebd94f6bfcbdce3134f47b"
+      }
+    },
+    {
+      "id": "admin-admin-consultas",
+      "seccion": "admin",
+      "ruta": "/admin/consultas",
+      "nombre": "Consultas",
+      "encabezado": "Consultas",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-movil.webp",
+        "ancho": 390,
+        "alto": 1418,
+        "sha256": "1b973c8c92f37d5e6862d21995abc02e6d194d748d732cd930d40d1d57da0129"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1036,
+        "sha256": "891ad1571b899b56702174050498ca24ba80ba6cea4a83efb0cd52f39dfc81b4"
+      }
+    },
+    {
+      "id": "admin-admin-consultas-atendidas",
+      "seccion": "admin",
+      "ruta": "/admin/consultas/atendidas",
+      "nombre": "Consultas respondidas",
+      "encabezado": "Consultas",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "32b3555a6cf5441407870dc005e00e3c545f0f23c6033ce24def9b6397077210"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "d5940183200c2b6805424d65512f75ed2ab3e4e6bc39cf760e95678a3c8578b8"
+      }
+    },
+    {
+      "id": "admin-admin-consultas-id",
+      "seccion": "admin",
+      "ruta": "/admin/consultas/[id]",
+      "nombre": "Detalle de una consulta",
+      "encabezado": "Valentina Nueva",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-id-movil.webp",
+        "ancho": 390,
+        "alto": 1436,
+        "sha256": "fec334e384bf03f62d86a677cabfcb1087f8c79f082675b69f2fc58e2a1aabab"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-consultas-id-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1143,
+        "sha256": "e829b294021d4390211b5d85b785a32e8a1d1e8653a984586721e9730b9b44e0"
+      }
+    },
+    {
+      "id": "admin-admin-fotos",
+      "seccion": "admin",
+      "ruta": "/admin/fotos",
+      "nombre": "Fotos",
+      "encabezado": "Fotos y reseñas",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-fotos-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "7c571bd0ac820ad93afaa44fc067207f2ced6707cf5bd4464f766552c5b81aa7"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-fotos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "5b82be440f21ff6fb4c6fdc4beb77b4e12132035b0751d1afc7daf5e27fd0aff"
+      }
+    },
+    {
+      "id": "admin-admin-incidencias",
+      "seccion": "admin",
+      "ruta": "/admin/incidencias",
+      "nombre": "Incidencias",
+      "encabezado": "Incidencias",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-incidencias-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "66ddf5e00075d0c8b341fa5bf57491dc688f1421f5d3f48b017c58664671b507"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-incidencias-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "33a0041d2a448432aa46bc644ed5b150b07ea221f405677d1557bc9ce5e57fbc"
+      }
+    },
+    {
+      "id": "admin-admin-interesados",
+      "seccion": "admin",
+      "ruta": "/admin/interesados",
+      "nombre": "Interesados",
+      "encabezado": "Interesados",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-interesados-movil.webp",
+        "ancho": 390,
+        "alto": 885,
+        "sha256": "16ded5b3e58bc1fa7b67fc0b6e19174ccedaa80124dc0429c86e22fdea64b961"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-interesados-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "e77c161d694e2c3377047c636949fde9e195adb1282b4b0424ea6c80e5839a65"
+      }
+    },
+    {
+      "id": "admin-admin-ledger",
+      "seccion": "admin",
+      "ruta": "/admin/ledger",
+      "nombre": "Ledger",
+      "encabezado": "Ledger",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-ledger-movil.webp",
+        "ancho": 390,
+        "alto": 6147,
+        "sha256": "4251aa3658fa186ff0d3b968e60a616650debe17ad60d89d6aa7a194ca5d80f0"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-ledger-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1814,
+        "sha256": "0792adfcb537ac7918575145f67ccc8c1e10fdfee771b2aeaafdc466d3a2bb4a"
+      }
+    },
+    {
+      "id": "admin-admin-finanzas",
+      "seccion": "admin",
+      "ruta": "/admin/finanzas",
+      "nombre": "Finanzas y bonos",
+      "encabezado": "Finanzas y bonos",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-movil.webp",
+        "ancho": 390,
+        "alto": 5621,
+        "sha256": "38c65aaa9ae9d33537dcb460e4f09ed5b00a1646f97a4e499981297a9e875947"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1891,
+        "sha256": "0d626cdb7a4589acae1eccb49ea533d41e47944deb51d4f36c2efcfc3d4cd02e"
+      }
+    },
+    {
+      "id": "admin-admin-finanzas-recuperos",
+      "seccion": "admin",
+      "ruta": "/admin/finanzas/recuperos",
+      "nombre": "Recuperos de restaurantes",
+      "encabezado": "Recuperos de restaurantes",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "71f0a786c96d4cbe7cd7fd6b9157141b8a11be9b87e9bcf5254a764b83d9aef2"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "62173327045cba7bd17139d80a1d6a66ee19435a908a58ef9bbcbfa43d9e8110"
+      }
+    },
+    {
+      "id": "admin-admin-finanzas-vista-referidos",
+      "seccion": "admin",
+      "ruta": "/admin/finanzas?vista=referidos",
+      "nombre": "Finanzas y bonos · Referidos",
+      "encabezado": "Finanzas y bonos",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-movil.webp",
+        "ancho": 390,
+        "alto": 3003,
+        "sha256": "bc3fa96fcb6316425bf6fb4ef5e96ae2a820de169b08f91264773ba84349b842"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1366,
+        "sha256": "6572f966079bde57f129d24aa51ee9c27bccb150405ab460fea180f3ebd9bb6c"
+      }
+    },
+    {
+      "id": "admin-admin-finanzas-creditos-id",
+      "seccion": "admin",
+      "ruta": "/admin/finanzas/creditos/[id]",
+      "nombre": "Créditos de un comensal",
+      "encabezado": "Ajustes y restituciones · Camila Herrera",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-movil.webp",
+        "ancho": 390,
+        "alto": 973,
+        "sha256": "689bf073dd772fa1d5ae25c4525ed4017e16e7a171c0bfb01d2bb5d9e0037e2a"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "8b42a9c1a2820def92971bb1c0d46565c78815450c1978fdde84b4df5c83e480"
+      }
+    },
+    {
+      "id": "admin-admin-finanzas-referidos-id",
+      "seccion": "admin",
+      "ruta": "/admin/finanzas/referidos/[id]",
+      "nombre": "Detalle de una invitación",
+      "encabezado": "Invitador QA local → Amigo 1 QA local",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-movil.webp",
+        "ancho": 390,
+        "alto": 848,
+        "sha256": "701841417d9133dfa6ec35d1dffc7b1810d4388935dbfa6d6496ab29b5e3c109"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "6c03302cb253a5469ffcc82fc82a7f637a076078130d76802b237b0272d04942"
+      }
+    },
+    {
+      "id": "admin-admin-liquidaciones",
+      "seccion": "admin",
+      "ruta": "/admin/liquidaciones",
+      "nombre": "Liquidaciones",
+      "encabezado": "Liquidaciones",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-liquidaciones-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "a0dfc459126f277acc7c7f4cd87a7728e1ef6655552bf1cfe71527d4772b393f"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-liquidaciones-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "5dd0fcfc8b57996edaf370bdefeea17ca5c967ac3147975e0830eee599a310df"
+      }
+    },
+    {
+      "id": "admin-admin-merchants",
+      "seccion": "admin",
+      "ruta": "/admin/merchants",
+      "nombre": "Restaurantes",
+      "encabezado": "Restaurantes",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-movil.webp",
+        "ancho": 390,
+        "alto": 962,
+        "sha256": "58fda6b38d8ff466f4c7812784b9eeb92a7772f05bdca3974d338b5fcee1955e"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "fd8a83d54727e100321b3adc06d19210f647503f9c85fd4d1d5db06fed6ff411"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-resumen",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/resumen",
+      "nombre": "Resumen · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-movil.webp",
+        "ancho": 390,
+        "alto": 3609,
+        "sha256": "4dac79e5a5e9c711fea3d1c6a45605a4676f064ab117f58143fd2d8ad43115c0"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2189,
+        "sha256": "20ce9eb22f7ed103fac0eb53e2c6fdecdf9d9a7470f2eac6fffa6eacab0a7c10"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-credito",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/credito",
+      "nombre": "Crédito · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-movil.webp",
+        "ancho": 390,
+        "alto": 3465,
+        "sha256": "9f06983d9c369d7d11e47965551404754c86e264c9fa73962b6acbcc06ff7018"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2554,
+        "sha256": "afbd8d2cd1274aefb1bf70b1e0adff231e9c84a3d66e2cdd97da065cc7e3a4fb"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-transacciones",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/transacciones",
+      "nombre": "Transacciones · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-transacciones-movil.webp",
+        "ancho": 390,
+        "alto": 1721,
+        "sha256": "2a8a7cef28e04176c23e775de189625c6c31afe49468b844973ab89767f68a86"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-transacciones-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1157,
+        "sha256": "6d555ff36710f0a0234fb55d05b2ae8d1e7ad275768c3219d07ffa0ca500d53f"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-clientes",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/clientes",
+      "nombre": "Clientes · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-clientes-movil.webp",
+        "ancho": 390,
+        "alto": 3855,
+        "sha256": "17b9070d5a6d9978ae21a187858239a4743b322e658a0ddf86ac23ee7a981a08"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-clientes-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2537,
+        "sha256": "428ada2de7327478d2e50c5bfd17fe808f97e1b0862a759734d8a0b418027324"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-operacion",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/operacion",
+      "nombre": "Operación · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-operacion-movil.webp",
+        "ancho": 390,
+        "alto": 2601,
+        "sha256": "06fa7c1fb04053b1de711c3bfdcafc6ec71d504ed399ae66091d6a8962abc400"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-operacion-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1749,
+        "sha256": "d8f1787761a09ee485fa016261ac8253d75c9472fb002b540db560ae8307dd5e"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion",
+      "nombre": "Configuración · Restaurante",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-movil.webp",
+        "ancho": 390,
+        "alto": 3435,
+        "sha256": "f8d661a422aeaade61daef3e7614e0effbfb05d408f25edcf919df5765f94e34"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2451,
+        "sha256": "d548674fa1a9daa0b41a85d186feeb43e867f1a39b0e6f39f8331f4c9af68b38"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion-seccion-sociedades",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion?seccion=sociedades",
+      "nombre": "Configuración · Sociedades",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-movil.webp",
+        "ancho": 390,
+        "alto": 2734,
+        "sha256": "ca0b67de85a69a174fe9182717794029d7d4a9adf1bfda47a28a415cbc6d9de4"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1812,
+        "sha256": "1f80e2e57cf0808f1fc634987380fcbc8554ca497da806b2ae384050ff2c378e"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion-seccion-locales",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion?seccion=locales",
+      "nombre": "Configuración · Locales",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-movil.webp",
+        "ancho": 390,
+        "alto": 1452,
+        "sha256": "2fb03eb94f4aa8549e51894d13cd31565a0634b8d1874e4654878c1393686cc5"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1076,
+        "sha256": "edf17ebfcb652cac621879d6ae26abaa509cea1c0ee6a8664e67c977b3f61af8"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion-seccion-integracion",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion?seccion=integracion",
+      "nombre": "Configuración · Integración",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-integracion-movil.webp",
+        "ancho": 390,
+        "alto": 2096,
+        "sha256": "aa4b916eb65ed4f37733fb0000604227fdee42c79458ddaeb143983d709a1308"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-integracion-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1377,
+        "sha256": "4388bcf9172e4df4f0394d509109416f2af08d176378f14ab0900a030c9d9e8d"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion-seccion-accesos",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion?seccion=accesos",
+      "nombre": "Configuración · Accesos",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-accesos-movil.webp",
+        "ancho": 390,
+        "alto": 1668,
+        "sha256": "d442339a631ddee0a27ab9a7fe09ea503ca90994ff0093b79b77b9eec3719270"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-accesos-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1214,
+        "sha256": "51d9d1973968d9ed5827ba5146df67e949d0fb73e6a985820512285c383ba3e7"
+      }
+    },
+    {
+      "id": "admin-admin-merchants-id-configuracion-seccion-historial",
+      "seccion": "admin",
+      "ruta": "/admin/merchants/[id]/configuracion?seccion=historial",
+      "nombre": "Configuración · Historial",
+      "encabezado": "Restaurante",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-historial-movil.webp",
+        "ancho": 390,
+        "alto": 1191,
+        "sha256": "b0f2978cb6c7835270045b878171b06958d35c6cf0e5f122716fb1670a0252d0"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-historial-escritorio.webp",
+        "ancho": 1440,
+        "alto": 902,
+        "sha256": "8e662116f79a94ff8578a9137789bc4caf4ae34c7c651297edce447b7ed7d199"
+      }
+    },
+    {
+      "id": "admin-admin-riesgo",
+      "seccion": "admin",
+      "ruta": "/admin/riesgo",
+      "nombre": "Riesgo",
+      "encabezado": "Riesgo",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-riesgo-movil.webp",
+        "ancho": 390,
+        "alto": 2689,
+        "sha256": "2266c6cac73cc925507ffd5b2a507c28edbc06fbe0edc920f3eff9f8c6763238"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-riesgo-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1522,
+        "sha256": "2e0cfbfb52b0b24f7888cc0a2a9cf473de3c1f3be5a2713f6bf41e8baba27bdc"
+      }
+    },
+    {
+      "id": "admin-admin-seguridad",
+      "seccion": "admin",
+      "ruta": "/admin/seguridad",
+      "nombre": "Seguridad",
+      "encabezado": "Seguridad",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-seguridad-movil.webp",
+        "ancho": 390,
+        "alto": 844,
+        "sha256": "7806450de7f141f4e1ec0f3b4ea7b7fa5b2861348208f848f53ffdead9022421"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-seguridad-escritorio.webp",
+        "ancho": 1440,
+        "alto": 900,
+        "sha256": "e8b8419789a3fdca14aab844bcc8c9fef9506dbd9c542b84766a44d55b09e3ba"
+      }
+    },
+    {
+      "id": "admin-admin-transacciones",
+      "seccion": "admin",
+      "ruta": "/admin/transacciones",
+      "nombre": "Transacciones",
+      "encabezado": "Transacciones",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-transacciones-movil.webp",
+        "ancho": 390,
+        "alto": 4601,
+        "sha256": "c1e583e0f2ee338f4d920cd4620e7748e0105fc1ec02644aaaabc1ad7b81d302"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-transacciones-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1010,
+        "sha256": "b211dfc4b847410dfd9b041164f49ce24ff22cae9234c7c9fc9f2a7e763c0c86"
+      }
+    },
+    {
+      "id": "admin-admin-transacciones-id",
+      "seccion": "admin",
+      "ruta": "/admin/transacciones/[id]",
+      "nombre": "Detalle de una transacción",
+      "encabezado": "RND-0520680C",
+      "diseno": {
+        "estado": "prototipo",
+        "texto": "Sólo el prototipo anterior, archivado",
+        "enlace": "../portales-prototipo.html"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/admin-admin-transacciones-id-movil.webp",
+        "ancho": 390,
+        "alto": 3767,
+        "sha256": "a7cddba84fb523a530dbff0798f7c77923a2c668ff4756f8d923f1598399ea63"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/admin-admin-transacciones-id-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2159,
+        "sha256": "9faa16bd453ee1fccafe81ede12fb3fcce89b7d98eff1b505137c340fcbbe4c4"
+      }
+    }
+  ]
+}

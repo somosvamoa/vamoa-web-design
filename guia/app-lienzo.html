@@ -7,6 +7,8 @@
 <script src="datos-vistas.js" defer></script>
 <link rel="stylesheet" href="../styles/elementos.css">
 <script src="../scripts/estilos-dinamicos.js" defer></script>
+<link rel="stylesheet" href="pagos-fintoc.css">
+<link rel="stylesheet" href="lienzo-actualizado.css">
 </head>
 <body class="canvas-page">
 <a class="skip" href="#canvas-viewport">Ir al lienzo</a>
@@ -23,7 +25,7 @@
  <label><span>Alcance</span><select id="canvas-scope"><option value="principal">Vistas principales</option><option value="todas">Todas las vistas</option></select></label>
  <label><span>Disponibilidad</span><select id="canvas-status"><option value="vigente">Diseño vigente</option><option value="actual">Producto actual</option><option value="todos">Todas</option><option value="condicional">Sujeto a habilitación</option><option value="dividir">Dividir cuenta</option></select></label>
  <button type="button" class="canvas-button" id="canvas-reset">Restablecer</button>
- <details class="canvas-help"><summary>Cómo recorrerlo</summary><div><p><strong>Mover:</strong> arrastra el fondo, usa la rueda o mantén Espacio para arrastrar desde una pantalla.</p><p><strong>Zoom:</strong> Ctrl/⌘ + rueda, los botones − / + o pellizco con dos dedos.</p><p><strong>Roles:</strong> el filtro muestra lo que cada persona puede ver. Los menús cambian según sus permisos. La verificación del garzón y administración son web.</p><p><strong>Pago:</strong> número → revisión → propina, créditos y tarjeta. Pagando es la animación; esperando confirmación es una alternativa si falta la respuesta. Las variantes no son pasos extra.</p><p><strong>Encontrar:</strong> busca y selecciona una pantalla en el índice. Sus contenidos largos permiten scroll.</p><p><strong>Teclado:</strong> enfoca el lienzo, usa las flechas para moverlo y +/− para zoom. Inicio encaja la fila.</p><p>Actual significa función implementada en pruebas. Las capacidades que requieren habilitación conservan su etiqueta. Este rediseño todavía no está llevado a la app nativa.</p></div></details>
+ <details class="canvas-help"><summary>Cómo recorrerlo</summary><div><p><strong>Mover:</strong> arrastra el fondo, usa la rueda o mantén Espacio para arrastrar desde una pantalla.</p><p><strong>Zoom:</strong> Ctrl/⌘ + rueda, los botones − / + o pellizco con dos dedos.</p><p><strong>Roles:</strong> el filtro muestra lo que cada persona puede ver. Los menús cambian según sus permisos. La verificación del garzón y administración son web.</p><p><strong>Pago:</strong> número → revisión → propina, créditos y medio de pago. Pagando es la animación; esperando confirmación es una alternativa si falta la respuesta. Las variantes no son pasos extra.</p><p><strong>Encontrar:</strong> busca y selecciona una pantalla en el índice. Sus contenidos largos permiten scroll.</p><p><strong>Teclado:</strong> enfoca el lienzo, usa las flechas para moverlo y +/− para zoom. Inicio encaja la fila.</p><p>Actual significa función implementada en pruebas. Las capacidades que requieren habilitación conservan su etiqueta. La app nativa implementa estas vistas; donde el lienzo se aparta de la app, la vista lo anota.</p></div></details>
 </div>
 <div class="canvas-role-note" id="canvas-role-note" role="status"></div>
 <main class="canvas-workspace">

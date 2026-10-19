@@ -1,10 +1,40 @@
 <!doctype html>
 <html lang="es">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#18332c"><title>Vamo’a · Portales</title><!-- BEGIN design-extension-css -->
-
-<!-- END design-extension-css --><link rel="stylesheet" href="styles/portales.css">
-<link rel="stylesheet" href="styles/elementos.css">
-<script src="scripts/estilos-dinamicos.js" defer></script>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#18332c">
+  <title>Vamo’a · Portales</title>
+  <link rel="icon" href="assets/marca/isotipo.svg">
+  <link rel="stylesheet" href="guia/portales-web.css">
+  <script src="guia/portales-web.js" defer></script>
 </head>
-<body><a class="skip" href="#content">Saltar al contenido</a><div class="shell"><aside class="sidebar" id="sidebar" aria-label="Navegación principal"></aside><div class="main"><header class="topbar"><button class="icon-btn mobile-menu" data-action="menu" aria-label="Abrir navegación"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 6h18 M3 12h18 M3 18h18"/></svg></button><div class="modes" role="group" aria-label="Cambiar de portal"><button class="mode" data-mode="dueno">Dueño del restaurante</button><button class="mode" data-mode="admin">Administración</button></div><div class="top-right"><span class="demo">Datos de ejemplo</span><button class="icon-btn" data-action="help" aria-label="Información del prototipo"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M12 17h.01 M9 8a3 3 0 0 1 6 0c0 2-3 2-3 3 5 M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0"/></svg></button><div class="avatar" id="top-avatar">SG</div></div></header><main class="content" id="content" tabindex="-1"></main></div></div><button class="overlay" id="overlay" data-action="menu" aria-label="Cerrar navegación"></button><dialog class="dialog" id="dialog"><div id="dialog-content"></div></dialog><div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script src="scripts/portales-1.js" defer></script><script src="scripts/portales-2.js" defer></script></body></html>
+<body>
+  <header class="pw-cabecera">
+    <a href="guia/index.html" class="pw-marca"><img src="assets/marca/logo-light.svg" alt="Vamo’a" width="112" height="34"></a>
+    <nav aria-label="Vistas"><a href="index.html">Sitio</a><a href="guia/app-lienzo.html">App</a><a href="guia/web-lienzo.html">Web</a><a href="portales.html" aria-current="page">Portales</a></nav>
+  </header>
+  <main class="pw-contenido">
+    <p class="pw-rotulo">Portales web</p>
+    <h1>Los portales, como están hoy.</h1>
+    <p class="pw-bajada">El portal del restaurante (vamoa.cl/merchant) y la administración (vamoa.cl/admin) ya están construidos. Estas son sus pantallas reales, capturadas de la rama dev con datos de demostración: ningún monto, persona ni cifra de restaurante es real, y las de De Calle son simuladas. Cada pantalla se abre en el lienzo web, en teléfono y escritorio.</p>
+    <p class="pw-fuente" id="pw-fuente">Cargando las pantallas…</p>
+    <section class="pw-seccion" id="restaurante" aria-labelledby="pw-restaurante">
+      <h2 id="pw-restaurante">Portal del restaurante</h2>
+      <p>Lo que ve el dueño en el computador: el resumen del negocio, el crédito, los cobros, las devoluciones, las reseñas, las reservas y la ayuda para el equipo. El encargado y la caja ven parte de esto según su rol.</p>
+      <div class="pw-grilla" data-seccion="restaurante"></div>
+    </section>
+    <section class="pw-seccion" id="admin" aria-labelledby="pw-admin">
+      <h2 id="pw-admin">Administración</h2>
+      <p>La operación de Vamo’a: restaurantes y su configuración, transacciones, finanzas y bonos, liquidaciones, riesgo, consultas, fotos y seguridad.</p>
+      <div class="pw-grilla" data-seccion="admin"></div>
+    </section>
+    <section class="pw-seccion pw-archivo" aria-labelledby="pw-prototipo">
+      <h2 id="pw-prototipo">El prototipo anterior</h2>
+      <p>Los portales se diseñaron con un prototipo navegable con datos en memoria. Se conserva como antecedente, pero ya no corresponde al producto: organiza la caja en turnos con equipos vinculados, que se retiraron, y dibuja el crédito con otro gráfico.</p>
+      <p><a class="pw-boton" href="portales-prototipo.html">Abrir el prototipo anterior</a></p>
+    </section>
+    <noscript><p>Las tarjetas necesitan JavaScript. Las pantallas también están en guia/web-lienzo.html.</p></noscript>
+  </main>
+</body>
+</html>
