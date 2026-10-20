@@ -4,6 +4,7 @@ html,body{margin:0}
 .v-reference--parati .v-footer-brand{justify-self:start}
 .v-reference--parati .v-footer-note{justify-self:center;text-align:center}
 .v-reference--parati .v-footer-links{justify-content:flex-end}
+.v-reference--parati .v-footer-legal{grid-column:1/-1;justify-self:center;margin:0;text-align:center}
 @media(max-width:760px){.v-reference--parati .v-footer-layout{grid-template-columns:1fr}.v-reference--parati .v-footer-brand{justify-self:center}.v-reference--parati .v-footer-links{justify-content:center}}
 
 /* vietnamese */

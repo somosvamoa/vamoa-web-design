@@ -102,8 +102,8 @@
     "name": "1.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 730814,
-    "sha256": "97f787f097d1b98b48a7b61c285dec39365995ee209286626ac18627e405e18f",
+    "bytes": 724838,
+    "sha256": "b9048f87450ecc614feb30e3134a6aababa4100cf38836bb3879dd00a79d10c9",
     "views": [
       {
         "label": "1.1 · Lugares",
@@ -172,8 +172,8 @@
     "name": "2.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 1056509,
-    "sha256": "4ded7088e7a55d8c8881774327c0a6146ad40d51d3f99d1bdcae79b7b1398a08",
+    "bytes": 1048653,
+    "sha256": "2d526ead547f987de8190b8435fe0d05831f89662df76b32b9c7c25b7d8fe177",
     "views": [
       {
         "label": "2.1 · Detalle · arriba",
@@ -186,8 +186,8 @@
     "name": "2.2.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 707512,
-    "sha256": "d7c79800a698238509010183ef9098b3efb669df837f8c4f8655180419ce6279",
+    "bytes": 700551,
+    "sha256": "2a2a19caac25cd98ef79141d83d36c838a7afed548d079292e84a9d53db6b3e0",
     "views": [
       {
         "label": "2.2 · Detalle · comunidad",
@@ -270,8 +270,8 @@
     "name": "3.2.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 100575,
-    "sha256": "2585952f1df536aadb8e231b9667094e58387e3cb3a927330965fb256386102b",
+    "bytes": 100322,
+    "sha256": "8331e565219e1d7cbe8b6ac71dbb8456078d61a4525684cc1ca78569ffc0cb0e",
     "views": [
       {
         "label": "3.2 · Número de la cuenta",
@@ -298,8 +298,8 @@
     "name": "3.4.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 109378,
-    "sha256": "bd29c2be2c3f7432d665a4a8218dc3e10bb5f5d6b195c8f7f232a809e81867c8",
+    "bytes": 146117,
+    "sha256": "d0d866c074c9961b6f0419df80e949509e77bf0ab9cc8b30717ebd426753b98c",
     "views": [
       {
         "label": "3.4 · Tu cuenta, desde la caja",
@@ -382,8 +382,8 @@
     "name": "4.1.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 145553,
-    "sha256": "9ae52c29a5dfe37bbdb755773e802b65a42db5d90febaf5add1b10b2acc3e70e",
+    "bytes": 101805,
+    "sha256": "0097b540c76eef9110a010cd441b19ac8a00b9bb18de164593c8e2d67a91bc5c",
     "views": [
       {
         "label": "4.1 · Historial",
@@ -438,8 +438,8 @@
     "name": "5.11.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 86043,
-    "sha256": "43e8a66d6a2bf0f932f887d47f312d1c278ad77777ebf36432e8ec7187a25a18",
+    "bytes": 91152,
+    "sha256": "82d548e83cab9e4774754ac2671c9d29ce476f613b32804a941655152034c2a5",
     "views": [
       {
         "label": "5.11 · Ajustes",
@@ -466,8 +466,8 @@
     "name": "5.13.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 110786,
-    "sha256": "5996db14a1b55832ff0a61cfea97bdd21a33ad2f2889041e64b1670fbd23ede7",
+    "bytes": 93732,
+    "sha256": "c59058dceb5ee05acc1fd335ded4970687c9bc0a19ebc1d501a60a2fad5d073b",
     "views": [
       {
         "label": "5.13 · Reportar un problema",
@@ -676,8 +676,8 @@
     "name": "accesibilidad.ajustes.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 99402,
-    "sha256": "409b463563f416b9d664f19debfe6e7d81b5b795f195e291246897634078ba56",
+    "bytes": 102293,
+    "sha256": "c144961aab00e248a54613c11e2f889028aa0636444f7c5a843f4fd59d8e4081",
     "views": [
       {
         "label": "accesibilidad.ajustes · Ajustes · áreas para tocar",
@@ -1442,12 +1442,26 @@
     ]
   },
   {
+    "file": "assets/app/capturas/cuenta.licencias.png",
+    "name": "cuenta.licencias.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 141934,
+    "sha256": "cc0922ca4e19de7a812c0d1d8220d4223b4bc059247816929d76eb393c19fc7d",
+    "views": [
+      {
+        "label": "cuenta.licencias · Licencias de terceros",
+        "href": "guia/pantalla.html?id=cuenta.licencias"
+      }
+    ]
+  },
+  {
     "file": "assets/app/capturas/cuenta.medicion.png",
     "name": "cuenta.medicion.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 114038,
-    "sha256": "e64c57e1cd45d1ea2de54918657c2c5ff78d0e34a4e787bbe6ef983ee67b00bc",
+    "bytes": 110533,
+    "sha256": "19fb1f9309acc74425c4478bd82ae5ba6e0726695ea812867dbd8335de7b1f3c",
     "views": [
       {
         "label": "cuenta.medicion · Ayúdanos a mejorar",
@@ -1516,11 +1530,11 @@
     "name": "devolucion.cobro-en-caja.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 143572,
-    "sha256": "3aeda85051dd2e91538f7e102c3af4253e972240fb7bf7cf3913d006e7b33186",
+    "bytes": 158904,
+    "sha256": "1f7a8a83e1683b1ab6b515e7070a3d12463199d18b118089858b5fa49a1a4c65",
     "views": [
       {
-        "label": "devolucion.cobro-en-caja · Devolución · cobro otra vez en la caja",
+        "label": "devolucion.cobro-en-caja · Devolución · con la boleta",
         "href": "guia/pantalla.html?id=devolucion.cobro-en-caja"
       }
     ]
@@ -1558,11 +1572,11 @@
     "name": "devolucion.motivo.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 128030,
-    "sha256": "0da807adf41a89b5f9b31e8d5dddad3b0265ba12037c2b05423999eae9a65fcb",
+    "bytes": 149619,
+    "sha256": "d768d500b3b8c666def199ab88cb2687afa14e18ef434354305585eaa86ede28",
     "views": [
       {
-        "label": "devolucion.motivo · Devolución · qué pasó",
+        "label": "devolucion.motivo · Devolución · por qué",
         "href": "guia/pantalla.html?id=devolucion.motivo"
       }
     ]
@@ -1572,8 +1586,8 @@
     "name": "devolucion.parte-consumo.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 148468,
-    "sha256": "75d44350ca8f055a94a307d561aaad99844216a9e77b9a9c699125601bc384b8",
+    "bytes": 163695,
+    "sha256": "668eecefb56322991152775d3990d6e4f1ba80a17507363c905ea61d52d5eb41",
     "views": [
       {
         "label": "devolucion.parte-consumo · Devolución · una parte del consumo",
@@ -1740,8 +1754,8 @@
     "name": "dividir.inicio.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 115899,
-    "sha256": "1cda46a949bc1d85d93bab7362a0be0ba47ad1389195f9e9592e1e750d022357",
+    "bytes": 148991,
+    "sha256": "28d8518185e0804f6e95ee4b1724cf1a11ab8a22b1fc8ddeff07a481e1b73101",
     "views": [
       {
         "label": "dividir.inicio · Tu cuenta.",
@@ -1922,8 +1936,8 @@
     "name": "estado.catalogo.carga.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 65209,
-    "sha256": "49281f2dec7c430c910eeb98281bd061705ba3f1a5b6e98deddcf7690f329aa9",
+    "bytes": 61670,
+    "sha256": "67d30734b4bced1ff469af93db187a1ec8888fa57e3462b7de99d86761e324fd",
     "views": [
       {
         "label": "estado.catalogo.carga · Lugares",
@@ -1936,8 +1950,8 @@
     "name": "estado.catalogo.error.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 75120,
-    "sha256": "0583a59bc1c2287aafbdec4ed2dbb87b79421bfb2e74952c1368ec617d6d1d77",
+    "bytes": 71739,
+    "sha256": "0399ec3f618280aa92e184d6d852a05ea8c82fbe26ac37a7161303165ae8f32e",
     "views": [
       {
         "label": "estado.catalogo.error · Lugares",
@@ -1950,8 +1964,8 @@
     "name": "estado.catalogo.guardando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 721724,
-    "sha256": "bad6da9c18f9d94cef8589c93101240bfe14472e3d0372a39289feaab9089197",
+    "bytes": 713151,
+    "sha256": "71f25f021f864c0ecb8ee5a0496a7fb9ca0a0cd5df99cc747233d407b4e4f35d",
     "views": [
       {
         "label": "estado.catalogo.guardando · Lugares",
@@ -2420,8 +2434,8 @@
     "name": "historial.actualizando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 154936,
-    "sha256": "1f1d9f1c4fef25b65df7e065f50f7fa3d1c27b58ad914c853e91ba38ba71dc69",
+    "bytes": 103017,
+    "sha256": "a62b1f6b3100f6da0fce11de4a5852d95a911d2469f321c07386b4134aaa8108",
     "views": [
       {
         "label": "historial.actualizando · Historial · actualizando",
@@ -2434,8 +2448,8 @@
     "name": "historial.filtros.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 100645,
-    "sha256": "f277a7effdb9eb2aeb05e15f17a74041c53e259d70a6ff7f449620ea9180a662",
+    "bytes": 77887,
+    "sha256": "05041b13d9d0d75528df48694d21c5c75669aa2917d9e10c5b074c84f4e88df4",
     "views": [
       {
         "label": "historial.filtros · Historial · filtros",
@@ -2588,8 +2602,8 @@
     "name": "lugar.no-disponible.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 924583,
-    "sha256": "d81a60d931b3fcda5800fb0c0cceff3a9cb82612c36c09f1fbee55f7e645451e",
+    "bytes": 917017,
+    "sha256": "703a05d02a87e98bc8e75da083f3d8a9e88c7013057d3c2579fb605893f36eff",
     "views": [
       {
         "label": "lugar.no-disponible · Hoy no está disponible",
@@ -2630,8 +2644,8 @@
     "name": "lugares.catalogo-vacio.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 77998,
-    "sha256": "c339fa1ee61e180bc0032291b573597cc469585edd9c45aa0ab52f5258200d84",
+    "bytes": 74465,
+    "sha256": "b3edc06609a3782de44ad5663fda85453dba778ffb1fd650b5dc4596ed9386e8",
     "views": [
       {
         "label": "lugares.catalogo-vacio · Estamos preparando la mesa",
@@ -2644,8 +2658,8 @@
     "name": "lugares.filtros.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 111097,
-    "sha256": "fd79312db611658fa698e2183bfc6896ec8b732aeae8430fd85e767183a209ff",
+    "bytes": 107601,
+    "sha256": "f7630118d94e86c72c7bc0544bed49990e97c44093ebfa02b0a0a53584c452c2",
     "views": [
       {
         "label": "lugares.filtros · ¿Qué tienes en mente?",
@@ -2658,8 +2672,8 @@
     "name": "lugares.sin-resultados.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 85988,
-    "sha256": "57cf5a175c331294de76a5494b914a5532b785ceb2c5dde7217ee261567c11e6",
+    "bytes": 82490,
+    "sha256": "8b59698004efa8c8a2b662635f13879254499baa39b18b7fd3a6f338a88888a0",
     "views": [
       {
         "label": "lugares.sin-resultados · Prueba otra búsqueda",
@@ -2756,8 +2770,8 @@
     "name": "pago.cuenta-cambio.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 126293,
-    "sha256": "7595e33c708df972de4ac554a7a29c65aa4363327934298898d10bca80d9422c",
+    "bytes": 154743,
+    "sha256": "6c21f44aa1de88479b9336d4524d4a095e3e24028e272ee97b60c4415f6f3f26",
     "views": [
       {
         "label": "pago.cuenta-cambio · La cuenta cambió",
@@ -2770,8 +2784,8 @@
     "name": "pago.limite.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 117079,
-    "sha256": "2ca1d91ad9778ff3d0c221a325779b25226316f1732c305fb1999f8873e7e2ca",
+    "bytes": 116844,
+    "sha256": "2ba9006ec6e4fe1e06660199fb421416e92bf80d8d82c168110fd041eeae53dd",
     "views": [
       {
         "label": "pago.limite · Esta cuenta no se puede pagar aquí",
@@ -2784,12 +2798,26 @@
     "name": "pago.mas-digitos.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 100810,
-    "sha256": "1141e5ed4b5d9321ad989aece0ce10dc87bca6731723b9c7005eda28eb84855b",
+    "bytes": 100571,
+    "sha256": "0cc8c822014d2024bbc4f2c168deb26db1ebf8f382bdf19e35fa3a9c82046606",
     "views": [
       {
         "label": "pago.mas-digitos · Tu cuenta tiene más dígitos",
         "href": "guia/pantalla.html?id=pago.mas-digitos"
+      }
+    ]
+  },
+  {
+    "file": "assets/app/capturas/pago.metodo-sin-tarjetas.png",
+    "name": "pago.metodo-sin-tarjetas.png",
+    "kind": "capturas",
+    "mime": "image/png",
+    "bytes": 126562,
+    "sha256": "08cc244913582f79c9c61b33e37c3fcaacb798fd1c2ed8a3508b35906a27d368",
+    "views": [
+      {
+        "label": "pago.metodo-sin-tarjetas · ¿Con qué pagas? · sin tarjetas",
+        "href": "guia/pantalla.html?id=pago.metodo-sin-tarjetas"
       }
     ]
   },
@@ -2812,8 +2840,8 @@
     "name": "pago.otra-tarjeta.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 136060,
-    "sha256": "47589c70dbaa6e9e70ded7a4529f52a22e258b1c6e5de48c622ec5d9dd6b2171",
+    "bytes": 133163,
+    "sha256": "b6923ca2ab393f54803fb0f7973b0736c7f2da607914a3a4b0d728db018b7137",
     "views": [
       {
         "label": "pago.otra-tarjeta · ¿Con qué pagas?",
@@ -2826,8 +2854,8 @@
     "name": "pago.pos-caido.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 117208,
-    "sha256": "e709378d960b739e93137481742f02b56e3d99e884bf5065a7adfba19f38a9b5",
+    "bytes": 116973,
+    "sha256": "dbe1137cf8919dd57afb5d0a373af154f59a0b829fa51d4870a71e731ad080b4",
     "views": [
       {
         "label": "pago.pos-caido · No pudimos leer tu cuenta",
@@ -2910,8 +2938,8 @@
     "name": "pago.selector.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 516948,
-    "sha256": "e15993b29ae2768f997c0e2b09f9da08f1bc2c67cefeac323e30cd4238503dd2",
+    "bytes": 507735,
+    "sha256": "4e37dabcb183c3095a7e1350d8c13adbc7bf8d46c2a487334717b3fe35c4d670",
     "views": [
       {
         "label": "pago.selector · ¿En cuál local estás?",
@@ -3736,8 +3764,8 @@
     "name": "tarjetas.cancelada.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 73294,
-    "sha256": "a850d3423494dab44e2f72e9320f525e46747334cd3d1228ef461e5a8882842a",
+    "bytes": 69210,
+    "sha256": "d8101a8a9ade4f62dd99515f9854658c79d864288f0da43b9f7564142070378d",
     "views": [
       {
         "label": "tarjetas.cancelada · No se guardó una tarjeta",
@@ -3764,8 +3792,8 @@
     "name": "tarjetas.guardando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 58254,
-    "sha256": "09b1601bb89df66641d36a3581c9c91ea5ed3d7263793eb88f422301ff483a52",
+    "bytes": 54352,
+    "sha256": "85b0376cb4c60611b73e27963ad0594147ca459944fb643b5839a0dcba966a20",
     "views": [
       {
         "label": "tarjetas.guardando · Guardando tu tarjeta",
@@ -3778,8 +3806,8 @@
     "name": "tarjetas.incierta.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 81746,
-    "sha256": "303a0193b45e71dc1237bfa09b2b2719487a5230c42602d39787f73b07c9ac62",
+    "bytes": 77672,
+    "sha256": "f830e98d29d4bfd334c6b7868c05a54f6c44d74e5e79fa14b94ddb1d79ffac89",
     "views": [
       {
         "label": "tarjetas.incierta · Revisa tus métodos de pago",
@@ -3820,8 +3848,8 @@
     "name": "tarjetas.preparando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 59594,
-    "sha256": "da1c2d07399ff2c65545f664565cab682ec455ac45d2ae4dc48155f254f477f7",
+    "bytes": 55685,
+    "sha256": "6a1ae740a803e8ba436eb04bb0fb6d5a9ee25cdc5dab7f90d8a08db9bf69b4f6",
     "views": [
       {
         "label": "tarjetas.preparando · Abriendo la página de Fintoc",
@@ -3834,8 +3862,8 @@
     "name": "tarjetas.procesador.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 256902,
-    "sha256": "c331333158e0f73014cdb319d223ebac4eaf34d01dfcf8676acb400c494e5ee2",
+    "bytes": 256939,
+    "sha256": "ff45c91d5ecc573c0bdfc0a8e60390c3ea38ff51013c2cbe86123fb528ee0629",
     "views": [
       {
         "label": "tarjetas.procesador · Página de Fintoc",
@@ -4732,20 +4760,7 @@
     "mime": "image/jpeg",
     "bytes": 326371,
     "sha256": "de49037355f0007682e7a2a9997053295645ebccd375eee1749375fbba875700",
-    "views": [
-      {
-        "label": "App · 4.1 · Historial",
-        "href": "guia/pantalla.html?id=4.1"
-      },
-      {
-        "label": "App · historial.filtros · Historial · filtros",
-        "href": "guia/pantalla.html?id=historial.filtros"
-      },
-      {
-        "label": "App · historial.actualizando · Historial · actualizando",
-        "href": "guia/pantalla.html?id=historial.actualizando"
-      }
-    ]
+    "views": []
   },
   {
     "file": "assets/app/fotos/image-da5bbd1e-2b5a-4cf2-859a-96d645a34edb.jpg",
@@ -5140,6 +5155,20 @@
     ]
   },
   {
+    "file": "assets/app/pagos/fintoc-real/fintoc-real-guardar.png",
+    "name": "fintoc-real-guardar.png",
+    "kind": "originales",
+    "mime": "image/png",
+    "bytes": 440129,
+    "sha256": "a63364d2bfa85b9c30b16e65947bfe349f35dea6a75b023df62823dcd011edde",
+    "views": [
+      {
+        "label": "App · tarjetas.procesador · Página de Fintoc",
+        "href": "guia/pantalla.html?id=tarjetas.procesador"
+      }
+    ]
+  },
+  {
     "file": "assets/app/pagos/fintoc-real/fintoc-real-medios.png",
     "name": "fintoc-real-medios.png",
     "kind": "originales",
@@ -5161,10 +5190,6 @@
     "bytes": 272772,
     "sha256": "e4ef1b7b69d556e1f3bef1de88abfd12828cfedcc1349efaac891479b66877d7",
     "views": [
-      {
-        "label": "App · tarjetas.procesador · Página de Fintoc",
-        "href": "guia/pantalla.html?id=tarjetas.procesador"
-      },
       {
         "label": "App · fintoc.externo-tarjeta · 04 · Fintoc · tarjeta (real)",
         "href": "guia/pantalla.html?id=fintoc.externo-tarjeta"
@@ -5447,6 +5472,10 @@
         "href": "guia/pantalla.html?id=3.6"
       },
       {
+        "label": "App · 4.1 · Historial",
+        "href": "guia/pantalla.html?id=4.1"
+      },
+      {
         "label": "App · mapa.zona · Busca una zona",
         "href": "guia/pantalla.html?id=mapa.zona"
       },
@@ -5465,6 +5494,14 @@
       {
         "label": "App · pago.limite · Esta cuenta no se puede pagar aquí",
         "href": "guia/pantalla.html?id=pago.limite"
+      },
+      {
+        "label": "App · historial.filtros · Historial · filtros",
+        "href": "guia/pantalla.html?id=historial.filtros"
+      },
+      {
+        "label": "App · historial.actualizando · Historial · actualizando",
+        "href": "guia/pantalla.html?id=historial.actualizando"
       },
       {
         "label": "App · estado.catalogo.guardando · Lugares",
@@ -5983,14 +6020,6 @@
       {
         "label": "App · 7.4 · Cómo se paga · 4 de 4",
         "href": "guia/pantalla.html?id=7.4"
-      },
-      {
-        "label": "App · historial.actualizando · Historial · actualizando",
-        "href": "guia/pantalla.html?id=historial.actualizando"
-      },
-      {
-        "label": "App · estado.catalogo.guardando · Lugares",
-        "href": "guia/pantalla.html?id=estado.catalogo.guardando"
       }
     ]
   },
@@ -6129,8 +6158,8 @@
     "name": "admin-admin-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 159810,
-    "sha256": "da2b6019bdd3c042091b3e2ce5e738fe92de771a62ddd830050c706e13a2a1ed",
+    "bytes": 159818,
+    "sha256": "2ed39ddd4f9ae2ff17b9141d89da0c90d92babb6173e2bb76ae5a13e6af77f9b",
     "views": []
   },
   {
@@ -6534,8 +6563,8 @@
     "name": "admin-admin-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 144414,
-    "sha256": "7d5ce8d1e2fadb3d6fc78f77c1c8e9f48075bba96d29f94f1c53c956b547dc15",
+    "bytes": 144406,
+    "sha256": "e6a9cf2b9eff70670b03b7d3e31b7e98763ddd675f3c0784e4b987b904520a51",
     "views": []
   },
   {
@@ -6543,8 +6572,8 @@
     "name": "admin-admin-riesgo-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 71310,
-    "sha256": "2e0cfbfb52b0b24f7888cc0a2a9cf473de3c1f3be5a2713f6bf41e8baba27bdc",
+    "bytes": 71178,
+    "sha256": "d7eb18f3e12b6fff6b7cfe32658dd60152b7ed19cd82607bcff149f6c3fd2ff9",
     "views": []
   },
   {
@@ -6552,8 +6581,8 @@
     "name": "admin-admin-riesgo-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 58970,
-    "sha256": "2266c6cac73cc925507ffd5b2a507c28edbc06fbe0edc920f3eff9f8c6763238",
+    "bytes": 58896,
+    "sha256": "2df242d6b06c30e488d358c1c4e04dc4d82c47430837a49b15ed27eaae231d22",
     "views": []
   },
   {
@@ -6881,6 +6910,24 @@
     "views": []
   },
   {
+    "file": "assets/web/capturas/publica-ayuda-escritorio.webp",
+    "name": "publica-ayuda-escritorio.webp",
+    "kind": "originales",
+    "mime": "image/webp",
+    "bytes": 60904,
+    "sha256": "aac505129e468dc7aa2b8286fa83a712bd9c96500d7c17625c7509ee04f11d38",
+    "views": []
+  },
+  {
+    "file": "assets/web/capturas/publica-ayuda-movil.webp",
+    "name": "publica-ayuda-movil.webp",
+    "kind": "originales",
+    "mime": "image/webp",
+    "bytes": 48638,
+    "sha256": "08de25adda88bd9e6bce46b55303f1b4648375d88d7327a3a5ae9d41e75dda61",
+    "views": []
+  },
+  {
     "file": "assets/web/capturas/publica-baja-escritorio.webp",
     "name": "publica-baja-escritorio.webp",
     "kind": "originales",
@@ -6903,8 +6950,8 @@
     "name": "publica-clientes-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 264100,
-    "sha256": "2138812029fe22bcaa2694602f73b29b35a7a5a7daf2f4fe3a8f8135ef3d656a",
+    "bytes": 266196,
+    "sha256": "75fe8fc70050c53726062c4a0247d88f8ed9095be0f9f79298a0fb1395226a4b",
     "views": []
   },
   {
@@ -6912,8 +6959,8 @@
     "name": "publica-clientes-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 162002,
-    "sha256": "c7133bec97b9c1dbc6c15334cd1d3113289495ce2a424584756bb9947032308d",
+    "bytes": 163712,
+    "sha256": "9eff38ad7802cf99a4e627008494e64e642ef37362f2d5e50f0bbb7a6bd0d88f",
     "views": []
   },
   {
@@ -6921,8 +6968,8 @@
     "name": "publica-contacto-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 59992,
-    "sha256": "33dbf1d2779200724f300d919b4b2a10fdb64c8faea4244103febb7618bca8ad",
+    "bytes": 62286,
+    "sha256": "ffcb5ff3c35eb7e5669bbdfc573fc2b71395d8f67f83e77253fead05a4f7db6d",
     "views": []
   },
   {
@@ -6930,8 +6977,8 @@
     "name": "publica-contacto-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 51514,
-    "sha256": "9e9b7a84fccdd0a39eabec16904ca6b383f3b840999ee17fd6d0190feb2f6c35",
+    "bytes": 54056,
+    "sha256": "ab17bc363e907cc47cfff9794a274a96c82db55b3602441ffc6f90beaea4c4d7",
     "views": []
   },
   {
@@ -6957,8 +7004,8 @@
     "name": "publica-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 298326,
-    "sha256": "ce26632d368e16647d6534ddeb0939f8539d5a7f4c53ed38436402b026fcf6f6",
+    "bytes": 300180,
+    "sha256": "38b12d4b2db7c1abd09909ac9852a2bf4adab6e3ea145498e5b70035c7ac1519",
     "views": []
   },
   {
@@ -6998,12 +7045,30 @@
     "views": []
   },
   {
+    "file": "assets/web/capturas/publica-licencias-escritorio.webp",
+    "name": "publica-licencias-escritorio.webp",
+    "kind": "originales",
+    "mime": "image/webp",
+    "bytes": 142720,
+    "sha256": "9aeb814bf744fad417efa53db5f3b384a56ca3958b0d61ebdb513f99d820c898",
+    "views": []
+  },
+  {
+    "file": "assets/web/capturas/publica-licencias-movil.webp",
+    "name": "publica-licencias-movil.webp",
+    "kind": "originales",
+    "mime": "image/webp",
+    "bytes": 132838,
+    "sha256": "33620844b6496b1d6ca406076af0965f93541e4b6d44dae3699d781a0f0dae9c",
+    "views": []
+  },
+  {
     "file": "assets/web/capturas/publica-movil.webp",
     "name": "publica-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 229178,
-    "sha256": "8fa2677ca548b3209783fcbc65435cd60a5234d066b20612d6a990da33dcb5f2",
+    "bytes": 230486,
+    "sha256": "0cfcca34ab90cf70a9a50ed01554ca6e9a562416168123b1b208ea80adf3e479",
     "views": []
   },
   {
@@ -7029,8 +7094,8 @@
     "name": "publica-privacidad-datos-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 819202,
-    "sha256": "e405dd78b02d60d0c60bf94100a3300cb6dbc18cb8e3bda7ab1f9593711aceff",
+    "bytes": 832050,
+    "sha256": "20305863ab1e8d3bf89d1d2b2ede3e94bca554817a4c33ac807175fb6a4a650b",
     "views": []
   },
   {
@@ -7038,8 +7103,8 @@
     "name": "publica-privacidad-datos-movil.jpg",
     "kind": "originales",
     "mime": "image/jpeg",
-    "bytes": 1275652,
-    "sha256": "ab5f6340caf931e8f94ef36c4010c965bf68e5450bc280f8a0d2f9555b1f6cab",
+    "bytes": 1305281,
+    "sha256": "b8387dd6d38cb193c09b5584b4294635b6b66a0be01daa62170a45fd266b6565",
     "views": []
   },
   {
@@ -7047,8 +7112,8 @@
     "name": "publica-privacidad-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 1031972,
-    "sha256": "185e57a69e7c72f73f4cd849695cd4505583b1e85ab82335c9e9980c36f2e9c0",
+    "bytes": 1073168,
+    "sha256": "5fa234ea6963cff6cb102cecd6b25dd1c49aa91b2427ac9204671a4260ca19d8",
     "views": []
   },
   {
@@ -7056,8 +7121,8 @@
     "name": "publica-privacidad-movil.jpg",
     "kind": "originales",
     "mime": "image/jpeg",
-    "bytes": 1467586,
-    "sha256": "e3c8610faa0649dff86a534794519091c4e3919f9121342a0f6a3d62076aef77",
+    "bytes": 1530315,
+    "sha256": "c047647a1cc3e06e2a6baca164bf45769bb5fd9e14c15dfe81c9cb38f9247843",
     "views": []
   },
   {
@@ -7119,8 +7184,8 @@
     "name": "publica-restaurantes-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 245052,
-    "sha256": "228f3a50a7e5b6061f33a54f3fde19570f99098f726a83f5011090d550378f86",
+    "bytes": 247002,
+    "sha256": "ce78afac713f0f03683f30c34dd940d4865fea155361cc60b17eb3e144d87616",
     "views": []
   },
   {
@@ -7128,8 +7193,8 @@
     "name": "publica-restaurantes-movil.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 174682,
-    "sha256": "bb84a72218bb47d1fae25f4e6f4cd1c9540618c5334d8f591b7ba2fab54b6948",
+    "bytes": 176820,
+    "sha256": "c5ff3d7b32c8dc4b2bbbf3e6efe3370bf2d50ee2a27d254851d5bec09f46b4fa",
     "views": []
   },
   {
@@ -7137,8 +7202,8 @@
     "name": "publica-terminos-escritorio.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 1322738,
-    "sha256": "6c9cb9e4af7715374c836e7a3f7e950239ad3b70eef10a2ccee4d921ad0c0ef2",
+    "bytes": 1331812,
+    "sha256": "5ad869bf855112fc1cbfed4f09230c5dd262b94c3fa38d98ed9cc8099ace2f08",
     "views": []
   },
   {
@@ -7146,8 +7211,8 @@
     "name": "publica-terminos-movil.jpg",
     "kind": "originales",
     "mime": "image/jpeg",
-    "bytes": 1856937,
-    "sha256": "bf4aa2f244215ef7a834f24b31010849ffc4d770282f973d7a9d13fe84b7ebff",
+    "bytes": 1872363,
+    "sha256": "1007868463b4aaa85bdeded6bf25a76805ff174f0c5ba9ac90f736408a76424f",
     "views": []
   },
   {

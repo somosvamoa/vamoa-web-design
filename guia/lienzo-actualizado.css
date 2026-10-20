@@ -664,7 +664,10 @@ details[open]>summary .ap-expand{transform:rotate(180deg)}
 .pa-filtros .ap-chip.on{background:#D4DF60;border-color:#D4DF60;color:#10241B;font-weight:600}
 .pa-mes{font-size:13px;color:#9FB0A5;margin-top:4px}
 .pa-cuenta{display:flex;align-items:center;gap:12px;padding:16px;border-radius:18px;background:#183226;flex:none}
-.pa-cuenta img{width:48px;height:48px;border-radius:12px;object-fit:cover;display:block;flex:none}
+/* Cada cuenta lleva el logo del restaurante, entero, en la baldosa negra de logos del kit
+   (`.ap-thumb-logo`): una portada a 48 px no se distingue de otra. */
+.pa-cuenta .pa-cuenta-logo{width:48px;height:48px;border-radius:12px;background:#000;padding:3px;box-sizing:border-box;display:block;flex:none;overflow:hidden}
+.pa-cuenta .pa-cuenta-logo img{width:100%;height:100%;object-fit:contain;display:block}
 .pa-cuenta .txt{flex:1;display:flex;flex-direction:column;gap:3px;min-width:0}.pa-cuenta .txt b{font-size:16px;color:#F6F1E7}.pa-cuenta .txt small{font-size:13px;color:#9FB0A5}
 .pa-cuenta .r{display:flex;flex-direction:column;align-items:flex-end;gap:3px}.pa-cuenta .r b{font-size:14px;color:#D4DF60}.pa-cuenta .r small{font-size:13px;color:#A9BAAE}
 .pa-cargando{display:flex;flex-direction:column;align-items:center;gap:10px;padding:6px 0}.pa-cargando img{width:112px;height:42px;object-fit:contain;display:block}.pa-cargando small{font-size:13px;color:#A9BAAE}
@@ -908,9 +911,19 @@ details[open]>summary .ap-expand{transform:rotate(180deg)}
 /* En la hoja «¿Con qué pagas?» la marca va en una placa de papel con tinta verde botella. */
 .pa-marca.papel{min-width:48px;width:auto;padding:0 6px;box-sizing:border-box;background:#FAF7EF;border:0;color:#18332C;font-weight:700;letter-spacing:.4px}
 .pa-opcion{min-height:64px;box-sizing:border-box}
+/* «Guardar una tarjeta» en la hoja del pago: una fila del mismo tamaño que las opciones, con
+   flecha en vez de radio, porque abre la página de Fintoc en lugar de elegir. */
+.pa-opcion.pa-agregar{margin-top:8px}
+.pa-marca.pa-marca-agregar{min-width:48px;width:auto;background:#D4DF60;color:#10241B;border:0}
+.pa-marca.pa-marca-agregar .material-symbols-rounded{font-size:20px}
+.pa-agregar-flecha{font-size:22px;color:#A9BAAE}
+.pa-opcion.pa-agregar .n small{font-weight:400;color:#A9BAAE}
 /* La página de Fintoc dentro de la app: una vista web blanca bajo la cabecera. La captura muestra sólo el formulario de tarjeta. */
 .pa-webview{flex:1;min-height:0;margin:0 -16px -24px;background:#fff;overflow:hidden;position:relative}
 .pa-webview img{display:block;width:100%;height:368px;object-fit:cover;object-position:0 49.3%}
+/* Guardar una tarjeta: la página de Fintoc ocupa todo bajo la barra, sin recorte. */
+.pa-webview.pa-webview-completa{margin-top:4px}
+.pa-webview.pa-webview-completa img{height:auto;object-fit:initial}
 
 /* Títulos de cabecera, como la app: flecha y título en Bricolage 800 juntos. `Cabecera` (src/ui.tsx) dibuja el título en tamanoTitulo, 28 por omisión, con interlínea ×1,1 e interletraje −2 %; las pantallas que pasan otro tamaño llevan vb-t18, vb-t20 o vb-t26. `CabeceraPago` (src/cabecera-pago.tsx) lo dibuja en 24 sobre un filete (vb-t24). `CabeceraLienzo` sólo muestra a dónde vuelve, en texto de 16 (vb-volver). */
 .ap-bar{height:auto;min-height:44px}
@@ -1076,12 +1089,22 @@ details[open]>summary .ap-expand{transform:rotate(180deg)}
 /* El buscador de Lugares siempre lleva al lado el selector lista/mapa (app/(tabs)/index.tsx). */
 .rv-buscador-fila{display:flex;align-items:center;gap:8px;flex:none}
 .rv-buscador-fila>.ap-search{flex:1;min-width:0}
-.rv-buscador-fila>:last-child{flex:none}
-/* Ficha (src/ficha-del-lienzo.tsx): «Lo que dice la gente ›» en lima 15/700 y, con más de un local, la fila «2 locales ⌄». */
-.rv-ficha-enlace{min-height:48px;box-sizing:border-box;padding:12px 16px;display:flex;align-items:center;gap:2px;font-size:15px;font-weight:700;color:#D4DF60;flex:none}
-.rv-ficha-enlace .material-symbols-rounded{font-size:18px}
-.rv-ficha-locales{padding:16px;display:flex;align-items:center;gap:2px;font-size:15px;font-weight:700;color:#F6F1E7;flex:none}
-.rv-ficha-locales .material-symbols-rounded{font-size:20px}
+.rv-buscador-fila>:last-child:not(.ap-search){flex:none}
+/* Ficha (2.2): «Lo que dice la gente» es el botón fantasma del kit. «Locales» es una sección
+   propia con la lista de direcciones a la vista, sin fondo: así no se confunde con la tarjeta
+   desplegable del horario. Cada fila abre cómo llegar. */
+/* Volver, guardar y compartir quedan fijos arriba al scrollear la ficha: abajo sólo va pagar,
+   y la única salida no se pierde con la foto. */
+.rv-ficha-flotante{position:absolute;top:36px;left:0;right:0;padding:0 16px;z-index:2;display:flex;justify-content:space-between;pointer-events:none}
+.ap-btn.quiet.rv-ficha-opiniones{margin:16px 16px 8px;flex:none}
+.rv-ficha-locales{margin:0 16px;flex:none}
+.rv-ficha-local{min-height:64px;display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid #183226}
+.rv-ficha-local:last-child{border-bottom:0}
+.rv-ficha-local .txt{flex:1;display:flex;flex-direction:column;gap:2px}
+.rv-ficha-local b{font-size:16px;font-weight:700;color:#F6F1E7}
+.rv-ficha-local small{font-size:14px;color:#9FB0A5}
+.rv-ficha-local .material-symbols-rounded{font-size:22px;color:#D4DF60}
+.rv-ficha-local .material-symbols-rounded:last-child{color:#9FB0A5}
 .rv-pt6{padding-top:6px !important}
 /* La carta (app/carta/[slug].tsx): la nota de precios va seguida de «Pedir en su sitio», fantasma compacto. */
 .rv-carta-nota{padding-bottom:8px !important}
@@ -1141,3 +1164,16 @@ details[open]>summary .ap-expand{transform:rotate(180deg)}
 .lc-board.rv-alto-libre,.lc-board .rv-alto-libre{height:auto}
 /* Botón fantasma dentro de las bienvenidas dibujadas a medida (0.4, sin bono): mismo margen que sus tarjetas. */
 .ap-btn.quiet.rv-btn-lado{margin:10px 16px 0}
+/* accesibilidad.ajustes: con la fila «Licencias de terceros», el pie anotado sigue al grupo Beta en vez de quedar anclado al fondo y taparlo. */
+.lc-board .lc-794dadaa4a3e.rv-pie-en-flujo{position:static;margin:8px 16px 0}
+.lc-board .rv-pie-en-flujo .lc-81c1ead2eca7{margin:0}
+.lc-board .lc-971d09eaaf0f.rv-grupos-arriba{padding-top:4px}
+/* Refresco al tirar la lista: el indicador del sistema en lima, sin el logo en la lista. */
+.rv-refresco{display:flex;justify-content:center;padding:12px 0 4px;flex:none}
+.rv-refresco-giro{width:24px;height:24px;border-radius:50%;border:3px solid #D4DF60;border-right-color:transparent;box-sizing:border-box;display:block}
+/* Antes del total del desglose: revisar la cuenta y arreglar con el garzón antes de pagar,
+   porque después sólo se devuelven errores del cobro o de la propina. */
+.ap-notice.pa-revisa{display:flex;gap:12px;align-items:flex-start;background:#1B3528;border:1.5px solid #D4DF60;color:#C7D2C2;padding:13px 15px;flex:none}
+.ap-notice.pa-revisa .material-symbols-rounded{font-size:22px;color:#D4DF60;line-height:22px}
+.ap-notice.pa-revisa b{display:block;color:#F6F1E7;font-size:15px;line-height:21px;font-weight:700;margin-bottom:2px}
+.ap-notice.pa-revisa span:not(.material-symbols-rounded){font-size:14px;line-height:20px}

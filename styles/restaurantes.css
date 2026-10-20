@@ -4,6 +4,7 @@ html,body{margin:0}
 .v-reference--restaurantes .v-footer-brand{justify-self:start}
 .v-reference--restaurantes .v-footer-note{justify-self:center;text-align:center}
 .v-reference--restaurantes .v-footer-links{justify-content:flex-end}
+.v-reference--restaurantes .v-footer-legal{grid-column:1/-1;justify-self:center;margin:0;text-align:center}
 @media(max-width:760px){.v-reference--restaurantes .v-footer-layout{grid-template-columns:1fr}.v-reference--restaurantes .v-footer-brand{justify-self:center}.v-reference--restaurantes .v-footer-links{justify-content:center}}
 
 /* vietnamese */

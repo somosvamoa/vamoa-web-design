@@ -4,6 +4,7 @@ html,body{margin:0}
 .v-reference--index .v-footer-brand{justify-self:start}
 .v-reference--index .v-footer-note{justify-self:center;text-align:center}
 .v-reference--index .v-footer-links{justify-content:flex-end}
+.v-reference--index .v-footer-legal{grid-column:1/-1;justify-self:center;margin:0;text-align:center}
 @media(max-width:760px){.v-reference--index .v-footer-layout{grid-template-columns:1fr}.v-reference--index .v-footer-brand{justify-self:center}.v-reference--index .v-footer-links{justify-content:center}}
 
 .v-reference--index .v-partners-centered .v-suma>div{box-sizing:border-box}

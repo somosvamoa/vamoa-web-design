@@ -1,9 +1,9 @@
 {
-  "capturado": "2026-10-19T18:08:51.909Z",
+  "capturado": "2026-10-19T22:51:43.451Z",
   "fuente": {
     "repositorio": "Vamoa",
     "rama": "dev",
-    "commit": "7a37c8a",
+    "commit": "3ad8bca",
     "servidor": "local, con la base del seed"
   },
   "secciones": [
@@ -24,8 +24,8 @@
     },
     {
       "id": "legal",
-      "nombre": "Legal",
-      "descripcion": "Términos, privacidad y el detalle de los datos que se guardan."
+      "nombre": "Legal y ayuda",
+      "descripcion": "Términos, privacidad, el detalle de los datos que se guardan, las licencias de terceros y la ayuda."
     },
     {
       "id": "restaurante",
@@ -53,14 +53,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-movil.webp",
         "ancho": 390,
-        "alto": 7154,
-        "sha256": "8fa2677ca548b3209783fcbc65435cd60a5234d066b20612d6a990da33dcb5f2"
+        "alto": 7234,
+        "sha256": "0cfcca34ab90cf70a9a50ed01554ca6e9a562416168123b1b208ea80adf3e479"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-escritorio.webp",
         "ancho": 1440,
-        "alto": 5026,
-        "sha256": "ce26632d368e16647d6534ddeb0939f8539d5a7f4c53ed38436402b026fcf6f6"
+        "alto": 5068,
+        "sha256": "38b12d4b2db7c1abd09909ac9852a2bf4adab6e3ea145498e5b70035c7ac1519"
       }
     },
     {
@@ -77,14 +77,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-restaurantes-movil.webp",
         "ancho": 390,
-        "alto": 5601,
-        "sha256": "bb84a72218bb47d1fae25f4e6f4cd1c9540618c5334d8f591b7ba2fab54b6948"
+        "alto": 5681,
+        "sha256": "c5ff3d7b32c8dc4b2bbbf3e6efe3370bf2d50ee2a27d254851d5bec09f46b4fa"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-restaurantes-escritorio.webp",
         "ancho": 1440,
-        "alto": 3268,
-        "sha256": "228f3a50a7e5b6061f33a54f3fde19570f99098f726a83f5011090d550378f86"
+        "alto": 3310,
+        "sha256": "ce78afac713f0f03683f30c34dd940d4865fea155361cc60b17eb3e144d87616"
       }
     },
     {
@@ -101,14 +101,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-clientes-movil.webp",
         "ancho": 390,
-        "alto": 4890,
-        "sha256": "c7133bec97b9c1dbc6c15334cd1d3113289495ce2a424584756bb9947032308d"
+        "alto": 4970,
+        "sha256": "9eff38ad7802cf99a4e627008494e64e642ef37362f2d5e50f0bbb7a6bd0d88f"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-clientes-escritorio.webp",
         "ancho": 1440,
-        "alto": 3793,
-        "sha256": "2138812029fe22bcaa2694602f73b29b35a7a5a7daf2f4fe3a8f8135ef3d656a"
+        "alto": 3835,
+        "sha256": "75fe8fc70050c53726062c4a0247d88f8ed9095be0f9f79298a0fb1395226a4b"
       }
     },
     {
@@ -125,14 +125,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-contacto-movil.webp",
         "ancho": 390,
-        "alto": 2268,
-        "sha256": "9e9b7a84fccdd0a39eabec16904ca6b383f3b840999ee17fd6d0190feb2f6c35"
+        "alto": 2348,
+        "sha256": "ab17bc363e907cc47cfff9794a274a96c82db55b3602441ffc6f90beaea4c4d7"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-contacto-escritorio.webp",
         "ancho": 1440,
-        "alto": 1517,
-        "sha256": "33dbf1d2779200724f300d919b4b2a10fdb64c8faea4244103febb7618bca8ad"
+        "alto": 1559,
+        "sha256": "ffcb5ff3c35eb7e5669bbdfc573fc2b71395d8f67f83e77253fead05a4f7db6d"
       }
     },
     {
@@ -356,14 +356,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-privacidad-movil.jpg",
         "ancho": 390,
-        "alto": 18183,
-        "sha256": "e3c8610faa0649dff86a534794519091c4e3919f9121342a0f6a3d62076aef77"
+        "alto": 18976,
+        "sha256": "c047647a1cc3e06e2a6baca164bf45769bb5fd9e14c15dfe81c9cb38f9247843"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-privacidad-escritorio.webp",
         "ancho": 1440,
-        "alto": 10756,
-        "sha256": "185e57a69e7c72f73f4cd849695cd4505583b1e85ab82335c9e9980c36f2e9c0"
+        "alto": 11140,
+        "sha256": "5fa234ea6963cff6cb102cecd6b25dd1c49aa91b2427ac9204671a4260ca19d8"
       }
     },
     {
@@ -379,14 +379,14 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-privacidad-datos-movil.jpg",
         "ancho": 390,
-        "alto": 20779,
-        "sha256": "ab5f6340caf931e8f94ef36c4010c965bf68e5450bc280f8a0d2f9555b1f6cab"
+        "alto": 21094,
+        "sha256": "b8387dd6d38cb193c09b5584b4294635b6b66a0be01daa62170a45fd266b6565"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-privacidad-datos-escritorio.webp",
         "ancho": 1440,
-        "alto": 12187,
-        "sha256": "e405dd78b02d60d0c60bf94100a3300cb6dbc18cb8e3bda7ab1f9593711aceff"
+        "alto": 12379,
+        "sha256": "20305863ab1e8d3bf89d1d2b2ede3e94bca554817a4c33ac807175fb6a4a650b"
       }
     },
     {
@@ -402,14 +402,60 @@
       "movil": {
         "archivo": "assets/web/capturas/publica-terminos-movil.jpg",
         "ancho": 390,
-        "alto": 23561,
-        "sha256": "bf4aa2f244215ef7a834f24b31010849ffc4d770282f973d7a9d13fe84b7ebff"
+        "alto": 23809,
+        "sha256": "1007868463b4aaa85bdeded6bf25a76805ff174f0c5ba9ac90f736408a76424f"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/publica-terminos-escritorio.webp",
         "ancho": 1440,
-        "alto": 14732,
-        "sha256": "6c9cb9e4af7715374c836e7a3f7e950239ad3b70eef10a2ccee4d921ad0c0ef2"
+        "alto": 14832,
+        "sha256": "5ad869bf855112fc1cbfed4f09230c5dd262b94c3fa38d98ed9cc8099ace2f08"
+      }
+    },
+    {
+      "id": "publica-licencias",
+      "seccion": "legal",
+      "ruta": "/licencias",
+      "nombre": "Licencias de terceros",
+      "encabezado": "Licencias de terceros",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-licencias-movil.webp",
+        "ancho": 390,
+        "alto": 3311,
+        "sha256": "33620844b6496b1d6ca406076af0965f93541e4b6d44dae3699d781a0f0dae9c"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-licencias-escritorio.webp",
+        "ancho": 1440,
+        "alto": 2509,
+        "sha256": "9aeb814bf744fad417efa53db5f3b384a56ca3958b0d61ebdb513f99d820c898"
+      }
+    },
+    {
+      "id": "publica-ayuda",
+      "seccion": "legal",
+      "ruta": "/ayuda",
+      "nombre": "Ayuda",
+      "encabezado": "¿En qué te ayudamos?",
+      "diseno": {
+        "estado": "sin-diseno",
+        "texto": "Sin diseño en VamoaDesign"
+      },
+      "movil": {
+        "archivo": "assets/web/capturas/publica-ayuda-movil.webp",
+        "ancho": 390,
+        "alto": 1566,
+        "sha256": "08de25adda88bd9e6bce46b55303f1b4648375d88d7327a3a5ae9d41e75dda61"
+      },
+      "escritorio": {
+        "archivo": "assets/web/capturas/publica-ayuda-escritorio.webp",
+        "ancho": 1440,
+        "alto": 1343,
+        "sha256": "aac505129e468dc7aa2b8286fa83a712bd9c96500d7c17625c7509ee04f11d38"
       }
     },
     {
@@ -787,13 +833,13 @@
         "archivo": "assets/web/capturas/admin-admin-movil.webp",
         "ancho": 390,
         "alto": 6149,
-        "sha256": "7d5ce8d1e2fadb3d6fc78f77c1c8e9f48075bba96d29f94f1c53c956b547dc15"
+        "sha256": "e6a9cf2b9eff70670b03b7d3e31b7e98763ddd675f3c0784e4b987b904520a51"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/admin-admin-escritorio.webp",
         "ancho": 1440,
         "alto": 3197,
-        "sha256": "da2b6019bdd3c042091b3e2ce5e738fe92de771a62ddd830050c706e13a2a1ed"
+        "sha256": "2ed39ddd4f9ae2ff17b9141d89da0c90d92babb6173e2bb76ae5a13e6af77f9b"
       }
     },
     {
@@ -1435,13 +1481,13 @@
         "archivo": "assets/web/capturas/admin-admin-riesgo-movil.webp",
         "ancho": 390,
         "alto": 2689,
-        "sha256": "2266c6cac73cc925507ffd5b2a507c28edbc06fbe0edc920f3eff9f8c6763238"
+        "sha256": "2df242d6b06c30e488d358c1c4e04dc4d82c47430837a49b15ed27eaae231d22"
       },
       "escritorio": {
         "archivo": "assets/web/capturas/admin-admin-riesgo-escritorio.webp",
         "ancho": 1440,
         "alto": 1522,
-        "sha256": "2e0cfbfb52b0b24f7888cc0a2a9cf473de3c1f3be5a2713f6bf41e8baba27bdc"
+        "sha256": "d7eb18f3e12b6fff6b7cfe32658dd60152b7ed19cd82607bcff149f6c3fd2ff9"
       }
     },
     {

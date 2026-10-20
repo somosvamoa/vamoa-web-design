@@ -1,9 +1,9 @@
 {
-  "generado": "2026-10-19T16:13:40.242Z",
+  "generado": "2026-10-20T05:50:22.705Z",
   "fuente": {
     "repositorio": "Vamoa",
     "rama": "dev",
-    "commit": "7a37c8a",
+    "commit": "3ad8bca",
     "codigo": "apps/web/src/lib/email.ts"
   },
   "correos": [
@@ -14,7 +14,7 @@
       "cuando": "Se inscribe en la lista de lanzamiento.",
       "asunto": "Ya estás en la lista de Vamo’a",
       "archivo": "assets/correos/bienvenida.html",
-      "sha256": "59780fa8e7eb888a078ee03327f80a5599eff0f55e746c8933c6ebf77ea4b598"
+      "sha256": "6d59ccf14347a7ed1f2838e207eabe48cc53ee0489acdcd061f4fa27d0c88e52"
     },
     {
       "id": "apertura",
@@ -23,7 +23,7 @@
       "cuando": "Administración encola «Vamo’a ya abrió» desde /admin/interesados para la lista suscrita.",
       "asunto": "Vamo’a ya abrió",
       "archivo": "assets/correos/apertura.html",
-      "sha256": "5c1972c743f1e726082bfdfafeae6f2ffa04368bdd2caf60bf231cffbd89e2eb"
+      "sha256": "a69417947dcd699339346cba0005ca7ef41aeede68a3d05fbe8b3705b66df007"
     },
     {
       "id": "vuelta",
@@ -41,7 +41,7 @@
       "cuando": "Crea su cuenta o pide un código nuevo para confirmar el correo.",
       "asunto": "123456 es tu código de Vamo’a",
       "archivo": "assets/correos/verify.html",
-      "sha256": "ce4f1ca06729907938239498f40d5adff8b15faf32facb92864f4bc233187368"
+      "sha256": "fff125cc0b2f1ee9e31390dbed4431921b3f58837637030a0b138d7f7e383b31"
     },
     {
       "id": "reset",
@@ -50,7 +50,7 @@
       "cuando": "Pide restablecer la contraseña.",
       "asunto": "123456 para cambiar tu contraseña de Vamo’a",
       "archivo": "assets/correos/reset.html",
-      "sha256": "d9827c22a3d22cec2b5f0707fbd93f36fc04cfaaa0e393c71595d5720a06362d"
+      "sha256": "2d576529f53b7db789e636e7b12a0fe556fe18d643d03ad3014ebbea1d56d5c8"
     },
     {
       "id": "invite",
@@ -59,7 +59,7 @@
       "cuando": "El dueño invita a alguien a su local.",
       "asunto": "Tu acceso al portal de Vamo’a · código 123456",
       "archivo": "assets/correos/invite.html",
-      "sha256": "5dd03f271d73b7302421e4988232e3ab40650ecc290fe47150f42dfa9d2cc746"
+      "sha256": "ee28b038b47cde2e9d90fa005651cbb6df34e5d286c0cd77b1913a603dfe9577"
     },
     {
       "id": "comprobante",
@@ -95,7 +95,7 @@
       "cuando": "El equipo responde desde /admin/consultas.",
       "asunto": "Re: Tu consulta en Vamo’a · VA-7K3M",
       "archivo": "assets/correos/respuesta.html",
-      "sha256": "36a78adb8b4214521260061f609e68ed8f5af74deee4007e7718ca28a5c7ceb1"
+      "sha256": "e5f28d22ab6ba0d0cd26e02e32fce434d167e4fd1c60ae2c19f295efb9f5f43c"
     },
     {
       "id": "aviso",
@@ -122,7 +122,7 @@
       "cuando": "Pide una devolución desde el comprobante de la app.",
       "asunto": "Tu solicitud de devolución VA-7K3M · Vamo’a",
       "archivo": "assets/correos/devolucionRecibida.html",
-      "sha256": "c277e993c7f4c01012ae1b3013777384503b163b984f82f1f020169bcbcea9fb"
+      "sha256": "8a779a9d48f91768dbdc42efe838b659d7edba7ab2fa2d1a09d136bffe94fad6"
     },
     {
       "id": "devolucionEnRevision",
@@ -131,7 +131,7 @@
       "cuando": "La devolución aprobada queda en revisión manual porque el procesador no confirmó el resultado.",
       "asunto": "Tu devolución VA-7K3M sigue en revisión",
       "archivo": "assets/correos/devolucionEnRevision.html",
-      "sha256": "a3244afd7ef3447a42fa8ee7a4aa8ac63603fee5edf8e93dcef5a7be68d0daf5"
+      "sha256": "1cb65edc07849fc56b5b74e9b05945cb89690442a73623d7aaee2f2f016d9da2"
     },
     {
       "id": "devolucionAprobada",
@@ -140,7 +140,7 @@
       "cuando": "Administración aprueba su solicitud y la devolución se hace efectiva por el procesador.",
       "asunto": "Aprobamos tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionAprobada.html",
-      "sha256": "df11526272cffa1f0528ddb49f96532ad15b06743930b134cec12a46be3a58fa"
+      "sha256": "418871c1456c8ed307b1fc951f67214459369b5d54e0efbede649abeb91cbc40"
     },
     {
       "id": "devolucionTransferida",
@@ -149,7 +149,7 @@
       "cuando": "Administración registra la transferencia de una devolución aprobada desde la cuenta de Vamo’a.",
       "asunto": "Aprobamos tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionTransferida.html",
-      "sha256": "2410b09dc84e838d9ccc6951809a308acf204d7ff8fe227cd4e0fc792e4dedc9"
+      "sha256": "e366b0d1d64607ca4db3d9aa69072570d0927124be791abd21868f3a8702583b"
     },
     {
       "id": "devolucionRechazada",
@@ -158,7 +158,7 @@
       "cuando": "Administración rechaza su solicitud, con el motivo.",
       "asunto": "No pudimos aprobar tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionRechazada.html",
-      "sha256": "3e629255b1ed8142015ef1c6355cc6a576a8756cd256f14bfff51d29a9cb79b1"
+      "sha256": "05866b868713bf31a5b75f89ee2ac62732d7433a2426250065609e7a9766cfb9"
     },
     {
       "id": "resumenPropinas",
@@ -167,7 +167,7 @@
       "cuando": "Activó el resumen diario; sale a las 6:00 por el día que terminó.",
       "asunto": "Propina por pagar del mar, 6 oct 2026 · De Calle",
       "archivo": "assets/correos/resumenPropinas.html",
-      "sha256": "7fa56bd6f993cc5a25a5e9f862326f2e69ca5528d0967696b7dfbe77e4e516a4"
+      "sha256": "b19dc4fa6cc14d9ea6e17ce25cc16c20fea20b7d860ed1f6bcc3ab24447e17da"
     },
     {
       "id": "suspension",
@@ -176,7 +176,7 @@
       "cuando": "Administración suspende la cuenta con scripts/suspender-cuenta.ts, con el motivo.",
       "asunto": "Suspendimos tu cuenta de Vamo’a",
       "archivo": "assets/correos/suspension.html",
-      "sha256": "3cb48f8d41625d278f7150a830de4f19665001f761c4111c2efa7e6f254e2bbb"
+      "sha256": "cd7195d74631a6dd72cb41c3f62788709ad20cff43c6dbf544e6eedb2cdc3b47"
     },
     {
       "id": "cambioLegal",
