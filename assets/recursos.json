@@ -312,8 +312,8 @@
     "name": "3.5.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 120498,
-    "sha256": "7669a4b36f7bd77a682395959900031aef0fb606885e1d5ea0582d21964c0c7d",
+    "bytes": 128435,
+    "sha256": "cc16f575bb2c78643c88a54e8b7c326c60a0eaad84bc9629fb4f6481c8d073f9",
     "views": [
       {
         "label": "3.5 · Propina y pago",
@@ -1208,8 +1208,8 @@
     "name": "comprobante.devuelta.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 101828,
-    "sha256": "c6ba1b2202edff86ef027cba0fd10b6841242cb94c0ebe3f08948dbdeafa1908",
+    "bytes": 102366,
+    "sha256": "ea15d3a158cf3fc602ed70f153762dde5e970219913f0ba50ccee3cee71089b3",
     "views": [
       {
         "label": "comprobante.devuelta · Devolución registrada",
@@ -1250,8 +1250,8 @@
     "name": "comprobante.procesando.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 94348,
-    "sha256": "2c4493f248610625ae873d3cb06367df792dd39a7dba10e000f3870da8d41688",
+    "bytes": 94850,
+    "sha256": "02fe45003c7c3ac3ba6e6378e6abdb5c250479c12a1c72e373282e2b044bfb81",
     "views": [
       {
         "label": "comprobante.procesando · Esperando confirmación",
@@ -1278,8 +1278,8 @@
     "name": "comprobante.qr-no-vigente.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 112071,
-    "sha256": "002db5ded553b9722233df94cd102e71cdbc1073593ce65d0885c8aa5712c62e",
+    "bytes": 112598,
+    "sha256": "0b510b79dab8760478c049f1f5b1ab1af185349277aebe65f998e73ba332333d",
     "views": [
       {
         "label": "comprobante.qr-no-vigente · Tu comprobante.",
@@ -1320,8 +1320,8 @@
     "name": "comprobante.sin-sello.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 93176,
-    "sha256": "ab467750a637ab0a398a1b71255596202ea545c1eb0374243f79e24ade905dae",
+    "bytes": 93682,
+    "sha256": "d8396c67dda3df699e04c69b602c8d4862a8c56d1ea2e575c0ae8d2b911e45de",
     "views": [
       {
         "label": "comprobante.sin-sello · Un comprobante para guardar",
@@ -1586,8 +1586,8 @@
     "name": "devolucion.datos-bancarios.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 112481,
-    "sha256": "38df4c33a44c9eb0e7f265ecef005b6463dac0cd8d50ca91966a2d5945e0a631",
+    "bytes": 110622,
+    "sha256": "40b5b8231ed96ae35da3d9c737cd14b0d96b4f55a1ae32233d302b8996f9d3b0",
     "views": [
       {
         "label": "devolucion.datos-bancarios · Adónde te transferimos",
@@ -1712,8 +1712,8 @@
     "name": "dividir.confirmar.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 119424,
-    "sha256": "4eb6029845edd86c37dd8b71077c9086b7085bfdd1f7a018c96afac465cff4fb",
+    "bytes": 127346,
+    "sha256": "01073eb82bb957eb14882f0769a8d2524035b56cf829b5696a95aac49d1942cb",
     "views": [
       {
         "label": "dividir.confirmar · La propina",
@@ -1908,8 +1908,8 @@
     "name": "dividir.rechazo.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 132697,
-    "sha256": "cb740d623666e9bba1bd2a1fa48506532ef82f86758d9b8130bceecaef14449d",
+    "bytes": 135514,
+    "sha256": "eaa6794cb1c77c707a89547bf3b2888aaa4aa7c3861955beb86f2920184a45a7",
     "views": [
       {
         "label": "dividir.rechazo · Prueba con otra tarjeta.",
@@ -2160,8 +2160,8 @@
     "name": "fintoc.apple-pay.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 122089,
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "bytes": 130022,
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "views": []
   },
   {
@@ -2169,8 +2169,8 @@
     "name": "fintoc.banco.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 122089,
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "bytes": 130022,
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "views": []
   },
   {
@@ -2206,8 +2206,8 @@
     "name": "fintoc.confirmar.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 122089,
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "bytes": 130022,
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "views": [
       {
         "label": "fintoc.confirmar · 01 · Confirmar y pagar",
@@ -2220,8 +2220,8 @@
     "name": "fintoc.creditos.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 94505,
-    "sha256": "1223e202298455cc170d974674bf7a323d1d8930a481f1c99f86ec829d0385b1",
+    "bytes": 95027,
+    "sha256": "528ac922e535ef019c5372428f24b89c3e6975aefe8fb2c5f0e4ca43caed1ece",
     "views": [
       {
         "label": "fintoc.creditos · 13 · Cuenta cubierta con créditos",
@@ -2276,8 +2276,8 @@
     "name": "fintoc.google-pay.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 122089,
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "bytes": 130022,
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "views": []
   },
   {
@@ -2313,8 +2313,8 @@
     "name": "fintoc.solo-propina.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 135564,
-    "sha256": "75aca579ae1654a5810e0c6f0469c14d28bf6199e565a0064278b0994efa4c63",
+    "bytes": 145420,
+    "sha256": "3f9b4f7e661cb74f6172c3f0e22dcec787f761be2045f976c265f82145729009",
     "views": [
       {
         "label": "fintoc.solo-propina · 14 · Sólo se cobra la propina",
@@ -2327,8 +2327,8 @@
     "name": "fintoc.tarjeta.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 122089,
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "bytes": 130022,
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "views": []
   },
   {
@@ -2336,8 +2336,8 @@
     "name": "fintoc.vencido.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 144415,
-    "sha256": "3624b987f219b5e240b6e870c542b5e2764c1d1617e3e7c2436ca8bc08d7afb2",
+    "bytes": 146662,
+    "sha256": "6d6660735073c1fcf3b10f207b16c06427e00ae6918e37f662a9d04aafdcc505",
     "views": [
       {
         "label": "fintoc.vencido · 09 · Página de pago vencida",
@@ -2518,8 +2518,8 @@
     "name": "historial.pago-eventos.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 99311,
-    "sha256": "0562bfc44e01d8be20da97aa11de7a255494557358d963311591fcf2d91bfbef",
+    "bytes": 99854,
+    "sha256": "2f910a4acebe375e56927e26bcc82e6d3ff41516ddcada66a9fc918da70edf89",
     "views": [
       {
         "label": "historial.pago-eventos · Historial del pago",
@@ -2812,8 +2812,8 @@
     "name": "pago.bono-no-aplica.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 132611,
-    "sha256": "924e14e1651dd20aed446a146cf4ed8a6d9f45eada4df39a6993a1763e82a684",
+    "bytes": 141367,
+    "sha256": "3d6fff5d093b0c2c9a4ec8a421696996d2cfa54694c40a683a2e96a06f58124d",
     "views": [
       {
         "label": "pago.bono-no-aplica · Tu bono queda esperando",
@@ -2868,8 +2868,8 @@
     "name": "pago.metodo-sin-tarjetas.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 126562,
-    "sha256": "08cc244913582f79c9c61b33e37c3fcaacb798fd1c2ed8a3508b35906a27d368",
+    "bytes": 128163,
+    "sha256": "f71b24aa02dbc0d2a9bbbd79ba6ca76e64d36b21198e61d97559cd8b2ffc6559",
     "views": [
       {
         "label": "pago.metodo-sin-tarjetas · ¿Con qué pagas? · sin tarjetas",
@@ -2924,8 +2924,8 @@
     "name": "pago.propina-confirmar.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 126814,
-    "sha256": "015fb4f0fc00e357fa02b1b9c0dd7afa471eb51817e9518df2ae0bc668dc1064",
+    "bytes": 127226,
+    "sha256": "0311bb7374aaccad7edb82e63f259ac82926472b4d06381f59f3409d68a31b2f",
     "views": [
       {
         "label": "pago.propina-confirmar · ¿Dejar $18.000 de propina?",
@@ -2938,8 +2938,8 @@
     "name": "pago.propina-libre.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 116097,
-    "sha256": "412b8839a24c72752aa10fd3c9e0052a36c9854b6efc131457df7abc1798643b",
+    "bytes": 116714,
+    "sha256": "ec65d6daba14be8e408a5e91e82a5524d33321474dc7571d1fb258a41dbdfcc5",
     "views": [
       {
         "label": "pago.propina-libre · Tu propina",
@@ -2952,8 +2952,8 @@
     "name": "pago.propina-mesa.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 109307,
-    "sha256": "b7891638acd585659e687c941fdd6c285ab3ec20c5a591a2cd9ae07fd80e7bd2",
+    "bytes": 109844,
+    "sha256": "30215c7810a30a19237d55dcaaca59dd4210c37da78b6c32cb44596fec7655b6",
     "views": [
       {
         "label": "pago.propina-mesa · La propina se deja en el local",
@@ -2966,8 +2966,8 @@
     "name": "pago.propina-tope.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 123669,
-    "sha256": "049d2d30dd95bc4b86cf3c71e872b8eda1f8a0816f76b325bc26e4acdc9555c5",
+    "bytes": 124150,
+    "sha256": "4881ee68dd6256f75191afafe7044c75a808c81a3052c127c09c968f983f5950",
     "views": [
       {
         "label": "pago.propina-tope · La propina no puede superar el consumo",
@@ -3008,8 +3008,8 @@
     "name": "pago.sin-creditos.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 119790,
-    "sha256": "d4101143dff0f76d91a94b7b46e9758b95a79cd2533a4ec1b860e9cf1f315f26",
+    "bytes": 127708,
+    "sha256": "874166dd968b1da708757c46591b9c3a7e09c5771b80319be1f40f6751c7d022",
     "views": [
       {
         "label": "pago.sin-creditos · Guarda tus créditos para otra",
@@ -3022,8 +3022,8 @@
     "name": "pago.sin-tarjeta.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 154601,
-    "sha256": "f4080d1f77950cbfaf2387623a0c3fb42499c89a0eb40ca028ffa794e3ca71cd",
+    "bytes": 154843,
+    "sha256": "8fb64a09b88c8241b1b12ddd4dbb1965d004105448a9e65247961e3398144a2c",
     "views": [
       {
         "label": "pago.sin-tarjeta · Agrega con qué pagar",
@@ -3036,8 +3036,8 @@
     "name": "pago.todo-credito.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 107019,
-    "sha256": "9782221cb810ffd97a8ffa64f0e0439a7c48eb4038b54bc31f0dc75748c878e8",
+    "bytes": 115240,
+    "sha256": "9ed54f0286b4c4a2746ee1a5466e81c758920254878477ac15e10c3eb4f408f1",
     "views": [
       {
         "label": "pago.todo-credito · Esta cuenta va con créditos",
@@ -3344,8 +3344,8 @@
     "name": "restaurante.cobro.png",
     "kind": "capturas",
     "mime": "image/png",
-    "bytes": 84996,
-    "sha256": "438354d93cd29b6750c9d432a601a3420aeb9b97b5029fe1ce364d602df7dff6",
+    "bytes": 85546,
+    "sha256": "61fdc8a74beca1f6895643f82809e08b6114182fec28cae938c31f71047ad143",
     "views": [
       {
         "label": "restaurante.cobro · Detalle del cobro",
@@ -5976,8 +5976,8 @@
     "name": "2.1.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 103196,
-    "sha256": "5d20533d38ce57552f60a68d73e85669226a0ade4ccc682c0ea1bee014847bd1",
+    "bytes": 103068,
+    "sha256": "124fc020d17c867f51c776e6a99c6ad1250a55747c033bfabee0ea3d0b56e955",
     "views": [
       {
         "label": "Landing",
@@ -6018,8 +6018,8 @@
     "name": "3.5.webp",
     "kind": "originales",
     "mime": "image/webp",
-    "bytes": 38078,
-    "sha256": "ff44371d6ac686c5a81f569fc42a2ee8f573c9cb579ed60b0897b7e50ff68940",
+    "bytes": 40676,
+    "sha256": "f310c2dc44589ec407d08d628b3639afc67067663a973b8b90b4c88aa061e6ec",
     "views": [
       {
         "label": "Landing",

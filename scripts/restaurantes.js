@@ -31,7 +31,7 @@ class Component extends DCLogic {
 
   renderVals() {
     return { opening: this.state.opening,
-      perks: [["payments","Caja hoy","Te compramos consumo por adelantado."],["volunteer_activism","Propina íntegra","Llega íntegra al equipo del local."],["point_of_sale","Conectado a tu caja","La cuenta sale de tu POS. Sin montos a mano."],["replay","Clientes que vuelven","El 20% sólo se usa volviendo a comer."],["qr_code_2","Tu equipo, sin cuenta","Escanean el QR y verifican cada mesa pagada."],["monitoring","Portal en vivo","Consumo, clientes y crédito, cuando quieras."]].map(([i, t, d]) => ({ i, t, d, bg: '#285247', fg: '#FAF7EF', sub: '#A9B4AC', ibg: '#D4DF60', ifg: '#18332C' })),
+      perks: [["payments","Caja hoy","Te compramos consumo por adelantado."],["volunteer_activism","Propina íntegra","Llega íntegra a tu equipo."],["point_of_sale","Conectado a tu caja","La cuenta sale de tu POS. Sin montos a mano."],["replay","Clientes que vuelven","El 20% sólo se usa volviendo a comer."],["qr_code_2","Tu equipo, sin cuenta","Escanean el QR y verifican cada mesa pagada."],["monitoring","Portal en vivo","Consumo, clientes y crédito, cuando quieras."]].map(([i, t, d]) => ({ i, t, d, bg: '#285247', fg: '#FAF7EF', sub: '#A9B4AC', ibg: '#D4DF60', ifg: '#18332C' })),
       steps: [
         { n: '01', t: 'Acordamos y te pagamos', d: 'Fijamos monto, precio y vigencia por contrato. Vamo’a transfiere el precio antes del primer consumo.', bg: '#F2EDDF' },
         { n: '02', t: 'Conectamos tu caja', d: 'Leemos la precuenta desde tu POS y probamos todo en marcha blanca antes de la primera mesa.', bg: '#F2EDDF' },

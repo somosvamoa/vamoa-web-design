@@ -155,7 +155,7 @@
   },
   {
     "archivo": "assets/app/capturas/3.5.png",
-    "sha256": "7669a4b36f7bd77a682395959900031aef0fb606885e1d5ea0582d21964c0c7d",
+    "sha256": "cc16f575bb2c78643c88a54e8b7c326c60a0eaad84bc9629fb4f6481c8d073f9",
     "exportacion": "guia/capturas/3.5.png",
     "vamoa": [],
     "sha256_original": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36"
@@ -589,7 +589,7 @@
   },
   {
     "archivo": "assets/app/capturas/comprobante.devuelta.png",
-    "sha256": "c6ba1b2202edff86ef027cba0fd10b6841242cb94c0ebe3f08948dbdeafa1908",
+    "sha256": "ea15d3a158cf3fc602ed70f153762dde5e970219913f0ba50ccee3cee71089b3",
     "exportacion": "guia/capturas/comprobante.devuelta.png",
     "vamoa": [],
     "sha256_original": "33b25363c27b6eadf784a1896f3d97b4260d7625b96311319a425e06a4bcc72e"
@@ -610,7 +610,7 @@
   },
   {
     "archivo": "assets/app/capturas/comprobante.procesando.png",
-    "sha256": "2c4493f248610625ae873d3cb06367df792dd39a7dba10e000f3870da8d41688",
+    "sha256": "02fe45003c7c3ac3ba6e6378e6abdb5c250479c12a1c72e373282e2b044bfb81",
     "exportacion": "guia/capturas/comprobante.procesando.png",
     "vamoa": [],
     "sha256_original": "7fc01d9cfa1ed7fbfa3b681ae3ba2ef2afdcb13edc4f53ab70fc289325085b5b"
@@ -624,7 +624,7 @@
   },
   {
     "archivo": "assets/app/capturas/comprobante.qr-no-vigente.png",
-    "sha256": "002db5ded553b9722233df94cd102e71cdbc1073593ce65d0885c8aa5712c62e",
+    "sha256": "0b510b79dab8760478c049f1f5b1ab1af185349277aebe65f998e73ba332333d",
     "exportacion": "guia/capturas/comprobante.qr-no-vigente.png",
     "vamoa": [],
     "sha256_original": "968bfa13107e67ecdbb6562307131769acc4dadd0c8dff804bf52e09107ef38a"
@@ -643,7 +643,7 @@
   },
   {
     "archivo": "assets/app/capturas/comprobante.sin-sello.png",
-    "sha256": "ab467750a637ab0a398a1b71255596202ea545c1eb0374243f79e24ade905dae",
+    "sha256": "d8396c67dda3df699e04c69b602c8d4862a8c56d1ea2e575c0ae8d2b911e45de",
     "exportacion": "guia/capturas/comprobante.sin-sello.png",
     "vamoa": [],
     "sha256_original": "f8412968c83e1437cb5ab248313acdbe0a97e30fd0084730faee00820d286069"
@@ -771,7 +771,7 @@
   {
     "archivo": "assets/app/capturas/devolucion.datos-bancarios.png",
     "vamoa": [],
-    "sha256": "38df4c33a44c9eb0e7f265ecef005b6463dac0cd8d50ca91966a2d5945e0a631",
+    "sha256": "40b5b8231ed96ae35da3d9c737cd14b0d96b4f55a1ae32233d302b8996f9d3b0",
     "sha256_original": "1041835a196156ccdf5846957290cf11d68e70b93b9c50ee445918e6dec1e725"
   },
   {
@@ -827,7 +827,7 @@
   },
   {
     "archivo": "assets/app/capturas/dividir.confirmar.png",
-    "sha256": "4eb6029845edd86c37dd8b71077c9086b7085bfdd1f7a018c96afac465cff4fb",
+    "sha256": "01073eb82bb957eb14882f0769a8d2524035b56cf829b5696a95aac49d1942cb",
     "exportacion": "guia/capturas/dividir.confirmar.png",
     "vamoa": [],
     "sha256_original": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4"
@@ -923,7 +923,7 @@
   },
   {
     "archivo": "assets/app/capturas/dividir.rechazo.png",
-    "sha256": "cb740d623666e9bba1bd2a1fa48506532ef82f86758d9b8130bceecaef14449d",
+    "sha256": "eaa6794cb1c77c707a89547bf3b2888aaa4aa7c3861955beb86f2920184a45a7",
     "exportacion": "guia/capturas/dividir.rechazo.png",
     "vamoa": [],
     "sha256_original": "33d4b7251c793086634a3c37e3254783e6005fd41b5669002ca78b052a2767b3"
@@ -1050,13 +1050,13 @@
   {
     "archivo": "assets/app/capturas/fintoc.apple-pay.png",
     "vamoa": [],
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "sha256_original": "d46c59d5fdb3b982e18fd5c0908645c0bacefb5126b30ee2fa721f7517e94ab9"
   },
   {
     "archivo": "assets/app/capturas/fintoc.banco.png",
     "vamoa": [],
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "sha256_original": "8db1e86a94c7f09cb1a4719c56e5be6107280ff96a6ac0130fc419ce2f576dd6"
   },
   {
@@ -1074,13 +1074,13 @@
   {
     "archivo": "assets/app/capturas/fintoc.confirmar.png",
     "vamoa": [],
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "sha256_original": "bcefec51d3733baa04eff163f6cb267021a281f46a8625adee627dd441be0834"
   },
   {
     "archivo": "assets/app/capturas/fintoc.creditos.png",
     "vamoa": [],
-    "sha256": "1223e202298455cc170d974674bf7a323d1d8930a481f1c99f86ec829d0385b1",
+    "sha256": "528ac922e535ef019c5372428f24b89c3e6975aefe8fb2c5f0e4ca43caed1ece",
     "sha256_original": "03a26aaa7f43732ad1352ed3538d6f72c4b8d03cc78a2fb6f7c8932c9ed1f110"
   },
   {
@@ -1104,7 +1104,7 @@
   {
     "archivo": "assets/app/capturas/fintoc.google-pay.png",
     "vamoa": [],
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "sha256_original": "3102d1c5f20d1b24b194891baa23d252e589bd9c30b6acf8e02c5872f1a9d8ab"
   },
   {
@@ -1122,19 +1122,19 @@
   {
     "archivo": "assets/app/capturas/fintoc.solo-propina.png",
     "vamoa": [],
-    "sha256": "75aca579ae1654a5810e0c6f0469c14d28bf6199e565a0064278b0994efa4c63",
+    "sha256": "3f9b4f7e661cb74f6172c3f0e22dcec787f761be2045f976c265f82145729009",
     "sha256_original": "791a76f0459691e2bc587256bdb1037cc05d0595b50f901016b88b3e425f0019"
   },
   {
     "archivo": "assets/app/capturas/fintoc.tarjeta.png",
     "vamoa": [],
-    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
+    "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80",
     "sha256_original": "25bf53d4a95d91d4acf4da310c647a238974da8ba5405b2b0dd2d3fe020a669d"
   },
   {
     "archivo": "assets/app/capturas/fintoc.vencido.png",
     "vamoa": [],
-    "sha256": "3624b987f219b5e240b6e870c542b5e2764c1d1617e3e7c2436ca8bc08d7afb2",
+    "sha256": "6d6660735073c1fcf3b10f207b16c06427e00ae6918e37f662a9d04aafdcc505",
     "sha256_original": "08c471be5a1c0027b822853f23acf78b6b6b2effdf077471fc7b232fc9c25953"
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "archivo": "assets/app/capturas/historial.pago-eventos.png",
     "vamoa": [],
-    "sha256": "0562bfc44e01d8be20da97aa11de7a255494557358d963311591fcf2d91bfbef",
+    "sha256": "2f910a4acebe375e56927e26bcc82e6d3ff41516ddcada66a9fc918da70edf89",
     "sha256_original": "49bf1e2baeff2a709aca709ac7ac3be558e8856dfde504bc15e920719b352753"
   },
   {
@@ -1358,7 +1358,7 @@
   },
   {
     "archivo": "assets/app/capturas/pago.bono-no-aplica.png",
-    "sha256": "924e14e1651dd20aed446a146cf4ed8a6d9f45eada4df39a6993a1763e82a684",
+    "sha256": "3d6fff5d093b0c2c9a4ec8a421696996d2cfa54694c40a683a2e96a06f58124d",
     "exportacion": "guia/capturas/pago.bono-no-aplica.png",
     "vamoa": [],
     "sha256_original": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56"
@@ -1387,7 +1387,8 @@
   {
     "archivo": "assets/app/capturas/pago.metodo-sin-tarjetas.png",
     "vamoa": [],
-    "sha256": "08cc244913582f79c9c61b33e37c3fcaacb798fd1c2ed8a3508b35906a27d368"
+    "sha256": "f71b24aa02dbc0d2a9bbbd79ba6ca76e64d36b21198e61d97559cd8b2ffc6559",
+    "sha256_original": "08cc244913582f79c9c61b33e37c3fcaacb798fd1c2ed8a3508b35906a27d368"
   },
   {
     "archivo": "assets/app/capturas/pago.modo-demo.png",
@@ -1412,19 +1413,19 @@
   {
     "archivo": "assets/app/capturas/pago.propina-confirmar.png",
     "vamoa": [],
-    "sha256": "015fb4f0fc00e357fa02b1b9c0dd7afa471eb51817e9518df2ae0bc668dc1064",
+    "sha256": "0311bb7374aaccad7edb82e63f259ac82926472b4d06381f59f3409d68a31b2f",
     "sha256_original": "1dad486c9a152f434ff70d0524259a3c51a91a4993327690b834e2f89218f88f"
   },
   {
     "archivo": "assets/app/capturas/pago.propina-libre.png",
-    "sha256": "412b8839a24c72752aa10fd3c9e0052a36c9854b6efc131457df7abc1798643b",
+    "sha256": "ec65d6daba14be8e408a5e91e82a5524d33321474dc7571d1fb258a41dbdfcc5",
     "exportacion": "guia/capturas/pago.propina-libre.png",
     "vamoa": [],
     "sha256_original": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f"
   },
   {
     "archivo": "assets/app/capturas/pago.propina-mesa.png",
-    "sha256": "b7891638acd585659e687c941fdd6c285ab3ec20c5a591a2cd9ae07fd80e7bd2",
+    "sha256": "30215c7810a30a19237d55dcaaca59dd4210c37da78b6c32cb44596fec7655b6",
     "exportacion": "guia/capturas/pago.propina-mesa.png",
     "vamoa": [],
     "sha256_original": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13"
@@ -1432,7 +1433,7 @@
   {
     "archivo": "assets/app/capturas/pago.propina-tope.png",
     "vamoa": [],
-    "sha256": "049d2d30dd95bc4b86cf3c71e872b8eda1f8a0816f76b325bc26e4acdc9555c5",
+    "sha256": "4881ee68dd6256f75191afafe7044c75a808c81a3052c127c09c968f983f5950",
     "sha256_original": "0c858a77340435036c1f2dbb6ce7feaff8265af1adb585be8fb839b0d36ad163"
   },
   {
@@ -1451,21 +1452,21 @@
   },
   {
     "archivo": "assets/app/capturas/pago.sin-creditos.png",
-    "sha256": "d4101143dff0f76d91a94b7b46e9758b95a79cd2533a4ec1b860e9cf1f315f26",
+    "sha256": "874166dd968b1da708757c46591b9c3a7e09c5771b80319be1f40f6751c7d022",
     "exportacion": "guia/capturas/pago.sin-creditos.png",
     "vamoa": [],
     "sha256_original": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1"
   },
   {
     "archivo": "assets/app/capturas/pago.sin-tarjeta.png",
-    "sha256": "f4080d1f77950cbfaf2387623a0c3fb42499c89a0eb40ca028ffa794e3ca71cd",
+    "sha256": "8fb64a09b88c8241b1b12ddd4dbb1965d004105448a9e65247961e3398144a2c",
     "exportacion": "guia/capturas/pago.sin-tarjeta.png",
     "vamoa": [],
     "sha256_original": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421"
   },
   {
     "archivo": "assets/app/capturas/pago.todo-credito.png",
-    "sha256": "9782221cb810ffd97a8ffa64f0e0439a7c48eb4038b54bc31f0dc75748c878e8",
+    "sha256": "9ed54f0286b4c4a2746ee1a5466e81c758920254878477ac15e10c3eb4f408f1",
     "exportacion": "guia/capturas/pago.todo-credito.png",
     "vamoa": [],
     "sha256_original": "8971bed9cac4a6c82fd59733392cb01abc19753cef60f544380962ad2e300626"
@@ -1614,7 +1615,7 @@
   },
   {
     "archivo": "assets/app/capturas/restaurante.cobro.png",
-    "sha256": "438354d93cd29b6750c9d432a601a3420aeb9b97b5029fe1ce364d602df7dff6",
+    "sha256": "61fdc8a74beca1f6895643f82809e08b6114182fec28cae938c31f71047ad143",
     "exportacion": "guia/capturas/restaurante.cobro.png",
     "vamoa": [],
     "sha256_original": "aa838807c9fc8fc4ab0bc9e9c6f8e31af55117f9b4b7ab796c8d29cea7d4f170"
@@ -3084,7 +3085,7 @@
   {
     "archivo": "assets/landing/pasos/2.1.webp",
     "vamoa": [],
-    "sha256": "5d20533d38ce57552f60a68d73e85669226a0ade4ccc682c0ea1bee014847bd1",
+    "sha256": "124fc020d17c867f51c776e6a99c6ad1250a55747c033bfabee0ea3d0b56e955",
     "sha256_original": "905d89f416326a9e6a7fb7d833921eaa3e118c02b5408f912f56861fba6b9f53"
   },
   {
@@ -3102,7 +3103,7 @@
   {
     "archivo": "assets/landing/pasos/3.5.webp",
     "vamoa": [],
-    "sha256": "ff44371d6ac686c5a81f569fc42a2ee8f573c9cb579ed60b0897b7e50ff68940",
+    "sha256": "f310c2dc44589ec407d08d628b3639afc67067663a973b8b90b4c88aa061e6ec",
     "sha256_original": "39cd3ae467bc18592f6d7da5ed9fe92a2e29b0fc92b5a012e2b915c71e57ae80"
   },
   {

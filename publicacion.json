@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "sourceRepository": "Gutierrovski/VamoaDesign",
-  "sourceCommit": "eab911cd3f5979b264c1d88336a794872cbc9e1a",
+  "sourceCommit": "82f649282693df5088c6443e8c8ae2ae52497ad2",
   "views": 295,
   "consumerViews": 232,
   "captures": 298,
@@ -104,7 +104,7 @@
     },
     {
       "file": "assets/app/capturas/3.5.png",
-      "sha256": "7669a4b36f7bd77a682395959900031aef0fb606885e1d5ea0582d21964c0c7d"
+      "sha256": "cc16f575bb2c78643c88a54e8b7c326c60a0eaad84bc9629fb4f6481c8d073f9"
     },
     {
       "file": "assets/app/capturas/3.6.png",
@@ -360,7 +360,7 @@
     },
     {
       "file": "assets/app/capturas/comprobante.devuelta.png",
-      "sha256": "c6ba1b2202edff86ef027cba0fd10b6841242cb94c0ebe3f08948dbdeafa1908"
+      "sha256": "ea15d3a158cf3fc602ed70f153762dde5e970219913f0ba50ccee3cee71089b3"
     },
     {
       "file": "assets/app/capturas/comprobante.imprimir.png",
@@ -372,7 +372,7 @@
     },
     {
       "file": "assets/app/capturas/comprobante.procesando.png",
-      "sha256": "2c4493f248610625ae873d3cb06367df792dd39a7dba10e000f3870da8d41688"
+      "sha256": "02fe45003c7c3ac3ba6e6378e6abdb5c250479c12a1c72e373282e2b044bfb81"
     },
     {
       "file": "assets/app/capturas/comprobante.qr-cargando.png",
@@ -380,7 +380,7 @@
     },
     {
       "file": "assets/app/capturas/comprobante.qr-no-vigente.png",
-      "sha256": "002db5ded553b9722233df94cd102e71cdbc1073593ce65d0885c8aa5712c62e"
+      "sha256": "0b510b79dab8760478c049f1f5b1ab1af185349277aebe65f998e73ba332333d"
     },
     {
       "file": "assets/app/capturas/comprobante.qr.png",
@@ -392,7 +392,7 @@
     },
     {
       "file": "assets/app/capturas/comprobante.sin-sello.png",
-      "sha256": "ab467750a637ab0a398a1b71255596202ea545c1eb0374243f79e24ade905dae"
+      "sha256": "d8396c67dda3df699e04c69b602c8d4862a8c56d1ea2e575c0ae8d2b911e45de"
     },
     {
       "file": "assets/app/capturas/comprobante.ticket.png",
@@ -468,7 +468,7 @@
     },
     {
       "file": "assets/app/capturas/devolucion.datos-bancarios.png",
-      "sha256": "38df4c33a44c9eb0e7f265ecef005b6463dac0cd8d50ca91966a2d5945e0a631"
+      "sha256": "40b5b8231ed96ae35da3d9c737cd14b0d96b4f55a1ae32233d302b8996f9d3b0"
     },
     {
       "file": "assets/app/capturas/devolucion.enviada.png",
@@ -504,7 +504,7 @@
     },
     {
       "file": "assets/app/capturas/dividir.confirmar.png",
-      "sha256": "4eb6029845edd86c37dd8b71077c9086b7085bfdd1f7a018c96afac465cff4fb"
+      "sha256": "01073eb82bb957eb14882f0769a8d2524035b56cf829b5696a95aac49d1942cb"
     },
     {
       "file": "assets/app/capturas/dividir.cubierta.png",
@@ -560,7 +560,7 @@
     },
     {
       "file": "assets/app/capturas/dividir.rechazo.png",
-      "sha256": "cb740d623666e9bba1bd2a1fa48506532ef82f86758d9b8130bceecaef14449d"
+      "sha256": "eaa6794cb1c77c707a89547bf3b2888aaa4aa7c3861955beb86f2920184a45a7"
     },
     {
       "file": "assets/app/capturas/dividir.unirse.png",
@@ -632,11 +632,11 @@
     },
     {
       "file": "assets/app/capturas/fintoc.apple-pay.png",
-      "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606"
+      "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80"
     },
     {
       "file": "assets/app/capturas/fintoc.banco.png",
-      "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606"
+      "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80"
     },
     {
       "file": "assets/app/capturas/fintoc.comprobante-banco.png",
@@ -648,11 +648,11 @@
     },
     {
       "file": "assets/app/capturas/fintoc.confirmar.png",
-      "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606"
+      "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80"
     },
     {
       "file": "assets/app/capturas/fintoc.creditos.png",
-      "sha256": "1223e202298455cc170d974674bf7a323d1d8930a481f1c99f86ec829d0385b1"
+      "sha256": "528ac922e535ef019c5372428f24b89c3e6975aefe8fb2c5f0e4ca43caed1ece"
     },
     {
       "file": "assets/app/capturas/fintoc.externo-banco.png",
@@ -668,7 +668,7 @@
     },
     {
       "file": "assets/app/capturas/fintoc.google-pay.png",
-      "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606"
+      "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80"
     },
     {
       "file": "assets/app/capturas/fintoc.metodos.png",
@@ -680,15 +680,15 @@
     },
     {
       "file": "assets/app/capturas/fintoc.solo-propina.png",
-      "sha256": "75aca579ae1654a5810e0c6f0469c14d28bf6199e565a0064278b0994efa4c63"
+      "sha256": "3f9b4f7e661cb74f6172c3f0e22dcec787f761be2045f976c265f82145729009"
     },
     {
       "file": "assets/app/capturas/fintoc.tarjeta.png",
-      "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606"
+      "sha256": "0333d85e4b5dc8e83bb3788cca797b70f0fab0717dc0fd7ecc572e504bebcb80"
     },
     {
       "file": "assets/app/capturas/fintoc.vencido.png",
-      "sha256": "3624b987f219b5e240b6e870c542b5e2764c1d1617e3e7c2436ca8bc08d7afb2"
+      "sha256": "6d6660735073c1fcf3b10f207b16c06427e00ae6918e37f662a9d04aafdcc505"
     },
     {
       "file": "assets/app/capturas/fintoc.verificando.png",
@@ -740,7 +740,7 @@
     },
     {
       "file": "assets/app/capturas/historial.pago-eventos.png",
-      "sha256": "0562bfc44e01d8be20da97aa11de7a255494557358d963311591fcf2d91bfbef"
+      "sha256": "2f910a4acebe375e56927e26bcc82e6d3ff41516ddcada66a9fc918da70edf89"
     },
     {
       "file": "assets/app/capturas/historial.vacio.png",
@@ -824,7 +824,7 @@
     },
     {
       "file": "assets/app/capturas/pago.bono-no-aplica.png",
-      "sha256": "924e14e1651dd20aed446a146cf4ed8a6d9f45eada4df39a6993a1763e82a684"
+      "sha256": "3d6fff5d093b0c2c9a4ec8a421696996d2cfa54694c40a683a2e96a06f58124d"
     },
     {
       "file": "assets/app/capturas/pago.cuenta-cambio.png",
@@ -840,7 +840,7 @@
     },
     {
       "file": "assets/app/capturas/pago.metodo-sin-tarjetas.png",
-      "sha256": "08cc244913582f79c9c61b33e37c3fcaacb798fd1c2ed8a3508b35906a27d368"
+      "sha256": "f71b24aa02dbc0d2a9bbbd79ba6ca76e64d36b21198e61d97559cd8b2ffc6559"
     },
     {
       "file": "assets/app/capturas/pago.modo-demo.png",
@@ -856,19 +856,19 @@
     },
     {
       "file": "assets/app/capturas/pago.propina-confirmar.png",
-      "sha256": "015fb4f0fc00e357fa02b1b9c0dd7afa471eb51817e9518df2ae0bc668dc1064"
+      "sha256": "0311bb7374aaccad7edb82e63f259ac82926472b4d06381f59f3409d68a31b2f"
     },
     {
       "file": "assets/app/capturas/pago.propina-libre.png",
-      "sha256": "412b8839a24c72752aa10fd3c9e0052a36c9854b6efc131457df7abc1798643b"
+      "sha256": "ec65d6daba14be8e408a5e91e82a5524d33321474dc7571d1fb258a41dbdfcc5"
     },
     {
       "file": "assets/app/capturas/pago.propina-mesa.png",
-      "sha256": "b7891638acd585659e687c941fdd6c285ab3ec20c5a591a2cd9ae07fd80e7bd2"
+      "sha256": "30215c7810a30a19237d55dcaaca59dd4210c37da78b6c32cb44596fec7655b6"
     },
     {
       "file": "assets/app/capturas/pago.propina-tope.png",
-      "sha256": "049d2d30dd95bc4b86cf3c71e872b8eda1f8a0816f76b325bc26e4acdc9555c5"
+      "sha256": "4881ee68dd6256f75191afafe7044c75a808c81a3052c127c09c968f983f5950"
     },
     {
       "file": "assets/app/capturas/pago.resultado-incierto.png",
@@ -880,15 +880,15 @@
     },
     {
       "file": "assets/app/capturas/pago.sin-creditos.png",
-      "sha256": "d4101143dff0f76d91a94b7b46e9758b95a79cd2533a4ec1b860e9cf1f315f26"
+      "sha256": "874166dd968b1da708757c46591b9c3a7e09c5771b80319be1f40f6751c7d022"
     },
     {
       "file": "assets/app/capturas/pago.sin-tarjeta.png",
-      "sha256": "f4080d1f77950cbfaf2387623a0c3fb42499c89a0eb40ca028ffa794e3ca71cd"
+      "sha256": "8fb64a09b88c8241b1b12ddd4dbb1965d004105448a9e65247961e3398144a2c"
     },
     {
       "file": "assets/app/capturas/pago.todo-credito.png",
-      "sha256": "9782221cb810ffd97a8ffa64f0e0439a7c48eb4038b54bc31f0dc75748c878e8"
+      "sha256": "9ed54f0286b4c4a2746ee1a5466e81c758920254878477ac15e10c3eb4f408f1"
     },
     {
       "file": "assets/app/capturas/platos.local.png",
@@ -976,7 +976,7 @@
     },
     {
       "file": "assets/app/capturas/restaurante.cobro.png",
-      "sha256": "438354d93cd29b6750c9d432a601a3420aeb9b97b5029fe1ce364d602df7dff6"
+      "sha256": "61fdc8a74beca1f6895643f82809e08b6114182fec28cae938c31f71047ad143"
     },
     {
       "file": "assets/app/capturas/restaurante.cobros-filtros-encargado.png",
@@ -1604,7 +1604,7 @@
     },
     {
       "file": "assets/app/vistas.json",
-      "sha256": "0ef3c295a9d4c13283bdca3647d68620d8e48e1c1a60e7ac0db40f6dbb02c79d"
+      "sha256": "d237d4504accbb733e539b8bf4f9e40bfd7e1ff8a4aad39111785d1f69715789"
     },
     {
       "file": "assets/correos/85f55a58a31e61a2e19e8bb2.woff2",
@@ -1904,7 +1904,7 @@
     },
     {
       "file": "assets/landing/pasos/2.1.webp",
-      "sha256": "5d20533d38ce57552f60a68d73e85669226a0ade4ccc682c0ea1bee014847bd1"
+      "sha256": "124fc020d17c867f51c776e6a99c6ad1250a55747c033bfabee0ea3d0b56e955"
     },
     {
       "file": "assets/landing/pasos/3.2.webp",
@@ -1916,7 +1916,7 @@
     },
     {
       "file": "assets/landing/pasos/3.5.webp",
-      "sha256": "ff44371d6ac686c5a81f569fc42a2ee8f573c9cb579ed60b0897b7e50ff68940"
+      "sha256": "f310c2dc44589ec407d08d628b3639afc67067663a973b8b90b4c88aa061e6ec"
     },
     {
       "file": "assets/landing/pasos/3.7.webp",
@@ -1968,11 +1968,11 @@
     },
     {
       "file": "assets/origenes.json",
-      "sha256": "c9c77ac597358cfcec27c2d3e94f9c92b80e213fd56644a076b44b2295aa331a"
+      "sha256": "c0f997e05020de47364ed9427dc67b61b7404ce950842f7f19a461ac2e0f14ff"
     },
     {
       "file": "assets/recursos.json",
-      "sha256": "163b4457f99b9ce449d67b768cde6c7aebbadb9d22b8f04508a2824ca4d555fe"
+      "sha256": "2ca137ec033bd2c01ab3466c7f7b62221d99e36a936ba3822e54627ecdba2afd"
     },
     {
       "file": "assets/runtime/dc-runtime.js",
@@ -2588,7 +2588,7 @@
     },
     {
       "file": "guia/pantallas-vamoa.zip",
-      "sha256": "10a4d6c3379bbcadec47def7a2fdc3542bdcafbd1b13695a0f30f3a34a17b5b2"
+      "sha256": "3e9fb6cc8c5cfb787264f650c5ffd2b3891d8f360335f519e51973d4967d5b4f"
     },
     {
       "file": "guia/portales-web.css",
@@ -2628,7 +2628,7 @@
     },
     {
       "file": "index.html",
-      "sha256": "75f6fc6a1b635900b48db0f53701e2698b4313a0b240a0e9516fa092dc1f79ae"
+      "sha256": "fce70ec4f20ca8fc6d1d3deed25dbb82e4993c76d6e10539c720317fa736bdb9"
     },
     {
       "file": "package-lock.json",
@@ -2640,7 +2640,7 @@
     },
     {
       "file": "parati.html",
-      "sha256": "94a8f332710a754dac0a4adfcda013e367fceb7640c3965b90070aa6c53c902f"
+      "sha256": "4f64b8bc63d1010b7b0d688e7b9fe8f5881bae9e86a008ee3955e1d581e3c5a5"
     },
     {
       "file": "portales-prototipo.html",
@@ -4800,7 +4800,7 @@
     },
     {
       "file": "scripts/index.js",
-      "sha256": "4467feb21965348cda66c6182ac8ba87f1166d0dc17c3de8f0887246b816cb53"
+      "sha256": "d818a1bc56c7b624cd3531443314eb80f2936eb261edb6f573753418aaf38816"
     },
     {
       "file": "scripts/iniciar-publico.js",
@@ -4828,7 +4828,7 @@
     },
     {
       "file": "scripts/restaurantes.js",
-      "sha256": "88795cde79c4bae3b689db69ba15013654db3b547ba47e76d0403ab57e77fff3"
+      "sha256": "f96f91225035e6cd0b3aa669767211c872c35a25243ae91c5f774c9d3f9b30d0"
     },
     {
       "file": "scripts/verificar-layout.mjs",
