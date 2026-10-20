@@ -849,6 +849,9 @@
 /* El portal mantiene texto crema durante el hover sobre su botón verde. */
 .v-reference header .v-portal-diseno:hover{background:#285247!important;color:#FAF7EF!important}
 
+/* Con el hero en dos columnas (desde 1016 px: dos de 460 más el espacio y los márgenes), la columna del texto está centrada en la grilla y un error en el flujo la alargaba y subía el campo: ahí va bajo el campo sin ocupar lugar. Apilado, el error en el flujo sólo empuja la foto hacia abajo, y es mejor que montarse sobre ella. */
+@media (min-width:1016px){.v-reference .v-lista-form{position:relative}.v-reference .v-lista-error{position:absolute;left:0;right:0;top:calc(100% + 10px);margin:0!important}}
+
 /* Feedback de presión compartido por web y mockups. El pseudo-elemento conserva
    la zona de pulsación: su transformación inversa compensa el movimiento visual. */
 .v-reference :is(

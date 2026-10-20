@@ -1,9 +1,9 @@
 {
-  "generado": "2026-10-20T05:50:22.705Z",
+  "generado": "2026-10-20T19:37:21.400Z",
   "fuente": {
     "repositorio": "Vamoa",
     "rama": "dev",
-    "commit": "3ad8bca",
+    "commit": "ed48430",
     "codigo": "apps/web/src/lib/email.ts"
   },
   "correos": [
@@ -140,7 +140,7 @@
       "cuando": "Administración aprueba su solicitud y la devolución se hace efectiva por el procesador.",
       "asunto": "Aprobamos tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionAprobada.html",
-      "sha256": "418871c1456c8ed307b1fc951f67214459369b5d54e0efbede649abeb91cbc40"
+      "sha256": "a4f14cc131962ae9a2322cefe187fa8a3522d00d855cbbeb6a1172f09281c3e3"
     },
     {
       "id": "devolucionTransferida",
@@ -149,7 +149,7 @@
       "cuando": "Administración registra la transferencia de una devolución aprobada desde la cuenta de Vamo’a.",
       "asunto": "Aprobamos tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionTransferida.html",
-      "sha256": "e366b0d1d64607ca4db3d9aa69072570d0927124be791abd21868f3a8702583b"
+      "sha256": "7ae37ba8d927c98044c0ffa5a9702b46b7c8840e69805e65fdeb3ff831c1a0eb"
     },
     {
       "id": "devolucionRechazada",
@@ -159,6 +159,36 @@
       "asunto": "No pudimos aprobar tu devolución VA-7K3M",
       "archivo": "assets/correos/devolucionRechazada.html",
       "sha256": "05866b868713bf31a5b75f89ee2ac62732d7433a2426250065609e7a9766cfb9"
+    },
+    {
+      "id": "segundoCobroRecibido",
+      "asunto": "Tu reporte de un segundo cobro VA-7K3M · Vamo’a",
+      "archivo": "assets/correos/segundoCobroRecibido.html",
+      "sha256": "d1980a43772b9105bf18fc9ce3bf6c80ee23bc13ccfeb356ded3ae65d36f2c79"
+    },
+    {
+      "id": "segundoCobroConfirmado",
+      "asunto": "Confirmamos el segundo cobro VA-7K3M",
+      "archivo": "assets/correos/segundoCobroConfirmado.html",
+      "sha256": "2398f29240828007a74666cb3833a2b9853378790a648c266ac5fa0206102687"
+    },
+    {
+      "id": "segundoCobroAnulado",
+      "asunto": "El restaurante anuló el segundo cobro VA-7K3M",
+      "archivo": "assets/correos/segundoCobroAnulado.html",
+      "sha256": "b1aa7200256a52a1dae1de54e397e574baf3759da1c530c33232a6182c24e89d"
+    },
+    {
+      "id": "segundoCobroTransferido",
+      "asunto": "Te transferimos el segundo cobro VA-7K3M",
+      "archivo": "assets/correos/segundoCobroTransferido.html",
+      "sha256": "dd6fc5c2d94b04d756a35123a130b5f751295f30d02c7ecb0a0276a5157e25f5"
+    },
+    {
+      "id": "segundoCobroCancelado",
+      "asunto": "Cancelamos el segundo cobro VA-7K3M",
+      "archivo": "assets/correos/segundoCobroCancelado.html",
+      "sha256": "df261d296e6e6913c01c586788b9589652caa56f586bb928f32f655f2c63eeb7"
     },
     {
       "id": "resumenPropinas",

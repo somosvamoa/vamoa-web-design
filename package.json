@@ -9,7 +9,8 @@
     "check:layout": "node scripts/verificar-layout.mjs",
     "capture:app": "node scripts/capturar-pantallas.mjs",
     "catalog": "python3 scripts/actualizar-recursos.py",
-    "pack": "python3 scripts/actualizar-paquete.py"
+    "pack": "python3 scripts/actualizar-paquete.py",
+    "capture:pasos": "node scripts/capturar-pasos-portada.mjs"
   },
   "devDependencies": {
     "puppeteer-core": "25.11.0"

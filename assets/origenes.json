@@ -155,7 +155,7 @@
   },
   {
     "archivo": "assets/app/capturas/3.5.png",
-    "sha256": "f4bd9f57ee203b4d4863fc6a2d8bf7a5d7f92ec0b4837fe3b3d08ed2c6ccf401",
+    "sha256": "7669a4b36f7bd77a682395959900031aef0fb606885e1d5ea0582d21964c0c7d",
     "exportacion": "guia/capturas/3.5.png",
     "vamoa": [],
     "sha256_original": "23eae34d938778df71717434e54bfdc80e30a27978d3beb5dc905156e59caf36"
@@ -471,20 +471,31 @@
   {
     "archivo": "assets/app/capturas/admin.consulta-devolucion.png",
     "vamoa": [],
-    "sha256": "318d799a454761ebc0feca337d328de94deafad5009024cdc92c3176ff40d678",
+    "sha256": "c6de71b95760e128b33098c06383ba08507eb792fafcab21c84aabe8967f1e0f",
     "sha256_original": "1842df0ee45c1b4e85bf30b437cc9301f5093f192bbf4ec9a6d15397fd7d16bd"
+  },
+  {
+    "archivo": "assets/app/capturas/admin.consulta-segundo-cobro.png",
+    "vamoa": [],
+    "sha256": "37f4e96986875409f1d215ed3a8a458e5ef1a96f7d916c14dc235e4128eda9a1",
+    "sha256_original": "738f72470a141969367c2799ebbec42092027cbf59f7fa6769a7533e9ba3341f"
   },
   {
     "archivo": "assets/app/capturas/admin.finanzas-recuperos.png",
     "vamoa": [],
-    "sha256": "e728019d5a14d4124e0f53473501ef1e1e313d878d98b2a96db1febcb4ad33e1",
+    "sha256": "055e6de5da70a51b2032abbafa22ab6320f05bde154874838974c5e8fa6d01fe",
     "sha256_original": "4600487e7e6468df1b3dc3b3c1e1853e2328b02130c0a30edca1d14f5f719437"
   },
   {
     "archivo": "assets/app/capturas/admin.recupero.png",
     "vamoa": [],
-    "sha256": "0d4581673395a64f544c9232459b562dfaf3be6be83bc9e4f6e5ef2ca76533a5",
+    "sha256": "6e56c3d6adefaeddf77410cc7f807514ec03190bb54ad86eddf28d3ea11a9cc1",
     "sha256_original": "72487c4a2adb700b82b97c22dd0d6a3c1eb31cf3a49e869f877249c5e6aae65c"
+  },
+  {
+    "archivo": "assets/app/capturas/admin.segundo-cobro.png",
+    "vamoa": [],
+    "sha256": "66e31ef156737e6f06eb7432a7966315b2fca89f20e30d8b4a205ce2161433f0"
   },
   {
     "archivo": "assets/app/capturas/amigos.listas.png",
@@ -626,6 +637,11 @@
     "sha256_original": "70677c50570de1c5173e505e42694bedee94bc381f9b7d30c30aed2404b4e55b"
   },
   {
+    "archivo": "assets/app/capturas/comprobante.segundo-cobro.png",
+    "vamoa": [],
+    "sha256": "5a74d59e95fdb5115feb0c38761b91246315cd7aba2a8c4a99f768d5909d5073"
+  },
+  {
     "archivo": "assets/app/capturas/comprobante.sin-sello.png",
     "sha256": "ab467750a637ab0a398a1b71255596202ea545c1eb0374243f79e24ade905dae",
     "exportacion": "guia/capturas/comprobante.sin-sello.png",
@@ -749,7 +765,7 @@
   {
     "archivo": "assets/app/capturas/devolucion.cobro-en-caja.png",
     "vamoa": [],
-    "sha256": "1f7a8a83e1683b1ab6b515e7070a3d12463199d18b118089858b5fa49a1a4c65",
+    "sha256": "85db0d021825e21c52bf612a4f3a4b5d66cbcf2dfca03438796061465ae39cff",
     "sha256_original": "d14774e8840b35a3abfb20c60b717676c907907548bd60e0c6e8cab855c01876"
   },
   {
@@ -767,14 +783,19 @@
   {
     "archivo": "assets/app/capturas/devolucion.motivo.png",
     "vamoa": [],
-    "sha256": "d768d500b3b8c666def199ab88cb2687afa14e18ef434354305585eaa86ede28",
+    "sha256": "a0ad4a039b75305142d5d154c35ae806e472b73fa94fbe66a04735f35052d364",
     "sha256_original": "949715311f96d2400d4338b13f1ff306bfb672afbd699b63a05041e9b2b4c797"
   },
   {
     "archivo": "assets/app/capturas/devolucion.parte-consumo.png",
     "vamoa": [],
-    "sha256": "668eecefb56322991152775d3990d6e4f1ba80a17507363c905ea61d52d5eb41",
+    "sha256": "41a57de1d1f49bfacbafe588142ba7a9fe58319f8112f7324cc5d54b48310fb5",
     "sha256_original": "ecacc7bfa5449d694440a2241f06af25637d1394f5a620ab46d57c015a190b65"
+  },
+  {
+    "archivo": "assets/app/capturas/devolucion.segundo-cobro-cuenta.png",
+    "vamoa": [],
+    "sha256": "5f9c934036fb880163d3cff4b2b7982dfeae8e9a411512676110d4a7fc86746e"
   },
   {
     "archivo": "assets/app/capturas/dividir.cancelar.png",
@@ -806,7 +827,7 @@
   },
   {
     "archivo": "assets/app/capturas/dividir.confirmar.png",
-    "sha256": "056c998560851824fceba07ab07816c954e3374c0af33ae6d0dd543504088c3e",
+    "sha256": "4eb6029845edd86c37dd8b71077c9086b7085bfdd1f7a018c96afac465cff4fb",
     "exportacion": "guia/capturas/dividir.confirmar.png",
     "vamoa": [],
     "sha256_original": "21c0a36babed233088f13beea3cc34f22d93a753625c1984a424ce714c24f3b4"
@@ -923,7 +944,7 @@
   },
   {
     "archivo": "assets/app/capturas/dueño.mas.png",
-    "sha256": "a5c5f02ad81f95a033c41a7692d33e9c604cf8c88187e361ce723877d163390c",
+    "sha256": "912ca4e2a02db1c727ca977bfa63cb5a5c4a4b30a494a80d2f8af39e692ddbf8",
     "exportacion": "guia/capturas/dueño.mas.png",
     "vamoa": [],
     "sha256_original": "c765c86232070e195e8a8032c4ed6ead84e9e033b68d7e731246943da95d97a7"
@@ -937,7 +958,7 @@
   },
   {
     "archivo": "assets/app/capturas/encargado.mas.png",
-    "sha256": "1bba4e27a4735894d287bf28427288df44e7b84c2826bcebd0c97a7baafcf426",
+    "sha256": "63bc3d3d46b0bd82d4a3340412440bfba11a86bd6dc07cf69ddec6d1070ba2d8",
     "exportacion": "guia/capturas/encargado.mas.png",
     "vamoa": [],
     "sha256_original": "1e45bed5b37df037e571357061a6d75ead4ba41fa875b22befe8224d2f5cad64"
@@ -1029,13 +1050,13 @@
   {
     "archivo": "assets/app/capturas/fintoc.apple-pay.png",
     "vamoa": [],
-    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
     "sha256_original": "d46c59d5fdb3b982e18fd5c0908645c0bacefb5126b30ee2fa721f7517e94ab9"
   },
   {
     "archivo": "assets/app/capturas/fintoc.banco.png",
     "vamoa": [],
-    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
     "sha256_original": "8db1e86a94c7f09cb1a4719c56e5be6107280ff96a6ac0130fc419ce2f576dd6"
   },
   {
@@ -1053,7 +1074,7 @@
   {
     "archivo": "assets/app/capturas/fintoc.confirmar.png",
     "vamoa": [],
-    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
     "sha256_original": "bcefec51d3733baa04eff163f6cb267021a281f46a8625adee627dd441be0834"
   },
   {
@@ -1083,7 +1104,7 @@
   {
     "archivo": "assets/app/capturas/fintoc.google-pay.png",
     "vamoa": [],
-    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
     "sha256_original": "3102d1c5f20d1b24b194891baa23d252e589bd9c30b6acf8e02c5872f1a9d8ab"
   },
   {
@@ -1101,19 +1122,19 @@
   {
     "archivo": "assets/app/capturas/fintoc.solo-propina.png",
     "vamoa": [],
-    "sha256": "cda3a97173dbc10cc7590ac9c7e6253e12a85065129b3844065c9e2a1c9f2afd",
+    "sha256": "75aca579ae1654a5810e0c6f0469c14d28bf6199e565a0064278b0994efa4c63",
     "sha256_original": "791a76f0459691e2bc587256bdb1037cc05d0595b50f901016b88b3e425f0019"
   },
   {
     "archivo": "assets/app/capturas/fintoc.tarjeta.png",
     "vamoa": [],
-    "sha256": "fa61b6a82315b98d907285ce8bf72a7fec94bc016a5d9fc3a0793c4e8f3bad76",
+    "sha256": "163e35d07d3f6ccfb7aa635335a83e98314b485c9e8b0915622861886eac8606",
     "sha256_original": "25bf53d4a95d91d4acf4da310c647a238974da8ba5405b2b0dd2d3fe020a669d"
   },
   {
     "archivo": "assets/app/capturas/fintoc.vencido.png",
     "vamoa": [],
-    "sha256": "3d60fab8106f5146ab5ee13fef799b87ccb10ba784b15ae72e6b37c5ff4217b2",
+    "sha256": "3624b987f219b5e240b6e870c542b5e2764c1d1617e3e7c2436ca8bc08d7afb2",
     "sha256_original": "08c471be5a1c0027b822853f23acf78b6b6b2effdf077471fc7b232fc9c25953"
   },
   {
@@ -1337,7 +1358,7 @@
   },
   {
     "archivo": "assets/app/capturas/pago.bono-no-aplica.png",
-    "sha256": "db45795587029c816cf9e205f1bf39ba5baae43a2f2591f329b786ca5a1d01e6",
+    "sha256": "924e14e1651dd20aed446a146cf4ed8a6d9f45eada4df39a6993a1763e82a684",
     "exportacion": "guia/capturas/pago.bono-no-aplica.png",
     "vamoa": [],
     "sha256_original": "879576976a660c099f65366999bf21294adfaeb43d4e3a40439dd6b39bbfdc56"
@@ -1396,14 +1417,14 @@
   },
   {
     "archivo": "assets/app/capturas/pago.propina-libre.png",
-    "sha256": "047c7f47052ee27e4823206c95b927312975ee2918c5d06d5c088a983012e636",
+    "sha256": "412b8839a24c72752aa10fd3c9e0052a36c9854b6efc131457df7abc1798643b",
     "exportacion": "guia/capturas/pago.propina-libre.png",
     "vamoa": [],
     "sha256_original": "2b1de47389863cdbef11bb21bfe3808390853d04082436c6fb53076f622e4a5f"
   },
   {
     "archivo": "assets/app/capturas/pago.propina-mesa.png",
-    "sha256": "a50036d04594fac34ecc9cbbec98f8ccdc17414b3075ca3a7737c61ae1a770fb",
+    "sha256": "b7891638acd585659e687c941fdd6c285ab3ec20c5a591a2cd9ae07fd80e7bd2",
     "exportacion": "guia/capturas/pago.propina-mesa.png",
     "vamoa": [],
     "sha256_original": "788c09a53f2e328c1a54f450e679797a03b352a77aceff11e1100c9efc362f13"
@@ -1411,7 +1432,7 @@
   {
     "archivo": "assets/app/capturas/pago.propina-tope.png",
     "vamoa": [],
-    "sha256": "c513995c4e41aae4af523ecc76d52da28e6469581e90f96d0bd93a5a8b2ad904",
+    "sha256": "049d2d30dd95bc4b86cf3c71e872b8eda1f8a0816f76b325bc26e4acdc9555c5",
     "sha256_original": "0c858a77340435036c1f2dbb6ce7feaff8265af1adb585be8fb839b0d36ad163"
   },
   {
@@ -1430,14 +1451,14 @@
   },
   {
     "archivo": "assets/app/capturas/pago.sin-creditos.png",
-    "sha256": "88c9ee3518a762b552396235cfe1b18443cfbafb296175a70aa427cb3e9e1d3b",
+    "sha256": "d4101143dff0f76d91a94b7b46e9758b95a79cd2533a4ec1b860e9cf1f315f26",
     "exportacion": "guia/capturas/pago.sin-creditos.png",
     "vamoa": [],
     "sha256_original": "2b66d49c4801e212a24bbe43603163b1a15ed36441acd0fb5dde4152d66c7fe1"
   },
   {
     "archivo": "assets/app/capturas/pago.sin-tarjeta.png",
-    "sha256": "276b183671a7f47bf33366a864755d283236a6f5a2323b286be23e7630bfc344",
+    "sha256": "f4080d1f77950cbfaf2387623a0c3fb42499c89a0eb40ca028ffa794e3ca71cd",
     "exportacion": "guia/capturas/pago.sin-tarjeta.png",
     "vamoa": [],
     "sha256_original": "3524eb0f09c39e23ce3cd79439308ab17bea7e9862a60eadeba741ba4956b421"
@@ -1466,8 +1487,19 @@
   {
     "archivo": "assets/app/capturas/portal.recuperos.png",
     "vamoa": [],
-    "sha256": "7b83a50f7142a31e136a148d337bf16eeb5981129bb6c809518b85cff69a4f89",
+    "sha256": "5e34a7db10c7361bb83e462f7debfc9d00b25e64dd28345100d303d0632bb169",
     "sha256_original": "83c463de96fd5a617805447b17c13c291fe79ee0139d9a2f306729e88fe13b9f"
+  },
+  {
+    "archivo": "assets/app/capturas/portal.restaurantes.png",
+    "vamoa": [],
+    "sha256": "2d885295de805e68beb917a0a155320423ab0c09812f6a3f27a6dea79afbefea"
+  },
+  {
+    "archivo": "assets/app/capturas/portal.segundos-cobros.png",
+    "vamoa": [],
+    "sha256": "a1dbefb98f640a51821cdae958a499aa83c02c74912b45046298f99c4ec8f798",
+    "sha256_original": "b8c22c505364628aeb054cba4874abe50b73a816d54430b586a8542bc7cd9557"
   },
   {
     "archivo": "assets/app/capturas/postpago.atribucion.png",
@@ -1680,13 +1712,13 @@
   {
     "archivo": "assets/app/capturas/restaurante.recupero-detalle.png",
     "vamoa": [],
-    "sha256": "eea1427dee71dd965051dc22a8fe207ac0bd8398013787457a9eb4a89b05f430",
+    "sha256": "70207bc4b843ccb7a320f736d9ea0df622a84c1b1ddabb9a8f0574c1402c7595",
     "sha256_original": "3a9b4db4f8603af7b835a4ad1c5df72c5bcfc1f5b820925de016e95869caac2b"
   },
   {
     "archivo": "assets/app/capturas/restaurante.recuperos.png",
     "vamoa": [],
-    "sha256": "6f20b87d59324d23142f5a70b1fad2f5f70ce710e90d86ca6dbc92773674589e",
+    "sha256": "7af55e73919b3aaf10215e3196e4f5035a586388029b83f01c91d890cff75f20",
     "sha256_original": "b6a6d712253a38305bc7a2d04a6fb5b663cf02b65d9ca0ffdb5178c24b7468d5"
   },
   {
@@ -1709,6 +1741,28 @@
     "exportacion": "guia/capturas/restaurante.reservas.png",
     "vamoa": [],
     "sha256_original": "4466dee1a444e749b3763dc549254e3a05529355614b028f1aec7d769bc199b4"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.segundo-cobro-detalle-encargado.png",
+    "vamoa": [],
+    "sha256": "16c362f710d3fce7f9e281380f30ac7c83532b710cb0c55afaec16175b3a8819",
+    "sha256_original": "ae4cb33b8274858157924e0da22fff980aa60f6c2497e47efee61f06f36a7d14"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.segundo-cobro-detalle.png",
+    "vamoa": [],
+    "sha256": "0f04e798839364ca57de1c2b125bebd8d4c5116d211e9205a2f258896947d456",
+    "sha256_original": "b44fd43e7daf51bd2ca4aa4fbfb2d1ee11c44881b749821c9599c7e93cbeef7a"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.segundos-cobros-encargado.png",
+    "vamoa": [],
+    "sha256": "1e508a761ad80c1db99f5cdcdc1d6b78f1231f98ccb5d88e1b3720ac9516df64"
+  },
+  {
+    "archivo": "assets/app/capturas/restaurante.segundos-cobros.png",
+    "vamoa": [],
+    "sha256": "09ac20d87be6d9966170abea6d29caefb797f35b21d22db510851c15c4be739d"
   },
   {
     "archivo": "assets/app/capturas/restaurante.seguridad.png",
@@ -3030,30 +3084,31 @@
   {
     "archivo": "assets/landing/pasos/2.1.webp",
     "vamoa": [],
-    "sha256": "905d89f416326a9e6a7fb7d833921eaa3e118c02b5408f912f56861fba6b9f53"
+    "sha256": "5d20533d38ce57552f60a68d73e85669226a0ade4ccc682c0ea1bee014847bd1",
+    "sha256_original": "905d89f416326a9e6a7fb7d833921eaa3e118c02b5408f912f56861fba6b9f53"
   },
   {
     "archivo": "assets/landing/pasos/3.2.webp",
     "vamoa": [],
-    "sha256": "0ac6cf5a789ee31423297109adb7b8f4f31c46889ae2e8559466fb0eef5d9ff2",
+    "sha256": "73e5a5365545d35432c86e8305c5677ce5dd798c5f7d2d3f2b169941ebf4202f",
     "sha256_original": "89da875e26566a753874e3d219ab658de653876d1b9c832c45d94e5c1a47daa7"
   },
   {
     "archivo": "assets/landing/pasos/3.4.webp",
     "vamoa": [],
-    "sha256": "0e45d645f1d712b4339996a6e66176f19fa1e7dc6a1593545379c2607fbbe721",
+    "sha256": "3c1594de7ce1458d153249f3ad3131063c2061c4757a720e4da0dfc1eae6cbd6",
     "sha256_original": "be81b92bb7353c5f42c1d24050b12a1f939effe396cf37712e06a0f611ac24a0"
   },
   {
     "archivo": "assets/landing/pasos/3.5.webp",
     "vamoa": [],
-    "sha256": "7faaf643ec4267edbe36341a894a3a010322a2900281e84ef4155281729c948a",
+    "sha256": "ff44371d6ac686c5a81f569fc42a2ee8f573c9cb579ed60b0897b7e50ff68940",
     "sha256_original": "39cd3ae467bc18592f6d7da5ed9fe92a2e29b0fc92b5a012e2b915c71e57ae80"
   },
   {
     "archivo": "assets/landing/pasos/3.7.webp",
     "vamoa": [],
-    "sha256": "8d9b561d3e2c84b172048dba151b3f00ca6e018a81eeb9ce3776189e33487acd",
+    "sha256": "dc3f76e04d1d57530167077283d69c13eccdb5afbe41304962a5a95867a42c94",
     "sha256_original": "3af501e0bc3706e002293469619a54d34f175cc713f9cf99ccc191b5371845a3"
   },
   {
@@ -3180,17 +3235,20 @@
   {
     "archivo": "assets/web/capturas/admin-admin-avisos-escritorio.webp",
     "vamoa": [],
-    "sha256": "1580bf81fbe0d2b95330cac406bd3088a881ce703eebd94f6bfcbdce3134f47b"
+    "sha256": "5471d5a9c8d6fb830fa221e69b6808ab1d85edd8da7386b10f79fa2ea73623be",
+    "sha256_original": "1580bf81fbe0d2b95330cac406bd3088a881ce703eebd94f6bfcbdce3134f47b"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-avisos-movil.webp",
     "vamoa": [],
-    "sha256": "60e03869052a13ba040967bf8f37853dc388bbff6fe504c5fc318ebc95983d63"
+    "sha256": "ed26b653926a8cffbc23b547d33e4da99f2bed55b2f74889d7dd181b22b53010",
+    "sha256_original": "60e03869052a13ba040967bf8f37853dc388bbff6fe504c5fc318ebc95983d63"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-escritorio.webp",
     "vamoa": [],
-    "sha256": "d5940183200c2b6805424d65512f75ed2ab3e4e6bc39cf760e95678a3c8578b8"
+    "sha256": "cec4dbca42cbfa4b6cf4975b4f0dd8d0b15ceb11fe6e43494aa36cf4b9f12ead",
+    "sha256_original": "d5940183200c2b6805424d65512f75ed2ab3e4e6bc39cf760e95678a3c8578b8"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-atendidas-movil.webp",
@@ -3200,37 +3258,38 @@
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-escritorio.webp",
     "vamoa": [],
-    "sha256": "891ad1571b899b56702174050498ca24ba80ba6cea4a83efb0cd52f39dfc81b4",
+    "sha256": "0ddad8107bbf0d9cbfda4821ed76f388ab708076916cc4fa7ad33c23122e46ea",
     "sha256_original": "311ca4dbee5418fd888b68e530a0f3f365c2e9d8f81749c8cef9049e20598ddc"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-id-escritorio.webp",
     "vamoa": [],
-    "sha256": "e829b294021d4390211b5d85b785a32e8a1d1e8653a984586721e9730b9b44e0",
+    "sha256": "624904402e6d41a471b88f12330fec1791e2e2408ccf89dfa0130a1952693867",
     "sha256_original": "17b13524262ae52e69b7eab1ebbf2b0db16795e196f5bcac9fdcf7034650c5e3"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-id-movil.webp",
     "vamoa": [],
-    "sha256": "fec334e384bf03f62d86a677cabfcb1087f8c79f082675b69f2fc58e2a1aabab",
+    "sha256": "fa0e6d84174d4a28a281eae689d82f956040fe91f9860f5e8dd907abb9e31fad",
     "sha256_original": "8d6b1cfb6809fdd63ab25d53ff9e05e3a834e8bb03206874b3af0e42a9bd5335"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-consultas-movil.webp",
     "vamoa": [],
-    "sha256": "1b973c8c92f37d5e6862d21995abc02e6d194d748d732cd930d40d1d57da0129",
+    "sha256": "baccd7ac9767407ea5798924d759db65747d20e4021fa4896cd22966b3114b6b",
     "sha256_original": "2fea6eef31e9eabf38e9691938469eabfc1d4503b7ac243810423c724536482f"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-escritorio.webp",
     "vamoa": [],
-    "sha256": "2ed39ddd4f9ae2ff17b9141d89da0c90d92babb6173e2bb76ae5a13e6af77f9b",
+    "sha256": "748c45e916848c9a1ebcf51fa6385775a806c04f3e8e0af097e6be73f0438d0b",
     "sha256_original": "a7f6d8f7568f61b483ef114dc4bdeb221a43855e6ac8ef4645211e4d851e1a2c"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-escritorio.webp",
     "vamoa": [],
-    "sha256": "8b42a9c1a2820def92971bb1c0d46565c78815450c1978fdde84b4df5c83e480"
+    "sha256": "47d983baea06e480c37840417fc316b1fffff194fa61fb12f69e2de7a94ec46c",
+    "sha256_original": "8b42a9c1a2820def92971bb1c0d46565c78815450c1978fdde84b4df5c83e480"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-creditos-id-movil.webp",
@@ -3240,7 +3299,7 @@
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-escritorio.webp",
     "vamoa": [],
-    "sha256": "0d626cdb7a4589acae1eccb49ea533d41e47944deb51d4f36c2efcfc3d4cd02e",
+    "sha256": "c3a2d9bb52d69cbeff2bcc75535fbbaf837f6ca3dde1c94387ec4dbce99f5b5c",
     "sha256_original": "8cb92d0dd1527e0e5244c560154e2bb8917f3e0be3e56dc3fb1d24fe9298308d"
   },
   {
@@ -3252,7 +3311,8 @@
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-escritorio.webp",
     "vamoa": [],
-    "sha256": "62173327045cba7bd17139d80a1d6a66ee19435a908a58ef9bbcbfa43d9e8110"
+    "sha256": "d586ea35035474351247c5d3083ba56968b37a8c333a2fac07d9de5ce912ffb5",
+    "sha256_original": "62173327045cba7bd17139d80a1d6a66ee19435a908a58ef9bbcbfa43d9e8110"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-recuperos-movil.webp",
@@ -3262,7 +3322,8 @@
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-escritorio.webp",
     "vamoa": [],
-    "sha256": "6c03302cb253a5469ffcc82fc82a7f637a076078130d76802b237b0272d04942"
+    "sha256": "e7b05073a6785c615ab524a8f3bf012300360fc37967183cc0d7bc69aab4076e",
+    "sha256_original": "6c03302cb253a5469ffcc82fc82a7f637a076078130d76802b237b0272d04942"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-referidos-id-movil.webp",
@@ -3272,7 +3333,8 @@
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-escritorio.webp",
     "vamoa": [],
-    "sha256": "6572f966079bde57f129d24aa51ee9c27bccb150405ab460fea180f3ebd9bb6c"
+    "sha256": "3bbe0c1aa5bb7204df88782bfc8208e7e1998762d870c94dec6a51f7f17417ab",
+    "sha256_original": "6572f966079bde57f129d24aa51ee9c27bccb150405ab460fea180f3ebd9bb6c"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-finanzas-vista-referidos-movil.webp",
@@ -3282,27 +3344,31 @@
   {
     "archivo": "assets/web/capturas/admin-admin-fotos-escritorio.webp",
     "vamoa": [],
-    "sha256": "5b82be440f21ff6fb4c6fdc4beb77b4e12132035b0751d1afc7daf5e27fd0aff"
+    "sha256": "366dea7b60919d4809294ba5d91287a9dd81b8f6881e35dac039df66d9476e40",
+    "sha256_original": "5b82be440f21ff6fb4c6fdc4beb77b4e12132035b0751d1afc7daf5e27fd0aff"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-fotos-movil.webp",
     "vamoa": [],
-    "sha256": "7c571bd0ac820ad93afaa44fc067207f2ced6707cf5bd4464f766552c5b81aa7"
+    "sha256": "0577ed8f4dbee237f5896885f61e4aecd3b8c1696f71e532951e1831d0836fa1",
+    "sha256_original": "7c571bd0ac820ad93afaa44fc067207f2ced6707cf5bd4464f766552c5b81aa7"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-incidencias-escritorio.webp",
     "vamoa": [],
-    "sha256": "33a0041d2a448432aa46bc644ed5b150b07ea221f405677d1557bc9ce5e57fbc"
+    "sha256": "0369d0d8c978d7fd6f7eae8866df6afd748debd64094b1cc2a9376ef04adbac6",
+    "sha256_original": "33a0041d2a448432aa46bc644ed5b150b07ea221f405677d1557bc9ce5e57fbc"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-incidencias-movil.webp",
     "vamoa": [],
-    "sha256": "66ddf5e00075d0c8b341fa5bf57491dc688f1421f5d3f48b017c58664671b507"
+    "sha256": "e177eb5452fe19c1cbe30c1b1d8b83bbe98c276b60690a177ee5f3a7f2204468",
+    "sha256_original": "66ddf5e00075d0c8b341fa5bf57491dc688f1421f5d3f48b017c58664671b507"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-interesados-escritorio.webp",
     "vamoa": [],
-    "sha256": "e77c161d694e2c3377047c636949fde9e195adb1282b4b0424ea6c80e5839a65",
+    "sha256": "bd9589ac1e0cb1af3a7bd451fca65db31857678424c5c7085461c6d86a09e067",
     "sha256_original": "ae994a841d442f36f5bbaa394bbc64a43590f9aa5dfb762f56869ae2f74679f8"
   },
   {
@@ -3314,7 +3380,8 @@
   {
     "archivo": "assets/web/capturas/admin-admin-ledger-escritorio.webp",
     "vamoa": [],
-    "sha256": "0792adfcb537ac7918575145f67ccc8c1e10fdfee771b2aeaafdc466d3a2bb4a"
+    "sha256": "9ee46db56edce746a421066d5bfceba85269e991b9b43ee2cff87f697b6adb34",
+    "sha256_original": "0792adfcb537ac7918575145f67ccc8c1e10fdfee771b2aeaafdc466d3a2bb4a"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-ledger-movil.webp",
@@ -3324,25 +3391,25 @@
   {
     "archivo": "assets/web/capturas/admin-admin-liquidaciones-escritorio.webp",
     "vamoa": [],
-    "sha256": "5dd0fcfc8b57996edaf370bdefeea17ca5c967ac3147975e0830eee599a310df",
+    "sha256": "f2469b1a7b4b4d17b7886dcdd9f66678185e137e9304673f4290c448bdd2e58f",
     "sha256_original": "235a98536833fbae377df8620de28ac12190f2afba2e9ef9755bd508ba281aa1"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-liquidaciones-movil.webp",
     "vamoa": [],
-    "sha256": "a0dfc459126f277acc7c7f4cd87a7728e1ef6655552bf1cfe71527d4772b393f",
+    "sha256": "5b05274996da7221cf1020ef31596dd28139e7b08d2a1fe8174ba3c5988b6d32",
     "sha256_original": "486e4934eb91961a561dbc85429e7694569c20fa458796af4272242d9c809366"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-escritorio.webp",
     "vamoa": [],
-    "sha256": "fd8a83d54727e100321b3adc06d19210f647503f9c85fd4d1d5db06fed6ff411",
+    "sha256": "4f16ebe759156e02f758c425bed3b468c736751af103607ee982ba899dd49462",
     "sha256_original": "cf506691062f89f0ffbdb7bf6c2eca85c1696a3ede48ac79fea7a560813d1db2"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-clientes-escritorio.webp",
     "vamoa": [],
-    "sha256": "428ada2de7327478d2e50c5bfd17fe808f97e1b0862a759734d8a0b418027324",
+    "sha256": "efa04b39440ed402d8396a513cdaa7f215357dc0f9dac49059ac0eae3f9fef42",
     "sha256_original": "579a48444b9e447ee4c275fd6a0f93498cc6f1fdf71ba9068427615486e2647b"
   },
   {
@@ -3354,7 +3421,7 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-escritorio.webp",
     "vamoa": [],
-    "sha256": "d548674fa1a9daa0b41a85d186feeb43e867f1a39b0e6f39f8331f4c9af68b38",
+    "sha256": "a28d119699cecbdff2d8ddbba1cfa7713e02e5ffd99b38e0e4b8cd13eefab6d5",
     "sha256_original": "37974709903d635a85ed047ed149659e6c65c00f9d7a43c576505515f665dc45"
   },
   {
@@ -3366,7 +3433,7 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-accesos-escritorio.webp",
     "vamoa": [],
-    "sha256": "51d9d1973968d9ed5827ba5146df67e949d0fb73e6a985820512285c383ba3e7",
+    "sha256": "7385984f042bf03d93c7d97db7d057cc805735452d7dda590a364d30351dba59",
     "sha256_original": "929831b34db91afdfd69aabfe180fef289db2a0eae0bb54d43bab5c34ab3e2b7"
   },
   {
@@ -3378,7 +3445,7 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-historial-escritorio.webp",
     "vamoa": [],
-    "sha256": "8e662116f79a94ff8578a9137789bc4caf4ae34c7c651297edce447b7ed7d199",
+    "sha256": "fc433fffe368c7fe75f5921d3a8f83bc9ac61d26b8ad391092731f621adb927f",
     "sha256_original": "d5981e230ba0b2df381caefe5b604687f24c4b827077a4e59a8013d869d64116"
   },
   {
@@ -3390,7 +3457,7 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-integracion-escritorio.webp",
     "vamoa": [],
-    "sha256": "4388bcf9172e4df4f0394d509109416f2af08d176378f14ab0900a030c9d9e8d",
+    "sha256": "b75abf5c790c40433ac5107be6e8cae711d0daf22302bcc46fc0c83c375e38e0",
     "sha256_original": "b586897d3311d0d6f864ae221cb08cb6df798f7ba508f733ab0677656ec9308a"
   },
   {
@@ -3402,43 +3469,43 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-escritorio.webp",
     "vamoa": [],
-    "sha256": "edf17ebfcb652cac621879d6ae26abaa509cea1c0ee6a8664e67c977b3f61af8",
+    "sha256": "da5ff6b5c11839d646bc3508e14c39b41efd6f28146f2a14d1197be7ea085162",
     "sha256_original": "d76cab6d53d46bc315b9c273a71e6a1ed8d1312955317fe851b3420332f225be"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-locales-movil.webp",
     "vamoa": [],
-    "sha256": "2fb03eb94f4aa8549e51894d13cd31565a0634b8d1874e4654878c1393686cc5",
+    "sha256": "7a5b28e5f9e6caf72dcf4a5cbcb87a5e96ef9d3536ef04a55b1ddc5fdeea1dfc",
     "sha256_original": "a3afaff27f5b0b4c7ba3763ffd3029f081bc8b8a8ea728f4cdccdc8701e998da"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-escritorio.webp",
     "vamoa": [],
-    "sha256": "1f80e2e57cf0808f1fc634987380fcbc8554ca497da806b2ae384050ff2c378e",
+    "sha256": "61e5e39336066c8936480942d7989ce9350849e8a8e167d37ccdbbdc86e2f5dc",
     "sha256_original": "5440e7df4d6c1cf12c8acf5c3e05aa9b02a7598545b1d9ca7f948999d2eae3a6"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-configuracion-seccion-sociedades-movil.webp",
     "vamoa": [],
-    "sha256": "ca0b67de85a69a174fe9182717794029d7d4a9adf1bfda47a28a415cbc6d9de4",
+    "sha256": "1ce08722294155c460953abb80414fc57ea2e7682d7f8c037828c5bdd63d3f88",
     "sha256_original": "0b8553cffb02812c5247f77b5e971fa821c75e9cda7fa6ad6740e82aadcea61f"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-escritorio.webp",
     "vamoa": [],
-    "sha256": "afbd8d2cd1274aefb1bf70b1e0adff231e9c84a3d66e2cdd97da065cc7e3a4fb",
+    "sha256": "85a72e0d33d9f8952c6373ec9b8c4a9cbab7f10081c645da95079dd8b0bcadfa",
     "sha256_original": "e45e6fd2c8e14d4a661c5b15ce43d6033de09a62a0e528d46e043276751dcc2f"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-credito-movil.webp",
     "vamoa": [],
-    "sha256": "9f06983d9c369d7d11e47965551404754c86e264c9fa73962b6acbcc06ff7018",
+    "sha256": "f9cfa5c9cff2d65a3833a2f975dbd5a84f160356bff1f6e2af19281f158b3930",
     "sha256_original": "1b5fe8f0c9d721b31e902487d1f39f9134683388202b2597d52a0267a6543960"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-operacion-escritorio.webp",
     "vamoa": [],
-    "sha256": "d8f1787761a09ee485fa016261ac8253d75c9472fb002b540db560ae8307dd5e",
+    "sha256": "0af79c69e16b5f31d053d7b06592c63b53169524362a716f31d1f0ddee6c37d7",
     "sha256_original": "ba3c2a9343a67a25bfd24713fe785401520cf14f89a9efeb7fc45d7db9ef78ec"
   },
   {
@@ -3450,19 +3517,19 @@
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-escritorio.webp",
     "vamoa": [],
-    "sha256": "20ce9eb22f7ed103fac0eb53e2c6fdecdf9d9a7470f2eac6fffa6eacab0a7c10",
+    "sha256": "854d858647c2c2721bb94af7cb8f9cca578524061322714b0a0b12bf1003885d",
     "sha256_original": "4e3268be8c7b371ed70af32068b1ce7e099b4a0400f2248112c734172a1f4bc3"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-resumen-movil.webp",
     "vamoa": [],
-    "sha256": "4dac79e5a5e9c711fea3d1c6a45605a4676f064ab117f58143fd2d8ad43115c0",
+    "sha256": "e0596a1f329aac52c34ffb62465be380d7348125bba6e1cb0ff725bf6faa6daf",
     "sha256_original": "39f213197e46eda1f9c27c397ecf536ff3f99d4662b6cbe435ea2d19b53412ea"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-merchants-id-transacciones-escritorio.webp",
     "vamoa": [],
-    "sha256": "6d555ff36710f0a0234fb55d05b2ae8d1e7ad275768c3219d07ffa0ca500d53f",
+    "sha256": "e6654b2bb58aba754935663fd323cf8691ca7994530bcbe274949370f9fab2e3",
     "sha256_original": "658bc367a750d6c1b819d7b26b15e2e91f78cd1782d41e58b1401428e2ccde04"
   },
   {
@@ -3480,25 +3547,26 @@
   {
     "archivo": "assets/web/capturas/admin-admin-movil.webp",
     "vamoa": [],
-    "sha256": "e6a9cf2b9eff70670b03b7d3e31b7e98763ddd675f3c0784e4b987b904520a51",
+    "sha256": "cce45f1ae85024704270097b130bd6682e664994e564a3ee378914587818830a",
     "sha256_original": "7029d27c2517a7ecdb5038f78ac953cb323ef46928d7714303e353ca52807357"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-riesgo-escritorio.webp",
     "vamoa": [],
-    "sha256": "d7eb18f3e12b6fff6b7cfe32658dd60152b7ed19cd82607bcff149f6c3fd2ff9",
+    "sha256": "8d4aab9c2264d06cf1a3c2b32a6b1170b3cd7b610cb8a6ff393d1d37be3632b6",
     "sha256_original": "0f2bad63f29862b50e370863f3852b601117319821600f75cdb8259e5c9b76ec"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-riesgo-movil.webp",
     "vamoa": [],
-    "sha256": "2df242d6b06c30e488d358c1c4e04dc4d82c47430837a49b15ed27eaae231d22",
+    "sha256": "cdf3276edaf6d009e4ebb6648f0d0754cbe42a5a6b3f4824b559327010511353",
     "sha256_original": "1b65b321978bad226172d5f727b2569643f074ca863860477e139af277151318"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-seguridad-escritorio.webp",
     "vamoa": [],
-    "sha256": "e8b8419789a3fdca14aab844bcc8c9fef9506dbd9c542b84766a44d55b09e3ba"
+    "sha256": "01bb0f778eccab0c81081db437e05709706e2faaec49458c98aa58bf963ac918",
+    "sha256_original": "e8b8419789a3fdca14aab844bcc8c9fef9506dbd9c542b84766a44d55b09e3ba"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-seguridad-movil.webp",
@@ -3508,12 +3576,13 @@
   {
     "archivo": "assets/web/capturas/admin-admin-transacciones-escritorio.webp",
     "vamoa": [],
-    "sha256": "b211dfc4b847410dfd9b041164f49ce24ff22cae9234c7c9fc9f2a7e763c0c86"
+    "sha256": "f57aad95be2d7a8b468664ba649665d5d8fecb65471b37784d9f2ddbd095a421",
+    "sha256_original": "b211dfc4b847410dfd9b041164f49ce24ff22cae9234c7c9fc9f2a7e763c0c86"
   },
   {
     "archivo": "assets/web/capturas/admin-admin-transacciones-id-escritorio.webp",
     "vamoa": [],
-    "sha256": "9faa16bd453ee1fccafe81ede12fb3fcce89b7d98eff1b505137c340fcbbe4c4",
+    "sha256": "fcf08c6300d61e1a965519a8a0588c8dfbd3877abc4db84f02da04fa751034bf",
     "sha256_original": "c839c3c0d33b1b724b4160ab34dd107728e827934d8ff39789629d1f9d55d99e"
   },
   {
@@ -3530,7 +3599,8 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-avisos-escritorio.webp",
     "vamoa": [],
-    "sha256": "487e1beafee583617d5f5f1311a60b7fca9656e051acfe14698d5529e1a7f18f"
+    "sha256": "b806f4dfea33e1b355056e76caa8d7facb517a4375cf574dbcb7eeedc9e75042",
+    "sha256_original": "487e1beafee583617d5f5f1311a60b7fca9656e051acfe14698d5529e1a7f18f"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-avisos-movil.webp",
@@ -3540,19 +3610,20 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-devoluciones-escritorio.webp",
     "vamoa": [],
-    "sha256": "e30255359be7a3110b1ce9d3568761e755b784e1302a54568b81ccf9f997440a",
+    "sha256": "5c09919e87d0c85e45b3c21b1f78105543778f615d1ed36e58298a60adbfb067",
     "sha256_original": "df42b3974ad520535a014ebc1b9199348b7b5a7109aa2353954a71e14331ae1b"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-devoluciones-movil.webp",
     "vamoa": [],
-    "sha256": "a37386510d5b07a89b1295b27f672bff2b1a43b98482a8141db6534f28d6ec1d",
+    "sha256": "5e29674d53791991703a1504cddeb164ac904d576dc428d56ed2cd3eff68d3e6",
     "sha256_original": "bebcc83e0e0c8cf4417f7c8c32c3ee830bbaaaa682104674860b35c5ae523483"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-equipo-escritorio.webp",
     "vamoa": [],
-    "sha256": "e293b96a5073b680e178efbbc57bb4b256b991cbbdc1ef0361a3da5659fac62b"
+    "sha256": "f9aa8618163a42f71efce86ffec5af3d7036d900b81ca5629b25c64dd6416dda",
+    "sha256_original": "e293b96a5073b680e178efbbc57bb4b256b991cbbdc1ef0361a3da5659fac62b"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-equipo-movil.webp",
@@ -3562,53 +3633,56 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-escritorio.webp",
     "vamoa": [],
-    "sha256": "c4a4a61433c0391c5b2887235004d61240caacb378e3e073bffddb6e2624ebe0",
+    "sha256": "57cb0130d354403b601889bd3e88394c9f5bb6535faed4b7f99d8ec6284d584a",
     "sha256_original": "66755a012d484b2b7d467fac57cd9ed2afcb5dbddb49e302abcdd08fb36e15a3"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-hoy-escritorio.webp",
     "vamoa": [],
-    "sha256": "d089ef838c0acd60ea0d22e9e3a56669179b70b39f2344bf3b123feaa1ab8008"
+    "sha256": "20f0b106e891872b3111fffdd421b1982f8ea2625860addeae4811d75cd6ba70",
+    "sha256_original": "d089ef838c0acd60ea0d22e9e3a56669179b70b39f2344bf3b123feaa1ab8008"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-hoy-movil.webp",
     "vamoa": [],
-    "sha256": "80d5eff807c72bd5202009fa079334a33840fb089e2b7e7353c99d7aad0bf60c"
+    "sha256": "a181bd7cfd398de5105a34fd0c0763833b7cdd0819ebe481672d238b85624219",
+    "sha256_original": "80d5eff807c72bd5202009fa079334a33840fb089e2b7e7353c99d7aad0bf60c"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-incidencias-escritorio.webp",
     "vamoa": [],
-    "sha256": "8de849016477ac331a3ba9e4c1e2700441c46dae3ce3a4958ee8f2409ac39640",
+    "sha256": "e650dcfe2af80d9081853f7b6193f2d18c681f82d7ffda5e17c548d3a959c047",
     "sha256_original": "d89e543c9c24e7460b94b069d488d6d71daac46468aca096c46ee0e8bae62d6f"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-incidencias-movil.webp",
     "vamoa": [],
-    "sha256": "f7a87c8e069e0c91d3841959552ad795f7ffdbff131f53bf3539261fa972ba33",
+    "sha256": "5fc5f7911204da98bbf4c742f7616650d7a0672621df20908d50a91a16fc5794",
     "sha256_original": "ec8b08a4c5c720f865c236688419c42e0b00b08b9f2b96d772a85c4a9a144339"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-inventario-escritorio.webp",
     "vamoa": [],
-    "sha256": "d825bfc94d98878c9264a88eb1900251556fd9dbaf43ed85e81b4856d48b973c",
+    "sha256": "3fb0264bb54b06aa6dc67a62bd79e1ae169eae15532d204c5739ecdbe700ae7d",
     "sha256_original": "71f037462726fb9d9f3ef65d7189da0665c2ac01b06f300766f8238e2840ca22"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-inventario-movil.webp",
     "vamoa": [],
-    "sha256": "1d53c7b001e5430aab0ca8109023bff39b7919cb829e7d6c1aab349aed9c229d",
+    "sha256": "8d475ab378d69e1eb4240471948b49db50dea1dcc5042ed3a6bed463b982f0ec",
     "sha256_original": "b8c554d5c1c5c8fb85c5e4a36329e5ad1bed32e5355003580a46e4ce07e20210"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-movil.webp",
     "vamoa": [],
-    "sha256": "0af81fa6bccd303937213c9faff855b34ea3ab99745dc9af70276006e78e7374",
+    "sha256": "fd3d2fbf7ce3ef81a4492d988f3c8fbe64a4e5cabaaa7ce257a7eb2f66157f4c",
     "sha256_original": "2edf954ed87e60bde7147f470d4e1710928416d2c70b1563375955035b16d2f1"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-practicar-escritorio.webp",
     "vamoa": [],
-    "sha256": "09168eff968c36dc11b4044565ccf5b5e44666e817781bf76efd87774e8d6de3"
+    "sha256": "9505557f2c9674b5223242249bd5b6843b61824f2cd42145a4111e4999664a77",
+    "sha256_original": "09168eff968c36dc11b4044565ccf5b5e44666e817781bf76efd87774e8d6de3"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-practicar-movil.webp",
@@ -3618,31 +3692,31 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-propinas-escritorio.webp",
     "vamoa": [],
-    "sha256": "b6d769e1e3b42f537e18b43cf4c130d9e56247a28e3d21628381f36e9ad6dcaa",
+    "sha256": "5ff8d94612180f46413fb31021d22030ac349f9b63505331436073ef33d4767d",
     "sha256_original": "779ddcc85d79309ea3541e4a0caebb55b0e6daa76882957a6bd26d58a84c52cf"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-propinas-movil.webp",
     "vamoa": [],
-    "sha256": "d4abfc9dcefbf9cae371768c6e221186304b159a105365e9f39ff44a4edc4fdb",
+    "sha256": "7d76ec3d33165921e631a91ff2f32ff63cc72428ca3a7ce60adde14ccaa247f4",
     "sha256_original": "1c15445cf7a93f623f520812b8b6501ee2d6b81f2a6b03e780dbc396511e4ff2"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-recuperos-escritorio.webp",
     "vamoa": [],
-    "sha256": "29c82ac3dd6a76a41812669fc5adf4e04698528100312201f12979442e2908de",
+    "sha256": "6c1a60be034cd2184a82396778d477f6ac61b0ac0bc308ee443ef06c9d73ecfa",
     "sha256_original": "92af670ea6a78ad5fc182263a056d5ccd725c1e8166f7d1c4363bc51d79b8577"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-recuperos-movil.webp",
     "vamoa": [],
-    "sha256": "2af671ac16c32281408f72a01888f2a652584aeb03c5621cf73d7b28cf55adef",
+    "sha256": "9ae1dd6b2bbcff01bc4a5fd65af598b5c854a6f977e650102221fe659ceb6cb6",
     "sha256_original": "18de3cf95fd2733dbc9d2225e1abf71b5758408ff9601d024cc63dc0923be050"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-resenas-escritorio.webp",
     "vamoa": [],
-    "sha256": "a0e260796994c2ee776a29f8d72daea079f7351a0bd0ae7067eadf61aafabe9c",
+    "sha256": "a7912cb990dedc1959cc147d700b40208b8adb92579138951fa9a5c2b4ba7e4c",
     "sha256_original": "e401d1cfcfdcf712d0aca6162a1c647f8c202f6a6ea9ff24353b91d8e81c58f1"
   },
   {
@@ -3654,23 +3728,36 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-reservas-escritorio.webp",
     "vamoa": [],
-    "sha256": "caa6537ddee4dbeef9e0e1aa99a5323c4ffac5887525ccdb98a15a2a6c73075d"
+    "sha256": "7873dec3d80f0e914900df47e25d8203695a850a0ed4942fcf79a158c6fc14d8",
+    "sha256_original": "caa6537ddee4dbeef9e0e1aa99a5323c4ffac5887525ccdb98a15a2a6c73075d"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-reservas-movil.webp",
     "vamoa": [],
-    "sha256": "e831b3a7a099458770bd548f063026a59936e5d4011d68c4bbf652eb63d015ae"
+    "sha256": "8b9aa7b0290fb769ec803327f471b23cb0190b691c158cba54d0ecd85c185768",
+    "sha256_original": "e831b3a7a099458770bd548f063026a59936e5d4011d68c4bbf652eb63d015ae"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-restaurantes-escritorio.webp",
+    "vamoa": [],
+    "sha256": "adbdaf2b0f7b134df8999f366375519fb9d5be11827b231ea9146a691b80f2c8"
+  },
+  {
+    "archivo": "assets/web/capturas/merchant-merchant-restaurantes-movil.webp",
+    "vamoa": [],
+    "sha256": "2df13e99c6c86c5bcd486e4b3d79f6dc741b9456f04bf03a7a92125eaa9a37ef"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-transacciones-escritorio.webp",
     "vamoa": [],
-    "sha256": "36476cf1096f5386cf7559209bf348469fca80c9fe5f482b500d2deb9a5a69dd",
+    "sha256": "82f3491704848f558ef286bfd4e2005d03ca798675987bfa041b74d3321d6441",
     "sha256_original": "d139b278c1f891af69229b27275104dea72d092e303f73fb0c864b326a4666d8"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-escritorio.webp",
     "vamoa": [],
-    "sha256": "4a61713d475a89ab09bd0d54e275e638b3b0e5be5210bd72380517d580545367"
+    "sha256": "74decb1e9dece765d2204e7e9919ef028253c332d91fbaf32c56e09390ca003d",
+    "sha256_original": "4a61713d475a89ab09bd0d54e275e638b3b0e5be5210bd72380517d580545367"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-transacciones-id-movil.webp",
@@ -3680,13 +3767,13 @@
   {
     "archivo": "assets/web/capturas/merchant-merchant-transacciones-movil.webp",
     "vamoa": [],
-    "sha256": "c375e3c21b3380847baf7b4ff25cbb54760ed016e8893f84003b3847819b670d",
+    "sha256": "283dd56a0ce527749f961f522a1329ebe9c87aac76bdaeaa8b4e24a45a619867",
     "sha256_original": "654ed63253f8b521269aaaf220e9b097c8edc959c93a77b4e1f006eb9dae8440"
   },
   {
     "archivo": "assets/web/capturas/merchant-merchant-transacciones-period-all-view-declined-escritorio.webp",
     "vamoa": [],
-    "sha256": "fdb61f65224d9e0d3cdd764a41b9d45aa706b3f3ae47f4742a0d60ffc0fe92f3",
+    "sha256": "4320661eb9502ce16506d7c40a0f39f44a17b5930fff32b257ba8928ecb67f44",
     "sha256_original": "0fc259f5898fd84c606ddf2c17cd71d3c57b2a0f0b2759b5bf65630e61e342fa"
   },
   {
@@ -3754,7 +3841,7 @@
   {
     "archivo": "assets/web/capturas/publica-escritorio.webp",
     "vamoa": [],
-    "sha256": "38b12d4b2db7c1abd09909ac9852a2bf4adab6e3ea145498e5b70035c7ac1519",
+    "sha256": "a62570b8958b306fe09fa3a71872cf8b6b89813148805f58a45feb6e431317fa",
     "sha256_original": "4167dd2b8cd69e2b529420144d2e9a37c0e8651003885217dac62643d48d2d12"
   },
   {
@@ -3794,41 +3881,43 @@
   {
     "archivo": "assets/web/capturas/publica-movil.webp",
     "vamoa": [],
-    "sha256": "0cfcca34ab90cf70a9a50ed01554ca6e9a562416168123b1b208ea80adf3e479",
+    "sha256": "58ea7823f8d3b4f1be138d0bedabb4af48758fc93ec524255de3eeee2fe04cf9",
     "sha256_original": "ccc03acd29570ba28553962ed41c4bd9572960d014bad7506ebd15bca26b7d8f"
   },
   {
     "archivo": "assets/web/capturas/publica-olvidaste-contrasena-escritorio.webp",
     "vamoa": [],
-    "sha256": "c40f808b5d6a19c8094a63e53f22e0fcc795a92788f6adf22a1988f67631e13e"
+    "sha256": "409255fb1200c4f40bc83e971bf6e005f801556d1564cd466001806274045aa8",
+    "sha256_original": "c40f808b5d6a19c8094a63e53f22e0fcc795a92788f6adf22a1988f67631e13e"
   },
   {
     "archivo": "assets/web/capturas/publica-olvidaste-contrasena-movil.webp",
     "vamoa": [],
-    "sha256": "a65e8cdaa0df64ae2aa026c512e38d73714f22320d4cbe2dec12d24636a72124"
+    "sha256": "e4712ed15d5b31363536a93f2fbaee48275ebea376c8ca100cb3b5ffe6977044",
+    "sha256_original": "a65e8cdaa0df64ae2aa026c512e38d73714f22320d4cbe2dec12d24636a72124"
   },
   {
     "archivo": "assets/web/capturas/publica-privacidad-datos-escritorio.webp",
     "vamoa": [],
-    "sha256": "20305863ab1e8d3bf89d1d2b2ede3e94bca554817a4c33ac807175fb6a4a650b",
+    "sha256": "a53813404257e641fc60908b2c216d531689dc87527c0eb7ddee7a159bb1abb5",
     "sha256_original": "2570312e7eb2f54832ab76898af44155880aaa071fcca62c31eb5887a7fb2c71"
   },
   {
     "archivo": "assets/web/capturas/publica-privacidad-datos-movil.jpg",
     "vamoa": [],
-    "sha256": "b8387dd6d38cb193c09b5584b4294635b6b66a0be01daa62170a45fd266b6565",
+    "sha256": "3a5be14d81f613ec0ed8d3814e6f79ef166183a22920cd3f280ded3f4b3a39b9",
     "sha256_original": "cf0cf31a9b721d0c33c1e0c11887b014f6772248e1000bba0ee54b8b35ac6b03"
   },
   {
     "archivo": "assets/web/capturas/publica-privacidad-escritorio.webp",
     "vamoa": [],
-    "sha256": "5fa234ea6963cff6cb102cecd6b25dd1c49aa91b2427ac9204671a4260ca19d8",
+    "sha256": "70cf057c0256dec178ce02529728ffc3c7fcfebe1ebe9a7894a6712af76411b0",
     "sha256_original": "ef85f6440316f983a19d165c3411671332b3ad5c5ada5c6f6b4e7cb9fac941ff"
   },
   {
     "archivo": "assets/web/capturas/publica-privacidad-movil.jpg",
     "vamoa": [],
-    "sha256": "c047647a1cc3e06e2a6baca164bf45769bb5fd9e14c15dfe81c9cb38f9247843",
+    "sha256": "df65c0b4a239e2ef4a1bb7ce0b7cf2e2d11bb4e7a3f41ffe899e2b1d7f497e3d",
     "sha256_original": "6834fc96e918698747a2419055d3b1f93ee0365147a543b554fca11c1e6e851a"
   },
   {
@@ -3858,13 +3947,13 @@
   {
     "archivo": "assets/web/capturas/publica-restablecer-contrasena-escritorio.webp",
     "vamoa": [],
-    "sha256": "2992ff0961a3f5acb545784bd44c2cab44c70ce0c051a47acc61f35563b0100e",
+    "sha256": "cf3eb40f956671f8615aa1d05f70821f260859ae3a08597cf73f1067afab001d",
     "sha256_original": "e774c36af3ab9a656c7f91d11be604775ebe650bc9fa5f5c62f6787e0bbdb5cb"
   },
   {
     "archivo": "assets/web/capturas/publica-restablecer-contrasena-movil.webp",
     "vamoa": [],
-    "sha256": "ed4ef24562a5503d521e1aa422bc861e8ce0f4e08f11228775681bb144b982cd",
+    "sha256": "c653b5fb52bca6da46050e798804b89c7e43820bde1342d3fdab965d39a96e60",
     "sha256_original": "adfaa33842c046abeadd12fa901a1d906dc4f3f0c98694bf412a0ff577da1781"
   },
   {
@@ -3882,13 +3971,13 @@
   {
     "archivo": "assets/web/capturas/publica-terminos-escritorio.webp",
     "vamoa": [],
-    "sha256": "5ad869bf855112fc1cbfed4f09230c5dd262b94c3fa38d98ed9cc8099ace2f08",
+    "sha256": "5cfac30811305655bae1bb4519e9340f8d1c4b0d84ea7c2b05ea7d393ae5d420",
     "sha256_original": "2f38b6cfaee955845a09924e9154d97cb4f1f695a54fc43f8dd0826f088fb9fb"
   },
   {
     "archivo": "assets/web/capturas/publica-terminos-movil.jpg",
     "vamoa": [],
-    "sha256": "1007868463b4aaa85bdeded6bf25a76805ff174f0c5ba9ac90f736408a76424f",
+    "sha256": "9fc42bd3ff06491cbc00ab4a1adf17f268bf251381097632473d8d93af043740",
     "sha256_original": "c43e2e302e5f2c7b96d3829ceb888e01b855b54e448b70d0f5af2ac8a92077ef"
   },
   {

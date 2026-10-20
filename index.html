@@ -37,13 +37,13 @@
 
       <h1 class="v-style-ad9742ce02bc">Elige el lugar, <span class="v-style-a5bd4ff55684">no la promoción.</span></h1>
       <p class="v-style-7865b271fc9b">Encuentra tus lugares favoritos, paga tu cuenta desde la app y recupera el 20% de lo que pagaste para tu próxima comida.</p>
-      <div class="v-style-edf43a6290b9">
+      <div class="v-lista-form v-style-edf43a6290b9">
         <sc-if value="{{ notJoined }}" hint-placeholder-val="{{ true }}">
           <div class="v-pill v-style-6201765ab4da">
             <div class="v-style-70ce1df5f628"><input id="lista-correo" type="email" autocomplete="email" inputmode="email" aria-label="Tu correo" placeholder="tu@correo.cl" class="v-style-50695e912f5a"></div>
             <button data-vamoa-press="" sc-camel-on-click="{{ join }}" style-hover="background:#23463D" class="v-style-d64a7b039033">Únete a la espera</button>
           </div>
-          <sc-if value="{{ joinError }}" hint-placeholder-val="{{ false }}"><p role="alert" class="v-style-579bc6e8faae">Escribe un correo válido, como nombre@correo.cl.</p></sc-if>
+          <sc-if value="{{ joinError }}" hint-placeholder-val="{{ false }}"><p role="alert" class="v-lista-error v-style-579bc6e8faae">Escribe un correo válido, como nombre@correo.cl.</p></sc-if>
         </sc-if>
         <sc-if value="{{ joined }}" hint-placeholder-val="{{ false }}">
           <div class="v-style-558a56eee4ae"><span class="v-style-28b029aa35c1">check_circle</span>Listo, estás en la lista.</div>
